@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 17 Feb 2025 21:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:04:37 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,23 @@
 
     <!-- RSS Item -->
     <item>
-      <title><![CDATA[Saksoppdatering: **Oppdatering fra Riksarkivet og Statsarkivet i Os...]]></title>
+      <title><![CDATA[Saksoppdatering: **Nyheter fra Riksarkivet og Statsarkivet i Oslo -...]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>447d9f5d-f49b-45ac-a5e3-ab20cc99e1c5</guid>
-      <pubDate>Mon, 17 Feb 2025 21:00:55 GMT</pubDate>
-      <description><![CDATA[**Oppdatering fra Riksarkivet og Statsarkivet i Oslo: En Uke med Aktive Arkivsaker**
+      <guid>8d935a57-d3bc-4117-ac07-879946f21831</guid>
+      <pubDate>Mon, 17 Feb 2025 21:04:37 GMT</pubDate>
+      <description><![CDATA[**Nyheter fra Riksarkivet og Statsarkivet i Oslo - Ukeoversikt**
 
-Oslo, Norge - Riksarkivet og Statsarkivet i Oslo (SAO) har hatt en travel uke med en rekke nye og pågående saker. Til sammen har det blitt opprettet og behandlet over 50 saker som dekker et bredt spekter av temaer, fra landssvik under andre verdenskrig til forespørsler om fødselsattester.
+Denne uken har Riksarkivet og Statsarkivet i Oslo registrert en rekke nye saker, primært fokusert på landssvik, slektsforskning, og historiske dokumentasjoner. 
 
-**Hovedtemaer denne Uken:**
-1. **Landssvik:** Det har vært en merkbar økning i antall saker relatert til landssvik under andre verdenskrig. Både enkeltpersoner og familier søker innsyn i arkivmateriale for å forstå slektskap og historiske handlinger.
-2. **Familiehistorie og Slektssøk:** Mange henvendelser har dreid seg om slektssøk, inkludert fødsels- og dåpsattester, samt detaljer om tidligere generasjoners liv og virke.
-3. **Juridiske Dokumenter:** En rekke saker har fokusert på tilgang til juridiske dokumenter som skilsmissepapirer, straffesaker og eiendomsdokumenter.
+**Landssvik:** En betydelig del av nye henvendelser omhandler forespørsler om landssvik under og etter 2. verdenskrig. Blant annet er det opprettet saker for Hans Yngvar Vigerust (f. 1893) og Alf Andreassen Flesland (f. 1900).
 
-**Fullførte Saker:**
-Riksarkivet og SAO har lykkes med å avslutte flere saker denne uken, inkludert:
-- Forskning på Hovedregisterkort for statsborgerskap relatert til Romuald Süssmann.
-- Innsyn i skattelister for flere personer fra ulike tidsepoker.
-- Klargjøring av landssviksaker som den til Georg Eugen Nielsen og Ole Oddvar Bjerge.
+**Slektsforskning:** Det er fortsatt en sterk interesse for slektsforskning. Blant annet er det startet saker for å undersøke opphold i Sverige etter krigen og slektsopplysninger knyttet til Kjell Erling Ausland (f. 1939).
 
-**Pågående Saker:**
-En del saker krever ytterligere undersøkelser og er fortsatt under behandling, deriblant:
-- Forskerinnsyn i norske kvinners roller i internasjonale militære operasjoner.
-- Detaljerte familiehistorier som involverer krigsbarn og militærtjeneste under krigen.
-- Tilganger til arkiver om medisinsk historie og tidligere eiendomsregister.
+**Historiske dokumenter:** Flere brukere har etterspurt tilgang til historiske dokumenter og arkiver, inkludert skattelister fra Oslo på slutten av 1980-tallet og diverse militære dokumenter.
 
-Riksarkivet og SAO fortsetter å tilby viktig støtte til forskere, slektshistorikere, og offentligheten ved å gi tilgang til Norges rike arkivressurser, og arbeider med å opprettholde en høy grad av service og nøyaktighet i behandlingen av alle saker.
+Saker som er fullført denne uken inkluderer blant annet en sivil sak om Bente Olavsrud i Oslo fra perioden 1991-1995, og forskerinnysyn i Norske kvinner i internasjonale militære operasjoner fra Tyskland.
 
-For mer informasjon om pågående eller fullførte saker, kan interesserte parter kontakte Riksarkivet eller SAO direkte.]]></description>
+Riksarkivet og Statsarkivet i Oslo fortsetter å tilby innsyn og håndtere saker med stor effektivitet og i henhold til gjeldende personvernregler.]]></description>
     </item>
 
   </channel>
