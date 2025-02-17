@@ -2,10 +2,10 @@
   <channel>
     <title>Case Handling Summaries</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-    <description><![CDATA[AI-genererte oppsummeringer av saksbehandling]]></description>
+    <description><![CDATA[ AI-genererte oppsummeringer av saksbehandling ]]></description>
 
     <!-- Required metadata -->
-    <lastBuildDate>Mon, 17 Feb 2025 20:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 20:24:36 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -16,19 +16,21 @@
       <title><![CDATA[Siste oppdatering]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
       <guid isPermaLink="true">https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</guid>
-      <pubDate>Mon, 17 Feb 2025 20:07:18 GMT</pubDate>
+      <pubDate>Mon, 17 Feb 2025 20:24:36 GMT</pubDate>
       <description><![CDATA[
-        **Oppdatering fra Riksarkivet og Statsarkivet i Oslo**
+        **Oppdatering fra Riksarkivet og Statsarkivet i Oslo: Siste Nytt om Saksbehandling**
 
-Denne uken har Riksarkivet og Statsarkivet i Oslo håndtert en rekke ulike forespørsler, med enhetlig fokus på temaer som landssvik, slektsforskning og historiske dokumenter fra 2. verdenskrig. Totalt er det registrert 40 nye saker, hvorav 15 allerede er avsluttet.
+**Oslo/Statsarkivet**, 2023 - Riksarkivet og Statsarkivet i Oslo har håndtert et bredt spekter av forespørsler den siste uken, med et særlig fokus på landssviksaker og slektsforskning.
 
-Blant de mest bemerkelsesverdige forespørslene er flere saker knyttet til landssvik under krigen, inkludert individuelle forespørsler om personer som Hans Yngvar Vigerust og Fritz Julius Gustav Matz. Disse sakene er fortsatt under behandling.
+Flere saker om landssvik fra andre verdenskrig er fortsatt under behandling, inkludert forespørsler knyttet til Hans Yngvar Vigerust, Fritz Julius Gustav Matz og flere andre. Disse sakene viser en økende interesse for Norges historie under og etter krigen.
 
-Statsarkivet i Oslo har også sett en økning i forespørsler om skattelister og sivilrettslige dokumenter, med spesiell interesse i dokumenter fra 1980- og 90-tallet.
+Slektforskning er også et populært tema, med flere nye saker åpnet for å utforske familiehistorikk, inkludert fødsel- og dåpsopplysninger fra forskjellige deler av Norge.
 
-En avsluttet sak av note inkluderer en forespørsel om årsberetninger fra Thorshaug Institutt, datert tilbake til 1915, som ble avsluttet på kort tid.
+Enkelte saker har blitt fullført, som sivilsaken til Bente Olavsrud i Oslo, og forskerinnrettede saker som historien om ordførere i Andenes under krigen.
 
-Riksarkivet og Statsarkivet i Oslo fortsetter å tilby innsyn og støtte til forskere, slektsforskere og allmennheten, og understreker deres rolle i å bevare Norges dokumentariske arv.
+Statsarkivet i Oslo har også vært aktivt med saker som omhandler skattelister og eiendomsdokumenter, som for eksempel tegninger av Røyken kirke fra før 1822.
+
+Samlet viser aktiviteten fra de siste ukene en fortsatt sterk interesse for både historisk og personrettet forskning, og både Riksarkivet og Statsarkivet i Oslo fortsetter å være en viktig ressurs for de som søker innsikt i fortiden.
       ]]></description>
     </item>
 
