@@ -1,12 +1,27 @@
 <rss version="2.0">
   <channel>
     <title>Case Handling Summaries</title>
-    <link>https://yourgithubusername.github.io/rss-feed/newsfeed.xml</link>
+    <link>https://yourcompany.sharepoint.com/sites/news</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
     <item>
-      <title>Velkommen til RSS-feeden</title>
-      <description>Dette er en midlertidig oppføring.</description>
-      <pubDate>2025-02-17T00:00:00Z</pubDate>
+      <title>Siste oppdatering</title>
+      <description>**Nyhetsoppdatering fra Riksarkivet og Statsarkivet i Oslo**
+
+Denne uken har Riksarkivet og Statsarkivet i Oslo behandlet et bredt spekter av forespørsler, med en særlig oppmerksomhet på landssviksaker, historiske forskerspørsmål og personlige dokumenter som fødsels- og dåpsattester.
+
+**Populære emner og fullførte saker:**
+- **Landssvik:** Det har vært en markant økning i henvendelser knyttet til landssvik under andre verdenskrig, inkludert saker om individer som Hans Yngvar Vigerust og Fritz Julius Gustav Matz. 
+- **Historisk forskning:** Forskere har fortsatt å søke innsyn i spesifikke historiske dokumenter, blant annet dekningen av landsvikoppgjøret etter krigen og behandlingen av tyskerjenter i Asker, Røyken og Hurum.
+- **Personlige dokumenter:** Det har vært mange forespørsler om fødsels- og dåpsattester, samt eiendomsdokumenter og familiehistorie.
+
+**Aktivitetsoversikt:**
+- Siden forrige uke har Statsarkivet i Oslo og Riksarkivet mottatt og behandlet over 50 nye saker. Flere saker, inkludert de om skattelister og fødselsdokumenter, har blitt fullført.
+
+**Avsluttende merknader:**
+- Arkivene fortsetter å være en vital ressurs for historisk forskning og personlig dokumentasjon. De arbeider aktivt med å håndtere alle forespørsler med den høyeste grad av profesjonalitet og effektivitet.
+
+For mer informasjon eller for å sende inn en forespørsel, besøk Riksarkivet eller Statsarkivet i Oslos offisielle nettsider.</description>
+      <pubDate>2025-02-17T19:29:02.4054887Z</pubDate>
     </item>
   </channel>
 </rss>
