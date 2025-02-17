@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 17 Feb 2025 20:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,25 +11,34 @@
 
     <!-- RSS Item -->
     <item>
-      <title><![CDATA[Saksoppdatering: **RSS-feed: Oppdateringer fra Riksarkivet og Stats...]]></title>
+      <title><![CDATA[Saksoppdatering: **Oppdatering fra Riksarkivet og Statsarkivet i Os...]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>55ef73f1-9786-4e35-9665-2ddabebf9b64</guid>
-      <pubDate>Mon, 17 Feb 2025 20:45:02 GMT</pubDate>
-      <description><![CDATA[**RSS-feed: Oppdateringer fra Riksarkivet og Statsarkivet i Oslo**
+      <guid>447d9f5d-f49b-45ac-a5e3-ab20cc99e1c5</guid>
+      <pubDate>Mon, 17 Feb 2025 21:00:55 GMT</pubDate>
+      <description><![CDATA[**Oppdatering fra Riksarkivet og Statsarkivet i Oslo: En Uke med Aktive Arkivsaker**
 
-**Oslo, 18. februar 2025** – Den siste uken har vært travel for både Riksarkivet og Statsarkivet i Oslo med flere nye forespørsler og avsluttede saker. Her er en rask gjennomgang av noen av de mest interessante sakene:
+Oslo, Norge - Riksarkivet og Statsarkivet i Oslo (SAO) har hatt en travel uke med en rekke nye og pågående saker. Til sammen har det blitt opprettet og behandlet over 50 saker som dekker et bredt spekter av temaer, fra landssvik under andre verdenskrig til forespørsler om fødselsattester.
 
-1. **Landssvik under lupen**: Flere etterforskninger om landssvik fra andre verdenskrig fortsetter å vekke interesse, med nye saker som omhandler individer født tidlig på 1900-tallet. Disse sakene er fortsatt under behandling og viser en bred offentlig interesse for Norges krigshistorie.
+**Hovedtemaer denne Uken:**
+1. **Landssvik:** Det har vært en merkbar økning i antall saker relatert til landssvik under andre verdenskrig. Både enkeltpersoner og familier søker innsyn i arkivmateriale for å forstå slektskap og historiske handlinger.
+2. **Familiehistorie og Slektssøk:** Mange henvendelser har dreid seg om slektssøk, inkludert fødsels- og dåpsattester, samt detaljer om tidligere generasjoners liv og virke.
+3. **Juridiske Dokumenter:** En rekke saker har fokusert på tilgang til juridiske dokumenter som skilsmissepapirer, straffesaker og eiendomsdokumenter.
 
-2. **Slektshistoriske forespørsler**: Slektsforskere har vært aktive med flere forespørsler om fødsels- og dåpsattester fra midten av 1900-tallet, spesielt fra områder rundt Oslo og Halden. Disse søknadene er populære for de som ønsker å kartlegge familiehistorien sin.
+**Fullførte Saker:**
+Riksarkivet og SAO har lykkes med å avslutte flere saker denne uken, inkludert:
+- Forskning på Hovedregisterkort for statsborgerskap relatert til Romuald Süssmann.
+- Innsyn i skattelister for flere personer fra ulike tidsepoker.
+- Klargjøring av landssviksaker som den til Georg Eugen Nielsen og Ole Oddvar Bjerge.
 
-3. **Fokus på historisk forskning**: Det er en økende trend i forespørsler om forskerinnsyn, spesielt knyttet til temaer som norske kvinner i internasjonale militære operasjoner og behandlingen av tyskerjenter etter krigen. Disse sakene understreker et fortsatt engasjement i å utforske og forstå mindre belyste aspekter av norsk historie.
+**Pågående Saker:**
+En del saker krever ytterligere undersøkelser og er fortsatt under behandling, deriblant:
+- Forskerinnsyn i norske kvinners roller i internasjonale militære operasjoner.
+- Detaljerte familiehistorier som involverer krigsbarn og militærtjeneste under krigen.
+- Tilganger til arkiver om medisinsk historie og tidligere eiendomsregister.
 
-4. **Juridiske dokumenter fra fortiden**: Enkelte saker har omhandlet tilgang til eldre juridiske dokumenter, inkludert ektepakter og høringsdokumenter for forskriftsarbeid. Disse forespørslene viser behovet for historisk kontekst i juridiske og reguleringsmessige diskusjoner.
+Riksarkivet og SAO fortsetter å tilby viktig støtte til forskere, slektshistorikere, og offentligheten ved å gi tilgang til Norges rike arkivressurser, og arbeider med å opprettholde en høy grad av service og nøyaktighet i behandlingen av alle saker.
 
-5. **Avsluttede saker**: Blant de avsluttede sakene denne uken finner vi forskjellige temaer fra statsborgerskap til slektsforskning, hvor saksbehandlere har klart å gi svar på brukernes henvendelser effektivt og tilfredsstillende.
-
-Riksarkivet og Statsarkivet i Oslo fortsetter å være viktige ressurser for både forskere og allmennheten som søker innsikt i Norges rike historie og arv.]]></description>
+For mer informasjon om pågående eller fullførte saker, kan interesserte parter kontakte Riksarkivet eller SAO direkte.]]></description>
     </item>
 
   </channel>
