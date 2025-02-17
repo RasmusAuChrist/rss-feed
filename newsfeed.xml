@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Case Handling Summaries</title>
+    <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-    <description><![CDATA[ AI-genererte oppsummeringer av saksbehandling ]]></description>
-
-    <!-- Required metadata -->
-    <lastBuildDate>Mon, 17 Feb 2025 20:24:36 GMT</lastBuildDate>
+    <description>AI-genererte oppsummeringer av saksbehandling</description>
+    <lastBuildDate>Mon, 17 Feb 2025 20:45:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,25 +11,25 @@
 
     <!-- RSS Item -->
     <item>
-      <title><![CDATA[Siste oppdatering]]></title>
+      <title><![CDATA[Saksoppdatering: **RSS-feed: Oppdateringer fra Riksarkivet og Stats...]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid isPermaLink="true">https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</guid>
-      <pubDate>Mon, 17 Feb 2025 20:24:36 GMT</pubDate>
-      <description><![CDATA[
-        **Oppdatering fra Riksarkivet og Statsarkivet i Oslo: Siste Nytt om Saksbehandling**
+      <guid>55ef73f1-9786-4e35-9665-2ddabebf9b64</guid>
+      <pubDate>Mon, 17 Feb 2025 20:45:02 GMT</pubDate>
+      <description><![CDATA[**RSS-feed: Oppdateringer fra Riksarkivet og Statsarkivet i Oslo**
 
-**Oslo/Statsarkivet**, 2023 - Riksarkivet og Statsarkivet i Oslo har håndtert et bredt spekter av forespørsler den siste uken, med et særlig fokus på landssviksaker og slektsforskning.
+**Oslo, 18. februar 2025** – Den siste uken har vært travel for både Riksarkivet og Statsarkivet i Oslo med flere nye forespørsler og avsluttede saker. Her er en rask gjennomgang av noen av de mest interessante sakene:
 
-Flere saker om landssvik fra andre verdenskrig er fortsatt under behandling, inkludert forespørsler knyttet til Hans Yngvar Vigerust, Fritz Julius Gustav Matz og flere andre. Disse sakene viser en økende interesse for Norges historie under og etter krigen.
+1. **Landssvik under lupen**: Flere etterforskninger om landssvik fra andre verdenskrig fortsetter å vekke interesse, med nye saker som omhandler individer født tidlig på 1900-tallet. Disse sakene er fortsatt under behandling og viser en bred offentlig interesse for Norges krigshistorie.
 
-Slektforskning er også et populært tema, med flere nye saker åpnet for å utforske familiehistorikk, inkludert fødsel- og dåpsopplysninger fra forskjellige deler av Norge.
+2. **Slektshistoriske forespørsler**: Slektsforskere har vært aktive med flere forespørsler om fødsels- og dåpsattester fra midten av 1900-tallet, spesielt fra områder rundt Oslo og Halden. Disse søknadene er populære for de som ønsker å kartlegge familiehistorien sin.
 
-Enkelte saker har blitt fullført, som sivilsaken til Bente Olavsrud i Oslo, og forskerinnrettede saker som historien om ordførere i Andenes under krigen.
+3. **Fokus på historisk forskning**: Det er en økende trend i forespørsler om forskerinnsyn, spesielt knyttet til temaer som norske kvinner i internasjonale militære operasjoner og behandlingen av tyskerjenter etter krigen. Disse sakene understreker et fortsatt engasjement i å utforske og forstå mindre belyste aspekter av norsk historie.
 
-Statsarkivet i Oslo har også vært aktivt med saker som omhandler skattelister og eiendomsdokumenter, som for eksempel tegninger av Røyken kirke fra før 1822.
+4. **Juridiske dokumenter fra fortiden**: Enkelte saker har omhandlet tilgang til eldre juridiske dokumenter, inkludert ektepakter og høringsdokumenter for forskriftsarbeid. Disse forespørslene viser behovet for historisk kontekst i juridiske og reguleringsmessige diskusjoner.
 
-Samlet viser aktiviteten fra de siste ukene en fortsatt sterk interesse for både historisk og personrettet forskning, og både Riksarkivet og Statsarkivet i Oslo fortsetter å være en viktig ressurs for de som søker innsikt i fortiden.
-      ]]></description>
+5. **Avsluttede saker**: Blant de avsluttede sakene denne uken finner vi forskjellige temaer fra statsborgerskap til slektsforskning, hvor saksbehandlere har klart å gi svar på brukernes henvendelser effektivt og tilfredsstillende.
+
+Riksarkivet og Statsarkivet i Oslo fortsetter å være viktige ressurser for både forskere og allmennheten som søker innsikt i Norges rike historie og arv.]]></description>
     </item>
 
   </channel>
