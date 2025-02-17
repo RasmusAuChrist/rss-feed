@@ -1,27 +1,45 @@
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Case Handling Summaries</title>
-    <link>https://yourcompany.sharepoint.com/sites/news</link>
-    <description>AI-genererte oppsummeringer av saksbehandling</description>
+    <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
+    <description><![CDATA[AI-genererte oppsummeringer av saksbehandling]]></description>
+
+    <!-- Required metadata -->
+    <lastBuildDate>2025-02-17T19:51:15.6493100Z</lastBuildDate>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <generator>GitHub Pages RSS Generator</generator>
+    <copyright>© Riksarkivet</copyright>
+    <atom:link href="https://rasmusauchrist.github.io/rss-feed/newsfeed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- RSS Item -->
     <item>
-      <title>Siste oppdatering</title>
-      <description>**Nyhetsoppdatering fra Riksarkivet og Statsarkivet i Oslo**
+      <title><![CDATA[Siste oppdatering]]></title>
+      <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
+      <guid isPermaLink="true">https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</guid>
+      <pubDate>2025-02-17T19:51:15.6493145Z</pubDate>
+      <description><![CDATA[
+        **Nyhetsoppdatering fra Riksarkivet og Statsarkivet i Oslo**
 
-Denne uken har Riksarkivet og Statsarkivet i Oslo behandlet et bredt spekter av forespørsler, med en særlig oppmerksomhet på landssviksaker, historiske forskerspørsmål og personlige dokumenter som fødsels- og dåpsattester.
+Den siste uken har Riksarkivet og Statsarkivet i Oslo behandlet en rekke forespørsler om innsyn og dokumentasjon. Totalt er det opprettet 80 nye saker, med temaer spennende fra slektshistorie til landssvik under andre verdenskrig.
 
-**Populære emner og fullførte saker:**
-- **Landssvik:** Det har vært en markant økning i henvendelser knyttet til landssvik under andre verdenskrig, inkludert saker om individer som Hans Yngvar Vigerust og Fritz Julius Gustav Matz. 
-- **Historisk forskning:** Forskere har fortsatt å søke innsyn i spesifikke historiske dokumenter, blant annet dekningen av landsvikoppgjøret etter krigen og behandlingen av tyskerjenter i Asker, Røyken og Hurum.
-- **Personlige dokumenter:** Det har vært mange forespørsler om fødsels- og dåpsattester, samt eiendomsdokumenter og familiehistorie.
+**Populære emner for forespørsler inkluderer:**
+- Landssviksaker, som dominerer med over 15 nye saker.
+- Forespørsler om fødsels- og dåpsattester fra Oslo og omliggende områder.
+- Innsyn i skattelister og historiske dokumenter relatert til eiendommer.
 
-**Aktivitetsoversikt:**
-- Siden forrige uke har Statsarkivet i Oslo og Riksarkivet mottatt og behandlet over 50 nye saker. Flere saker, inkludert de om skattelister og fødselsdokumenter, har blitt fullført.
+**Avsluttede saker:**
+- Et betydelig antall saker har blitt fullført, inkludert dokumentasjon på eiendomsrettigheter og arkivsøk i Justisdepartementets dokumenter.
 
-**Avsluttende merknader:**
-- Arkivene fortsetter å være en vital ressurs for historisk forskning og personlig dokumentasjon. De arbeider aktivt med å håndtere alle forespørsler med den høyeste grad av profesjonalitet og effektivitet.
+**Interessante enkeltsaker:**
+- En sak om forskerinnsyn i dekningen av landsvikoppgjøret etter krigen har vekt betydelig interesse.
+- Flere forespørsler om slektsopplysninger for personer født tidlig på 1900-tallet, med spesiell interesse for deres aktiviteter og opphold under og etter krigen.
 
-For mer informasjon eller for å sende inn en forespørsel, besøk Riksarkivet eller Statsarkivet i Oslos offisielle nettsider.</description>
-      <pubDate>2025-02-17T19:29:02.4054887Z</pubDate>
+**Generelt:**
+- Statsarkivet i Oslo har håndtert flere saker angående personopplysninger som fødselsregistreringer og statsborgerskap fra perioden 1980-2000.
+
+Arkivene fortsetter å være en essensiell ressurs for historisk forskning og personlig dokumentasjon, og opplever jevn trafikk fra både privatpersoner og forskere.
+      ]]></description>
     </item>
+
   </channel>
 </rss>
