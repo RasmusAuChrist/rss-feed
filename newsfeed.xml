@@ -1,0 +1,12 @@
+<rss version="2.0">
+  <channel>
+    <title>Case Handling Summaries</title>
+    <link>https://yourgithubusername.github.io/rss-feed/newsfeed.xml</link>
+    <description>AI-genererte oppsummeringer av saksbehandling</description>
+    <item>
+      <title>Velkommen til RSS-feeden</title>
+      <description>Dette er en midlertidig oppføring.</description>
+      <pubDate>2025-02-17T00:00:00Z</pubDate>
+    </item>
+  </channel>
+</rss>
