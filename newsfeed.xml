@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 17 Feb 2025 21:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:20:36 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,17 +13,9 @@
     <item>
       <title><![CDATA[Nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>ee9e080d-c77c-48a9-843f-724db6cdd8b9</guid>
-      <pubDate>Mon, 17 Feb 2025 21:12:19 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo (SAO) behandlet en rekke ulike saker. Saker om landssvik dominerer, med flere forespørsler om innsyn i arkiver knyttet til personer født tidlig i 1900-tallet. Blant annet er det opprettet saker for Hans Yngvar Vigerust og Sofie Vigerust, samt flere andre enkeltpersoner mistenkt for landssvik under og etter 2. verdenskrig.
-
-I tillegg er det stor aktivitet rundt slektsforskning og historiske opplysninger om enkeltpersoner og eiendommer. Flere brukere har etterspurt dokumenter om slektninger, fødsels- og dåpsattester, samt detaljer om eiendomshistorikk. For eksempel har brukere søkt informasjon om foreldre og deres aktiviteter, som oppholdssted i Sverige etter krigen, eller detaljer om eiendomstransaksjoner og arkitektoniske tegninger fra tidligere århundrer.
-
-Statsarkivet i Oslo har også behandlet saker relatert til skattelister, straffesaker og sivilsaker fra de senere tiår. Spesielt er det etterspurt innsyn i dokumenter fra 1980-tallet og 1990-tallet, inkludert skattelister og domstolsbehandling av sivile saker.
-
-Det har også vært en rekke forespørsler om forskerinnhenting, hvor akademikere og historikere ønsker tilgang til spesifikke dokumenter for deres studier, inkludert dekning av landssvikoppgjøret og andre sensitive temaer fra Norges nyere historie.
-
-I sum viser aktiviteten til Riksarkivet og SAO en vedvarende interesse for Norges historiske dokumenter og arkiver, som spenner fra personlig slektsforskning til akademisk forskning.]]></description>
+      <guid>79b46257-b9b9-4f76-ae75-8de2b7371b2b</guid>
+      <pubDate>Mon, 17 Feb 2025 21:20:36 GMT</pubDate>
+      <description><![CDATA[Siste uke har Riksarkivet og Statsarkivet i Oslo mottatt flere henvendelser, spesielt knyttet til landssvik under andre verdenskrig og slektsforskning. Blant de utestående sakene er flere forespørsler om innsyn i dokumentasjon på landssvik, deriblant saker om Hans Yngvar Vigerust og Fritz Julius Gustav Matz. Det er også interesse for skattelister og fødsels- og dåpsregistre fra ulike perioder. En sak om sivilrettslig dokumentasjon fra 90-tallet ble avsluttet, og det er fortsatt stor etterspørsel etter historisk informasjon om både enkeltpersoner og eiendommer. Totalt er mange saker fortsatt under behandling, og nye forespørsler kommer inn kontinuerlig.]]></description>
     </item>
 
   </channel>
