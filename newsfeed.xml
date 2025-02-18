@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 18 Feb 2025 10:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 12:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>717f41e4-ecb1-4d80-a2de-6e1c6d35eb19</guid>
-      <pubDate>Tue, 18 Feb 2025 10:01:11 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo (SAO) behandlet en rekke henvendelser, med særlig fokus på landssviksaker og personhistoriske dokumenter som fødsels- og dåpsattester. Flere saker omhandler forskerinnhenting av informasjon om blant annet norske kvinner i internasjonale militære operasjoner og behandling av tyskerjenter etter krigen. I tillegg er det en vedvarende interesse for slektsforskning med forespørsler om innsyn i diverse arkiver og registre. Totalt er 15 saker avsluttet, mens mange fortsatt er under behandling, noe som understreker et høyt aktivitetsnivå og en bredde i temaene som dekkes av arkivene.]]></description>
+      <guid>454225fb-3c39-4456-a122-69b5ec1b6fdf</guid>
+      <pubDate>Tue, 18 Feb 2025 12:00:55 GMT</pubDate>
+      <description><![CDATA[Denne uken har Riksarkivet og Statsarkivet i Oslo (SAO) behandlet flere saker relatert til landssvik, fødsels- og dåpsattester samt historisk forskning. Populære temaer inkluderer innsyn i militære rulleblader og arkivsøk rundt norske internasjonale militære operasjoner. Totalt ble 22 saker avsluttet, mens nye henvendelser fortsatt kommer inn. Interessant faktum: Landssviksaker dominerer fortsatt blant de mest forespurte dokumentene.]]></description>
     </item>
 
   </channel>
