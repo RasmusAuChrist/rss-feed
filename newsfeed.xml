@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 18 Feb 2025 12:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 14:00:54 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>454225fb-3c39-4456-a122-69b5ec1b6fdf</guid>
-      <pubDate>Tue, 18 Feb 2025 12:00:55 GMT</pubDate>
-      <description><![CDATA[Denne uken har Riksarkivet og Statsarkivet i Oslo (SAO) behandlet flere saker relatert til landssvik, fødsels- og dåpsattester samt historisk forskning. Populære temaer inkluderer innsyn i militære rulleblader og arkivsøk rundt norske internasjonale militære operasjoner. Totalt ble 22 saker avsluttet, mens nye henvendelser fortsatt kommer inn. Interessant faktum: Landssviksaker dominerer fortsatt blant de mest forespurte dokumentene.]]></description>
+      <guid>051b7642-bbf7-42bf-99c4-c78f55b10eac</guid>
+      <pubDate>Tue, 18 Feb 2025 14:00:54 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo håndtert en rekke forespørsler, spesielt mange knyttet til landssvik under krigen og dokumentasjon av fødsel og dåp. Totalt er 12 saker avsluttet, mens flere andre fortsatt er under behandling. Populære temaer inkluderer også militære rulleblad, statsborgerskap og arkivsøk i offentlige dokumenter. Interessen for historisk forskning og personlig dokumentasjon holder seg sterk.]]></description>
     </item>
 
   </channel>
