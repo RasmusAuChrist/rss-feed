@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 11:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:00:44 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>d60bf1aa-7024-41e9-b2fc-f25905294d2b</guid>
-      <pubDate>Wed, 19 Feb 2025 11:41:56 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt flere interessante saker. Blant annet er det registrert flere landssviksaker og forespørsler om innsyn i historiske dokumenter. Totalt er det opprettet og delvis avsluttet over 30 saker knyttet til temaer som dødsfall og skifte, historisk forskning og kopibestillinger av arkivmateriale. Populære emner inkluderer også slektsforskning og forespørsler om statsborgerskap. Saksbehandlingstiden varierer, med noen saker løst innen en dag, mens andre fortsatt er under behandling.]]></description>
+      <guid>13dbf895-0398-497e-a8d1-a2cc1d1dc6b1</guid>
+      <pubDate>Wed, 19 Feb 2025 12:00:44 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo (SAO) håndtert flere interessante saker. Blant annet har det vært forespørsler om kopibestillinger av historiske dokumenter, inkludert arkitekturtegninger fra Oslo hospital datert tilbake til 1736, som ble behandlet og avsluttet innen to dager. En annen sak omhandler landssvik under andre verdenskrig, hvor flere saker ble opprettet og avsluttet raskt, demonstrerende effektiviteten i behandlingen av historiske juridiske dokumenter. Videre viser arkivene en bredde i henvendelser fra slektsforskning til spesifikke historiske hendelser som reindrift og fartøyhistorikk. Totalt er det blitt håndtert betydelige mengder forespørsler, hvorav mange er ferdigstilt innen en uke.]]></description>
     </item>
 
   </channel>
