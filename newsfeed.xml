@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 06:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 08:00:58 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>bc99b6fa-79ea-4b1a-a926-0244bd0f5cb8</guid>
-      <pubDate>Wed, 19 Feb 2025 06:00:48 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo behandlet et bredt spekter av saker, fra landssvik til statsborgerskap og historisk forskning. Populære temaer inkluderer innsyn i militære og historiske arkiver, samt etterspørsel etter diverse attester. Totalt har 16 saker blitt avsluttet, mens flere fortsatt er under behandling. Interessant nok vises en økning i forespørsler knyttet til landssviksaker fra 2. verdenskrig.]]></description>
+      <guid>74ed5840-582e-4192-943d-87019a3e3b93</guid>
+      <pubDate>Wed, 19 Feb 2025 08:00:58 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke henvendelser, inkludert forespørsler om landssvik, skifte etter dødsfall, og kopibestillinger av historiske dokumenter. Populære temaer inkluderer arkivsøk i forbindelse med andre verdenskrig, slektsforskning, og tilgang til historiske registre. Totalt er det opprettet og delvis avsluttet et betydelig antall saker, med detaljer om alt fra arkitekturtegninger til opplysninger om utvandrede ektepar. Interessante henvendelser inkluderer blant annet transport av en granittstatue fra Norge til Cape Town i 1906 og innsyn i mannskapslister fra 1972.]]></description>
     </item>
 
   </channel>
