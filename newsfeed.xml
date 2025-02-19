@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 10:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 11:41:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>ae9429fd-abbb-4d22-8f90-8eee24f2f1cb</guid>
-      <pubDate>Wed, 19 Feb 2025 10:00:54 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo behandlet en rekke henvendelser. Populære temaer inkluderer landssviksaker, slektsforskning og historiske dokumenter. Totalt ble over 30 saker avsluttet, inkludert forskning om norske kvinner i internasjonale militære operasjoner og en straffesak fra 1906 i Kristiania. Interessante forespørsler inkluderer også arkivsøk om fartøyhistorikk og kopibestillinger for gamle arkitekturtegninger.]]></description>
+      <guid>d60bf1aa-7024-41e9-b2fc-f25905294d2b</guid>
+      <pubDate>Wed, 19 Feb 2025 11:41:56 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt flere interessante saker. Blant annet er det registrert flere landssviksaker og forespørsler om innsyn i historiske dokumenter. Totalt er det opprettet og delvis avsluttet over 30 saker knyttet til temaer som dødsfall og skifte, historisk forskning og kopibestillinger av arkivmateriale. Populære emner inkluderer også slektsforskning og forespørsler om statsborgerskap. Saksbehandlingstiden varierer, med noen saker løst innen en dag, mens andre fortsatt er under behandling.]]></description>
     </item>
 
   </channel>
