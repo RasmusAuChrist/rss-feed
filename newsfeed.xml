@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 14:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 14:02:23 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,15 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>3864461e-259e-4ab9-8190-0c24af381d06</guid>
-      <pubDate>Wed, 19 Feb 2025 14:00:48 GMT</pubDate>
-      <description><![CDATA[1. Riksarkivet og Statsarkivet i Oslo har behandlet flere saker om landssvik, inkludert arkivsøk for personer født tidlig på 1900-tallet. Flere saker er fullført denne uken.
-
-2. En rekke forespørsler om kopibestillinger, blant annet arkitekturtegninger og historiske dokumenter, har blitt effektivt behandlet og fullført innen et døgn.
-
-3. Saksbehandlingen for dokumenter knyttet til dødsfall og skifte viser en varierende grad av gjennomføringstid, med noen saker som fortsatt er under behandling.
-
-4. Forskningsrelaterte henvendelser og forespørsler om innsyn i historiske registre og dokumenter om norske militære operasjoner og landssvik under krigen er populære emner denne uken.]]></description>
+      <guid>75e561c4-eb4b-4218-abbf-852549ad1d2b</guid>
+      <pubDate>Wed, 19 Feb 2025 14:02:23 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo registrert en rekke nye saker. Populære temaer inkluderer landssvik, dødsfall/skifter og historiske dokumenter som fødsels- og dåpsattester. Totalt er det opprettet og avsluttet flere saker, med en bemerkelsesverdig effektivitet i saksbehandlingen. Interessant nok inneholder arkivene detaljerte forespørsler om alt fra arkitekturtegninger til personlige historiske dokumenter og forskerinnsyn, noe som understreker arkivenes bredde og betydning for historisk og genealogisk forskning.]]></description>
     </item>
 
   </channel>
