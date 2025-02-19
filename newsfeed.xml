@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 14:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 14:09:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>75e561c4-eb4b-4218-abbf-852549ad1d2b</guid>
-      <pubDate>Wed, 19 Feb 2025 14:02:23 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo registrert en rekke nye saker. Populære temaer inkluderer landssvik, dødsfall/skifter og historiske dokumenter som fødsels- og dåpsattester. Totalt er det opprettet og avsluttet flere saker, med en bemerkelsesverdig effektivitet i saksbehandlingen. Interessant nok inneholder arkivene detaljerte forespørsler om alt fra arkitekturtegninger til personlige historiske dokumenter og forskerinnsyn, noe som understreker arkivenes bredde og betydning for historisk og genealogisk forskning.]]></description>
+      <guid>5b1689ef-e06b-490c-8bdb-0f473969965e</guid>
+      <pubDate>Wed, 19 Feb 2025 14:09:21 GMT</pubDate>
+      <description><![CDATA[Denne uken i Riksarkivet og Statsarkivet i Oslo har det blitt behandlet en rekke saker, inkludert fullføring av etterforskning av landssvik fra 2. verdenskrig og forespørsler om kopibestillinger av historiske dokumenter. Flere saker om skifte etter dødsfall er mottatt, men ikke fullført. Det er også flere uavklarte henvendelser angående opplysninger om utvandrede personer og historiske eiendomsdokumenter. Saksbehandlingen fortsetter på flere forespørsler om innsyn i arkiver relatert til både verdenskrigshistorie og personlige dokumenter som fødsels- og dåpsattester.]]></description>
     </item>
 
   </channel>
