@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Feb 2025 14:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 14:11:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>5b1689ef-e06b-490c-8bdb-0f473969965e</guid>
-      <pubDate>Wed, 19 Feb 2025 14:09:21 GMT</pubDate>
-      <description><![CDATA[Denne uken i Riksarkivet og Statsarkivet i Oslo har det blitt behandlet en rekke saker, inkludert fullføring av etterforskning av landssvik fra 2. verdenskrig og forespørsler om kopibestillinger av historiske dokumenter. Flere saker om skifte etter dødsfall er mottatt, men ikke fullført. Det er også flere uavklarte henvendelser angående opplysninger om utvandrede personer og historiske eiendomsdokumenter. Saksbehandlingen fortsetter på flere forespørsler om innsyn i arkiver relatert til både verdenskrigshistorie og personlige dokumenter som fødsels- og dåpsattester.]]></description>
+      <guid>a379c4c5-84cf-4f07-aa91-ccae3a94e639</guid>
+      <pubDate>Wed, 19 Feb 2025 14:11:56 GMT</pubDate>
+      <description><![CDATA[Saker behandlet ved Riksarkivet og Statsarkivet i Oslo inkluderer en rekke forespørsler om landssvik, dødsfall, og historiske dokumenter. Blant de fullførte sakene er behandling av landssviksaker fra 1890-tallet og oppover, samt flere forespørsler om fødsels- og dåpsattester for personer født i Oslo og omegn. Flere kopibestillinger og arkivsøk er også avsluttet, inkludert saker knyttet til eiendomsdokumenter, krigshistorie og slektsforskning. En rekke saker omhandler fortsatt arbeid med dokumentasjon på statsborgerskap, farskap og historisk forskerinnnsyn, og er ennå ikke fullført.]]></description>
     </item>
 
   </channel>
