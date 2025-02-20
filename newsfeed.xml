@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 20 Feb 2025 10:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>9d366675-aaa3-442b-bae5-8307a5558666</guid>
-      <pubDate>Thu, 20 Feb 2025 10:14:56 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker, hovedsakelig om landssvik, slektshistorie og offentlige arkivsøk. Blant sakene som er behandlet, er flere forespørsler om landssvik under og etter krigen, hvorav noen er avsluttet, mens andre fortsatt pågår. Flere innbyggere har også søkt om innsyn i slektsinformasjon, militære rulleblad, og historiske dokumenter om Norges eksport av statuer og arkitekturtegninger. Saker om statsborgerskap, farskap og eiendomsinformasjon er også rapportert. Alle saker som ikke er fullført, venter fortsatt på videre behandling eller informasjon.]]></description>
+      <guid>3e4c2d4e-2a58-4119-a9a5-cd5e20b6566c</guid>
+      <pubDate>Thu, 20 Feb 2025 12:01:09 GMT</pubDate>
+      <description><![CDATA[Denne uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant dem er flere landssviksaker, inkludert etterforskninger om personer født tidlig på 1900-tallet. Det er også undersøkelser om slektsforskning, som involverer personer født på ulike tidspunkter og steder, fra Oslo til Bergen-Belsen. Andre henvendelser inkluderer forespørsler om fartstid under krigen, militært rulleblad, statsborgerskap, og historiske dokumenter som årsberetninger og arkitekturtegninger. Flere saker omfatter også juridiske dokumenter som dåps- og fødselsattester, samt eiendomsrelaterte dokumentasjoner. Alle disse sakene er fortsatt under behandling og reflekterer en bred variasjon i arkivforespørsler.]]></description>
     </item>
 
   </channel>
