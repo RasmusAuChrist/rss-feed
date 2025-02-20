@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 20 Feb 2025 06:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 10:14:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>111abece-fb67-4816-a500-e8d3dbce696f</guid>
-      <pubDate>Thu, 20 Feb 2025 06:01:14 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke ulike saker som dekker et bredt spekter av temaer som landssvik, slektshistorie, statsborgerskap, og eiendomsinformasjon. Blant sakene finnes undersøkelser av fartstid under krigen, faglig innsyn i historiske dokumenter, og detaljert gjennomgang av diverse landssviksaker fra andre verdenskrig. Flere saker omhandler også innsyn i militære rulleblader og historisk statistikk. Disse henvendelsene viser et fortsatt høyt engasjement i Norges historiske og personlige arkiver. Alle saker er per nå ikke avsluttet, og arbeidet med dokumentasjon og saksbehandling pågår.]]></description>
+      <guid>9d366675-aaa3-442b-bae5-8307a5558666</guid>
+      <pubDate>Thu, 20 Feb 2025 10:14:56 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker, hovedsakelig om landssvik, slektshistorie og offentlige arkivsøk. Blant sakene som er behandlet, er flere forespørsler om landssvik under og etter krigen, hvorav noen er avsluttet, mens andre fortsatt pågår. Flere innbyggere har også søkt om innsyn i slektsinformasjon, militære rulleblad, og historiske dokumenter om Norges eksport av statuer og arkitekturtegninger. Saker om statsborgerskap, farskap og eiendomsinformasjon er også rapportert. Alle saker som ikke er fullført, venter fortsatt på videre behandling eller informasjon.]]></description>
     </item>
 
   </channel>
