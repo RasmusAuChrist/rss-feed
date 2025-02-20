@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 20 Feb 2025 12:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 14:01:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>3e4c2d4e-2a58-4119-a9a5-cd5e20b6566c</guid>
-      <pubDate>Thu, 20 Feb 2025 12:01:09 GMT</pubDate>
-      <description><![CDATA[Denne uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant dem er flere landssviksaker, inkludert etterforskninger om personer født tidlig på 1900-tallet. Det er også undersøkelser om slektsforskning, som involverer personer født på ulike tidspunkter og steder, fra Oslo til Bergen-Belsen. Andre henvendelser inkluderer forespørsler om fartstid under krigen, militært rulleblad, statsborgerskap, og historiske dokumenter som årsberetninger og arkitekturtegninger. Flere saker omfatter også juridiske dokumenter som dåps- og fødselsattester, samt eiendomsrelaterte dokumentasjoner. Alle disse sakene er fortsatt under behandling og reflekterer en bred variasjon i arkivforespørsler.]]></description>
+      <guid>315c89d6-31a9-4d13-841a-90c70401c6dd</guid>
+      <pubDate>Thu, 20 Feb 2025 14:01:04 GMT</pubDate>
+      <description><![CDATA[I løpet av den siste uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant annet er det flere henvendelser om landssvik under andre verdenskrig, slektsforskning og farskapssaker. En rekke forespørsler om innsyn i historiske dokumenter, militære rulleblader og skifte etter dødsfall er også mottatt. Flere saker er fortsatt under behandling, og noen har blitt fullført i løpet av uken. Disse forespørslene speiler en bred interesse for Norges historiske og juridiske dokumenter.]]></description>
     </item>
 
   </channel>
