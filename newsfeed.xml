@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 21 Feb 2025 12:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 14:00:49 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>b63842d7-1543-4d24-ada5-6327d5d87d81</guid>
-      <pubDate>Fri, 21 Feb 2025 12:11:01 GMT</pubDate>
-      <description><![CDATA[Siste uke har Riksarkivet og Statsarkivet i Oslo registrert flere uavsluttede saker, inkludert undersøkelser av landssvik under andre verdenskrig og forespørsler om militære rulleblad. Blant disse er saker knyttet til personer født i tidlig 1900-tallet. Det er også innkommet henvendelser vedrørende slektsforskning, med fokus på fødsels-, døds- og dåpsregistre i Oslo-området. Andre saker inkluderer arkivsøk relatert til historiske dokumenter og spesifikke eiendomsopplysninger, samt spørsmål om statsborgerskap og botid. Flere saker vedrørende landssvik er ferdigstilt, men de fleste gjenstår fortsatt å bli avsluttet.]]></description>
+      <guid>88081b2a-77d5-4c81-a7ee-400a47d9f521</guid>
+      <pubDate>Fri, 21 Feb 2025 14:00:49 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke saker for behandling. Disse inkluderer forespørsler om landssviksaker fra ulike årstall, militære rulleblad, slektsforskning og dokumentasjon av fartstid under krigen. Det er også innkommet saker angående fødsels- og dødsattester, spørsmål om eiendomsregistrering og statsborgerskap, samt innsyn i historiske dokumenter og arkivsøk relatert til både privatpersoner og offentlige institusjoner. Flere av sakene er fortsatt under behandling og ikke avsluttet.]]></description>
     </item>
 
   </channel>
