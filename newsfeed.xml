@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 20 Feb 2025 14:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 06:01:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>315c89d6-31a9-4d13-841a-90c70401c6dd</guid>
-      <pubDate>Thu, 20 Feb 2025 14:01:04 GMT</pubDate>
-      <description><![CDATA[I løpet av den siste uken har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant annet er det flere henvendelser om landssvik under andre verdenskrig, slektsforskning og farskapssaker. En rekke forespørsler om innsyn i historiske dokumenter, militære rulleblader og skifte etter dødsfall er også mottatt. Flere saker er fortsatt under behandling, og noen har blitt fullført i løpet av uken. Disse forespørslene speiler en bred interesse for Norges historiske og juridiske dokumenter.]]></description>
+      <guid>a8f9845c-a3f2-41f8-9fa2-077440e5d2bd</guid>
+      <pubDate>Fri, 21 Feb 2025 06:01:20 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke nye saker. Blant annet er det flere henvendelser om landssvik fra andre verdenskrig, militære rulleblader og slektsforskning. Det er også innkommet saker angående skifte etter dødsfall, historiske dokumenter om eksport av skulpturer og diverse arkivsøk knyttet til persondokumentasjon og eiendomsregistrering. Flere av sakene er fortsatt under behandling, og noen har blitt ferdigstilt denne uken.]]></description>
     </item>
 
   </channel>
