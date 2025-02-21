@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 21 Feb 2025 06:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 08:01:17 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>a8f9845c-a3f2-41f8-9fa2-077440e5d2bd</guid>
-      <pubDate>Fri, 21 Feb 2025 06:01:20 GMT</pubDate>
-      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke nye saker. Blant annet er det flere henvendelser om landssvik fra andre verdenskrig, militære rulleblader og slektsforskning. Det er også innkommet saker angående skifte etter dødsfall, historiske dokumenter om eksport av skulpturer og diverse arkivsøk knyttet til persondokumentasjon og eiendomsregistrering. Flere av sakene er fortsatt under behandling, og noen har blitt ferdigstilt denne uken.]]></description>
+      <guid>8ccc5e76-7106-49d4-b3bd-4aa488a376f4</guid>
+      <pubDate>Fri, 21 Feb 2025 08:01:17 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt flere saker knyttet til landssvik, militært rulleblad, slektshistorie og diverse juridiske dokumenter. Blant annet er det innkommet forespørsler om innsyn i landssviksaker fra både første og andre verdenskrig, samt militære rulleblader fra ulike tiår. I tillegg er det en rekke saker som omhandler slektsforskning, hvor etterkommere søker informasjon om sine forfedre. Flere saker knytter seg også til eiendomsinformasjon og historiske dokumenter knyttet til både personer og steder. Alle saker er per nå ikke avsluttet, og arbeidet med å behandle disse pågår.]]></description>
     </item>
 
   </channel>
