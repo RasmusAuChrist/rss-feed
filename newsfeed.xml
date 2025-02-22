@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Feb 2025 12:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 14:00:43 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>7250d3ec-cdbe-4de1-84b2-8d2c3ce2e3b8</guid>
-      <pubDate>Sat, 22 Feb 2025 12:00:43 GMT</pubDate>
-      <description><![CDATA[I løpet av den siste uken har Riksarkivet og Statsarkivet i Oslo håndtert flere saker knyttet til dødsfall, skifte og historisk forskning. Blant annet ble skiftesakene etter personer døde i Fredrikstad og Oslo raskt fullført på samme dag som de ble opprettet. Saker om landssvik og militære rulleblader dominerer også, med flere saker fortsatt under behandling, inkludert undersøkelser av personer født i tidlig 1900-tall. Enkelte saker om slektsforskning og historiske hendelser som eksport av statuer og krigstidshandlinger er også loggført. Disse sakene gir innsikt i både individuelle skjebner og bredere historiske kontekster.]]></description>
+      <guid>06030202-9666-4eda-a2b4-6cc2e57ed92b</guid>
+      <pubDate>Sat, 22 Feb 2025 14:00:43 GMT</pubDate>
+      <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har nylig behandlet flere saker. Blant dem er fullførte skifteoppgaver etter dødsfall, med saker fra Fredrikstad og Oslo raskt behandlet den 21. februar 2025. Flere landssviksaker er også gjennomgått, inkludert avsluttede saker fra 18. til 21. februar. Pågående saker inkluderer undersøkelser av militære rulleblad, slektsforskning, og historiske dokumenter knyttet til både privatpersoner og offentlige institusjoner. Innsyn i diverse arkiver for forskningsprosjekter fortsetter også å være en viktig del av arkivenes arbeid.]]></description>
     </item>
 
   </channel>
