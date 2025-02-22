@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Feb 2025 06:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:00:34 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>ea5b0adb-a11d-4d87-84bc-d068a576a9c7</guid>
-      <pubDate>Sat, 22 Feb 2025 06:00:43 GMT</pubDate>
-      <description><![CDATA[Denne uken i Riksarkivet og Statsarkivet i Oslo er det behandlet flere saker om dødsfall og skifte, inkludert saker fra Fredrikstad og Oslo, samt flere landssviksaker fra forskjellige tidsepoker. Flere saker om militære rulleblad og slektsforskning ble også behandlet. Betydelige saker inkluderer undersøkelse av fartstid under krigen, historiske dokumenter knyttet til Norges Eksportråd, og diverse arkivsøk relatert til historiske registre og persondokumentasjon som fødsels- og dåpsattester. Flere saker er fortsatt under behandling, mens andre er fullført innen dagen.]]></description>
+      <guid>b3337acc-839b-4734-8c25-98f6fdecfe5d</guid>
+      <pubDate>Sat, 22 Feb 2025 08:00:34 GMT</pubDate>
+      <description><![CDATA[SAO har fullført behandlingen av flere dødsfall og skifte saker denne uken, inkludert saker om Reidun Henriksen og Bjørn Oddvar Grunnan. I tillegg er flere landssviksaker behandlet, blant annet for Astrid Døvle Dollis Dahlgren og Hans Hansen. Riksarkivet har fullført saker om norsk frontkjemper Reidar Antonius Andresen og krigsbarn Albert Gustav Rostad. Diverse andre saker som handler om slekt, statsborgerskap og historiske dokumenter er fortsatt under behandling.]]></description>
     </item>
 
   </channel>
