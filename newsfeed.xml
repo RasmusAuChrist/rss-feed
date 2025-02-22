@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Feb 2025 10:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 12:00:43 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>8bccce63-203e-454e-bf92-48d25a0e8140</guid>
-      <pubDate>Sat, 22 Feb 2025 10:00:27 GMT</pubDate>
-      <description><![CDATA[Denne uken i Riksarkivet og Statsarkivet i Oslo (SAO) er flere saker fullført, inkludert skiftesaker etter avdøde i Fredrikstad og Oslo, samt straffesaker fra Oslo. Landssviksaker er også behandlet og avsluttet for flere individer fra forskjellige årstall. En rekke saker er fortsatt under behandling, inkludert spørsmål om militært rulleblad, slektsforskning og historiske dokumenter. En eiendomssak i Nannestad og en fødselsattest fra Ski er blant sakene som har blitt avsluttet denne uken.]]></description>
+      <guid>7250d3ec-cdbe-4de1-84b2-8d2c3ce2e3b8</guid>
+      <pubDate>Sat, 22 Feb 2025 12:00:43 GMT</pubDate>
+      <description><![CDATA[I løpet av den siste uken har Riksarkivet og Statsarkivet i Oslo håndtert flere saker knyttet til dødsfall, skifte og historisk forskning. Blant annet ble skiftesakene etter personer døde i Fredrikstad og Oslo raskt fullført på samme dag som de ble opprettet. Saker om landssvik og militære rulleblader dominerer også, med flere saker fortsatt under behandling, inkludert undersøkelser av personer født i tidlig 1900-tall. Enkelte saker om slektsforskning og historiske hendelser som eksport av statuer og krigstidshandlinger er også loggført. Disse sakene gir innsikt i både individuelle skjebner og bredere historiske kontekster.]]></description>
     </item>
 
   </channel>
