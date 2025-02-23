@@ -3,39 +3,14 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Feb 2025 21:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 21:54:23 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
     <atom:link href="https://rasmusauchrist.github.io/rss-feed/newsfeed.xml" rel="self" type="application/rss+xml"/>
 
-    <!-- RSS Item -->
-    <item>
-      <title><![CDATA[KI-genererte nyheter:]]></title>
-      <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>31c7a05f-bef8-41db-a338-916128ff0cfa</guid>
-      <pubDate>Sun, 23 Feb 2025 21:24:51 GMT</pubDate>
-      <description><![CDATA[Tittel: Effektiv saksbehandling i Oslo og Riksarkivet
-Nyhet: Flere saker om dødsfall og skifte, samt landssvik, er nylig fullført i Oslo og ved Riksarkivet. Blant fullførte saker denne uken er skifte etter Reidun Henriksen i Fredrikstad og landssviksaker knyttet til Hans Hansen og Astrid Døvle Dollis Dahlgren. |||
-
-Tittel: Uavsluttede saker ved Riksarkivet
-Nyhet: En rekke saker ved Riksarkivet, inkludert militære rulleblader og innsyn i historiske dokumenter, er fortsatt under behandling. Blant disse er saker om fartstid under krigen og forskjellige forespørsler om landssvik. |||
-
-Tittel: Ny innsynshenvendelse om krigsbarn
-Nyhet: SAO håndterer en ny henvendelse om krigsbarn født i 1942 i Oslo. Saken er blant flere som omhandler følsomme historiske emner, viser en oversikt over nylig innsendte saker. |||
-
-Tittel: Fullførte saker om statsborgerskap
-Nyhet: Riksarkivet har fullført behandlingen av statsborgerskapssaken for Roberto Manuel Tanaia født i 1956, samt en landssviksak knyttet til Hans Yngvar Vigerust og Sofie Vigerust fra 1918. |||
-
-Tittel: Pågående slektssøk i Oslo
-Nyhet: Saker relatert til slektsforskning, inkludert etterforskning om Ingvald Anderssen Fossum og Daniel Rynveld, er fortsatt under behandling hos Statsarkivet i Oslo. |||
-
-Tittel: Historisk dokumentasjon etterspurt
-Nyhet: Nylige henvendelser inkluderer forespørsler om historisk dokumentasjon fra Riksarkivet, som innsyn i Norges Brannkasses pensjonskasse og Norges Eksportråds aktiviteter i 1955. |||
-
-Tittel: Saksavslutninger i skifte- og dødsfallssaker
-Nyhet: Flere saker knyttet til dødsfall og skifte er nylig avsluttet i Oslo, inkludert saken om Reidun Henriksen fra Fredrikstad og Johan Sandberg fra Mysen.]]></description>
-    </item>
+    <!-- Dynamically Generated RSS Items -->
+    {"title":"Effektiv saksbehandling i Oslo\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Landssviksaker under behandling\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Uavsluttede saker i Oslo\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Fullførte slektssaker\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Historiske innsynsforespørsler\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Dokumentasjon på fartstid under krigen\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}<item><title><![CDATA[]]></title><guid>6be2996d-d286-4c93-87ce-67b2c33c4634</guid><pubDate></pubDate><description><![CDATA[]]></description></item>{"title":"Rask behandling av statsborgerskap\n","description":"Ingen nyhetsoppdatering tilgjengelig","pubDate":"Sun, 23 Feb 2025 21:54:23 GMT"}
 
   </channel>
 </rss>
