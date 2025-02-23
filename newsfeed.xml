@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Feb 2025 10:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 19:01:00 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>3f76ec65-a9cd-4644-b457-be23dc08cbc4</guid>
-      <pubDate>Sun, 23 Feb 2025 10:00:37 GMT</pubDate>
-      <description><![CDATA[Saker om landssvik, militære rulleblad og slektsforskning dominerer innkommende forespørsler i Riksarkivet og Statsarkivet i Oslo denne uken. Flere saker knyttet til dødsfall og skifte har også blitt behandlet, hvorav flere er fullført. Det har vært en betydelig interesse for dokumentasjon på historiske hendelser, inkludert krigsbarn og fartstid under krigen. En rekke saker knyttet til faglig innsyn og vitenskapelig forskning er fortsatt under behandling, og det er også forespørsler om statsborgerskap og botid som venter på avklaring.]]></description>
+      <guid>7c0ca44f-f09b-4dc7-881d-13ee6acd2455</guid>
+      <pubDate>Sun, 23 Feb 2025 19:01:00 GMT</pubDate>
+      <description><![CDATA[Den siste uken har Riksarkivet og Statsarkivet i Oslo mottatt en rekke nye saker, deriblant fødsels- og dødsfallregistreringer, forespørsler om militært rulleblad, og landssviksaker. Flere saker omfatter også historisk innsyn i dokumenter fra andre verdenskrig. Avsluttede saker inkluderer blant annet dødsfall/skifte for Reidun Henriksen og Bjørn Oddvar Grunnan. Flere saker knyttet til slektsforskning og dokumentasjon av fartstid under krigen er fortsatt under behandling.]]></description>
     </item>
 
   </channel>
