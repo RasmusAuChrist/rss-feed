@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Feb 2025 14:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 06:00:48 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>06030202-9666-4eda-a2b4-6cc2e57ed92b</guid>
-      <pubDate>Sat, 22 Feb 2025 14:00:43 GMT</pubDate>
-      <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har nylig behandlet flere saker. Blant dem er fullførte skifteoppgaver etter dødsfall, med saker fra Fredrikstad og Oslo raskt behandlet den 21. februar 2025. Flere landssviksaker er også gjennomgått, inkludert avsluttede saker fra 18. til 21. februar. Pågående saker inkluderer undersøkelser av militære rulleblad, slektsforskning, og historiske dokumenter knyttet til både privatpersoner og offentlige institusjoner. Innsyn i diverse arkiver for forskningsprosjekter fortsetter også å være en viktig del av arkivenes arbeid.]]></description>
+      <guid>b5afedd7-c2bf-4769-987a-182e0eb4ffe9</guid>
+      <pubDate>Sun, 23 Feb 2025 06:00:48 GMT</pubDate>
+      <description><![CDATA[Saksbehandling oppdateringer fra Riksarkivet og Statsarkivet i Oslo viser en rekke aktive og nylig avsluttede saker relatert til alt fra landssvik og militære rulleblad til fødsels- og dødsattester. Blant de fullførte sakene er behandlingen av dødsfall/skifte for individer døde i Fredrikstad og Oslo, avklart innen samme dag som saken ble opprettet. Flere saker om landssvik, blant annet fra 1913 og 1920, er også ferdigstilt. En rekke saker er fortsatt under behandling, inkludert forespørsler om slektsforskning, historisk innsyn og statsborgerskap, som vitner om en bred bruk av arkivressurser for personlig og forskningsmessig formål.]]></description>
     </item>
 
   </channel>
