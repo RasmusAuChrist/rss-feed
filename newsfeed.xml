@@ -3,14 +3,56 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Feb 2025 23:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:13:14 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
     <atom:link href="https://rasmusauchrist.github.io/rss-feed/newsfeed.xml" rel="self" type="application/rss+xml"/>
 
     <!-- Dynamically Generated RSS Items -->
-    
+    ""<item>
+  <title><![CDATA[Rask behandling av skiftesaker]]></title>
+  <guid>c487d4bf-dc84-4604-a8e4-e01b37453bf9</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[To skiftesaker relatert til dødsfall fullført på samme dag de ble opprettet hos Statsarkivet i Oslo. Sakene omhandler dødsfallene til Reidun Henriksen i Fredrikstad og Bjørn Oddvar Grunnan i Oslo, og ble løst henholdsvis innenfor ni og åtte timer.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ubehandlede landssviksaker]]></title>
+  <guid>ddbc8424-82e4-43ec-ab31-3fd9bb324eb5</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[Flere landssviksaker fra 2. verdenskrig, blant annet mot Leiv Qvenild og Enok Emandus Enoksen, er fortsatt under behandling i Riksarkivet. Disse sakene ble opprettet i februar 2025 og er ennå ikke fullført.]]></description>
+</item>
+<item>
+  <title><![CDATA[Flere militærrulleblad under behandling]]></title>
+  <guid>e67f6b43-7b71-438a-95c8-04dd68ce847c</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[Saker angående militærrulleblader for tidligere soldater Frank R Frostad Hansen og Bjørn-Idar Haugseth behandles i Riksarkivet. Begge sakene er opprettet i februar 2025 og er fortsatt ikke avsluttet.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskning på krigsbarn]]></title>
+  <guid>b1ebee9b-e171-462f-9961-bd11d9662c57</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[En sak om krigsbarn født i 1942 er under behandling ved Riksarkivet. Henvendelsen, som ble mottatt i februar 2025, fokuserer på innsyn i informasjon om barn født under krigen i Oslo.]]></description>
+</item>
+<item>
+  <title><![CDATA[Innsyn i historisk dokumentasjon]]></title>
+  <guid>407f2411-19e3-406f-b46c-36634184fc1e</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo behandler en henvendelse om innsyn i fødsels- og dåpsattester for Camilla Strøm og Felix Pagander. Sistnevntes sak ble fullført på under et døgn.]]></description>
+</item>
+<item>
+  <title><![CDATA[Uavsluttede saker om historisk innsyn]]></title>
+  <guid>a30620e9-32a0-41ab-b672-23da0c42a92c</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser om faglig innsyn og historisk dokumentasjon, inkludert en biografi om Ole Ålgård og KLPs sykepleierpensjonsordninger, er fortsatt under behandling i Riksarkivet, uten avsluttede datoer.]]></description>
+</item>
+<item>
+  <title><![CDATA[Fullførte slektsforskningssaker]]></title>
+  <guid>a98be066-77d1-4853-84d3-15bf19f9633d</guid>
+  <pubDate>Sun, 23 Feb 2025 23:13:14 GMT</pubDate>
+  <description><![CDATA[Saker om slektsforskning, inkludert etterforskning av Ingvald Anderssen Fossum og Albert Gustav Rostad, ble nylig fullført ved Statsarkivet i Oslo og Riksarkivet. Disse sakene omhandlet detaljer rundt etterkommere og historisk kontekst.]]></description>
+</item>
+
 
   </channel>
 </rss>
