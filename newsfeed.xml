@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Feb 2025 06:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 08:00:34 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>b5afedd7-c2bf-4769-987a-182e0eb4ffe9</guid>
-      <pubDate>Sun, 23 Feb 2025 06:00:48 GMT</pubDate>
-      <description><![CDATA[Saksbehandling oppdateringer fra Riksarkivet og Statsarkivet i Oslo viser en rekke aktive og nylig avsluttede saker relatert til alt fra landssvik og militære rulleblad til fødsels- og dødsattester. Blant de fullførte sakene er behandlingen av dødsfall/skifte for individer døde i Fredrikstad og Oslo, avklart innen samme dag som saken ble opprettet. Flere saker om landssvik, blant annet fra 1913 og 1920, er også ferdigstilt. En rekke saker er fortsatt under behandling, inkludert forespørsler om slektsforskning, historisk innsyn og statsborgerskap, som vitner om en bred bruk av arkivressurser for personlig og forskningsmessig formål.]]></description>
+      <guid>1f9f647f-47dc-4e41-a0fa-ebfdece9d007</guid>
+      <pubDate>Sun, 23 Feb 2025 08:00:34 GMT</pubDate>
+      <description><![CDATA[Siste uke har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant annet er det registrert spørsmål om fødsels- og dåpsattester, dødsfall og skifter, samt forespørsler om militære rulleblader og fartstid under krigen. Flere henvendelser om landssvik er også dokumentert, inkludert innsyn i saker fra andre verdenskrig. I tillegg er det forespørsler om slektsforskning, historisk innsyn og dokumentasjon knyttet til statsborgerskap og eiendomsopplysninger. En rekke saker er fortsatt under behandling, mens andre er ferdigstilt i løpet av uken.]]></description>
     </item>
 
   </channel>
