@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Feb 2025 08:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 10:00:37 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -13,9 +13,9 @@
     <item>
       <title><![CDATA[KI-genererte nyheter:]]></title>
       <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
-      <guid>1f9f647f-47dc-4e41-a0fa-ebfdece9d007</guid>
-      <pubDate>Sun, 23 Feb 2025 08:00:34 GMT</pubDate>
-      <description><![CDATA[Siste uke har Riksarkivet og Statsarkivet i Oslo registrert flere nye saker. Blant annet er det registrert spørsmål om fødsels- og dåpsattester, dødsfall og skifter, samt forespørsler om militære rulleblader og fartstid under krigen. Flere henvendelser om landssvik er også dokumentert, inkludert innsyn i saker fra andre verdenskrig. I tillegg er det forespørsler om slektsforskning, historisk innsyn og dokumentasjon knyttet til statsborgerskap og eiendomsopplysninger. En rekke saker er fortsatt under behandling, mens andre er ferdigstilt i løpet av uken.]]></description>
+      <guid>3f76ec65-a9cd-4644-b457-be23dc08cbc4</guid>
+      <pubDate>Sun, 23 Feb 2025 10:00:37 GMT</pubDate>
+      <description><![CDATA[Saker om landssvik, militære rulleblad og slektsforskning dominerer innkommende forespørsler i Riksarkivet og Statsarkivet i Oslo denne uken. Flere saker knyttet til dødsfall og skifte har også blitt behandlet, hvorav flere er fullført. Det har vært en betydelig interesse for dokumentasjon på historiske hendelser, inkludert krigsbarn og fartstid under krigen. En rekke saker knyttet til faglig innsyn og vitenskapelig forskning er fortsatt under behandling, og det er også forespørsler om statsborgerskap og botid som venter på avklaring.]]></description>
     </item>
 
   </channel>
