@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 24 Feb 2025 06:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 07:56:11 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Effektiv saksbehandling i Oslo]]></title>
-  <guid>b3e33d79-4fa2-47f1-9802-44b384f07f07</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[Flere saker om dødsfall og skifte fra 1970-tallet er blitt behandlet effektivt av SAO, inkludert saker for Reidun Henriksen og Bjørn Oddvar Grunnan, fullført samme dag som de ble innmeldt.]]></description>
+  <title><![CDATA[Flere Uoppgjorte Sakssaker]]></title>
+  <guid>011af130-2e83-4f07-948c-b43c43db4b93</guid>
+  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
+  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har flere uoppgjorte saker denne uken, inkludert militære rulleblader fra forskjellige tiår og landssviksaker fra andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Landssviksaker under behandling]]></title>
-  <guid>f379f7c6-cdeb-4175-926e-7cdac62b205d</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer flere uavsluttede landssviksaker, inkludert saker som involverer Leiv Qvenild og Gjertrud Torgeirson, med oppstart i februar 2025.]]></description>
+  <title><![CDATA[Økning i Landssviksaker]]></title>
+  <guid>b737710e-03e7-42f5-9447-df37433d3e56</guid>
+  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
+  <description><![CDATA[En betydelig økning i behandlingen av landssviksaker er observert, med flere saker fra 1900-tallet fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske militære dokumenter]]></title>
-  <guid>38dd4d91-a6f9-46ad-8e3b-e5ef7f00c597</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[Saker vedrørende militære rulleblad, inkludert for Frank R Frostad Hansen og Bjørn-Idar Haugseth, er fortsatt under behandling hos Riksarkivet uten fastsatt sluttdato.]]></description>
+  <title><![CDATA[Gjennomførte Sakshåndteringer]]></title>
+  <guid>75fb5baf-81f7-45b5-8ecf-40eb941124fa</guid>
+  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere sakshåndteringer, inkludert skifte etter dødsfall og vitnemålssaker, innen fastsatte frister.]]></description>
 </item>
 <item>
-  <title><![CDATA[Aktivitet i Statsarkivet Oslo]]></title>
-  <guid>069d4285-9531-4243-97c9-a593180105a7</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[SAO opplever en travel periode med en rekke uavsluttede saker relatert til fødsel, dåp og dødsfall, inkludert saken til Camilla Strøm og Per Steinar Ekeli.]]></description>
+  <title><![CDATA[Saker om Fartstid Under Krigen]]></title>
+  <guid>a05af1c3-d181-4f77-8cec-9530b3b6e12f</guid>
+  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
+  <description><![CDATA[Riksarkivet behandler flere saker knyttet til fartstid under krigen, noe som understreker den vedvarende interessen for detaljert historisk innsikt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uavsluttede slektsforskningsaker]]></title>
-  <guid>380412a9-0cb1-4718-a4f8-9edd9f42cc53</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[En rekke slektsforskningsaker, inkludert etterforskning av Ingvald Anderssen Fossum og Daniel Rynveld, venter fortsatt på avslutning i Oslo-arkivet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Riksarkivets forskningsinnsyn]]></title>
-  <guid>af786311-4fe2-48ee-afce-d28cdafac57a</guid>
-  <pubDate>Mon, 24 Feb 2025 06:01:42 GMT</pubDate>
-  <description><![CDATA[Forskere søker innsyn i historiske data, med Elise Bar som undersøker helsen til norske holocaust-overlevende, og prosjekt fortsatt under behandling.]]></description>
+  <title><![CDATA[Interesse for Militære Rulleblader]]></title>
+  <guid>2c02b915-5452-456e-ba22-39cc928f13d9</guid>
+  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
+  <description><![CDATA[Det pågår en kontinuerlig etterspørsel og behandling av militære rulleblader for personer født gjennom 1900-tallet, noe som viser en bred historisk forskningsinteresse.]]></description>
 </item>
 
 
