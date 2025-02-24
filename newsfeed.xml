@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 24 Feb 2025 08:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 10:01:53 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,45 +11,39 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for militære rulleblad]]></title>
-  <guid>c25172f2-ad54-4f7a-bb79-bbe34e3d8665</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i militære rulleblad denne uken, inkludert for personer født i årene 1918, 1955, og 1980.]]></description>
+  <title><![CDATA[Økt etterspørsel etter militære rulleblad]]></title>
+  <guid>b42fb6a5-b92c-4cac-a38a-45712f2956c9</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har registrert en markant økning i forespørsler om militære rulleblad fra ulike tiår, noe som viser en voksende interesse for militærhistorisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om landssvik under behandling]]></title>
-  <guid>992288c4-671f-47d3-8e18-3ef36afd2532</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[En rekke saker relatert til landssvik fra andre verdenskrig er fortsatt under behandling, med flere innkomne forespørsler denne uken.]]></description>
+  <title><![CDATA[Spørsmål om landssvik under behandling]]></title>
+  <guid>f7d33ab9-36ed-4278-a842-2fe5e9afe145</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
+  <description><![CDATA[Flere saker relatert til anklager om landssvik fra andre verdenskrig er fortsatt under behandling, noe som reflekterer kompleksiteten og sensitiviteten i slike arkivsøk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Innsyn i krigstidens dokumenter]]></title>
-  <guid>5ec3eee8-fc34-42e0-9013-4d0b33a9db08</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[Det er registrert en økning i forespørsler om dokumentasjon fra krigstiden, herunder fartstid under krigen og opplysninger om krigsbarn.]]></description>
+  <title><![CDATA[Forsinkelse i behandling av digitaliseringsforespørsler]]></title>
+  <guid>d3ff1e88-b88d-4f0e-8fab-fbcd2d2006a6</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever for tiden en forsinkelse i behandlingstiden på forespørsler om digitalisering av historiske dokumenter grunnet økt etterspørsel.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arbeid med skifteoppgjør]]></title>
-  <guid>3c04a089-56d8-40b0-9d3a-a825c925dcb4</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo rapporterer om flere pågående saker knyttet til dødsfall og skifteoppgjør, inkludert eldre og nylige tilfeller.]]></description>
+  <title><![CDATA[Økende interesse for krigstidens fartstid]]></title>
+  <guid>8b5fe87c-e894-49f2-a90b-acdc7d253321</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
+  <description><![CDATA[Det er en voksende interesse for dokumentasjon relatert til sjøfart og fartstid under krigen, noe som understreker viktigheten av denne perioden i norsk maritim historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk innsyn og forskning]]></title>
-  <guid>1bcbc8d3-03be-46ab-9dd1-52989535e93b</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med flere saker for historisk innsyn, inkludert innsyn i gamle straffesaker og undersøkelser av historiske registre.]]></description>
-</item>
-<item>
-  <title><![CDATA[Uoppgjorte saker om statsborgerskap]]></title>
-  <guid>d6746c24-7101-40dd-b8ce-229a542e9ed1</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
-  <description><![CDATA[Behandling av saker relatert til statsborgerskap, inkludert historiske tilfeller fra tidlig 1900-tallet, fortsetter å være under arbeid.]]></description>
+  <title><![CDATA[Innsyn i dødsfall og skifter]]></title>
+  <guid>20334651-bc9c-40f0-9934-3b259257bbac</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo rapporterer om en rekke pågående saker som omhandler innsyn i dødsfall og skifteprotokoller, noe som er av stor interesse for slektsforskere.]]></description>
 </item>
 <item>
   <title><![CDATA[Ukjent tittel]]></title>
-  <guid>71c4e9d5-79d8-45e6-9ea9-c2b15c3037c3</guid>
-  <pubDate>Mon, 24 Feb 2025 08:14:00 GMT</pubDate>
+  <guid>b8a1565b-3025-4a2b-8658-0a5264e870ad</guid>
+  <pubDate>Mon, 24 Feb 2025 10:01:53 GMT</pubDate>
   <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
