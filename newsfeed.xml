@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 24 Feb 2025 07:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 08:01:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Flere Uoppgjorte Sakssaker]]></title>
-  <guid>011af130-2e83-4f07-948c-b43c43db4b93</guid>
-  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har flere uoppgjorte saker denne uken, inkludert militære rulleblader fra forskjellige tiår og landssviksaker fra andre verdenskrig.]]></description>
+  <title><![CDATA[Flere saker om landssvik]]></title>
+  <guid>5ef2a5ab-e8d3-4863-9915-354a7f9fadab</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser om landssvik denne uken, inkludert saker relatert til Thorleif Bang, Astrid Døvle Dollis Dahlgren og Hans Hansen, som alle er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økning i Landssviksaker]]></title>
-  <guid>b737710e-03e7-42f5-9447-df37433d3e56</guid>
-  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
-  <description><![CDATA[En betydelig økning i behandlingen av landssviksaker er observert, med flere saker fra 1900-tallet fortsatt under behandling.]]></description>
+  <title><![CDATA[Dødsfall og skifte]]></title>
+  <guid>eaa2fd19-0e23-42e5-8db7-5ec528d7de96</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[SAO håndterer flere saker om dødsfall og skifte, inkludert for Reidun Henriksen og Bjørn Oddvar Grunnan. Disse sakene ble nylig fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Gjennomførte Sakshåndteringer]]></title>
-  <guid>75fb5baf-81f7-45b5-8ecf-40eb941124fa</guid>
-  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere sakshåndteringer, inkludert skifte etter dødsfall og vitnemålssaker, innen fastsatte frister.]]></description>
+  <title><![CDATA[Krigstid og militært rulleblad]]></title>
+  <guid>4d20a9b7-6c4e-4e60-bd7d-0074dceb6e8e</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med flere saker angående militært rulleblad og fartstid under krigen, inkludert for personer som Edvar Kristian Klakken og Johan Thorleif Weie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Saker om Fartstid Under Krigen]]></title>
-  <guid>a05af1c3-d181-4f77-8cec-9530b3b6e12f</guid>
-  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler flere saker knyttet til fartstid under krigen, noe som understreker den vedvarende interessen for detaljert historisk innsikt.]]></description>
+  <title><![CDATA[Historisk forskning]]></title>
+  <guid>c42104df-052d-4e0a-aa13-23fe76ae2959</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[Forskningsrelaterte henvendelser er innkommet, inkludert en forespørsel om historie rundt skøyter som deltok i felttoget i 1940.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for Militære Rulleblader]]></title>
-  <guid>2c02b915-5452-456e-ba22-39cc928f13d9</guid>
-  <pubDate>Mon, 24 Feb 2025 07:56:11 GMT</pubDate>
-  <description><![CDATA[Det pågår en kontinuerlig etterspørsel og behandling av militære rulleblader for personer født gjennom 1900-tallet, noe som viser en bred historisk forskningsinteresse.]]></description>
+  <title><![CDATA[Slektsforskning]]></title>
+  <guid>98bc7795-1f46-40d1-8d73-b6ce1b859976</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[SAO arbeider med flere slektsrelaterte saker, blant annet for Henry Jakob Jensen som har bakgrunn fra 2. verdenskrig.]]></description>
+</item>
+<item>
+  <title><![CDATA[Pasientjournaler og vitnemål]]></title>
+  <guid>09f7155d-8561-44d3-9c1b-1b788d4729ad</guid>
+  <pubDate>Mon, 24 Feb 2025 08:01:02 GMT</pubDate>
+  <description><![CDATA[SAO behandler forespørsler om pasientjournaler og vitnemål, inkludert for Hans Marius Walhovd og Tone L Lindquist Varting. Disse sakene er fortsatt under behandling.]]></description>
 </item>
 
 
