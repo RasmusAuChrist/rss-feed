@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 25 Feb 2025 08:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 10:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt etterspørsel etter landssvikarkiver]]></title>
-  <guid>4e2fc3f0-f8b5-40d4-aed2-ec3e41396231</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Riksarkivet melder om en markant økning i forespørsler om innsyn i landssviksaker. Flere saker er under behandling, blant annet for personer født i tidlig 1900-tallet.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>07f0842b-a499-4192-bca0-f3708dc8d673</guid>
+  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet melder om flere uavsluttede saker angående landssvik under andre verdenskrig, inkludert nye forespørsler fra denne uken.]]></description>
 </item>
 <item>
-  <title><![CDATA[Aktivitet i eiendomsregistrering]]></title>
-  <guid>27e11512-e656-421c-b209-37ef0eb1f9a7</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo håndterer flere eiendomssaker, inkludert gnr/bnr-søk i Lillestrøm og Sarpsborg, som viser en fortsatt interesse for lokalhistorisk eiendomsinformasjon.]]></description>
+  <title><![CDATA[Søk etter militære rulleblader]]></title>
+  <guid>59542320-1b50-4af8-96d7-931323dbb2c0</guid>
+  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser om innsyn i militære rulleblader er registrert, med saker fra både første og andre verdenskrig fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Slektsforskning fortsetter å engasjere]]></title>
-  <guid>a6c62149-a1fd-4e4d-b6e3-c376475f5715</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Slektsforskere søker aktivt etter informasjon i Riks- og Statsarkivet. Nylige forespørsler inkluderer konfirmasjonsdata og militære rulleblader.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske eiendomsopplysninger]]></title>
+  <guid>572ae7f3-aa5f-4a11-927d-9277df1ff2bb</guid>
+  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo behandler flere forespørsler om gamle eiendomsregistre, inkludert spesifikke gnr/bnr fra ulike norske kommuner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av historiske dokumenter]]></title>
-  <guid>d46445e4-514e-4812-b75a-936cad00062a</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med digitalisering av viktige historiske dokumenter, inkludert regnskaper fra Rentekammeret datert før 1814.]]></description>
+  <title><![CDATA[Arkivsøk i medisinske og offentlige journaler]]></title>
+  <guid>eebff9fe-b296-43ee-9971-69160380f224</guid>
+  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
+  <description><![CDATA[SAO rapporterer om uavsluttede saker vedrørende pasientjournaler og offentlige registre, noe som understreker behovet for tilgang til historiske helseopplysninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Innsyn i arkiver om norsk krigshistorie]]></title>
-  <guid>11cbbcda-1223-4529-ad2c-c7b3b95339c1</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Økende antall forespørsler om innsyn i arkiver relatert til Norges deltakelse i andre verdenskrig, inkludert opplysninger om norske frontkjempere.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>cc18afd5-b4e9-4849-b350-f0c452c90e85</guid>
-  <pubDate>Tue, 25 Feb 2025 08:01:17 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Forskning på norske krigsbarn]]></title>
+  <guid>9dbb182c-4a8a-422c-a1a1-85be807f823d</guid>
+  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet håndterer saker knyttet til barn født under krigen, med fokus på å klarlegge deres historie og arv.]]></description>
 </item>
 
 
