@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 25 Feb 2025 10:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 12:00:58 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>07f0842b-a499-4192-bca0-f3708dc8d673</guid>
-  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
-  <description><![CDATA[Riksarkivet melder om flere uavsluttede saker angående landssvik under andre verdenskrig, inkludert nye forespørsler fra denne uken.]]></description>
+  <title><![CDATA[Økt etterspørsel etter landssvikarkiver]]></title>
+  <guid>e0a16701-abec-406a-9e80-ad3112e22008</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har registrert en markant økning i saker relatert til landssvik under andre verdenskrig, med flere fullførte saker denne uken.]]></description>
 </item>
 <item>
-  <title><![CDATA[Søk etter militære rulleblader]]></title>
-  <guid>59542320-1b50-4af8-96d7-931323dbb2c0</guid>
-  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
-  <description><![CDATA[Flere henvendelser om innsyn i militære rulleblader er registrert, med saker fra både første og andre verdenskrig fortsatt under behandling.]]></description>
+  <title><![CDATA[Aktiv uke for innsyn i historiske dokumenter]]></title>
+  <guid>37557759-8b93-4ffe-a8b4-cb846ec196e8</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo og Riksarkivet har behandlet flere forespørsler om innsyn i alt fra eiendomsregistre til militære rulleblader denne uken.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter historiske eiendomsopplysninger]]></title>
-  <guid>572ae7f3-aa5f-4a11-927d-9277df1ff2bb</guid>
-  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo behandler flere forespørsler om gamle eiendomsregistre, inkludert spesifikke gnr/bnr fra ulike norske kommuner.]]></description>
+  <title><![CDATA[Forsinkelse i behandlingen av medaljetildelinger]]></title>
+  <guid>b35d2585-c48b-4562-b5fc-34f1d85b32b3</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Flere saker om tildeling av medaljer, inkludert St. Olavs orden, er fortsatt ubehandlet, noe som indikerer en mulig forsinkelse i prosessen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk i medisinske og offentlige journaler]]></title>
-  <guid>eebff9fe-b296-43ee-9971-69160380f224</guid>
-  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
-  <description><![CDATA[SAO rapporterer om uavsluttede saker vedrørende pasientjournaler og offentlige registre, noe som understreker behovet for tilgang til historiske helseopplysninger.]]></description>
+  <title><![CDATA[Riksarkivet håndterer unikt historisk materiale]]></title>
+  <guid>41606c06-f46f-477c-8b27-79260f74ef73</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Denne uken har Riksarkivet behandlet forespørsler om innsyn i unike historiske data, inkludert arkiver fra Norges Eksportråd og militære hendelser fra 1940.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning på norske krigsbarn]]></title>
-  <guid>9dbb182c-4a8a-422c-a1a1-85be807f823d</guid>
-  <pubDate>Tue, 25 Feb 2025 10:00:55 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer saker knyttet til barn født under krigen, med fokus på å klarlegge deres historie og arv.]]></description>
+  <title><![CDATA[Statsarkivet i Oslo oppdaterer saksbehandlingstider]]></title>
+  <guid>e2a64734-19e1-494a-ad7b-a0f271707ee7</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har effektivisert prosessen for eiendoms- og slektsrelaterte saker, med flere fullførte saker rapportert denne uken.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>73294d16-f8f5-49c4-885e-b0d843985150</guid>
+  <pubDate>Tue, 25 Feb 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
