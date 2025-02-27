@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 27 Feb 2025 08:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 12:01:15 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
-  <guid>94767adc-e6ec-4c34-ac5c-9333a714f3f2</guid>
-  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke henvendelser fra privatpersoner angående landssvik-saker den siste uken. Flere av disse sakene er under behandling, blant annet sakene om Emil Melle og Magnus Mathisen. Behandlingstiden varierer, men flere av sakene er allerede fullført.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>96285bfc-e160-40e1-9b3d-e66f8f3e14be</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Privatpersoner har vist spesielt interesse for saker fra 2. verdenskrig, med forespørsler om blant annet Henrik Brun, Aksel Tønseth og Kolbjørn Østhagen. Dette understreker en vedvarende interesse for historiske rettsprosesser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om statsborgerskap]]></title>
-  <guid>de19780e-c127-42f8-84fc-530133750261</guid>
-  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått flere forespørsler om statsborgerskap. Blant sakene er det en forespørsel om Astrid Marie Führer Iversen, som ble avsluttet nylig. Andre saker, som gjelder en innsender og en annen person, er fortsatt under behandling.]]></description>
+  <title><![CDATA[Digital tilgang til historiske arkiver]]></title>
+  <guid>9a2494c8-7b89-4ab2-8db9-c75747428286</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[Et museum fikk nylig tilgang til digitaliserte dokumenter fra Organisation Todt. Riksarkivet har behandlet og ferdigstilt forespørselen, noe som viser arkivets evne til å imøtekomme behov for digital tilgang til historiske dokumenter for profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Museer får digital tilgang]]></title>
-  <guid>630fd245-2751-4f12-bff2-217e735f7fb5</guid>
-  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
-  <description><![CDATA[Et museum har fått innvilget digital tilgang til dokumenter om Organisation Todt fra Riksarkivet. Søknaden ble raskt behandlet og fullført dagen etter innsendingen. Dette viser effektiviteten i å gi faglige aktører tilgang til viktig historisk informasjon.]]></description>
+  <title><![CDATA[Behandling av statsborgerskapssaker i Riksarkivet]]></title>
+  <guid>1a0d5f7c-74db-4db0-afca-f142605fac7a</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har søkt om innsyn i statsborgerskapssaker hos Riksarkivet. Det er fortsatt ubehandlede forespørsler, som illustrerer pågående etterspørsel og arkivets arbeid med personhistoriske spørsmål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fødselsattest-sak med høy prioritet]]></title>
-  <guid>551ed335-992d-4b7a-aa8c-edd782d513c1</guid>
-  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
-  <description><![CDATA[En forespørsel om fødselsattest for en person født i 1932 i Oslo er merket som hastesak hos Statsarkivet i Oslo. Behandlingstiden for denne typen saker kan variere, men hastemerking indikerer at den vil bli prioritert.]]></description>
+  <title><![CDATA[Rask behandling av arkitekturkopibestillinger]]></title>
+  <guid>14703f0b-3670-4b69-889d-35d59e064d0e</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig ferdigstilt flere kopibestillinger av historiske arkitekturtegninger, inkludert Tyrhaug fyr fra 1831. Dette viser arkivets effektivitet i å håndtere forespørsler fra profesjonelle aktører som etterspør historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivmateriale om Organisation Todt]]></title>
-  <guid>31bde865-ea73-4c63-8258-c56be72db2c7</guid>
-  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
-  <description><![CDATA[En forespørsel om digital tilgang til arkivmateriale om Organisation Todt er blitt raskt behandlet av Riksarkivet, og tilgang er nå gitt. Dette markerer en positiv utvikling i tilgjengeligheten av historiske dokumenter for forskere og profesjonelle aktører.]]></description>
+  <title><![CDATA[Forskerinteresse for 1990-talls dokumenter]]></title>
+  <guid>42928d1d-65c8-427e-b796-2d913788275a</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[En forsker har søkt tilgang til tildelingsbrev fra Arbeids- og administrasjonsdepartementet fra 1997-1999. Dette viser en vedvarende interesse for nyere historiske dokumenter blant forskere, med Riksarkivet som en sentral kilde.]]></description>
+</item>
+<item>
+  <title><![CDATA[Henvendelser om slektshistorie øker]]></title>
+  <guid>7ab630e9-dec5-4aa5-bc3b-77678c4e46dd</guid>
+  <pubDate>Thu, 27 Feb 2025 12:01:15 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har sendt flere forespørsler om slektshistorie, inkludert saker om fødselsattester, statsborgerskap og dødsfall. Dette understreker det økende behovet for tilgang til personhistoriske dokumenter i både Riksarkivet og Statsarkivet i Oslo.]]></description>
 </item>
 
 
