@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 26 Feb 2025 06:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 08:00:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Flere saker om landssvik behandlet]]></title>
-  <guid>90263c2b-fd2c-4b8e-9645-a622e9f013db</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har denne uken behandlet flere saker relatert til landssvik fra andre verdenskrig, inkludert ferdigstillelse av saker for Enok Emandus Enoksen og Emil Melle.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>94767adc-e6ec-4c34-ac5c-9333a714f3f2</guid>
+  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke henvendelser fra privatpersoner angående landssvik-saker den siste uken. Flere av disse sakene er under behandling, blant annet sakene om Emil Melle og Magnus Mathisen. Behandlingstiden varierer, men flere av sakene er allerede fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for slektshistorie]]></title>
-  <guid>2fc7efef-1c68-4975-bc91-1d01126a10d9</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler om slektshistorie, inkludert etterkommere og vitnemål fra tidligere generasjoner.]]></description>
+  <title><![CDATA[Henvendelser om statsborgerskap]]></title>
+  <guid>de19780e-c127-42f8-84fc-530133750261</guid>
+  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler om statsborgerskap. Blant sakene er det en forespørsel om Astrid Marie Führer Iversen, som ble avsluttet nylig. Andre saker, som gjelder en innsender og en annen person, er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullførte saker i Statsarkivet]]></title>
-  <guid>3198f468-d75e-4ad9-a3a1-ae8873d5e012</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo melder om flere nylig fullførte saker, blant annet dødsfall og skifte for Harry Liland og fødsel/dåp for Camilla Strøm i Skedsmo.]]></description>
+  <title><![CDATA[Museer får digital tilgang]]></title>
+  <guid>630fd245-2751-4f12-bff2-217e735f7fb5</guid>
+  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
+  <description><![CDATA[Et museum har fått innvilget digital tilgang til dokumenter om Organisation Todt fra Riksarkivet. Søknaden ble raskt behandlet og fullført dagen etter innsendingen. Dette viser effektiviteten i å gi faglige aktører tilgang til viktig historisk informasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uavsluttede arkivsøk]]></title>
-  <guid>10454185-9437-4fde-a46c-b8a778542210</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har flere pågående arkivsøk, inkludert søk etter historiske militære ruller og offisielle dokumenter fra ulike statlige etater.]]></description>
+  <title><![CDATA[Fødselsattest-sak med høy prioritet]]></title>
+  <guid>551ed335-992d-4b7a-aa8c-edd782d513c1</guid>
+  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
+  <description><![CDATA[En forespørsel om fødselsattest for en person født i 1932 i Oslo er merket som hastesak hos Statsarkivet i Oslo. Behandlingstiden for denne typen saker kan variere, men hastemerking indikerer at den vil bli prioritert.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering og innsyn]]></title>
-  <guid>a18771ad-3531-4a50-8b04-a58f64a04e8c</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med digitalisering og faglig innsyn i historiske dokumenter, inkludert rentekammeret fra før 1814 og dokumenter fra Utenriksdepartementet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>d358bf05-ae67-44a3-96fc-51367bda3bf0</guid>
-  <pubDate>Wed, 26 Feb 2025 06:00:58 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Arkivmateriale om Organisation Todt]]></title>
+  <guid>31bde865-ea73-4c63-8258-c56be72db2c7</guid>
+  <pubDate>Thu, 27 Feb 2025 08:00:56 GMT</pubDate>
+  <description><![CDATA[En forespørsel om digital tilgang til arkivmateriale om Organisation Todt er blitt raskt behandlet av Riksarkivet, og tilgang er nå gitt. Dette markerer en positiv utvikling i tilgjengeligheten av historiske dokumenter for forskere og profesjonelle aktører.]]></description>
 </item>
 
 
