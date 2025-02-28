@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 28 Feb 2025 08:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 12:01:25 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
-  <guid>0513d2fe-1a8e-429c-ba09-4140db5381c9</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om tilgang til landssvikarkiver den siste uken. Flere privatpersoner har vist interesse for saker som spenner fra 1880-tallet til etterkrigstiden. Behandlingstiden varierer, men mange saker er allerede fullført.]]></description>
+  <title><![CDATA[Økning i forespørsel om landssviksaker]]></title>
+  <guid>0b37e474-f213-4570-bd99-7847c28dca34</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene spenner fra personer født på slutten av 1800-tallet til midten av 1900-tallet, og berører både privatpersoner og historikere. Mange av sakene er allerede fullført, men noen venter fortsatt på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for fødsels- og dåpsattester]]></title>
-  <guid>d7436e83-e96c-4b2b-ad82-cc24430fb9b8</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere forespørsler om fødsels- og dåpsattester fra privatpersoner den siste uken. Sakene har standard til lav hastegrad, og flere er ennå ikke fullført. Etterspørselen etter slike dokumenter ser ut til å være stabil.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>c0cc8caf-01fa-4331-bee5-7e415a401df2</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig sendt inn forespørsler om å få tilgang til militære rulleblad. Riksarkivet rapporterer at flere av disse sakene er blitt fullført i løpet av de siste dagene, noe som viser rask behandlingstid for denne typen forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk etter historiske dokumenter øker]]></title>
-  <guid>127a452e-d5b5-47ac-ad18-9f10986ecda6</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Det er en økning i arkivsøk etter historiske dokumenter, både fra privatpersoner og profesjonelle aktører. Dokumentene varierer fra arkitekturtegninger til historiske kart, med flere bestillinger allerede fullført. Behandlingstiden er generelt standard.]]></description>
+  <title><![CDATA[Arkivsøk for akademisk forskning øker]]></title>
+  <guid>b2f91b9e-9a34-4b66-b692-d05012982599</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og andre profesjonelle aktører som søker tilgang til arkivmateriale for akademiske formål. Dette inkluderer saker som omhandler medisinsk forskning og historiske analyser. Flere saker venter fortsatt på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Militære rulleblad populært blant privatpersoner]]></title>
-  <guid>9e2a03d3-7ea4-4d66-bb8b-d1fb15a72441</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad fra privatpersoner. Sakene har standard til lav prioritet, men noen er allerede fullført. Interesse ser ut til å være stabil for denne typen dokumenter.]]></description>
+  <title><![CDATA[Statsarkivet i Oslo håndterer diverse forespørsler]]></title>
+  <guid>68054b08-f7ef-4cd3-ad4f-b2ba660f7b5a</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt en rekke forespørsler, inkludert fødselsattester, eiendomsinformasjon og tilsettingsforhold. Behandlingstiden varierer, men flere saker er fortsatt under behandling, noe som indikerer en jevn strøm av henvendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende interesse for historie under 2. verdenskrig]]></title>
-  <guid>18d467a3-402b-40bf-90c5-ca03184064e3</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Flere henvendelser om historie knyttet til 2. verdenskrig er registrert, inkludert aktiviteter under krigen og motstandsbevegelser. Disse forespørslene har primært kommet fra privatpersoner og har lav til standard hastegrad.]]></description>
+  <title><![CDATA[Stor interesse for kopibestillinger av historiske dokumenter]]></title>
+  <guid>8cc4fbec-f95b-41ed-9b4e-b8bb5723b855</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet rapporterer om en økt interesse for kopibestillinger av historiske dokumenter. Dette inkluderer alt fra arkitekturtegninger til kongelige resolusjoner. Flere bestillinger har blitt fullført, mens enkelte fortsatt er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Profesjonelle aktører søker faglig innsyn]]></title>
-  <guid>36bbc96a-2c84-4787-a366-b13631c3af30</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Profesjonelle aktører søker i økende grad faglig innsyn i arkiver, inkludert utredninger om helsehjelp og dokumenter om statlige overtakelser. Disse forespørslene har standard prioritet, og flere saker er under behandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>c9d4b501-90c6-41d8-830c-71e5a32c0f42</guid>
-  <pubDate>Fri, 28 Feb 2025 08:01:15 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Økt forespørsel om tilgang til historisk helsearkiv]]></title>
+  <guid>a758f507-4b01-43c6-9292-397baff91097</guid>
+  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om utredninger om helsehjelp til transpersoner fra 1956. Dette markerer en økende interesse for historiske helsedokumenter blant profesjonelle aktører. Saken er fortsatt under behandling.]]></description>
 </item>
 
 
