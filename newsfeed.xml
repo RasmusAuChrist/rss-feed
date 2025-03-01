@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 08:01:05 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsel om landssviksaker]]></title>
-  <guid>0b37e474-f213-4570-bd99-7847c28dca34</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene spenner fra personer født på slutten av 1800-tallet til midten av 1900-tallet, og berører både privatpersoner og historikere. Mange av sakene er allerede fullført, men noen venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Økning i etterspørsel etter dødsfall- og skifteopplysninger]]></title>
+  <guid>70fea82a-472d-44bd-95c3-12220d53d92c</guid>
+  <pubDate>Sat, 01 Mar 2025 08:01:05 GMT</pubDate>
+  <description><![CDATA[Det er registrert flere henvendelser om dødsfall og skifte denne uken, både fra privatpersoner og offentlige etater. Dette inkluderer saker som Tor Frimann Haller fra Nannestad og Karl Pettersen fra Tune. Behandlingstiden varierer, men de fleste sakene er fortsatt under behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Landssviksaker fortsatt aktuelle]]></title>
+  <guid>af22b856-ba89-4f47-8e4b-886ef5049ead</guid>
+  <pubDate>Sat, 01 Mar 2025 08:01:05 GMT</pubDate>
+  <description><![CDATA[Landssviksaker fra 2. verdenskrig fortsetter å være en populær forespørsel hos Riksarkivet. Denne uken har det kommet inn flere forespørsler om tilgang til slike dokumenter, blant annet om Henrik Brun og Emil Melle. De fleste av disse sakene har standard hastegrad.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>c0cc8caf-01fa-4331-bee5-7e415a401df2</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig sendt inn forespørsler om å få tilgang til militære rulleblad. Riksarkivet rapporterer at flere av disse sakene er blitt fullført i løpet av de siste dagene, noe som viser rask behandlingstid for denne typen forespørsler.]]></description>
+  <guid>9b5022de-90a5-4b45-8c07-47c3a3936e9b</guid>
+  <pubDate>Sat, 01 Mar 2025 08:01:05 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad den siste uken, inkludert for personer født på 1920- og 1950-tallet. Noen av disse sakene er allerede ferdigbehandlet, mens andre fortsatt er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk for akademisk forskning øker]]></title>
-  <guid>b2f91b9e-9a34-4b66-b692-d05012982599</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og andre profesjonelle aktører som søker tilgang til arkivmateriale for akademiske formål. Dette inkluderer saker som omhandler medisinsk forskning og historiske analyser. Flere saker venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Behov for historisk innsikt i helse og arkitektur]]></title>
+  <guid>ffc2629e-60b6-4443-977f-a015682c8a31</guid>
+  <pubDate>Sat, 01 Mar 2025 08:01:05 GMT</pubDate>
+  <description><![CDATA[Det har vært flere forespørsler om arkivsøk relatert til historiske utredninger om helse og arkitektur. Dette inkluderer en utredning om helsehjelp til transpersoner fra 1956 og arkitekturtegninger av offentlige bygg. Behandling av disse sakene pågår fortsatt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Statsarkivet i Oslo håndterer diverse forespørsler]]></title>
-  <guid>68054b08-f7ef-4cd3-ad4f-b2ba660f7b5a</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt en rekke forespørsler, inkludert fødselsattester, eiendomsinformasjon og tilsettingsforhold. Behandlingstiden varierer, men flere saker er fortsatt under behandling, noe som indikerer en jevn strøm av henvendelser.]]></description>
-</item>
-<item>
-  <title><![CDATA[Stor interesse for kopibestillinger av historiske dokumenter]]></title>
-  <guid>8cc4fbec-f95b-41ed-9b4e-b8bb5723b855</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet rapporterer om en økt interesse for kopibestillinger av historiske dokumenter. Dette inkluderer alt fra arkitekturtegninger til kongelige resolusjoner. Flere bestillinger har blitt fullført, mens enkelte fortsatt er under behandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Økt forespørsel om tilgang til historisk helsearkiv]]></title>
-  <guid>a758f507-4b01-43c6-9292-397baff91097</guid>
-  <pubDate>Fri, 28 Feb 2025 12:01:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel om utredninger om helsehjelp til transpersoner fra 1956. Dette markerer en økende interesse for historiske helsedokumenter blant profesjonelle aktører. Saken er fortsatt under behandling.]]></description>
+  <title><![CDATA[Etterspørsel etter fødsels- og vigselsattester]]></title>
+  <guid>15e59136-9d15-4a7d-85cd-60e52882d4c4</guid>
+  <pubDate>Sat, 01 Mar 2025 08:01:05 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser om fødsels- og vigselsattester, inkludert forespørsler fra Ullensaker og Sagene i Oslo. Disse forespørslene behandles med varierende hastegrad, og mange er fortsatt under behandling.]]></description>
 </item>
 
 
