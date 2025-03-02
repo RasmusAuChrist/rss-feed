@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 02 Mar 2025 08:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 12:00:58 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssviksaker]]></title>
-  <guid>b85fed54-8931-4323-9d4f-632976fed897</guid>
-  <pubDate>Sun, 02 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok en rekke forespørsler om tilgang til landssviksaker den siste uken. Forespørslene kommer fra privatpersoner og har generelt lav hastegrad. Flere av sakene er fortsatt under behandling.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvik-saker]]></title>
+  <guid>304ed0f6-05e6-4ae7-88a7-dbbab2a9b6dd</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar mange forespørsler om landssvik-saker fra privatpersoner. De siste ukene har det kommet inn flere henvendelser angående landssvik under og etter andre verdenskrig, fra flere steder i landet. Etterspørselen viser stor interesse for denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dødsfalls- og skiftedokumenter]]></title>
-  <guid>3a5d1d2d-06a0-4047-9508-5ab45dca9b96</guid>
-  <pubDate>Sun, 02 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har den siste uken mottatt flere forespørsler om dødsfalls- og skiftedokumenter, både fra privatpersoner og offentlige etater. Behandlingstiden varierer, men flere saker er ennå ikke avsluttet.]]></description>
+  <title><![CDATA[Økt etterspørsel etter dødsfall og skiftesaker]]></title>
+  <guid>612d1c60-d4b8-4190-afd7-3c4c9c127d68</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en økning i forespørsler om dødsfall og skiftesaker, både fra privatpersoner og offentlige etater. Sakene varierer i hastegrad, men mange krever rask behandling for juridiske eller personlige formål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om militære rulleblad]]></title>
-  <guid>52628a50-34ae-43b9-a13a-e162aa9c843d</guid>
-  <pubDate>Sun, 02 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Henvendelser om militære rulleblad har vært hyppige i Riksarkivet den siste uken. Mange av forespørslene er fra privatpersoner med standard hastegrad, og noen av sakene har allerede blitt ferdigbehandlet.]]></description>
+  <title><![CDATA[Forespørsler om fødsels- og dåpsattester]]></title>
+  <guid>ba472177-4a90-47a4-9022-5dd3b0aef843</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar jevnlig forespørsler fra privatpersoner om fødsels- og dåpsattester. Selv om de fleste sakene har lav hastegrad, er det fortsatt et jevnt behov for tilgang til disse historiske dokumentene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk og kopibestillinger]]></title>
-  <guid>fb00ccb5-1591-4b9f-8abb-02a6160ee2cb</guid>
-  <pubDate>Sun, 02 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Det har vært en betydelig mengde arkivsøk og kopibestillinger i Riksarkivet den siste uken. Forespørslene kommer fra både privatpersoner og profesjonelle aktører, med varierende hastenivå og flere saker fortsatt ubehandlet.]]></description>
+  <title><![CDATA[Behov for militære rulleblad]]></title>
+  <guid>e83545ec-e346-4671-944c-5f5f6e0ecaec</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig bedt om tilgang til militære rulleblad i Riksarkivet. Dette kan tyde på økt interesse for personlig og slektshistorie, samt behov for dokumentasjon i forbindelse med pensjon og andre ordninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker historisk informasjon]]></title>
-  <guid>fa80fa06-dd5f-4005-8e5c-a6751df76434</guid>
-  <pubDate>Sun, 02 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Privatpersoner har sendt inn mange forespørsler til Riksarkivet om historisk informasjon, inkludert slektsforskning, statsborgerskap, og krigshistorie. De fleste sakene har lav til standard hastegrad og er under behandling.]]></description>
+  <title><![CDATA[Offentlig etat etterspør eiendomsinformasjon]]></title>
+  <guid>c6fef009-8755-47fd-8b6e-3b8887ad00fe</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt flere forespørsler til Statsarkivet i Oslo om eiendomsinformasjon. Disse sakene har ofte høyere hastegrad, ettersom de brukes i pågående saksbehandlinger som krever rask tilgang til nødvendige dokumenter.]]></description>
+</item>
+<item>
+  <title><![CDATA[Arkivsøk om helsehjelp til transpersoner]]></title>
+  <guid>b7395b52-73f3-4c2b-98ea-2e8a32b83b1d</guid>
+  <pubDate>Sun, 02 Mar 2025 12:00:58 GMT</pubDate>
+  <description><![CDATA[En profesjonell aktør har bedt om arkivsøk i Riksarkivet for å finne utredninger om helsehjelp til transpersoner fra 1956. Dette kan indikere økt akademisk eller politisk interesse for historiske helsetiltak relatert til LHBTQ+-samfunnet.]]></description>
 </item>
 
 
