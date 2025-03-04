@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 04 Mar 2025 08:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:01:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i etterspørsel etter landssvik-saker]]></title>
-  <guid>bbbb1ed7-68b5-4b62-a40c-c2865698ca99</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om innsyn i saker relatert til landssvik. Flere privatpersoner har opprettet forespørsler om mulige landssvik-saker fra både første og andre verdenskrig. Dette viser en stor interesse for historiske forhold og krigsoppgjør blant allmennheten.]]></description>
+  <title><![CDATA[Økning i landssviksaker]]></title>
+  <guid>a106d690-853d-49c1-b33d-4129afb10dd4</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde henvendelser om landssviksaker. Denne økningen kan indikere en økt interesse for historiske etterforskninger fra privatpersoner. Henvendelsene varierer i hastegrad, men de fleste er klassifisert som standard.]]></description>
 </item>
 <item>
-  <title><![CDATA[Stor etterspørsel etter militære rulleblad]]></title>
-  <guid>b997232e-edf2-43c5-9dde-e1d2e7d9d512</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har den siste uken mottatt flere forespørsler om innsyn i militære rulleblad. Privatpersoner søker informasjon om slektningers militære tjeneste, noe som kan indikere et økt fokus på familiehistorie og slektsforskning.]]></description>
+  <title><![CDATA[Flere forespørsler om fødsels- og dødsattester]]></title>
+  <guid>45cc71ac-f113-4b79-b72a-6f8314ea5abf</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en økning i forespørsler om fødsels- og dødsattester fra privatpersoner. Saker som gjelder fødselsattester har generelt standard hastegrad, mens dødsfallsaker ofte behandles raskere på grunn av kortere frister.]]></description>
 </item>
 <item>
-  <title><![CDATA[Stort fokus på eiendomssaker hos Statsarkivet]]></title>
-  <guid>0c1f51a1-7a43-48bb-9c29-a9e05fa8c160</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått inn flere forespørsler om eiendomssaker fra både privatpersoner og offentlige etater. Behovet for dokumentasjon og avskrifter knyttet til eiendommer viser viktigheten av arkivtjenester for eiendomsforvaltning og rettighetsavklaringer.]]></description>
+  <title><![CDATA[Arkitektoniske kopibestillinger vokser]]></title>
+  <guid>0666d740-aae4-4dad-ad06-bcd0b978e549</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler om kopibestillinger av arkitekturtegninger fra både privatpersoner og profesjonelle aktører. Dette inkluderer historiske bygg og fyr, med standard hastegrad på de fleste forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere forespørsler om fødsels- og dåpsattester]]></title>
-  <guid>06ffeebb-c158-4c0c-9322-474d8014da7c</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har registrert en økning i antall forespørsler om fødsels- og dåpsattester. Privatpersoner søker dokumentasjon for ulike formål, inkludert slektsforskning og juridiske behov. Dette understreker viktigheten av arkivtjenester for personlig dokumentasjon.]]></description>
+  <title><![CDATA[Interesse for krigsbarn-saker]]></title>
+  <guid>8210821a-99a3-4131-8e7c-0c9e57ce0c8d</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler til Riksarkivet angående krigsbarn. Dette kan reflektere en økt interesse for personlig historie og slektsforskning knyttet til 2. verdenskrig. Sakene har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk interesse for arkitektur]]></title>
-  <guid>2dd529d3-071b-45cf-9513-271a372da953</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever økt interesse for arkitektonisk historie, med flere forespørsler om arkitekturtegninger fra 1800-tallet. Profesjonelle aktører søker etter historiske tegninger av kirker og fyr, noe som reflekterer en økt bevissthet rundt bevaring av kulturell arv.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>15d7a5fc-79f7-4806-b3e9-393c2bdb8b9e</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler om militære rulleblad fra privatpersoner. Disse henvendelsene viser en jevn interesse for personlig militærhistorie, med mange saker allerede fullført innen kort tid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter informasjon om krigsbarn]]></title>
-  <guid>8e605d44-775f-4d32-8091-ebf46d390b22</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om informasjon om krigsbarn. Privatpersoner søker etter opplysninger om familierelaterte historier fra andre verdenskrig, noe som indikerer en vedvarende interesse for denne delen av historien. Dette kan bidra til økt forståelse og anerkjennelse av krigsbarns skjebner.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>af903420-c3af-47e6-9034-c2329bb3e041</guid>
-  <pubDate>Tue, 04 Mar 2025 08:01:10 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Forskere søker arkivsøk]]></title>
+  <guid>9f1a68e2-9c61-4d17-bcc3-71875b6a5888</guid>
+  <pubDate>Tue, 04 Mar 2025 12:01:04 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler fra forskere og studenter om arkivsøk til bruk i akademiske arbeider. Disse henvendelsene varierer, men inkluderer alt fra statlige politiske dokumenter til historiske analyser, med standard hastegrad.]]></description>
 </item>
 
 
