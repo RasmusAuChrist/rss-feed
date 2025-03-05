@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 05 Mar 2025 08:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 12:07:47 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
-  <guid>41100e85-897e-4142-9ce0-a345ca6eb91c</guid>
-  <pubDate>Wed, 05 Mar 2025 08:01:08 GMT</pubDate>
-  <description><![CDATA[I løpet av den siste uken har det kommet inn flere forespørsler om landssviksaker fra privatpersoner til Riksarkivet. Sakene spenner over et bredt spekter av år, med flere forespørsler knyttet til personer født på slutten av 1800-tallet og tidlig 1900-tall. Dette indikerer en vedvarende interesse for historisk forskning på dette feltet.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>d433f97d-16c2-48d5-92c2-98370d612b68</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser om landssviksaker har kommet inn den siste uken, inkludert saker relatert til individer født så tidlig som på 1800-tallet. Behandlingen av disse sakene er i gang, men ingen av dem er fullført ennå.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere henvendelser om militært rulleblad]]></title>
-  <guid>4cf01419-6bd0-47c0-89db-5dc38b2a5f08</guid>
-  <pubDate>Wed, 05 Mar 2025 08:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere henvendelser fra privatpersoner angående militære rulleblad den siste uken. Sakene gjelder personer født i forskjellige tiår som søker innsikt i sin militære fortid. Dette er en del av et pågående mønster med økt interesse for personlig militærhistorie.]]></description>
+  <title><![CDATA[Militære rulleblad fortsatt populært]]></title>
+  <guid>f1c43c30-b751-457c-9e94-2cecaf1a474e</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Etterspørselen etter militære rulleblad er høy. Flere privatpersoner har søkt om innsyn i slike dokumenter. Noen forespørsler er allerede behandlet, mens flere fortsatt er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk relatert til utdanning og helse]]></title>
-  <guid>c74cbbb2-92c6-431c-8d37-4fb7faa1c00c</guid>
-  <pubDate>Wed, 05 Mar 2025 08:01:08 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i arkivsøksaker relatert til utdannings- og helseinstitusjoner. Blant sakene er forespørsler om historiske elevlister fra Luftforsvarets befalskole og utredninger om helsehjelp til transpersoner. Dette speiler et bredt spekter av forskningsinteresser i arkivmateriale.]]></description>
+  <title><![CDATA[Historiske eiendomssaker]]></title>
+  <guid>8c249696-b463-4a50-a351-93bc28491fe9</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Forespørsler om innsyn i historiske eiendomssaker har økt. Privatpersoner og offentlige etater søker informasjon om eiendommer både i Norge og utlandet. Behandlingen av disse sakene er pågående.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt forespørsel om omvisningsturer]]></title>
-  <guid>5f29ff5c-5ded-45e8-9f21-2ed08e2dcdda</guid>
-  <pubDate>Wed, 05 Mar 2025 08:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om omvisninger fra profesjonelle aktører, inkludert studiegrupper fra kulturhus og borettslag. Dette viser en økende interesse for å lære mer om arkivets arbeid og dets historiske samlinger.]]></description>
+  <title><![CDATA[Forespørsler om fødsels- og vigselsdokumenter]]></title>
+  <guid>05cb469f-f59a-46c1-a032-ed9f75d85cee</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har sendt inn forespørsler om dokumenter knyttet til fødsel, dåp og vigsel. Behandlingen av disse forespørslene varierer, med noen fullførte saker og andre fortsatt i prosess.]]></description>
 </item>
 <item>
-  <title><![CDATA[Nye forespørsler om statsborgerskap]]></title>
-  <guid>b57db9bc-0b3b-48ce-8f6b-e0c21046780b</guid>
-  <pubDate>Wed, 05 Mar 2025 08:01:08 GMT</pubDate>
-  <description><![CDATA[Det har kommet inn flere forespørsler om statsborgerskap til Riksarkivet den siste uken. Sakene gjelder personer som søker dokumentasjon for å støtte deres krav om statsborgerskap. Dette understreker viktigheten av arkivene i juridiske og personlige anliggender.]]></description>
+  <title><![CDATA[Omvisningsforespørsler i Riksarkivet]]></title>
+  <guid>6dcc343a-a6b0-40dc-b472-87c91b578ac2</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Det har kommet flere forespørsler om omvisning i Riksarkivet, både fra studiegrupper og borettslag. Ingen av forespørslene er foreløpig fullført, men behandlingen er i gang.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forespørsler om medaljetildelinger]]></title>
+  <guid>3db6e7bd-62ae-4ed3-812b-131cf4e665ae</guid>
+  <pubDate>Wed, 05 Mar 2025 12:07:47 GMT</pubDate>
+  <description><![CDATA[Arkivet har mottatt forespørsler om medaljetildelinger, inkludert Kongens Fortjenstmedalje og St. Olavsmedaljen. Noen av disse forespørslene er ferdigbehandlet, mens andre fortsatt prosesseres.]]></description>
 </item>
 
 
