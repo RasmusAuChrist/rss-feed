@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 19 Mar 2025 08:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 12:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssviksaker]]></title>
-  <guid>b57b7e75-626e-4b94-bc2d-bada87c99159</guid>
-  <pubDate>Wed, 19 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever en økning i antall henvendelser om landssviksaker. Flere privatpersoner har nylig sendt inn forespørsler om innsyn i saker fra andre verdenskrig. Behandlingstiden varierer, men flere saker er allerede ferdigbehandlet. Dette tyder på økt interesse for historie og slektsforskning.]]></description>
+  <title><![CDATA[Økende interesse for landssviksaker]]></title>
+  <guid>77dbd35a-cbf0-4eac-9ed7-7290a4ff13e4</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[Den siste uken har Riksarkivet mottatt en rekke forespørsler om landssviksaker fra privatpersoner. Flere saker, inkludert de om Lauritz Gunnerius Bryhn og Jens Habel Jenssen, er allerede fullført, mens andre fortsatt behandles. Dette viser en vedvarende interesse for denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning og utdanning i fokus]]></title>
-  <guid>51c38de8-c7c5-4767-b398-df9cbc732470</guid>
-  <pubDate>Wed, 19 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo (SAO) har fullført en sak om kildeveiledning for forskere og studenter. Dette viser arkivets engasjement for å støtte akademisk arbeid. Slike henvendelser bidrar til å fremme forskning og utdanning i Norge.]]></description>
+  <title><![CDATA[Forskerforespørsler om tildelingsbrev og folketellinger]]></title>
+  <guid>5abde3ee-f0e9-44b5-84ff-42885522d373</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[Forskere og studenter har nylig innsendt forespørsler til Riksarkivet om tilgang til tildelingsbrev fra Arbeids- og administrasjonsdepartementet samt historiske folketellinger. Disse sakene er viktige for akademisk forskning og er under behandling med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av hastesaker]]></title>
-  <guid>c0cced6c-60c3-4aa3-aa3d-8c65b10d344c</guid>
-  <pubDate>Wed, 19 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[En sak om tilgang til et historisk arkiv fra Justisdepartementet ble behandlet raskt på Riksarkivet. Med høy hastegrad ble saken fullført på samme dag, noe som understreker arkivets effektivitet i håndtering av tidssensitive henvendelser.]]></description>
+  <title><![CDATA[Flere henvendelser om slektsforskning]]></title>
+  <guid>54f635fe-ed50-42c8-b6d1-6b362e26419b</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[Privatpersoner viser økende interesse for slektsforskning, med flere saker relatert til slektstrær og historiske dokumenter. Blant disse er saker om fanger fra 2. verdenskrig og slektskap i Trondheim og Oslo. Dette indikerer en økt etterspørsel etter personhistoriske arkiver.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for dødsfall og skifte]]></title>
-  <guid>8acc2583-5c6a-4a90-9597-ac9a6629434b</guid>
-  <pubDate>Wed, 19 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottar flere forespørsler om dødsfall og skifte fra profesjonelle aktører. Dette peker på en økt etterspørsel etter informasjon om eiendoms- og arvesaker, viktige temaer for mange brukere av arkivtjenester.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>d961be0e-6001-4d07-959a-762e391a0e2e</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner angående militære rulleblad. Saker som de om Livar Lie og Erling Peder Berge har blitt behandlet. Dette reflekterer en interesse for militærhistorie og personlig dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Militære rulleblade i fokus]]></title>
-  <guid>54b23a2b-af5e-41eb-9262-aa1322009e8e</guid>
-  <pubDate>Wed, 19 Mar 2025 08:00:59 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har behandlet flere forespørsler om militære rulleblade. Privatpersoner viser stor interesse for slike dokumenter, som gir innsikt i militærhistorie og personlige slektshistorier. Flere saker er allerede fullført, noe som viser arkivets effektive håndtering.]]></description>
+  <title><![CDATA[Historiske forespørsler om norsk politikk og samfunn]]></title>
+  <guid>64cb4297-4988-41b7-a6b2-8c8c4af9fa4b</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet håndterer flere forespørsler om historiske emner, blant annet regjeringens beslutninger fra 1940 og Grunnloven § 25. Disse sakene, som fremdeles behandles, viser en vedvarende interesse for Norges politiske historie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Sak om innsyn i Justisdepartementets arkiv raskt fullført]]></title>
+  <guid>d1777e22-a08e-4da1-84b4-eae3f9b5187d</guid>
+  <pubDate>Wed, 19 Mar 2025 12:00:55 GMT</pubDate>
+  <description><![CDATA[En hastesak om tilgang til eget historisk arkiv fra Justisdepartementet ble raskt behandlet og fullført samme dag som den ble opprettet. Dette viser effektivitet i håndteringen av saker med høy hastegrad hos Riksarkivet.]]></description>
 </item>
 
 
