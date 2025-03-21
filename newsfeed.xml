@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 21 Mar 2025 08:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 12:00:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy etterspørsel etter landssvikarkiver]]></title>
-  <guid>a93f107c-c5a0-4322-acb1-e0d8f0128872</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om landssviksaker den siste uken. Privatpersoner står for flesteparten av henvendelsene, som gjelder enkeltpersoners involvering under krigen. Flere saker er allerede fullført, men mange venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>dca3b48d-9ead-48e0-a55b-51e73abbe076</guid>
+  <pubDate>Fri, 21 Mar 2025 12:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssvik-saker fra andre verdenskrig. Mange av disse sakene er ferdigbehandlet, mens noen fortsatt er under arbeid. Dette viser en vedvarende interesse for historiske hendelser relatert til krigen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende interesse for slektsforskning]]></title>
-  <guid>a248f9dc-0ef5-4dec-bc1d-932dbfa5a235</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig kontaktet Riksarkivet og Statsarkivet i Oslo for å finne informasjon om slektninger, med fokus på de som var aktive under 2. verdenskrig. Dette inkluderer både etterkommere av fanger og personer med tilknytning til motstandsbevegelsen.]]></description>
+  <title><![CDATA[Høy aktivitet på statsborgerskapssøknader]]></title>
+  <guid>b91a9fe0-5363-4d9f-a167-dd39a3b139c4</guid>
+  <pubDate>Fri, 21 Mar 2025 12:00:56 GMT</pubDate>
+  <description><![CDATA[Det er flere ubehandlede forespørsler i Riksarkivet relatert til statsborgerskapssøknader. Blant disse er det både hastesaker og standard saker. Økt oppmerksomhet rundt statsborgerskap kan tyde på en generell økning i forespørsel om slike tjenester.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker eiendomsinformasjon]]></title>
-  <guid>8cd5d174-5b61-435a-85b6-0115d64832bc</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn forespørsler til Riksarkivet og Statsarkivet i Oslo vedrørende eiendommer i Oslo og Lørenskog. Behandling av disse forespørslene er pågående, med standard hastegrad.]]></description>
+  <title><![CDATA[Forskningsprosjekter prioriteres i Riksarkivet]]></title>
+  <guid>c1a41ae3-79d7-485a-bf3f-99ab36f4963c</guid>
+  <pubDate>Fri, 21 Mar 2025 12:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har flere uavsluttede forskningsprosjekter, inkludert temaer som skeivhet til sjøs og Mellbye-utvalget. Dette indikerer en aktiv interesse fra forskere og studenter i å grave dypere i historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk innsikt etterspurt av forskere]]></title>
-  <guid>9593d43f-c38d-4d41-a39f-df6e3e20ccf3</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Forskere og studenter henvender seg til Riksarkivet for kildeveiledning og forskning knyttet til Norges historie, inkludert temaer som motstand under 2. verdenskrig og kirkestriden i Kopervik. Flere av disse forespørslene er under behandling.]]></description>
+  <title><![CDATA[Offentlige etater søker veiledning]]></title>
+  <guid>1e8c8553-79f3-4e1b-bcae-72096c01173f</guid>
+  <pubDate>Fri, 21 Mar 2025 12:00:56 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo og Riksarkivet har mottatt flere forespørsler fra offentlige etater, inkludert om NSB og eiendomsforvaltning. Dette viser en pågående bruk av arkivene for offentlig formål og beslutningstaking.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere henvendelser om statsborgerskap]]></title>
-  <guid>d3663dbf-92ba-4b00-a080-70144b637caf</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner angående statsborgerskap, for både nåværende og tidligere norske statsborgere. Disse sakene behandles med standard hastegrad, og ingen er ennå fullført.]]></description>
-</item>
-<item>
-  <title><![CDATA[Økt fokus på historiske dokumenter]]></title>
-  <guid>69ac14d5-91b9-42e5-a993-d68a59015567</guid>
-  <pubDate>Fri, 21 Mar 2025 08:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått henvendelser om tilgang til historiske dokumenter, inkludert straffesaker fra 1925, regjeringens beslutninger fra 1940 og andre verdenskrigspropaganda. Disse sakene speiler en økende interesse for å forstå Norges historie gjennom primærkilder.]]></description>
+  <title><![CDATA[Økt etterspørsel etter historiske dokumenter]]></title>
+  <guid>6215b078-e509-4061-9638-5e0552d9bf1d</guid>
+  <pubDate>Fri, 21 Mar 2025 12:00:56 GMT</pubDate>
+  <description><![CDATA[Arkivene mottar mange forespørsler om tilgang til historiske dokumenter, som tegneserier fra krigen og kirkestriden i Kopervik. Dette gjenspeiler en økende interesse for å forstå fortidens innvirkning på dagens samfunn.]]></description>
 </item>
 
 
