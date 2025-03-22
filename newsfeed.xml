@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Mar 2025 08:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 12:00:45 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Søknad om statsborgerskap for privatpersoner]]></title>
-  <guid>5e8e457a-04aa-452c-b939-c7585b04cd30</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Flere personer har denne uken søkt om statsborgerskap gjennom Riksarkivet, inkludert saker med høy prioritet. Behandlingen av slike saker viser et jevnt søknadsmønster blant privatpersoner, noe som krever effektiv saksbehandling for å møte standard hastegrad.]]></description>
+  <title><![CDATA[Stor interesse for landssvikarkiver]]></title>
+  <guid>164c55d8-87be-4779-b55c-83f7ad3937e1</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om landssviksaker den siste uken. Blant annet har saker om Kittil Askildt og Hans Andreas Birkeland blitt behandlet. Dette viser en vedvarende interesse fra privatpersoner for historiske rettssaker fra andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter landssvikarkiver]]></title>
-  <guid>9f7a4275-c824-43fe-a79e-564c105082da</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok en betydelig mengde forespørsler knyttet til landssvikarkiver den siste uken. Forespørslene kommer hovedsakelig fra privatpersoner og dreier seg om etterforskning av historiske saker, noe som understreker interessen for denne perioden i norsk historie.]]></description>
+  <title><![CDATA[Forskerprosjekt om "Skeivhet til sjøs"]]></title>
+  <guid>7c202f96-4393-4e12-b01b-41cf2e64d4b2</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Et forskningsprosjekt med tittelen "Skeivhet til sjøs" har blitt innmeldt til Riksarkivet. Prosjektet, som er tilknyttet en forsker/student, undersøker skeiv kultur i sjøfartshistorie. Behandlingen er pågående, og det forventes at materialet vil gi innsikt i et unikt forskningsfelt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fartsdokumentasjon fra krigen]]></title>
-  <guid>4f61b4f1-6a4e-445b-b9e8-bd9e3f7f5a98</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler om fartstid under krigen. Slike forespørsler, som gjelder lav prioritet, kan indikere en økt interesse for personlig og familiær historie relatert til krigstjeneste. Behandlingen pågår fortsatt.]]></description>
+  <title><![CDATA[Etterspørsel etter fødsels- og dåpsattester]]></title>
+  <guid>a94a4bbf-0f11-4c37-ab09-3d80b8a4a92b</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødsels- og dåpsattester, inkludert saker fra Oppegård og Moss fra 1960- og 1970-tallet. Behandlingen av disse forespørslene har standard hastegrad, noe som sikrer at privatpersoner får tilgang til viktige dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økning i forespørsler om fødsels- og dåpsattester]]></title>
-  <guid>2fa05afb-b0f6-4799-b1df-33e6ea091f31</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har registrert flere forespørsler om fødsels- og dåpsattester fra privatpersoner. Disse henvendelsene har standard hastegrad, men bidrar til en økt arbeidsmengde for arkivet. Dette viser en vedvarende interesse for slektsforskning og personlig dokumentasjon.]]></description>
+  <title><![CDATA[Kopibestilling fra offentlig etat]]></title>
+  <guid>a11a6076-038b-45a6-a613-6d41c8681704</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om kopibestilling av et brev til Statkraft fra 1994 fra en offentlig etat. Saken er under behandling med standard hastegrad. Dette viser arkivets rolle i å støtte offentlig forvaltning med tilgang til historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske eiendomsarkiver i fokus]]></title>
-  <guid>f15a7001-8447-43e8-af1d-d532e8d00267</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Oslo-arkivet har mottatt flere forespørsler fra offentlige etater om historiske eiendomsarkiver. Disse forespørslene, som har standard prioritet, tyder på en økt etterspørsel etter eiendomsdokumentasjon for administrativt bruk.]]></description>
+  <title><![CDATA[Etterspørsel etter historisk kildeveiledning]]></title>
+  <guid>124524d5-3fba-463a-979b-bec48f8200ce</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[En rekke forespørsler om kildeveiledning har vært innlevert den siste uken, inkludert saker om NSB og straffesaker fra 1925. Dette indikerer en økende interesse for historisk forskning blant privatpersoner og offentlige etater.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om erstatning etter andre verdenskrig]]></title>
-  <guid>417e3873-ccd8-4e50-b854-6b9884039039</guid>
-  <pubDate>Sat, 22 Mar 2025 08:00:48 GMT</pubDate>
-  <description><![CDATA[Privatpersoner har søkt om erstatning relatert til hendelser under andre verdenskrig. Forespørslene omhandler både kystbåter og norske jøder, noe som reflekterer en bred interesse for rettferdighet og oppreisning i etterkrigstiden. Behandlingen av disse sakene varierer i hastegrad.]]></description>
+  <title><![CDATA[Dødsfall og skifte-saker prioriteres]]></title>
+  <guid>8d61803f-1d4f-442c-8d4f-b84e1ec93c06</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo prioriterer behandling av saker relatert til dødsfall og skifte, med flere forespørsler fra offentlige etater og profesjonelle aktører. Saker fra både Oslo og Lørenskog har fått kortere behandlingstid, noe som muliggjør raskere avklaring i arvespørsmål.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>a1def7bf-afbd-493b-ab3e-f7f401cb03b1</guid>
+  <pubDate>Sat, 22 Mar 2025 12:00:45 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
