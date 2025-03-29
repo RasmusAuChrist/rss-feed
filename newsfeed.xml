@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 28 Mar 2025 12:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 08:00:33 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy aktivitet på forespørsler om landssvik]]></title>
-  <guid>28b6dd0e-a79a-49e1-ac6e-6c8f290da4e7</guid>
-  <pubDate>Fri, 28 Mar 2025 12:00:44 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikssaker de siste dagene. Brukergruppen strekker seg fra privatpersoner til forskere. Sakene har varierende hastegrad, men alle er behandlet innen kort tid.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikssaker]]></title>
+  <guid>9864ddfc-6c17-48ef-b031-7ee12256b2f6</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[Riksarkivet rapporterer en økning i forespørsler om tilgang til landssvikssaker fra privatpersoner. Flere av disse har standard hastegrad og venter fortsatt på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>7d2bc52f-6077-411c-a32f-015d942133f9</guid>
-  <pubDate>Fri, 28 Mar 2025 12:00:44 GMT</pubDate>
-  <description><![CDATA[Forespørsler om militære rulleblad har vært en gjenganger i den siste uken. Privatpersoner har primært søkt innsyn i arkivene. Flere av disse sakene er allerede ferdigbehandlet, med standard hastegrad.]]></description>
+  <title><![CDATA[Helse- og omsorgsdepartementet søker historisk arkivtilgang]]></title>
+  <guid>2a5106c8-4687-44de-b8bf-1cfe9ee1107a</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[Helse- og omsorgsdepartementet har bedt Riksarkivet om tilgang til eget historisk arkiv fra en sak fra 1995. Forespørselen er ennå ikke fullført og har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske eiendomssaker i Sarpsborg]]></title>
-  <guid>ebb97dd7-7f6f-4fc7-ae0a-ef89f5ad490a</guid>
-  <pubDate>Fri, 28 Mar 2025 12:00:44 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt to forespørsler om avskrifter av eiendomssaker fra Sarpsborg med høy hastegrad. Sakene er ennå ikke ferdigbehandlet og viser et økende behov for rask eiendomsdokumentasjon.]]></description>
+  <title><![CDATA[Flere forespørsler om militære rulleblad]]></title>
+  <guid>826af417-4f41-4cdf-bd32-7d1094d032c2</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler fra privatpersoner om tilgang til militære rulleblad, inkludert flere nye saker den siste uken. Dette inkluderer både standard og lav hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende interesse for slektsforskning]]></title>
-  <guid>1c89ed3b-fe9d-4017-b710-020ad23e7c7e</guid>
-  <pubDate>Fri, 28 Mar 2025 12:00:44 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om slektsopplysninger har kommet inn til både Riksarkivet og Statsarkivet i Oslo. Saker omfatter blant annet slektninger fanget under 2. verdenskrig og personer knyttet til Kristiania tukthus. Hastegraden er hovedsakelig lav.]]></description>
+  <title><![CDATA[Etterspørsel etter skilsmissedokumenter øker]]></title>
+  <guid>807edb89-3117-4f2d-9dfb-4e9e3c72139e</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om skilsmissedokumenter. En av de nyeste sakene er prioritert som hastesak, mens en annen fra 1947 har lav hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om krigsrelaterte dokumenter]]></title>
-  <guid>6e000828-7a02-4af6-a30a-f0df77209e7c</guid>
-  <pubDate>Fri, 28 Mar 2025 12:00:44 GMT</pubDate>
-  <description><![CDATA[Det er en markant økning i forespørsler relatert til krigstiden, inkludert fartstid under krigen og krigsbarn. Privatpersoner er den største brukergruppen, og sakene har varierende hastegrad, med noen allerede ferdigstilt.]]></description>
+  <title><![CDATA[Offentlige etater søker eiendomsinformasjon]]></title>
+  <guid>0a31e0d1-6e07-4332-aa4d-0f480a498202</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt forespørsler til Statsarkivet i Oslo om eiendomsavskrifter i Sarpsborg. Begge sakene har høy prioritet og venter fortsatt på behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskerinnsyn i Sannhets- og forsoningskommisjonen]]></title>
+  <guid>0de51d21-deb4-4121-bdb3-ff66ed7f0ba2</guid>
+  <pubDate>Sat, 29 Mar 2025 08:00:33 GMT</pubDate>
+  <description><![CDATA[En forsker/student har søkt innsyn i Sannhets- og forsoningskommisjonens arkiver. Forespørselen er merket med standard hastegrad og er fortsatt under behandling.]]></description>
 </item>
 
 
