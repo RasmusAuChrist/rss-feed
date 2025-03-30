@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 30 Mar 2025 07:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 11:14:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssvik-henvendelser]]></title>
-  <guid>9ad34e0b-9cd5-4564-8f44-39a885f00714</guid>
-  <pubDate>Sun, 30 Mar 2025 07:00:27 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar stadig flere forespørsler om landssvik-saker fra privatpersoner. Nylige tilfeller inkluderer forespørsler om individer født mellom 1865 og 1921. Dette viser en vedvarende interesse for historiske rettssaker fra andre verdenskrig.]]></description>
-</item>
-<item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>2136acf8-b96b-446b-b50a-992d09c47f9d</guid>
-  <pubDate>Sun, 30 Mar 2025 07:00:27 GMT</pubDate>
-  <description><![CDATA[Forespørsler om militære rulleblad har økt i det siste. Riksarkivet har nylig behandlet saker for individer født mellom 1894 og 1979. Dette indikerer en interesse for militærhistorie og personlige historier knyttet til Norges forsvar.]]></description>
+  <title><![CDATA[Økende etterspørsel etter landssvikdokumenter]]></title>
+  <guid>2f4c19c5-56a3-4720-a4c9-c7a4a6bc88f9</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikdokumenter den siste uken. Henvendelsene kommer fra privatpersoner og presse, og gjelder personer involvert under 2. verdenskrig. Hastegraden er stort sett standard, og mange saker er fortsatt under behandling.]]></description>
 </item>
 <item>
   <title><![CDATA[Helse- og omsorgsdepartementet søker arkivtilgang]]></title>
-  <guid>21f50f9a-e7a1-42dd-8407-fa5a51bda04d</guid>
-  <pubDate>Sun, 30 Mar 2025 07:00:27 GMT</pubDate>
-  <description><![CDATA[Helse- og omsorgsdepartementet har sendt inn en forespørsel om tilgang til et historisk arkiv som en del av sak 95/2330. Behandlingen av saken er i gang, og hastegraden er satt til standard.]]></description>
+  <guid>682fa9ae-7fe6-4b81-b5cb-28744d920173</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[Helse- og omsorgsdepartementet har bedt om tilgang til sitt eget historiske arkiv relatert til sak 95/2330. Henvendelsen er merket med standard hastegrad og er ennå ikke fullført. Dette viser en pågående interesse fra offentlige etater for å få tilgang til egne historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om skilsmisse og eiendom på høyeste prioritet]]></title>
-  <guid>7c522b27-bf42-431e-94c6-655134d3c360</guid>
-  <pubDate>Sun, 30 Mar 2025 07:00:27 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo prioriterer nå saker om skilsmisse og eiendom med høy hast. Dette inkluderer en skilsmisse fra 2004 og flere eiendomssaker i Sarpsborg-området. Behandlingene pågår for å imøtekomme brukernes behov.]]></description>
+  <title><![CDATA[Økt interesse for slektsforskning]]></title>
+  <guid>31257e61-c5a6-4a05-92c7-ccd86c1bb6af</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har de siste dagene sendt inn forespørsler til både Riksarkivet og Statsarkivet i Oslo om slektsrelaterte dokumenter, inkludert konfirmasjoner og militære rulleblad. De fleste av disse sakene har lav hastegrad, men det viser en vedvarende interesse for slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fokus på slektsforskning og konfirmasjoner]]></title>
-  <guid>a5fd3d6c-fd6e-4055-be91-ae15eb342a5d</guid>
-  <pubDate>Sun, 30 Mar 2025 07:00:27 GMT</pubDate>
-  <description><![CDATA[Privatpersoner viser økt interesse for slektsforskning, med forespørsler om konfirmasjoner og slektshistorier, som de nylige henvendelsene om individer fra Høvik eller Ullern og Oslo. Behandlingen av disse forespørslene har lav prioritet og fortsetter.]]></description>
+  <title><![CDATA[Skilsmissearkiver etterspurt]]></title>
+  <guid>94eaf458-a3d8-4851-839c-9060d04de228</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[En sak om en skilsmisse fra 2004 har blitt klassifisert som hastesak ved Riksarkivet. Dette er blant de få sakene med høy prioritet, noe som indikerer en kritisk behov for dokumentasjon i enkelte familiesaker.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlig etat søker eiendomsinformasjon]]></title>
+  <guid>8dce193a-bac3-466b-8400-056514b40012</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har henvendt seg til Statsarkivet i Oslo for å få avskrift av eiendomsdokumenter i Sarpsborg. Saken er merket som haster, noe som understreker behovet for rask tilgang til eiendomsinformasjon i offentlig sektor.]]></description>
+</item>
+<item>
+  <title><![CDATA[Historiske forskningsprosjekter på fremmarsj]]></title>
+  <guid>f8796207-be63-4636-a761-9053709404be</guid>
+  <pubDate>Sun, 30 Mar 2025 11:14:04 GMT</pubDate>
+  <description><![CDATA[Interesse for historisk forskning er tydelig med flere forespørsler om innsyn i arkiver for prosjekter som "Sannhets- og forsoningskommisjonens arkiv" og "Kolonisering gjennom jord". Forespørslene kommer hovedsakelig fra forskere og studenter.]]></description>
 </item>
 
 
