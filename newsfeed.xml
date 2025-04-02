@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 02 Apr 2025 07:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 11:01:16 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssviksaker]]></title>
-  <guid>5b39caed-3c7b-4202-8d75-e59ed85c29a2</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken, inkludert saker fra 2. verdenskrig. Brukergruppen er primært privatpersoner, og sakene har standard hastegrad. Flere saker venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Rask behandling av landssviksaker]]></title>
+  <guid>c1cf84d5-06c6-40e0-95ef-ddbd3efd72f1</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har effektivt behandlet flere landssviksaker, med ferdigstilling innen kort tid. Dette inkluderer saker fra 1900-tallet, som Anstein Halseth og Kristian Magnus Knudsen. Disse sakene har blitt ferdigstilt på under 24 timer, noe som viser arkivets evne til rask saksbehandling for privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>954d5524-a70c-48ca-b87b-6ffc79e683d6</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i forespørsler om militære rulleblad fra 2. verdenskrig. Flere privatpersoner har søkt om informasjon fra Riksarkivet, og noen av forespørslene er nå fullført.]]></description>
+  <title><![CDATA[Forskningsforespørsler om andre verdenskrig]]></title>
+  <guid>c2363830-c32b-46ee-973a-e6210d4d7754</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Flere forskere har sendt forespørsler til Riksarkivet for tilgang til materiale relatert til andre verdenskrig. Dette inkluderer undersøkelser om maktbruk ved Lier og Hitlers fanger i Norge. Sakene er fortsatt under behandling, noe som reflekterer den akademiske interessen for krigshistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningsinnsyn på historiske temaer]]></title>
-  <guid>e08255f3-490e-4783-9f14-1dd9645702e8</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter om innsyn i historiske temaer, som Hitlers fanger i Norge og offentlighetsprinsippet i norsk forvaltning. Behandling av disse forespørslene pågår fortsatt.]]></description>
+  <title><![CDATA[Ufullførte saker om statsborgerskap]]></title>
+  <guid>0e93a15d-10c9-405a-b22a-538886344f78</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har flere ufullførte saker relatert til statsborgerskap. Forespørsler fra privatpersoner, inkludert Hans Thomas Saxlund og Rex Messias, venter på ferdigstilling. Behandlingen av slike saker kan kreve ytterligere tid på grunn av dokumentasjon og verifikasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandling av statsborgerskapssaker pågår]]></title>
-  <guid>9e272cf7-364e-432c-aced-1030453d5125</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler flere søknader om statsborgerskap fra privatpersoner. Sakene har standard hastegrad, og flere av dem er ennå ikke fullført.]]></description>
+  <title><![CDATA[Økt etterspørsel etter militære rulleblad]]></title>
+  <guid>7572f8ef-9d2c-4cbd-adde-6c3be81d2903</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Forespørsler om militære rulleblad, spesielt fra andre verdenskrig, har vært populære den siste uken. Riksarkivet har fullført flere slike saker, inkludert Tallak Andersen og Trygve Møllerstuen. Dette illustrerer en vedvarende interesse for militærhistorie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav hastighet på slektsrelaterte forespørsler]]></title>
-  <guid>80ba1edd-e73c-4633-913d-6bb00cd3ce0c</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om slektsforskning og slektsrelaterte temaer er mottatt både i Riksarkivet og Statsarkivet i Oslo. De fleste av disse sakene har lav prioritet og er fortsatt under behandling.]]></description>
+  <title><![CDATA[Lang behandlingstid for historiske eiendomssaker]]></title>
+  <guid>23ad9bde-a1c3-41fa-89d6-978ddd94c8a0</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Saksbehandling av historiske eiendomssaker, som Storgata i Sandefjord og Eidsvoll, har vist seg tidkrevende. Selv om noen saker er ferdigstilt, gjenstår fortsatt flere ufullførte forespørsler, noe som indikerer kompleksiteten involvert i slike arkivsøk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullførte saker om dødsfall og skifte]]></title>
-  <guid>d9e81bd7-e058-41ea-89da-9daeb38b9c16</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere saker relatert til dødsfall og skifte, inkludert saker fra 1939 og 1987. Disse forespørslene kom fra både privatpersoner og profesjonelle aktører.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>76836f81-68b2-4d68-9f68-b12cb4847bb3</guid>
-  <pubDate>Wed, 02 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Diverse henvendelser til Riksarkivet]]></title>
+  <guid>11346533-a000-4c12-908d-a4973543a361</guid>
+  <pubDate>Wed, 02 Apr 2025 11:01:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar et bredt spekter av forespørsler, fra biografiske opplysninger om historiske personer til tilgang til arkiver om polititjeneste. Mange av disse henvendelsene er fortsatt under behandling, noe som understreker arkivets rolle som en viktig kilde til historisk informasjon.]]></description>
 </item>
 
 
