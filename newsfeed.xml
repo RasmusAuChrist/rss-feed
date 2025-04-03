@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 03 Apr 2025 07:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 11:00:54 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
-  <guid>1fc17eb0-7da0-45e8-80fd-8f4627c8e6db</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om innsyn i landssvik-saker den siste uken, med seks saker ferdigbehandlet. Dette viser en vedvarende interesse for etterkrigshistorien blant privatpersoner.]]></description>
+  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
+  <guid>9eb599a9-6586-4318-b4fb-001179c7bd0e</guid>
+  <pubDate>Thu, 03 Apr 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok flere forespørsler om landssvikarkiver den siste uken. Dette indikerer en vedvarende interesse for etterkrigsoppgjøret blant privatpersoner. Flere saker er allerede behandlet og fullført, mens andre fortsatt er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske hendelser fra 2. verdenskrig etterspørres]]></title>
-  <guid>04154f67-b932-4488-bb59-2bbef42f6ba4</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått flere henvendelser om historiske hendelser fra 2. verdenskrig, som Lofotraidet og Sørøya. Slike saker understreker interessen for å forstå krigens påvirkning på Norge.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>ffdfbc72-b6bd-436a-8e71-3dbc833024a1</guid>
+  <pubDate>Thu, 03 Apr 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har sendt flere forespørsler om militære rulleblad til Riksarkivet, inkludert saker fra både første og andre verdenskrig. Behandlingen av disse sakene varierer i tempo, og noen er fortsatt uavsluttet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandlingstid for dåp og fødselssaker i Oslo]]></title>
-  <guid>8c772963-53bb-4a92-bbe2-f4aa84cd8676</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om dåps- og fødselsattester. Behandlingstidene varierer, men flere saker er ferdigstilt innen én dag, noe som viser effektiv saksbehandling.]]></description>
+  <title><![CDATA[Kritisk forespørsel om lesesaltilgang]]></title>
+  <guid>af48c683-4f73-483b-98b6-c24f83947744</guid>
+  <pubDate>Thu, 03 Apr 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[En forespørsel om utvidet tilgang til lesesalene ved Riksarkivet og Statsarkivet i Oslo har fått kritisk prioritet. Søknaden er fortsatt under behandling, og det er uklart når en avgjørelse vil bli tatt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om tilgang til historiske arkiver]]></title>
-  <guid>024bbf10-838e-46b5-9590-59f2a418ba6a</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om tilgang til historiske arkiver fra offentlige etater. Dette inkluderer saker fra Forsvarsbygg og Helse- og omsorgsdepartementet, som fortsatt er under behandling.]]></description>
+  <title><![CDATA[Digitalisering av reindriftsarkiver]]></title>
+  <guid>58dc3c96-0784-4326-aae3-f6be0f22a7d6</guid>
+  <pubDate>Thu, 03 Apr 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med digitalisering av arkiver fra Landbruksdepartementet relatert til reindrift, som forskere og studenter har vist interesse for. Prosjektet er under standard saksbehandling og er ennå ikke fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskere søker innsikt i norsk historie]]></title>
-  <guid>e2582526-5085-4a98-8934-7f6fba57bd83</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Flere forskere har henvendt seg til Riksarkivet for innsyn i temaer som slavearbeid under 2. verdenskrig og offentlighetsprinsippet i norsk forvaltning. Sakene er fortsatt til behandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Digitaliseringsprosjekt for miljøarkiver]]></title>
-  <guid>4cbfbd3b-2ece-4337-b978-966645e686ec</guid>
-  <pubDate>Thu, 03 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med digitalisering av arkiver fra Statens forurensningstilsyn. Prosjektet er pågående, og vil bidra til økt tilgjengelighet av miljøhistorisk materiale for offentligheten.]]></description>
+  <title><![CDATA[Kopibestilling av Kautokeino-opprøret-dokumenter]]></title>
+  <guid>bd521a90-6176-46a5-a366-d30dd97ee0f8</guid>
+  <pubDate>Thu, 03 Apr 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har sendt en forespørsel til Riksarkivet om kopier av dokumenter relatert til Kautokeino-opprøret og æresoppreisningen for Lars Hætta. Behandlingen av saken er i gang, men ikke avsluttet.]]></description>
 </item>
 
 
