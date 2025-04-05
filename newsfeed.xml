@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 05 Apr 2025 07:00:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 11:01:29 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for militærhistorie]]></title>
-  <guid>6f44716d-104f-4967-8535-c6b6499beff5</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler om militære rulleblad, med saker både fra 2. verdenskrig og senere. Dette tyder på en økende interesse for militærhistorie blant privatpersoner. Flere saker er fortsatt under behandling, mens noen har blitt fullført nylig.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>a6ad4c58-0cc1-45e2-ab5b-b63447cb53e3</guid>
+  <pubDate>Sat, 05 Apr 2025 11:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke henvendelser om landssvik-saker den siste uken. Flere privatpersoner søker informasjon om slektninger involvert i slike saker fra krigstiden. Behandlingen av disse sakene varierer i tempo, men arkivet arbeider kontinuerlig for å imøtekomme forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i fokus]]></title>
-  <guid>b0453e50-e009-42aa-9828-cd22a01b44e5</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Forskere og studenter søker i økende grad innsyn i historiske arkiver, inkludert dokumenter om Redd Barna og norsk forvaltning. Behandlingen av disse forespørslene pågår, noe som understreker viktigheten av forskerinnsyn i arkivene.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>27d37a09-005d-40e1-8f3b-c81c38f1c54b</guid>
+  <pubDate>Sat, 05 Apr 2025 11:01:29 GMT</pubDate>
+  <description><![CDATA[Det har vært en økning i forespørsler om militære rulleblad fra privatpersoner. Sakene omfatter både rulleblad fra andre verdenskrig og nyere tid. Riksarkivet jobber med å behandle disse forespørslene, men noen saker gjenstår fortsatt å fullføre.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling for presse fullført]]></title>
-  <guid>70768cbd-f3e0-4016-8d84-b4729040f5a2</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har raskt behandlet en kopibestilling fra pressen om Håkon Håkonssons stadfesting av gavebrev for Stavanger. Denne typen forespørsler fra medier viser arkivets betydning for historiefortelling i offentligheten.]]></description>
+  <title><![CDATA[Historiske innsynssaker på fremmarsj]]></title>
+  <guid>b150acdf-55bb-4827-8867-38e2789a1977</guid>
+  <pubDate>Sat, 05 Apr 2025 11:01:29 GMT</pubDate>
+  <description><![CDATA[Forskere og studenter viser stor interesse for historiske dokumenter og arkiver. Riksarkivet har mottatt forespørsler om innsyn i dokumenter fra blant annet Lier psykiatriske sykehus og Hitlers tvangsarbeidere i Norge. Behandlingstidene varierer, men arbeidet pågår for fullt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere henvendelser om landssvik]]></title>
-  <guid>238d8882-8334-4f30-aff8-ea83ff23281f</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssviksaker fra 2. verdenskrig. Interesse fra privatpersoner viser fortsatt stor nysgjerrighet og behov for innsikt i denne delen av norsk historie. Flere saker er nylig fullført.]]></description>
+  <title><![CDATA[Dåpsattester og fødselsdokumentasjon]]></title>
+  <guid>8e2eb733-ce89-48b0-9742-2d23d6812572</guid>
+  <pubDate>Sat, 05 Apr 2025 11:01:29 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dåpsattester og fødselsdokumentasjon den siste uken. Noen av sakene er allerede fullført, som for eksempel dåpsattesten for en person født i 2010. Dette viser effektivitet i behandlingen av slike saker.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dåpsattester øker]]></title>
-  <guid>ca7b6066-55b6-4854-bb89-2c172b906c09</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere saker om utstedelse av dåpsattester. Dette er en vanlig forespørsel blant privatpersoner, noe som viser viktigheten av arkivets rolle i å bevare personhistorie.]]></description>
-</item>
-<item>
-  <title><![CDATA[Digitalisering av arkiver for forskere]]></title>
-  <guid>4f7feef6-3fb6-445f-9f35-9923485a8c4b</guid>
-  <pubDate>Sat, 05 Apr 2025 07:00:33 GMT</pubDate>
-  <description><![CDATA[Prosessen med digitalisering av arkiver, inkludert Landbruksdepartementets dokumenter, er i gang for å gi forskere lettere tilgang til historisk materiale. Dette initiativet vil hjelpe forskere med å utføre sine studier mer effektivt.]]></description>
+  <title><![CDATA[Kopibestilling for presse fullført raskt]]></title>
+  <guid>48794510-d519-4f1e-8ad0-c542ebc047a5</guid>
+  <pubDate>Sat, 05 Apr 2025 11:01:29 GMT</pubDate>
+  <description><![CDATA[En kopibestilling fra en presseorganisasjon om Håkon Håkonssons gavebrev for Stavanger ble raskt fullført av Riksarkivet. Dette viser arkivets evne til å håndtere forespørsler med standard hastegrad effektivt og i tide.]]></description>
 </item>
 
 
