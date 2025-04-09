@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 08 Apr 2025 11:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 07:01:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Mange ufullførte saker i Oslo og Riksarkivet]]></title>
-  <guid>79d2c041-d57d-4a68-91fd-611541297b1a</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Den siste uken har det kommet inn flere saker til både Riksarkivet og Statsarkivet i Oslo som fortsatt ikke er fullført. Blant disse er forespørsler om skilsmisse, fødselsattester og statsborgerskap. Flere privatpersoner venter på respons, og det er viktig at disse sakene blir behandlet så snart som mulig for å unngå forsinkelser.]]></description>
+  <title><![CDATA[Økt etterspørsel etter kopier av historiske dokumenter]]></title>
+  <guid>220ef06c-ed21-4805-bffc-892bb834773a</guid>
+  <pubDate>Wed, 09 Apr 2025 07:01:02 GMT</pubDate>
+  <description><![CDATA[Det er en markant økning i kopibestillinger av historiske dokumenter ved Riksarkivet. Blant de mest presserende forespørslene er et rundskriv fra Norges Bank datert 1943, som er i prosess for hurtig behandling. Denne trenden reflekterer en økende interesse fra både privatpersoner og profesjonelle aktører for historisk materiale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av landssvik-saker]]></title>
-  <guid>3c5a0988-a45a-4b09-bacf-5c7fa0902527</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig håndtert flere forespørsler om landssvik-saker, mange av dem med standard hastegrad. Forespørslene ble raskt fullført innen en dag, noe som viser effektivitet i saksbehandlingen. Dette er positivt for privatpersoner som søker historisk informasjon om slektninger.]]></description>
+  <title><![CDATA[Mange henvendelser om landssvikregister]]></title>
+  <guid>8a7fadbb-411f-4880-93d0-1bf018d3fe41</guid>
+  <pubDate>Wed, 09 Apr 2025 07:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler knyttet til landssvikregisteret. Forespørslene stammer hovedsakelig fra privatpersoner som ønsker innsyn i saker fra andre verdenskrig. Denne økningen indikerer en vedvarende interesse for historiske opplysninger om krigstidens hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlig etat søker arkivsøk]]></title>
-  <guid>e8d88093-d65d-487b-8b08-4bad56cb3445</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har sendt inn en forespørsel om arkivsøk i forbindelse med en avtale mellom Den norske stat og Norske Conoco AS fra 2002. Saken er fortsatt ikke fullført, og det er viktig for etaten å få tilgang til denne informasjonen for videre arbeid.]]></description>
+  <title><![CDATA[Behandling av militære rulleblad]]></title>
+  <guid>b7881176-3511-4db7-9069-12f506b7e53b</guid>
+  <pubDate>Wed, 09 Apr 2025 07:01:02 GMT</pubDate>
+  <description><![CDATA[Det er stor etterspørsel etter militære rulleblad blant privatpersoner. Riksarkivet har nylig behandlet flere slike forespørsler, inkludert saker fra både eldre og nyere dato. Dette understreker fortsatt interesse for militærhistorie og slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningshenvendelser til Riksarkivet]]></title>
-  <guid>041f502b-89bf-46fa-8a7a-4c9a02d5d983</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Flere forskere og studenter har sendt inn forespørsler til Riksarkivet, inkludert innsyn i Redd Barnas arkiver og digitalisering av dokumenter fra Landbruksdepartementet. Disse henvendelsene viser en økende interesse for akademisk forskning knyttet til arkiverte dokumenter.]]></description>
+  <title><![CDATA[Privatpersoner søker innsyn i personlig historie]]></title>
+  <guid>65806715-49af-4f63-8035-6ed37c771cce</guid>
+  <pubDate>Wed, 09 Apr 2025 07:01:02 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har sendt inn flere forespørsler om innsyn i personlige dokumenter hos Statsarkivet i Oslo. Saksbehandling for fødsel, dåp, og skilsmisse er blant de vanligste forespørslene. Behovet for tilgang til egen og familiens historie står sentralt for mange.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestillinger behandlet raskt]]></title>
-  <guid>7612eff3-fde1-4325-bfac-922719cc4219</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Kopibestillinger til Riksarkivet har blitt behandlet med høy effektivitet, inkludert en hastevurdert forespørsel som ble fullført innen to timer. Dette viser arkivets evne til å håndtere presserende forespørsler fra privatpersoner og presse raskt og effektivt.]]></description>
-</item>
-<item>
-  <title><![CDATA[Økt interesse for militære rulleblad]]></title>
-  <guid>663dce23-62ff-43d8-a482-e80193f950aa</guid>
-  <pubDate>Tue, 08 Apr 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i forespørsler om militære rulleblad, med flere privatpersoner som søker informasjon om slektninger fra 2. verdenskrig. Selv om mange av disse sakene har lav hastegrad, er det en påminnelse om den vedvarende interessen for krigshistorie og slektsforskning.]]></description>
+  <title><![CDATA[Forskere og studenter etterspør kildeveiledning]]></title>
+  <guid>f69ac7a8-8cad-48ca-aec4-1d92f4c3d598</guid>
+  <pubDate>Wed, 09 Apr 2025 07:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever økt etterspørsel etter kildeveiledning fra forskere og studenter. Nylige henvendelser inkluderer temaer som utvidelsen av Nationaltheatret i 1935 og norske diplomdokumenter fra 1400-tallet. Dette viser en pågående akademisk interesse for norsk historie.]]></description>
 </item>
 
 
