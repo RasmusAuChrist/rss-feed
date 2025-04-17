@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 17 Apr 2025 07:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 11:01:22 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om militære rulleblad]]></title>
-  <guid>a2650497-3508-442d-ab44-8986fb94a451</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner angående militære rulleblad den siste uken. Disse sakene, som omfatter ulike fødselsår, venter fortsatt på behandling. Dette kan tyde på økende interesse for militærhistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Økning i landssviksaker]]></title>
+  <guid>73845379-f4b6-461e-8c65-66d721c66398</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene omfatter etterspørsel etter dokumentasjon om enkeltpersoners aktiviteter under krigen. Dette viser en økt interesse for å forstå historiske hendelser og enkeltpersoners roller i disse.]]></description>
 </item>
 <item>
-  <title><![CDATA[Stor pågang av landssviksaker]]></title>
-  <guid>740ba4fb-d433-467d-9f5c-334bf6ec807b</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Det har vært en markant økning i forespørsler om landssviksaker i Riksarkivet den siste uken. Flere av sakene er allerede behandlet, noe som viser effektivitet i saksbehandlingen. Privatpersoner er den største brukergruppen for disse forespørslene.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>becedf64-a47f-4a48-8126-175181f0e124</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[Det er en økning i forespørsler om militære rulleblad i Riksarkivet. Flere privatpersoner har bedt om innsyn i sine eller slektningers militære bakgrunn, noe som kan tyde på økt interesse for personlig historie og slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske søk i Riksarkivet]]></title>
-  <guid>721a1840-8d38-41da-a7b7-4291c8fd2d86</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om historiske emner fra privatpersoner, inkludert en sak om biskop Vigbaldur fra Færøyene. Sakene indikerer en sterk interesse for historiske temaer blant brukerne.]]></description>
+  <title><![CDATA[Historiske arkivsøk i fokus]]></title>
+  <guid>01b6bfe4-60ff-48fb-8aa0-cc257bb79a4c</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser om historiske arkivsøk, inkludert biskoper fra middelalderen og rapporter fra organisasjoner under krigen. Dette peker på en bred interesse for å grave dypere inn i både nasjonal og personlig historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om krigsbarn fullført]]></title>
-  <guid>3799b43f-5822-4462-8d7d-93f6805291da</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[En forespørsel om krigsbarn er nylig ferdigbehandlet i Riksarkivet. Dette viser fortsatt interesse for krigshistorie og familiehistorie blant privatpersoner som ønsker mer informasjon om slektens fortid.]]></description>
+  <title><![CDATA[Behandling av dødsfall- og skiftesaker]]></title>
+  <guid>7a87eb1b-b77a-4747-af91-29bb4bfefd7f</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo håndterer flere saker knyttet til dødsfall og skifte, både fra privatpersoner og offentlige etater. Dette er en viktig del av deres arbeid for å sikre korrekt håndtering av arvespørsmål og juridiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker dødsfallsinformasjon]]></title>
-  <guid>3ec42cdc-2498-42c0-9495-b272858d9e0b</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra offentlige etater angående dødsfall og skifte. Dette kan indikere at informasjonen brukes i pågående saksbehandlinger eller forskningsprosjekter.]]></description>
+  <title><![CDATA[Vitnemål og fagbrev etterspørres]]></title>
+  <guid>437c60b4-c332-4705-8f6f-b4daf5bcd68f</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar henvendelser fra privatpersoner som søker tilgang til vitnemål og fagbrev. Dette kan tyde på et behov for dokumentasjon ved ansettelsesprosesser eller videreutdanning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullførte arkivsøk om flyveblad fra Nasjonal Samling]]></title>
-  <guid>fc735215-ead9-40ec-96a5-5de401d4d01e</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk relatert til flyveblad fra Nasjonal Samling er fullført. Dette understreker arkivets rolle i å gi innsikt i historiske hendelser og organisasjoner.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>b162cc62-3ae6-4451-a7ed-19966dbbf128</guid>
-  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Interesse for flyfoto fra før 1957]]></title>
+  <guid>5261cee1-4a18-4075-8d92-943e2f94bcc2</guid>
+  <pubDate>Thu, 17 Apr 2025 11:01:22 GMT</pubDate>
+  <description><![CDATA[En forsker har søkt tilgang til flyfoto av Røssvatnet fra før 1957, lagret i Forsvarets historiske arkiv. Dette viser hvordan historiske bilder blir brukt til forskning og dokumentasjon av natur- og miljøforandringer over tid.]]></description>
 </item>
 
 
