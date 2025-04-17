@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 16 Apr 2025 11:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 07:01:30 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,39 +12,45 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Økning i forespørsler om militære rulleblad]]></title>
-  <guid>790305f9-9473-4218-bfc0-87a60c0fee0c</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad den siste uken. Disse sakene, primært fra privatpersoner, omfatter ulike fødselsår og har standard hastegrad. Behandlingstiden varierer, og mange saker er fortsatt ikke fullført.]]></description>
+  <guid>a2650497-3508-442d-ab44-8986fb94a451</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner angående militære rulleblad den siste uken. Disse sakene, som omfatter ulike fødselsår, venter fortsatt på behandling. Dette kan tyde på økende interesse for militærhistorie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Landssvik-saker dominerer arkivforespørslene]]></title>
-  <guid>8b19e9e7-a166-40a7-97be-68367d10fcf1</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Forespørsler relatert til landssvik utgjør en betydelig del av sakene i Riksarkivet denne uken. Disse sakene har standard hastegrad og kommer hovedsakelig fra privatpersoner. Flere saker er allerede ferdigbehandlet, mens noen fortsatt er under arbeid.]]></description>
+  <title><![CDATA[Stor pågang av landssviksaker]]></title>
+  <guid>740ba4fb-d433-467d-9f5c-334bf6ec807b</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[Det har vært en markant økning i forespørsler om landssviksaker i Riksarkivet den siste uken. Flere av sakene er allerede behandlet, noe som viser effektivitet i saksbehandlingen. Privatpersoner er den største brukergruppen for disse forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Effektiv behandling av historiske dokumenter]]></title>
-  <guid>a1828b00-e9f3-4f57-88bc-fa597be6a6d5</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig fullført en rekke søk etter historiske dokumenter, inkludert flyveblader fra Nasjonal samling og dokumenter fra 1986. Dette reflekterer en effektiv saksbehandling for forespørsler om historisk materiale.]]></description>
+  <title><![CDATA[Historiske søk i Riksarkivet]]></title>
+  <guid>721a1840-8d38-41da-a7b7-4291c8fd2d86</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om historiske emner fra privatpersoner, inkludert en sak om biskop Vigbaldur fra Færøyene. Sakene indikerer en sterk interesse for historiske temaer blant brukerne.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dåps- og vigselsattester i Oslo]]></title>
-  <guid>7b622e12-0ac8-4730-8322-b67ca3fa4cbd</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om dåps- og vigselsattester den siste uken. Sakene kommer fra privatpersoner og har standard behandlingstid. De fleste forespørslene har blitt ferdigbehandlet raskt.]]></description>
+  <title><![CDATA[Arkivsøk om krigsbarn fullført]]></title>
+  <guid>3799b43f-5822-4462-8d7d-93f6805291da</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[En forespørsel om krigsbarn er nylig ferdigbehandlet i Riksarkivet. Dette viser fortsatt interesse for krigshistorie og familiehistorie blant privatpersoner som ønsker mer informasjon om slektens fortid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningsinteresse for historiske arkiver]]></title>
-  <guid>55108d21-4815-4691-a39f-1f2f22a48fba</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Forespørsler fra forskere og studenter omfatter blant annet flyfoto fra Røssvatnet og private arkiver. Riksarkivet arbeider med å imøtekomme disse forespørslene, men enkelte saker er fortsatt uavklarte.]]></description>
+  <title><![CDATA[Offentlige etater søker dødsfallsinformasjon]]></title>
+  <guid>3ec42cdc-2498-42c0-9495-b272858d9e0b</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra offentlige etater angående dødsfall og skifte. Dette kan indikere at informasjonen brukes i pågående saksbehandlinger eller forskningsprosjekter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Diverse arkivsøk etter offentlige dokumenter]]></title>
-  <guid>2fd6c815-f4bf-47e5-80d8-7953a3bcfad2</guid>
-  <pubDate>Wed, 16 Apr 2025 11:02:35 GMT</pubDate>
-  <description><![CDATA[Forespørsler om arkivsøk inkluderer dokumenter fra Rikshospitalet og grunnforholdsanalyser fra Sandefjord. Disse sakene har standard hastegrad og kommer fra ulike profesjonelle aktører. Behandlingen av flere saker pågår fortsatt.]]></description>
+  <title><![CDATA[Fullførte arkivsøk om flyveblad fra Nasjonal Samling]]></title>
+  <guid>fc735215-ead9-40ec-96a5-5de401d4d01e</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[En forespørsel om arkivsøk relatert til flyveblad fra Nasjonal Samling er fullført. Dette understreker arkivets rolle i å gi innsikt i historiske hendelser og organisasjoner.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>b162cc62-3ae6-4451-a7ed-19966dbbf128</guid>
+  <pubDate>Thu, 17 Apr 2025 07:01:30 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
