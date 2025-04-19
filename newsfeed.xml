@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 19 Apr 2025 07:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 11:00:16 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssviksaker]]></title>
-  <guid>56daf2f2-682c-4a42-b95f-6175243ca366</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssviksaker den siste uken. Flere privatpersoner har søkt informasjon knyttet til historiske hendelser og personer fra 1900-tallet. Mange av disse sakene blir behandlet med standard hastegrad.]]></description>
+  <title><![CDATA[Økning i etterspørsel etter militære rulleblad]]></title>
+  <guid>43f2f5e4-6ac5-4a8c-b451-4b39aa93d4cd</guid>
+  <pubDate>Sat, 19 Apr 2025 11:00:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad den siste uken. Dette inkluderer forespørsler om personer født i ulike tiår, noe som viser en bred interesse for militærhistorie. Henvendelsene er hovedsakelig fra privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>93d5545b-036f-4e81-bd10-650e3a557ef0</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har kontaktet Riksarkivet for å få tilgang til militære rulleblad fra ulike tidsperioder. Dette tyder på en økende interesse for militærhistorie i privat regi. Behandlingstiden varierer, men de fleste sakene er fortsatt under behandling.]]></description>
+  <title><![CDATA[Historiske etterforskninger i fokus]]></title>
+  <guid>3399cdeb-404d-4dd1-a773-ee6518fc47c9</guid>
+  <pubDate>Sat, 19 Apr 2025 11:00:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet rapporterer en økt interesse for saker relatert til landssvik og krigsbarn. Flere forespørsler om dokumentasjon fra denne perioden er mottatt, noe som indikerer en vedvarende interesse for historiske hendelser i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske henvendelser om biskop i Færøyene]]></title>
-  <guid>ae7d9387-ad13-45ed-87ae-98ada1478e9f</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[En privatperson har sendt inn en forespørsel til Riksarkivet om informasjon om Biskop Vigbaldur fra Færøyene, som levde mellom 1391 og 1440. Dette viser at det er interesse for å utforske nordisk kirkehistorie.]]></description>
+  <title><![CDATA[Behandling av arkivsøk for profesjonelle aktører]]></title>
+  <guid>de5f408a-3948-46b4-9140-b3fee5f38153</guid>
+  <pubDate>Sat, 19 Apr 2025 11:00:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om arkivsøk fra profesjonelle aktører, inkludert dokumenter vedrørende ansettelsessaker og vedtak. Disse sakene er i behandling, og Riksarkivet jobber med å levere rask og effektiv service.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av sak om flyveblad fra Nasjonal Samling]]></title>
-  <guid>809879c9-4c9c-444a-ab1c-ca06bae6d98a</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk etter flyveblad fra Nasjonal Samling ble behandlet raskt av Riksarkivet, med fullføring innen én dag. Dette illustrerer effektiviteten i behandlingen av visse typer arkivsøk.]]></description>
+  <title><![CDATA[Flyveblad fra Nasjonal Samling funnet]]></title>
+  <guid>c78597d5-2b3b-4676-80a9-770b3b80f825</guid>
+  <pubDate>Sat, 19 Apr 2025 11:00:16 GMT</pubDate>
+  <description><![CDATA[En forespørsel om arkivsøk etter flyveblad fra Nasjonal Samling er nylig fullført ved Riksarkivet. Saken ble behandlet på under 24 timer, noe som viser arkivets evne til rask respons på forespørsler fra privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker informasjon om dødsfall]]></title>
-  <guid>87d98502-a218-42ff-97f3-ca237a5fb14b</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har bedt om informasjon knyttet til et dødsfall og skifte fra 1985 i Bærum. Dette viser hvordan offentlige etater bruker arkivene for å hente historiske data ved behov.]]></description>
-</item>
-<item>
-  <title><![CDATA[Interesse for krigsbarn-saker]]></title>
-  <guid>7c15b67f-a704-466c-b29a-b2340a249ed0</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[Det har vært innsendte forespørsler om krigsbarn til Riksarkivet den siste uken. Dette peker mot en vedvarende interesse for å utforske og forstå denne delen av norsk historie. Behandlingstidene varierer.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>003fd833-d3c2-460a-bd87-3f9f9ee1c399</guid>
-  <pubDate>Sat, 19 Apr 2025 07:00:19 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Flere forespørsler om dåpsattester]]></title>
+  <guid>80472732-885c-4c13-9d00-aeccf1e7aef0</guid>
+  <pubDate>Sat, 19 Apr 2025 11:00:16 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler om dåpsattester. En sak ble nylig fullført samme dag som den ble mottatt, og viser effektiviteten i behandlingen av denne typen forespørsler.]]></description>
 </item>
 
 
