@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 20 Apr 2025 07:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 11:00:22 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,33 +12,39 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Økning i forespørsler om militære rulleblad]]></title>
-  <guid>ffeb8953-81b0-4281-986f-06c54203ad76</guid>
-  <pubDate>Sun, 20 Apr 2025 07:00:21 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om militære rulleblad den siste uken. Dette indikerer en økende interesse for militærhistorie og slektsforskning blant publikum.]]></description>
+  <guid>9f872e22-3ab3-4e7e-a3c6-bd494d98413b</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad fra privatpersoner den siste uken, inkludert for personer født på 1960- og 1970-tallet. Behandlingstiden varierer, og flere saker er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske henvendelser dominerer i arkivene]]></title>
-  <guid>e095fe86-d81f-43ec-8482-873395ec3eda</guid>
-  <pubDate>Sun, 20 Apr 2025 07:00:21 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har mottatt flere forespørsler om historiske temaer, som landssvik, krigsbarn og religiøse ledere fra middelalderen. Dette viser en vedvarende interesse for å utforske Norges fortid.]]></description>
+  <title><![CDATA[Flere landssviksaker behandlet]]></title>
+  <guid>5776afe7-20d4-4460-8eee-473ec767eabb</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig ferdigstilt flere saker knyttet til landssvik, inkludert forespørsler om historisk dokumentasjon fra privatpersoner. Dette viser en vedvarende interesse for temaet i etterkrigstiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Effektiv saksbehandling av landssvik-forespørsler]]></title>
-  <guid>20a07715-9163-4e92-9ffa-987c96b4787a</guid>
-  <pubDate>Sun, 20 Apr 2025 07:00:21 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har behandlet flere forespørsler om landssvik i løpet av kort tid. Dette reflekterer effektivitet i saksbehandlingen og en høy prioritering av slike historiske saker.]]></description>
+  <title><![CDATA[Historiske saker fra Færøyene og Norge]]></title>
+  <guid>cfd0d04f-1724-42c0-b022-ddcd85514dfe</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[Forespørsler om dokumentasjon angående historiske personer som Biskop Vigbaldur fra Færøyene og personer relatert til Våre falne i Norge er under behandling i Riksarkivet, med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivinformasjon]]></title>
-  <guid>2497e2db-2267-4c69-90ba-4bf62a3813ef</guid>
-  <pubDate>Sun, 20 Apr 2025 07:00:21 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt forespørsler fra offentlige etater om dødsfall og skifte, samt historiske dokumenter. Dette understreker betydningen av arkivene i offentlig forvaltning og rettspleie.]]></description>
+  <title><![CDATA[Arkivsøk knyttet til Nasjonal samling avsluttet]]></title>
+  <guid>ac89437e-6efe-45a2-8905-89fc7e771fbe</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[En privatperson har fått behandlet sin forespørsel om arkivsøk relatert til flyveblad fra Nasjonal samling. Saken ble raskt fullført, noe som indikerer effektiv saksbehandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kompleksitet i arkivsøk-saker]]></title>
-  <guid>108f2ce5-463f-483e-85e6-c9c1f1ede915</guid>
-  <pubDate>Sun, 20 Apr 2025 07:00:21 GMT</pubDate>
-  <description><![CDATA[Flere komplekse arkivsøk-saker, som ansettelsessaker fra Rikshospitalet og dokumenter fra Sri Lanka, er under behandling. Dette viser arkivenes rolle i å bevare viktige dokumenter for ulike formål.]]></description>
+  <title><![CDATA[Etterspørsel etter dokumenter fra krigstiden]]></title>
+  <guid>4d59d765-d69f-41fe-9bac-d652227bc738</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[Flere saker relatert til krigstiden, inkludert arkivsøk og dokumentasjon av krigsbarn, er sendt inn til Riksarkivet. Dette viser en vedvarende interesse for å utforske og forstå historiske hendelser fra perioden.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskerinteresse for historiske flyfoto]]></title>
+  <guid>2f7d5d89-f253-48ec-b2cf-b8ab5cbc0861</guid>
+  <pubDate>Sun, 20 Apr 2025 11:00:22 GMT</pubDate>
+  <description><![CDATA[En ny forespørsel fra en forsker om flyfoto av Røssvatnet før 1957 er under behandling i Riksarkivet. Dette understreker den akademiske verdien av historiske fotografier i pågående forskningsprosjekter.]]></description>
 </item>
 
 
