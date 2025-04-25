@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 25 Apr 2025 07:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 11:01:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvik-saker]]></title>
-  <guid>68dd1dfe-cc1d-43fa-80e2-6eb1548c69a0</guid>
-  <pubDate>Fri, 25 Apr 2025 07:02:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en betydelig mengde forespørsler om landssvik-saker fra privatpersoner. Flere av sakene er nylig opprettet, men er fortsatt under behandling, noe som indikerer en økt interesse for historiske rettsprosesser fra andre verdenskrig.]]></description>
+  <title><![CDATA[Økende interesse for landssviksaker]]></title>
+  <guid>aaaf6812-32e4-4b1a-8d45-10a0497e0413</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en markant økning i henvendelser om landssviksaker den siste uken. Hele ni saker har blitt opprettet av privatpersoner. Dette antyder en økende interesse for Norges krigshistorie blant befolkningen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker militærhistorie]]></title>
-  <guid>1e25f779-f633-418a-9fa5-38b6847aa09d</guid>
-  <pubDate>Fri, 25 Apr 2025 07:02:43 GMT</pubDate>
-  <description><![CDATA[Mange privatpersoner henvender seg til Riksarkivet for tilgang til militære rulleblad og helsemapper. Dette viser en økende interesse for egen eller familiens militærhistorie, med flere forespørsler fortsatt under behandling.]]></description>
+  <title><![CDATA[Flere forespørsler om militære rulleblad]]></title>
+  <guid>af8bb539-5a08-4d3d-b89b-3704f3bc0a66</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Det er opprettet flere saker som omhandler forespørsler om militære rulleblad i Riksarkivet den siste uken. Privatpersoner står bak forespørslene, som spenner fra personer født på 1900-tallet til nyere tid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse etterspør straffesaker]]></title>
-  <guid>f40f38f7-d06f-4400-b426-28a0fe3fad07</guid>
-  <pubDate>Fri, 25 Apr 2025 07:02:43 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo opplever forespørsler fra pressen om tilgang til straffesaker, som en sak fra Moss i 1986. Disse forespørslene er under behandling, noe som tyder på fortsatt medieinteresse for tidligere kriminalsaker.]]></description>
+  <title><![CDATA[Arkivert bildebruk av stor interesse]]></title>
+  <guid>97522cae-ef2f-4d90-829c-4343f6e212d1</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om tillatelse til bruk av et historisk bilde fra 1944. Denne saken viser at det fortsatt er stor interesse for å benytte historiske bilder i private og offentlige prosjekter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om tillatelse til bildebruk]]></title>
-  <guid>a47857c9-ed97-487b-a1e6-c0ab674202e8</guid>
-  <pubDate>Fri, 25 Apr 2025 07:02:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar forespørsel fra en privatperson om tillatelse til å bruke et bilde fra en beslagrapport fra 1944. Tillatelsesprosessen pågår, noe som understreker viktigheten av korrekt håndtering av historisk bildemateriale.]]></description>
+  <title><![CDATA[Lang saksbehandlingstid for offentlig forvaltning]]></title>
+  <guid>2b21bb59-283e-49a2-8e78-e9bae802ebf9</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser fra offentlig forvaltning til Riksarkivet er fortsatt ubehandlet. Dette inkluderer saker om etablering av diplomatiske forbindelser, som har vært under behandling siden 23. april.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerforespørsler på oppgang]]></title>
-  <guid>e66b5ab2-c1c8-451b-8213-702f0e71d37a</guid>
-  <pubDate>Fri, 25 Apr 2025 07:02:43 GMT</pubDate>
-  <description><![CDATA[Forskere og studenter har sendt flere forespørsler om innsyn i historiske arkiver, inkludert forespørsel om innsyn i dokumentasjonsprosjektet fanger.no. Dette indikerer en voksende akademisk interesse for historisk forskning.]]></description>
+  <title><![CDATA[Henvendelser om dødsfall og skifte i Oslo]]></title>
+  <guid>39e1e97f-9776-4889-8ca3-f945ab7fcd06</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner og offentlige etater om dødsfall og skiftesaker. Sakene har varierende hastgrad, men flere av dem er ennå ikke fullført.]]></description>
+</item>
+<item>
+  <title><![CDATA[Presseinteresse for gamle straffesaker]]></title>
+  <guid>32155cf8-074d-4c12-9f68-80e7c19f2646</guid>
+  <pubDate>Fri, 25 Apr 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fått inn flere forespørsler fra presse og andre profesjonelle aktører om straffesaker fra 1900-tallet. Disse sakene er fortsatt under behandling, og viser en pågående interesse for historiske rettssaker.]]></description>
 </item>
 
 
