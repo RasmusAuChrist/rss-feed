@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 27 Apr 2025 07:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 11:01:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for militære rulleblad]]></title>
-  <guid>9d79ab0b-82c7-4340-b909-33df4f3ab0f9</guid>
-  <pubDate>Sun, 27 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Det har vært en betydelig økning i forespørsler om militære rulleblad i Riksarkivet denne uken. Flere privatpersoner har søkt etter informasjon om sine egne eller slektningers militære tjeneste, som for eksempel forespørslene knyttet til personer født mellom 1939 og 1974. Denne trenden kan indikere en økende interesse for personlig og familiær militærhistorie.]]></description>
+  <title><![CDATA[Etterspørsel etter landssvikarkiver]]></title>
+  <guid>ab28e32b-26d9-4cab-ab11-85ee1e6fc9fb</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar mange forespørsler fra privatpersoner om tilgang til landssvikarkiver. Flere saker er under behandling, mens noen har blitt fullført denne uken. Dette viser en vedvarende interesse for historiske hendelser og deres konsekvenser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om landssvik dominerer]]></title>
-  <guid>ca5606f5-732d-4e07-aafa-b2fe37222f4a</guid>
-  <pubDate>Sun, 27 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikdokumenter fra privatpersoner, med særlig fokus på saker fra tiden rundt andre verdenskrig. Dette inkluderer forespørsler om personer født på slutten av 1800-tallet og tidlig 1900-tall. Interessen for landssvikssaker viser en vedvarende nysgjerrighet på denne delen av Norges historie.]]></description>
+  <title><![CDATA[Dødsfall og skifte henvendelser i fokus]]></title>
+  <guid>73eb91d0-dd8b-4619-8af9-1cf8d3798f38</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Det har vært flere henvendelser om dødsfall og skifte i både Riksarkivet og Statsarkivet i Oslo. Disse sakene kommer fra både privatpersoner og offentlige etater, med varierende hastegrad. Dette indikerer en jevn etterspørsel etter slike opplysninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker skifteopplysninger]]></title>
-  <guid>9e1e581a-2fba-4037-b915-88ab8a428bbe</guid>
-  <pubDate>Sun, 27 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra offentlige etater om skifte- og dødsfallsopplysninger, blant annet om saker fra Lørenskog og Oslo. Disse henvendelsene har fått høyere prioritet, med kort saksbehandlingstid, for å støtte etatenes arbeid med juridiske og forvaltningsmessige saker.]]></description>
+  <title><![CDATA[Forespørsel om militære rulleblad øker]]></title>
+  <guid>608e8153-209b-4b2d-be02-f123b7cb3b82</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Privatpersoner fortsetter å søke informasjon om militære rulleblad. Flere saker er under behandling, mens noen er fullført. Dette bekrefter en økende interesse i å undersøke militærhistorie og personlig militært engasjement.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav prioritet på forespørsler om pasientjournaler]]></title>
-  <guid>0c2b3047-6dfb-4653-9785-1b15d6eefca5</guid>
-  <pubDate>Sun, 27 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har registrert en forespørsel fra en privatperson om pasientjournaler fra Fødselsstiftelsen på Rikshospitalet. Forespørselen har fått lav hastegrad, noe som indikerer at behandlingen av slike forespørsler kan ta lengre tid sammenlignet med mer prioriterte saker.]]></description>
+  <title><![CDATA[Interesse for historiske bygg og fartøy]]></title>
+  <guid>bb42b139-ea3d-41ab-8e97-9de80b5cf956</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser angående historiske bygg og fartøyer har kommet inn, med forespørsel om skipstegninger og bygningstegninger. Dette illustrerer en bred interesse for å bevare og studere nasjonens arkitektoniske og maritime historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestillinger fra profesjonelle aktører]]></title>
-  <guid>cbb4ec14-d706-4ba1-b757-8d01fc611392</guid>
-  <pubDate>Sun, 27 Apr 2025 07:00:46 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt en forespørsel om kopibestilling av en rettsbok fra 1947 fra en profesjonell aktør. Dette understreker viktigheten av arkivmateriale for profesjonelle formål, som forskning og juridisk arbeid. Behandlingen av slike forespørsler er prioritert som standard.]]></description>
+  <title><![CDATA[Lav hastegrad på forespørsler om pasientjournaler]]></title>
+  <guid>e895e0d5-2ee4-44dd-bb9d-7d41cb46f3e2</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om pasientjournaler fra Fødselsstiftelsen på Rikshospitalet med lav hastegrad. Dette understreker behovet for tilgang til medisinsk historie i slektsforskning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlige etater etterspør arkivsøk]]></title>
+  <guid>7794c798-aaf3-409f-80a7-cd611e84c893</guid>
+  <pubDate>Sun, 27 Apr 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn forespørsler om arkivsøk, inkludert saker relatert til Justisdepartementet. Dette viser arkivets viktige rolle i å støtte offentlig forvaltning med historiske data.]]></description>
 </item>
 
 
