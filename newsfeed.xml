@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 29 Apr 2025 11:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 07:01:50 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
-  <guid>98c7db27-d5f5-4b91-bdca-b4f8a2d168a7</guid>
-  <pubDate>Tue, 29 Apr 2025 11:02:40 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om landssviksaker den siste uken. Blant sakene er forespørsler fra både privatpersoner og forskere, hvor noen allerede er ferdigbehandlet. Dette viser en økende interesse for Norges historie under andre verdenskrig.]]></description>
+  <title><![CDATA[Økning i henvendelser om dødsfall og skifte]]></title>
+  <guid>b07be0c4-b108-49cb-9968-2b81dfb19ede</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en økning i saker vedrørende dødsfall og skifte. Flere profesjonelle aktører har nylig opprettet forespørsler om slike saker, inkludert de for Viktoria Carlsen, Harald Oscar Carlsen og Per August Wessel-Berg. Majoriteten av disse sakene har standard hastegrad og venter fortsatt på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske eiendomssaker i Oslo og Asker]]></title>
-  <guid>57936e84-9b6d-436d-bda4-cac04cc65627</guid>
-  <pubDate>Tue, 29 Apr 2025 11:02:40 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om eiendomssaker, inkludert avskrifter og søk i eiendomsarkiver i Oslo og Asker. Flere av sakene er fra profesjonelle aktører og venter fortsatt på å bli behandlet.]]></description>
+  <title><![CDATA[Landssvik-saker dominerer i Riksarkivet]]></title>
+  <guid>f74d9f36-de11-4b50-b933-1e295f170c5f</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker fra privatpersoner, inkludert forespørsler om Arne Berg og Knut Ludvik Lykken. Behandlingen av slike saker har standard hastegrad, og flere er allerede fullført. Dette reflekterer en vedvarende interesse for historiske rettsoppgjør etter krigen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinteresse for politiske dokumenter]]></title>
-  <guid>f73613d0-355f-4936-b2d9-1c960c279777</guid>
-  <pubDate>Tue, 29 Apr 2025 11:02:40 GMT</pubDate>
-  <description><![CDATA[Det er kommet forespørsler fra forskere og studenter om innsyn i politiske dokumenter, som en biografi om en kjent politisk skikkelse og dokumenter fra Afghanistanutvalget. Disse sakene viser viktigheten av Riksarkivet som ressurs for akademisk forskning.]]></description>
+  <title><![CDATA[Forespørsler om statsborgerskap under behandling]]></title>
+  <guid>63c673db-96fb-40b7-b4b2-fcc9e8f95c13</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Forespørsler om statsborgerskap utgjør en betydelig del av saksbehandlingen i Riksarkivet. Flere privatpersoner har nylig sendt inn forespørsler, inkludert for Christian Buchholdt og Ian Peter Diesen. Hastegraden varierer fra lav til standard, og mange av sakene er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker statsborgerskapshistorikk]]></title>
-  <guid>0f06437a-9c24-40b9-a649-732794cf259e</guid>
-  <pubDate>Tue, 29 Apr 2025 11:02:40 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har henvendt seg til Riksarkivet for informasjon om statsborgerskap, inkludert saker som angår statsborgerskapshistorikk og endringer. Noen av disse sakene er allerede ferdigbehandlet, mens andre fortsatt venter på behandling.]]></description>
+  <title><![CDATA[Økt interesse for slektsforskning]]></title>
+  <guid>56f487d6-ce18-4f1b-8791-6a4f7be7ca82</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Det har vært en merkbar økning i forespørsler om slektsforskning ved Riksarkivet. Privatpersoner søker informasjon om forfedre som Sanna Aas Lindstrøm og Idl Zerkowska. Dette kan tyde på en økende interesse for personlig historie og slektsundersøkelser blant publikum.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av Riksarkivets diplomsamling]]></title>
-  <guid>0e82abad-5046-4a2d-8ee8-855f040ec93a</guid>
-  <pubDate>Tue, 29 Apr 2025 11:02:40 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med digitalisering av sin diplomsamling, inkludert latinske fragmenter. Dette initiativet vil gjøre historiske dokumenter mer tilgjengelige for forskere og studenter, og styrker Riksarkivets rolle som en viktig kilde for historisk forskning.]]></description>
+  <title><![CDATA[Etterspørsel etter militære dokumenter]]></title>
+  <guid>2059264d-1851-4621-b178-6c149bbe4e66</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere forespørsler om militære dokumenter, inkludert forespørsler om militære rulleblad og loggbøker fra fartøy. Forespørslene kommer fra privatpersoner, og behandlingen varierer i hastegrad. Dette kan reflektere en økt interesse for militærhistorie blant allmennheten.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forsker- og studenthenvendelser øker]]></title>
+  <guid>763416a8-b204-4b67-b785-dbca8d20f19e</guid>
+  <pubDate>Wed, 30 Apr 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har sett en økning i forespørsler fra forskere og studenter, inkludert forespørsler om digitalisering av dokumenter og innsyn i historiske arkiver som Oluf Ryghs arkiv. Dette indikerer en økt akademisk interesse for historiske kilder og arkivmateriale.]]></description>
 </item>
 
 
