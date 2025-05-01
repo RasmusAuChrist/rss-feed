@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 30 Apr 2025 11:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 07:01:06 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssvik-saker]]></title>
-  <guid>b4513ee5-6a13-4f03-bc23-21f727ed93c9</guid>
-  <pubDate>Wed, 30 Apr 2025 11:02:09 GMT</pubDate>
-  <description><![CDATA[Denne uken har Riksarkivet mottatt flere henvendelser relatert til landssvik fra andre verdenskrig. Mange av sakene kommer fra privatpersoner og har standard hastegrad. Dette viser en vedvarende interesse for historiske forhold fra krigen.]]></description>
+  <title><![CDATA[Stor pågang av landssviksaker]]></title>
+  <guid>35f3c390-ce21-4b55-a9f1-b2d69b43b843</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok flere forespørsler om landssviksaker den siste uken. Disse stammer fra privatpersoner og viser fortsatt stor interesse for å avdekke historiske forhold fra krigen. Flere saker er allerede fullført, men enkelte venter fortsatt på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fremdrift i dødsfalls- og skiftesaker]]></title>
-  <guid>28caf3ac-ecaa-42c5-b3f4-9584f4a8f707</guid>
-  <pubDate>Wed, 30 Apr 2025 11:02:09 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere saker om dødsfall og skifte, inkludert en sak fra 2024. Sakene har en standard hastegrad og er ikke fullført, noe som indikerer en jevn etterspørsel etter denne typen informasjon fra profesjonelle aktører.]]></description>
+  <title><![CDATA[Høy etterspørsel etter dødsfall- og skiftesaker]]></title>
+  <guid>9edc804a-1134-4f6a-88d3-17793ed24027</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall- og skiftesaker fra både offentlige etater og profesjonelle aktører. Noen av disse sakene har høy prioritet og blir raskt behandlet, mens andre fortsatt venter på oppfølging.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om statsborgerskap øker]]></title>
-  <guid>3aab47f2-3bf7-4c55-b8b0-c629d40aab07</guid>
-  <pubDate>Wed, 30 Apr 2025 11:02:09 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har denne uken mottatt flere forespørsler om statsborgerskap fra privatpersoner. Sakene varierer i hastegrad, fra standard til lav, og er under behandling. Dette kan tyde på økt interesse for statsborgerskapsspørsmål.]]></description>
+  <title><![CDATA[Arkivsøk om nyordningen av politiet i 1941]]></title>
+  <guid>2c0bc584-b56d-40e9-95fa-cece56291bb2</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[En forsker/student har søkt Riksarkivet om informasjon om nyordningen av politiet i 1941. Dette kan tyde på en økende akademisk interesse for politiets rolle og utvikling under krigen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter historisk materiale]]></title>
-  <guid>31f4e09d-13c8-4502-bb76-791e93e8128b</guid>
-  <pubDate>Wed, 30 Apr 2025 11:02:09 GMT</pubDate>
-  <description><![CDATA[Det er en økende etterspørsel etter historisk materiale, som skipstegninger og dokumenter om erkebiskoper, i Riksarkivet. Flere privatpersoner har sendt inn forespørsler med lav til standard hastegrad, noe som viser en vedvarende interesse for historisk forskning.]]></description>
+  <title><![CDATA[Økt interesse for krigsbarn]]></title>
+  <guid>bb464804-d7d8-4c04-a882-c73aa1307add</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om opplysninger knyttet til krigsbarn. Privatpersoner søker innsikt i sine familiebakgrunner og krigens påvirkning på deres liv. Ingen av forespørslene er fullført ennå.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker informasjon om historiske hendelser]]></title>
-  <guid>329c2739-95f3-47ea-a450-8a56d99d8846</guid>
-  <pubDate>Wed, 30 Apr 2025 11:02:09 GMT</pubDate>
-  <description><![CDATA[Presseaktører har henvendt seg til Riksarkivet for informasjon om arrestasjonen av mannlige jøder i Ålesund i 1942 og straffesaker fra Moss i 1986. Begge sakene har standard hastegrad og venter på behandling, noe som viser medienes interesse for historisk dokumentasjon.]]></description>
+  <title><![CDATA[Forskerinnsyn i regjeringsdokumenter]]></title>
+  <guid>a7b81745-7463-4046-b775-d08a8903818a</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har bedt om innsyn i regjeringsdokumenter relatert til Afghanistanutvalget fra 2015-2021. Dette kan gi ny innsikt i myndighetenes beslutningsprosesser og håndtering av utenrikssaker i denne perioden.]]></description>
+</item>
+<item>
+  <title><![CDATA[Digitalisering av Riksarkivets diplomsamling]]></title>
+  <guid>f4511adb-aa85-4002-91b5-5006813a54c1</guid>
+  <pubDate>Thu, 01 May 2025 07:01:06 GMT</pubDate>
+  <description><![CDATA[Prosjekt for digitalisering av Riksarkivets diplomsamling har fått oppmerksomhet fra forskere og studenter. Dette initiativet vil lette tilgangen til historiske dokumenter og fremme forskning på kulturelle og historiske temaer.]]></description>
 </item>
 
 
