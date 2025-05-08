@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 07 May 2025 11:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 07:03:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Mange landssviksaker behandlet]]></title>
-  <guid>4f5e7227-42b7-4500-82e5-7655d7e859df</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har den siste uken mottatt en rekke henvendelser om landssviksaker fra privatpersoner. Flere av disse sakene har allerede blitt ferdigbehandlet, mens andre fortsatt er under arbeid. Dette viser en vedvarende interesse for historiske saker knyttet til landssvik i Norge.]]></description>
+  <title><![CDATA[Stor pågang av landssviksaker i Riksarkivet]]></title>
+  <guid>58b2cefb-b2d5-40a4-8507-1190af6a5776</guid>
+  <pubDate>Thu, 08 May 2025 07:03:09 GMT</pubDate>
+  <description><![CDATA[Den siste uken har Riksarkivet mottatt flere forespørsler fra privatpersoner som søker informasjon om landssviksaker. Disse sakene utgjør en betydelig del av de nye henvendelsene, med mange som fortsatt er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende etterspørsel etter kildeveiledning]]></title>
-  <guid>584f6b2d-5c79-4fe4-9eb1-3a90ead1d381</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har merket en økning i forespørsler om kildeveiledning fra forskere og studenter. Blant annet etterspørres informasjon om baseerklæringen fra 1949 og samarbeid under krigen. Dette understreker viktigheten av arkivene for historisk forskning.]]></description>
+  <title><![CDATA[Forespørsler om krigsbarn og statsborgerskap]]></title>
+  <guid>73976a17-98cf-47d9-b740-0f6fbdfb6523</guid>
+  <pubDate>Thu, 08 May 2025 07:03:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om krigsbarn og statsborgerskap. Dette inkluderer saker om personer født under og etter krigen, samt søknader om statsborgerskap, som viser en bred interesse for historiske og personlige rettigheter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Treg fremdrift i saker om krigsbarn]]></title>
-  <guid>702a2df6-0efc-4c55-93bb-c325c06bb022</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[Flere saker om krigsbarn har blitt registrert den siste uken, men mange av disse er fortsatt ubehandlet. Dette kan tyde på en økning i slike forespørsler som legger press på arkivressursene.]]></description>
+  <title><![CDATA[Forskerinnsyn i historiske data]]></title>
+  <guid>98a08061-d810-44b7-9558-bfbe1069d2e2</guid>
+  <pubDate>Thu, 08 May 2025 07:03:09 GMT</pubDate>
+  <description><![CDATA[Flere forskere har søkt innsyn i arkiver som omhandler norske kvinner i internasjonale militære operasjoner og middelalderdiplomer. Disse forespørslene indikerer økt akademisk interesse for dokumentasjon av historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullført sak om statsborgerskap]]></title>
-  <guid>43a93e62-b984-4393-8245-20482b1bbaae</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har raskt behandlet en forespørsel om statsborgerskap for en privatperson født i 1975. Saken ble opprettet og fullført innen 24 timer, noe som viser effektiviteten i behandlingen av slike forespørsler.]]></description>
+  <title><![CDATA[Kopibestillinger og kildeveiledning hos Riksarkivet]]></title>
+  <guid>658500a4-1cca-484f-b84c-88b9cea812df</guid>
+  <pubDate>Thu, 08 May 2025 07:03:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt forespørsler om kopibestillinger av historiske dokumenter, samt kildeveiledning for forskningsformål. Dette inkluderer middelalderdiplomer og baseerklæringen fra 1949, som understreker behovet for tilgang til historisk materiale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i militærhistorie]]></title>
-  <guid>7b5fb42b-01ec-465f-8cb5-77b14a30553f</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[Det pågår flere forespørsler fra forskere om innsyn i norsk militærhistorie, inkludert soldatregisteret og kvinner i internasjonale operasjoner. Dette reflekterer en aktiv interesse for Norges militære deltakelse og rolle i historiske sammenhenger.]]></description>
-</item>
-<item>
-  <title><![CDATA[Fødsel og dåp-saker krever tid]]></title>
-  <guid>9eca247a-4d28-454d-864e-7b6ec3eead51</guid>
-  <pubDate>Wed, 07 May 2025 11:02:33 GMT</pubDate>
-  <description><![CDATA[En lavhastighets sak om fødsel/dåp fra 1943 i Haslum er fortsatt ubehandlet hos Statsarkivet i Oslo. Dette kan indikere at slike saker tar lengre tid å ferdigstille, muligens grunnet kompleksitet eller tilgjengelighet av kilder.]]></description>
+  <title><![CDATA[Eiendomssaker i Oslo og omegn]]></title>
+  <guid>708f49e9-739e-457c-a6bb-ddc6005c909f</guid>
+  <pubDate>Thu, 08 May 2025 07:03:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fått inn flere eiendomssaker, inkludert forespørsler om dødsfall og skifte i Asker og Lørenskog. Disse sakene er viktige for både privatpersoner og offentlige etater i forbindelse med eiendomsrett og arv.]]></description>
 </item>
 
 
