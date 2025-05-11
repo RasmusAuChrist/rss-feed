@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 10 May 2025 11:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 07:02:14 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssvikssaker]]></title>
-  <guid>5f7b3734-c676-4548-92fb-547fc61eb29d</guid>
-  <pubDate>Sat, 10 May 2025 11:02:07 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i landssvikssaker den siste uken. Dette inkluderer henvendelser fra både privatpersoner og profesjonelle aktører. Behandlingen av disse sakene varierer, men mange av forespørslene har allerede blitt fullført.]]></description>
+  <title><![CDATA[Økt antall forespørsler om landssvik-saker]]></title>
+  <guid>6faa1f48-428c-4f12-acd6-1c2c5778f438</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en betydelig økning i forespørsler om landssvik-saker den siste uken, med flere henvendelser fra privatpersoner som ønsker innsyn i historiske saker. Dette viser en økende interesse for temaet, og arkivet jobber aktivt med å håndtere etterspørselen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter statsborgerskapsopplysninger øker]]></title>
-  <guid>3c9bab25-8146-4d3a-bf93-b139f04cd3c7</guid>
-  <pubDate>Sat, 10 May 2025 11:02:07 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig sendt inn forespørsler om statsborgerskap til Riksarkivet. Blant disse er det noen saker som haster, som statsborgerskap for personer født i 1960. Behandlingen av disse sakene pågår fortsatt.]]></description>
+  <title><![CDATA[Behandling av statsborgerskapshenvendelser]]></title>
+  <guid>4d8c037f-c8fd-44cf-ba18-62502af9c189</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har behandlet flere forespørsler om statsborgerskap, inkludert en som er merket som "haster". Dette gjenspeiler en jevn strøm av forespørsler fra privatpersoner som søker dokumentasjon for statsborgerskap.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for krigsrelaterte temaer ved Riksarkivet]]></title>
-  <guid>89b60e5d-ee68-4b05-8556-42bd6156a915</guid>
-  <pubDate>Sat, 10 May 2025 11:02:07 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler knyttet til krigsrelaterte emner, inkludert krigsbarn, flyktninger fra Finnmark og fartstid under krigen. Disse forespørslene kommer hovedsakelig fra privatpersoner og har varierende hastegrad.]]></description>
+  <title><![CDATA[Etterspørsel etter krigshistorie]]></title>
+  <guid>9cf2c629-8d27-447b-8057-b3b24823d7c5</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[Det har vært flere henvendelser relatert til krigshistorie, inkludert flyktninger fra Finnmark under andre verdenskrig og krigsbarn. Privatpersoner viser stor interesse for å lære mer om denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandling av dødsfall og skiftesaker i Oslo]]></title>
-  <guid>8127a26c-8bb9-4589-a63c-2ce064e6a475</guid>
-  <pubDate>Sat, 10 May 2025 11:02:07 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottar flere forespørsler om dødsfall og skiftesaker, spesielt fra offentlig etat. Sakene omfatter flere tidsperioder, fra 1938 til 1968, samt nyere tilfeller fra 2024. Mange av disse sakene er fortsatt under behandling.]]></description>
+  <title><![CDATA[Omfattende etterspørsel etter dødsfalls- og skiftesaker]]></title>
+  <guid>879a215d-7838-4a5e-bc6c-f1e44edcf7c2</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo håndterer et økende antall forespørsler om dødsfalls- og skiftesaker, med flere saker fortsatt ubehandlet. Dette indikerer et høyt behov for informasjon blant både privatpersoner og offentlige etater.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter arkivsøk i Riksarkivet]]></title>
-  <guid>aa8705a6-6ffb-4bce-988e-6d36f8201b23</guid>
-  <pubDate>Sat, 10 May 2025 11:02:07 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om arkivsøk, inkludert saker som dekker alt fra import av snøscootere til klassifisering av veier. Offentlige etater er de hyppigste brukerne av denne tjenesten, og flere forespørsler venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Interesse for norsk motstandsbevegelse]]></title>
+  <guid>c1543103-b046-40a5-ab8e-576198ceb2c9</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[En forespørsel om arkivsøk relatert til personer i XU og Stay behind har blitt behandlet. Dette understreker en vedvarende interesse for motstandsbevegelsen under andre verdenskrig blant privatpersoner.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forespørsel om tildeling av Kongens Fortjenstmedalje]]></title>
+  <guid>b1499273-0846-4961-b613-a4adc584a79d</guid>
+  <pubDate>Sun, 11 May 2025 07:02:14 GMT</pubDate>
+  <description><![CDATA[To forespørsler om tildeling av Kongens Fortjenstmedalje har blitt registrert. Dette viser en pågående interesse for å anerkjenne innsatsen til enkeltpersoner i det norske samfunnet.]]></description>
 </item>
 
 
