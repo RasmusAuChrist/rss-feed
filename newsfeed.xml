@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 13 May 2025 11:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 07:01:50 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Mange saker om landssvik fullført]]></title>
-  <guid>e91fccc5-542b-4a3c-8aa6-8a4b79563ab4</guid>
-  <pubDate>Tue, 13 May 2025 11:01:41 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har behandlet flere landssviksaker den siste uken, inkludert forespørsler om dokumenter knyttet til personer født tidlig på 1900-tallet. Flere av disse sakene er nå fullført, noe som viser en effektiv saksbehandling for privatpersoner som søker informasjon om historiske saker.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
+  <guid>3cf43a3d-23dc-4e3d-84c6-83f22b31fbc2</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om tilgang til dokumenter relatert til landssvik. Mange av disse henvendelsene kommer fra privatpersoner som søker informasjon om familiemedlemmer fra krigstiden. Behandlingstiden varierer, men flere saker er allerede fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for flyktninghistorie]]></title>
-  <guid>bf3d5c75-f355-461f-a022-37e230095d38</guid>
-  <pubDate>Tue, 13 May 2025 11:01:41 GMT</pubDate>
-  <description><![CDATA[Flere henvendelser omhandler nordmenns flukt til Sverige under andre verdenskrig. Selv om noen saker fortsatt er under behandling, reflekterer dette en økende interesse blant privatpersoner for å forstå personlige og nasjonale historier fra krigstiden.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad øker]]></title>
+  <guid>c7254f6f-29f6-4fc9-8fcd-ff3a6d8d5a9b</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Det er en økning i antall forespørsler om militære rulleblad ved Riksarkivet. Privatpersoner søker informasjon om både slektninger og egen militærhistorie. Behandlingstiden varierer, men flere forespørsler er under arbeid og noen har blitt avsluttet raskt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om statsborgerskap i høy hastighet]]></title>
-  <guid>bb85e2be-5502-4e47-b960-4d1bef62f17b</guid>
-  <pubDate>Tue, 13 May 2025 11:01:41 GMT</pubDate>
-  <description><![CDATA[Saker om statsborgerskap har blitt behandlet med høy prioritet. Én sak ble fullført innen få dager, noe som indikerer at Riksarkivet gir rask respons på forespørsler med høy hastighet, til stor nytte for privatpersoner som søker statsborgerskap.]]></description>
+  <title><![CDATA[Henvendelser om dåpsattester ved Statsarkivet]]></title>
+  <guid>13a76aa3-6a39-4186-830d-eaa23868b755</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig mottatt flere forespørsler om dåpsattester fra privatpersoner. Disse henvendelsene har standard hastegrad og saksbehandling pågår for flere av dem.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>3731c83b-6f5b-491b-a162-2162277854b4</guid>
-  <pubDate>Tue, 13 May 2025 11:01:41 GMT</pubDate>
-  <description><![CDATA[Arkivet har mottatt flere forespørsler om militære rulleblad fra privatpersoner. Flere av disse sakene er fullført, og dette viser en vedvarende interesse for militærhistorie blant publikum, samt arkivets evne til å håndtere disse forespørslene effektivt.]]></description>
+  <title><![CDATA[Økende interesse for krigsrelaterte saker]]></title>
+  <guid>1db01d32-c7bc-41f0-a270-bc6294874e4d</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser som omhandler personers roller under krigen, inkludert forespørsler om krigsseilere og krigsbarn. Disse sakene har standard hastegrad, og noen av dem er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker innsikt i historiske dokumenter]]></title>
-  <guid>58528fb6-ba17-4889-b0a5-b093e137eb04</guid>
-  <pubDate>Tue, 13 May 2025 11:01:41 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har vist interesse for historiske dokumenter, inkludert forespørsler om tilgang til egne arkiver og lovforarbeid. Flere av disse sakene er under behandling, noe som understreker viktigheten av historisk innsikt i offentlig forvaltning.]]></description>
+  <title><![CDATA[Statsborgerskapssaker med varierende hastegrad]]></title>
+  <guid>e6618abb-da59-427c-9ec1-379b14154755</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Forespørsler om statsborgerskap fortsetter å komme inn til Riksarkivet, med variasjon i hastegrad fra standard til haster. Flere saker har blitt fullført, mens noen fortsatt er under behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Interesse for historiske slektsopplysninger]]></title>
+  <guid>08bcaacc-d2eb-48ac-950a-a84d2cc37de8</guid>
+  <pubDate>Wed, 14 May 2025 07:01:50 GMT</pubDate>
+  <description><![CDATA[Det er en jevn strøm av forespørsler fra privatpersoner som søker slektshistoriske opplysninger fra Riksarkivet. Disse henvendelsene har ofte lav hastegrad, og mange av dem er fortsatt under behandling.]]></description>
 </item>
 
 
