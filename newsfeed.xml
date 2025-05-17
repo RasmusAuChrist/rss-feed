@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 16 May 2025 11:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 07:01:39 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Mange forespørsler om landssvik-saker]]></title>
-  <guid>3d251de8-099c-4794-8a00-63e6f93e9a0f</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt flere forespørsler om landssvik-saker fra privatpersoner. Disse sakene har standard hastegrad og omfatter blant annet saker fra 2. verdenskrig. Interesse for historiske saker ser ut til å være høy blant brukerne.]]></description>
+  <title><![CDATA[Økning i forespørsler om krigsrelaterte dokumenter]]></title>
+  <guid>37dbf61f-616d-4aa8-a78b-330a7b2866bd</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner som ønsker tilgang til krigsrelaterte dokumenter, inkludert fartstid under krigen og landssviksaker. Dette viser en vedvarende interesse for historisk forskning blant allmennheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter militære rulleblad]]></title>
-  <guid>6a24850d-88f2-4b38-bd71-820e80b9ac72</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Det har vært en markant økning i etterspørselen etter militære rulleblad i Riksarkivet. Flere privatpersoner har bedt om innsyn i slike dokumenter fra ulike tidsperioder. Behandlingstiden varierer, men de fleste sakene er ikke fullført ennå.]]></description>
+  <title><![CDATA[Høy aktivitet innen eiendomssaker i Oslo]]></title>
+  <guid>075185a0-07a8-42f0-bdf1-a48ad6c47833</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en jevn strøm av eiendomssaker, inkludert en hastesak om avskrift for en eiendom i Lillestrøm. Dette indikerer en økt etterspørsel etter eiendomsinformasjon, særlig fra profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dokumentasjon på krigsbarn]]></title>
-  <guid>604325f8-e208-489c-9f35-d9a16b6617f1</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om dokumentasjon vedrørende krigsbarn. Disse sakene har standard hastegrad og gjelder privatpersoner som søker informasjon om sin bakgrunn og historie fra 2. verdenskrig. Behandlingen er pågående.]]></description>
+  <title><![CDATA[Etterspørsel etter tilgang til historiske arkiver]]></title>
+  <guid>0cafbfaf-74fa-4ff3-acd9-729d0f232f40</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[Flere offentlige etater har sendt inn forespørsler om tilgang til egne historiske arkiver, blant annet fra NSB og Finansdepartementet. Dette viser et økt behov for innsyn i historisk dokumentasjon fra offentlige instanser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Hasteoppdrag på eiendomshenvendelse]]></title>
-  <guid>d464f412-54ce-4f7e-8937-2b23dcff6b5e</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt en hasterekvirering om avskrift av eiendomsdokumenter fra Lillestrøm. Saken er fra en privatperson og prioriteres høyt for å sikre rask behandling. Fullføring av oppdraget er enda ikke registrert.]]></description>
+  <title><![CDATA[Lav prioritet på slektsrelaterte forespørsler]]></title>
+  <guid>259d7b17-418f-4f6e-a08d-f5600c3871a8</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om slektsforskning og slektsrelaterte dokumenter er registrert med lav hastegrad. Dette kan tyde på at slike forespørsler ikke er presserende, men fortsatt viktige for de involverte privatpersonene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere søknader om tilgang til historiske arkiver]]></title>
-  <guid>25c2f9bd-4011-416d-9d61-f01c6cc80df7</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt flere forespørsler om tilgang til egne historiske arkiver i Riksarkivet og Statsarkivet i Oslo. Sakene har standard hastegrad, og behandling pågår for å sikre at de nødvendige dokumentene blir tilgjengelige.]]></description>
+  <title><![CDATA[Forskerinnsyn i skandinavisk makt]]></title>
+  <guid>95723939-b23f-453f-80fa-f474404c489b</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[En forsker har bedt om innsyn i dokumenter relatert til skandinavisk monarkisk makt. Dette understreker interessen for politisk historie blant akademikere og studenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om slektsforskning]]></title>
-  <guid>14a9e520-7c83-4e52-b041-5f97a5d3396d</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Privatpersoner har sendt inn flere forespørsler om slektsforskning, inkludert saker om slektninger som var fanger under 2. verdenskrig. Disse sakene har lav hastegrad, og behandling pågår for å gi brukerne nødvendig informasjon.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>ba1f69db-c40b-41d2-bc6f-9ac13d57d44a</guid>
-  <pubDate>Fri, 16 May 2025 11:04:14 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Rask behandling av dåpsattester]]></title>
+  <guid>57f3225f-cd41-444e-9fdf-122b43a65941</guid>
+  <pubDate>Sat, 17 May 2025 07:01:39 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har effektivt behandlet flere forespørsler om dåpsattester, inkludert en sak fra Glemmen. Dette viser en rask saksbehandlingstid for slike personlige dokumenter, noe som er positivt for brukerne.]]></description>
 </item>
 
 
