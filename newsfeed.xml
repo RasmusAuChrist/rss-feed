@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 21 May 2025 07:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 11:01:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i henvendelser om landssvik]]></title>
-  <guid>c8f19cba-3426-4330-b854-cd1edb937250</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde henvendelser angående landssviksaker den siste uken. Flere privatpersoner søker innsyn i dokumenter relatert til landssvik fra andre verdenskrig. Dette indikerer en økende interesse for historiske hendelser og deres personlige involveringer.]]></description>
+  <title><![CDATA[Høy aktivitet i landssviksaker]]></title>
+  <guid>abb0f4d8-0657-47dc-971c-20359df95325</guid>
+  <pubDate>Wed, 21 May 2025 11:01:07 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har den siste uken behandlet flere forespørsler om landssviksaker fra privatpersoner. Blant annet ble saker om Emil Bergheim, Melchior Skjærstad og Elisabeth Uchermann Nitter ferdigbehandlet. Dette viser en vedvarende interesse for historiske etterkrigsoppgjør i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter statsborgerskap og historiske dokumenter]]></title>
-  <guid>26f50cf0-af89-4909-8019-1a5627eaadc5</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har sendt forespørsler om statsborgerskap og historiske dokumenter til Riksarkivet. Innkomne saker inkluderer statsborgerskap for personer født på 50- og 60-tallet, samt forespørsler om militære rulleblad og vigselsattester.]]></description>
+  <title><![CDATA[Etterspørsel etter statsborgerskap- og vigselsattester]]></title>
+  <guid>09f54e99-3c7e-40bc-97f5-5281e1ea0c69</guid>
+  <pubDate>Wed, 21 May 2025 11:01:07 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner og offentlige etater har den siste uken søkt om innsyn i statsborgerskap- og vigselsattester. Blant annet er forespørsler om statsborgerskap for Imogen Louise Higgings og vigselsattest for Ulla Ohlin og Jan Walter Utne mottatt. Dette reflekterer behovet for dokumentasjon knyttet til personlig identitet og familieforhold.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker innsyn i arkiver]]></title>
-  <guid>5eb14662-c515-402c-8dd3-586482183341</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Det er registrert flere henvendelser fra offentlige etater som søker innsyn i historiske arkiver ved Riksarkivet. Sakene omfatter innsyn i bygningslovens vedtekter og tilgang til egne historiske arkiver. Samtlige saker prioriteres som standard i hastighet.]]></description>
+  <title><![CDATA[Økt interesse for militærhistorie]]></title>
+  <guid>3a5cb464-9877-4d39-b3a7-55929c245503</guid>
+  <pubDate>Wed, 21 May 2025 11:01:07 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militærhistoriske dokumenter, inkludert militære rulleblad og historie om stridsvogner. Etterspørselen viser at både forskere og privatpersoner er opptatt av å forstå militære aspekter av norsk historie, særlig relatert til krigsperioder.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav etterspørsel etter lav hastesaker]]></title>
-  <guid>b1345926-893b-44dc-a0f8-a49c4e7d40e4</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere lav hastesaker den siste uken. Dette inkluderer forespørsler om historiske militære medaljer og mannskapslister for fartøy. Disse sakene har ikke fått umiddelbar behandling, men er fortsatt i prosess.]]></description>
+  <title><![CDATA[Forespørsler om historiske eiendomsdokumenter]]></title>
+  <guid>8ce3cd62-8d22-47cb-b7c8-87e7e2edd4e2</guid>
+  <pubDate>Wed, 21 May 2025 11:01:07 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fått flere henvendelser angående eiendomsdokumenter, inkludert forespørsler om reguleringsplaner i Asker og Bærum. Dette indikerer en økt interesse for historiske eiendomsforhold og planlegging i regionen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk og intervjuer populært blant privatpersoner]]></title>
-  <guid>566c8737-4e63-4f27-ba32-5bb2d521a24e</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Det er en økende interesse for arkivsøk og intervjuer blant privatpersoner. En rekke saker har blitt opprettet i Riksarkivet for innsyn i historiske dokumenter og personlige intervjuer, noe som gjenspeiler en voksende nysgjerrighet for personlig og nasjonal historie.]]></description>
-</item>
-<item>
-  <title><![CDATA[Hurtigbehandlet sak i Statsarkivet]]></title>
-  <guid>8f89e5a8-34a9-4ee6-abc8-62bf1eb3a51f</guid>
-  <pubDate>Wed, 21 May 2025 07:02:22 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet en forespørsel om dåpsattest for Akershus slottskirke. Saken ble opprettet og fullført på en og samme dag, noe som viser effektiv saksbehandling ved Statsarkivet.]]></description>
+  <title><![CDATA[Fremdeles uavklarte forespørsler om krigshistorie]]></title>
+  <guid>85e9d979-0570-4747-b57e-16ae1a4384b1</guid>
+  <pubDate>Wed, 21 May 2025 11:01:07 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om krigshistoriske dokumenter gjenstår, blant annet informasjon om Flemma kraftverk og samarbeid mellom England og Norge under andre verdenskrig. Dette vitner om en kontinuerlig interesse for å avdekke historiske krigshendelser og deres innflytelse på norsk historie.]]></description>
 </item>
 
 
