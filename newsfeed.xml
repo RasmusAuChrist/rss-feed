@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 24 May 2025 07:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 11:01:27 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
-  <guid>3168f699-3638-4429-baf5-3c17e8cf3e4a</guid>
-  <pubDate>Sat, 24 May 2025 07:01:12 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om tilgang til dokumentasjon relatert til landssvik-saker. Flere privatpersoner og forskere ønsker innsyn i arkiver knyttet til historiske hendelser fra andre verdenskrig. Dette indikerer en vedvarende interesse for Norges krigshistorie.]]></description>
+  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
+  <guid>4a6a786b-e07d-4c01-8916-272396ee7494</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en stor mengde forespørsler om landssvik-saker den siste uken. Flere privatpersoner og forskere har vist interesse for ulike historiske saker knyttet til landssvik fra andre verdenskrig. Dette viser en vedvarende interesse for denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter slektsforskning øker]]></title>
-  <guid>5f10fcb5-9a2f-435c-89ed-b7f01e6a93fb</guid>
-  <pubDate>Sat, 24 May 2025 07:01:12 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler fra privatpersoner som søker informasjon om sine forfedre. Flere henvendelser gjelder slektsforskning, inkludert forespørsler om fødsels- og dåpsdokumenter, samt forbryteralbum fra tidlig 1900-tall.]]></description>
+  <title><![CDATA[Arkivsøk fra 1930-tallet vekker interesse]]></title>
+  <guid>5d66519d-5fcd-4082-ab57-766454b1abb4</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[En forespørsel om årsrapporter fra fylkeslegen i Rogaland på 1930-tallet er mottatt av Riksarkivet. Dette arkivsøket indikerer en interesse for helsetilstanden i regionen i denne perioden. Saken er under behandling, og det forventes innsikt i historiske helseforhold.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker historiske dokumenter]]></title>
-  <guid>f9b93607-56d0-45b0-b5fb-fae1c1289d42</guid>
-  <pubDate>Sat, 24 May 2025 07:01:12 GMT</pubDate>
-  <description><![CDATA[Flere offentlige etater har henvendt seg til Riksarkivet for kopibestillinger og innsyn i historiske dokumenter. Dette inkluderer forespørsler om luftspenntillatelser og vedtekter til bygningsloven, noe som viser arkivenes betydning for offentlig forvaltning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Forespørsler om statsborgerskap]]></title>
-  <guid>e43bf140-29ad-4e64-b757-c2bc92dcc409</guid>
-  <pubDate>Sat, 24 May 2025 07:01:12 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om statsborgerskap fra privatpersoner. Henvendelsene gjelder både historiske og nyere saker, noe som indikerer et vedvarende behov for dokumentasjon knyttet til statsborgerskap og identitet.]]></description>
+  <title><![CDATA[Kopibestillinger fra offentlige etater]]></title>
+  <guid>eb29c146-0922-4e55-a10e-6e358ebfb855</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere kopibestillinger fra offentlige etater, inkludert dokumenter om luftspenntillatelser i Åkrafjorden og direktoratet for Statens skoger. Disse sakene har høy prioritet, og Riksarkivet jobber med å imøtekomme forespørslene raskt.]]></description>
 </item>
 <item>
   <title><![CDATA[Historisk interesse for Nortraship]]></title>
-  <guid>2e125b38-6dd8-455c-8c36-19a042c8facb</guid>
-  <pubDate>Sat, 24 May 2025 07:01:12 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har uttrykt interesse for Nortraship og søker etter arkivmateriale relatert til "Bad elements list" og opprettelsen av Nortraship i 1940. Dette understreker en vedvarende nysgjerrighet for Norges maritime historie under andre verdenskrig.]]></description>
+  <guid>1c9b4210-3c61-41f1-8881-77cdf18d2370</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om opprettelsen av Nortraship i 1940. Denne saken er en del av en rekke forespørsler om norsk skipsfartshistorie under krigen, og viser en vedvarende interesse for landets maritime arv.]]></description>
+</item>
+<item>
+  <title><![CDATA[Flere forespørsler om statsborgerskap]]></title>
+  <guid>4d243fa1-4091-4d2e-a430-6323fdb96bfb</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[Det har kommet inn flere forespørsler knyttet til statsborgerskap. Disse sakene omfatter personer født både i Norge og i utlandet, og reflekterer en bred interesse for statsborgerskapsspørsmål i ulike sammenhenger. Behandlingen av disse sakene pågår fortsatt.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskningsinteresse for sensitive historiske temaer]]></title>
+  <guid>83c3a640-be32-4ee4-bd5b-6ca183c654a0</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[En forsker har bedt om innsyn i dokumenter om samrøre mellom homofile og pedofile aktivister på 1970- og 80-tallet. Dette viser en interesse for å forstå samfunnsmessige forhold og rettighetskamper fra denne tiden. Saken er under behandling i Oslo.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>172fd1e3-cafb-4134-89f6-53d6b3ad2727</guid>
+  <pubDate>Sat, 24 May 2025 11:01:27 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
