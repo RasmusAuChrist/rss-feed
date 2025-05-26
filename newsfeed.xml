@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 26 May 2025 07:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 11:01:34 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i etterspørsel etter landssviksaker]]></title>
-  <guid>2d7cfdc8-ff32-446c-a252-82b916e65cdd</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Blant sakene er forespørsler om personer født på slutten av 1800-tallet og tidlig 1900-tall. Behandlingstiden for disse sakene er fortsatt pågående.]]></description>
+  <title><![CDATA[Mange landssviksaker under behandling]]></title>
+  <guid>5b3ca742-0fab-4177-a217-d178910fe45e</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler om innsyn i landssviksaker, og den siste uken har det kommet inn flere slike forespørsler fra privatpersoner. Sakene, som omfatter historiske personer fra første halvdel av 1900-tallet, er under behandling med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter skifteopplysninger øker]]></title>
-  <guid>94343834-3525-4284-b1dd-a369036ac869</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere henvendelser om skifteopplysninger for personer avdøde i Oslo-området i 1960-årene. Forespørslene er fra privatpersoner og behandles fortløpende.]]></description>
+  <title><![CDATA[Etterspørsel etter dødsfall og skifte i Oslo]]></title>
+  <guid>b13c015f-bd7c-40af-a419-cdc5525e5890</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall og skifte, inkludert saker fra 1950- og 60-tallet. Disse forespørslene, som primært kommer fra privatpersoner, behandles med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn på sensitive emner]]></title>
-  <guid>957faed3-9150-4eae-bc3a-9df37d099ad9</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[En forsker har søkt innsyn i arkiver om samrøre mellom homofile og pedofile aktivister fra 1970- og 80-tallet. Saken behandles i Oslo og har standard hastegrad.]]></description>
+  <title><![CDATA[Økt interesse for historisk medaljetildeling]]></title>
+  <guid>be2d4d53-2ba0-4955-b9f2-a106f1e3040f</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig sendt forespørsler til Riksarkivet om tildeling av medaljer, som Kong Haakon VIIs Frihetskors fra 1946. Disse forespørslene har lav hastegrad, men viser en økende interesse for å kartlegge historiske æresbevisninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandlingsprosess for statsborgerskapssaker]]></title>
-  <guid>94db0f89-ae55-4732-bf89-75eca323e546</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler flere forespørsler om statsborgerskap. Blant annet er det en sak fra en person født i 1975. Ingen av forespørslene fra den siste uken er fullført.]]></description>
+  <title><![CDATA[Arkivsøk om norsk historie og kultur]]></title>
+  <guid>150deb0f-f065-4b59-9efb-ad3144ad3fec</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Forespørsler om arkivsøk i Riksarkivet viser en bred interesse for norsk historie, inkludert alt fra Sigurd Griegs utgravninger til opprettelsen av Nortraship. Flesteparten av henvendelsene kommer fra privatpersoner og forskere med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økning i forespørsler om historisk forskning]]></title>
-  <guid>3f7662b8-aea5-4220-8ce5-9aae0ebf984d</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har søkt om innsyn i historiske dokumenter, som etableringen av Naturhistorisk museum og Olsvik batteri i Bergen. Behandlingen av disse forespørslene pågår fortsatt.]]></description>
+  <title><![CDATA[Statsborgerskapssøknader hos Riksarkivet]]></title>
+  <guid>db8268d6-83cc-4624-b5e9-db5551634816</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om statsborgerskap fra privatpersoner. Disse sakene behandles med lav til standard hastegrad, og illustrerer en vedvarende interesse for historiske statsborgerskapsdata.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker kopier og dokumenter]]></title>
-  <guid>f56ac11e-ac01-496c-9304-19474ed3adfe</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn forespørsler om kopier av dokumenter, inkludert tillatelser og oppdragsbrev. Dette viser et fortsatt behov for arkivmateriale i offentlig forvaltning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>abf52e41-12e6-41cf-9d29-fc9c498c511f</guid>
-  <pubDate>Mon, 26 May 2025 07:00:58 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Fullførte forespørsler om slektsforskning]]></title>
+  <guid>3b0c20bf-c938-4feb-9bd1-9725ae91e910</guid>
+  <pubDate>Mon, 26 May 2025 11:01:34 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere forespørsler om slektsforskning, inkludert saker om fødsel og botid. Disse forespørslene, som er viktige for genealogiske studier, har hovedsakelig vært standard hastesaker fra privatpersoner.]]></description>
 </item>
 
 
