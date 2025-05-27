@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 27 May 2025 07:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 11:01:13 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssvikrelaterte forespørsler]]></title>
-  <guid>4f7f901a-d2a4-434c-80c7-62b3405a6ca6</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt en rekke henvendelser fra privatpersoner angående landssviksaker, med flere forespørsler enn vanlig. Dette tyder på økt interesse for historiske dokumenter knyttet til etterkrigstidens rettsprosesser. Flere av sakene er fortsatt under behandling.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
+  <guid>807f924d-b926-4375-adbc-96931eac596d</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Riksarkivet rapporterer en økning i forespørsler om arkiver relatert til landssvik under andre verdenskrig. Flere privatpersoner har bedt om innsyn i dokumenter, men mange saker er fortsatt under behandling. Dette viser en vedvarende interesse for historiske hendelser og personlig slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter fødsels- og dåpsattester]]></title>
-  <guid>a183d5e1-b9aa-4bf2-b08b-b896d4dcbdaa</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere forespørsler om fødsels- og dåpsattester, inkludert hastesaker. Denne økte etterspørselen kan indikere et behov for dokumentasjon i forbindelse med juridiske eller personlige saker. Flere av forespørslene er fortsatt ubehandlet.]]></description>
+  <title><![CDATA[Militært rulleblad utstedt på under en time]]></title>
+  <guid>da20985a-e5ea-4edf-9f77-b46031b06e1a</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har effektivt behandlet en forespørsel om militært rulleblad på mindre enn en time. Dette viser en forbedring i behandlingstiden for slike forespørsler, noe som kan være fordelaktig for privatpersoner som trenger rask tilgang til militærhistoriske data.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivinformasjon]]></title>
-  <guid>eae90287-3f3c-41eb-b03a-e1de5d61db9f</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Det har vært en rekke forespørsler fra offentlige etater om arkivsøk i Riksarkivet. Sakene inkluderer obduksjonsrapporter, tegninger og historiske dokumenter. Behandlingen av disse forespørslene pågår, med varierende hastegrad.]]></description>
+  <title><![CDATA[Offentlige etater søker historiske arkiver]]></title>
+  <guid>22fc385b-03f8-488e-98de-0af82c659efe</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Flere offentlige etater har nylig sendt inn forespørsler til Riksarkivet og Statsarkivet i Oslo for tilgang til historiske arkiver, inkludert obduksjonsrapporter og tegninger av fyrtårn. Dette understreker viktigheten av arkivene i offentlig forvaltning og historisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for slektsforskning]]></title>
-  <guid>5a852739-004a-4cce-bf62-35c8733b299b</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler relatert til slektsforskning, inkludert krigsseilere og krigsfanger fra andre verdenskrig. Dette indikerer en økt interesse for å utforske familiehistorier og deres rolle i historiske hendelser.]]></description>
+  <title><![CDATA[Høy etterspørsel etter kopier av gamle dokumenter]]></title>
+  <guid>ecbdac90-1a94-4794-92e5-03818d17ff1a</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar stadig forespørsler om kopier av historiske dokumenter, som pantebøker og tillatelser fra 1960-tallet. Dette indikerer en fortsatt interesse blant privatpersoner og offentlige etater for å sikre kopier av viktige historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Medaljetildelinger under behandling]]></title>
-  <guid>51a95ee9-53a7-47d3-aeac-72aab21b8eb8</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har søkt om informasjon om medaljetildelinger, som Kongens fortjenstmedalje og Kong Haakon VIIs Frihetskors. Disse forespørslene har lav hastegrad, og behandling pågår. Dette viser en vedvarende interesse for anerkjennelse av historiske prestasjoner.]]></description>
+  <title><![CDATA[Flere forespørsler om slektsforskning]]></title>
+  <guid>0862c89d-a9c2-4ff8-9802-f6ecfa51d0a4</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Både Riksarkivet og Statsarkivet i Oslo har mottatt en rekke forespørsler om slektsforskning de siste dagene. Privatpersoner søker informasjon om krigsseilere, krigsfanger og tidligere generasjoner, noe som reflekterer en økt interesse for personlig historie og slektsbakgrunn.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk forskning i fokus]]></title>
-  <guid>53f28dd3-d1e6-482f-8c55-bce81a692636</guid>
-  <pubDate>Tue, 27 May 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Forespørsler om arkivsøk knyttet til historiske emner, som Nortraship og Raknehaugen, har blitt sendt inn av forskere og privatpersoner. Dette understreker et pågående engasjement for å undersøke og dokumentere Norges historie gjennom Riksarkivets ressurser.]]></description>
+  <title><![CDATA[Behov for dåps- og fødselsattester øker]]></title>
+  <guid>6860a36c-9c9f-4665-a156-711f713d7245</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en økning i forespørsler om dåps- og fødselsattester, hvor flere haster-saker fortsatt venter på behandling. Dette kan tyde på et økt behov for dokumentasjon i forbindelse med juridiske eller personlige anliggender.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>bd823131-9114-479d-8226-ca59c3c9e507</guid>
+  <pubDate>Tue, 27 May 2025 11:01:13 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
