@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 29 May 2025 07:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 11:00:49 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i henvendelser om landssvik]]></title>
-  <guid>20b104e3-dfe4-4d91-a611-39d1345d2ed3</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde henvendelser om landssviksaker den siste uken. Flere privatpersoner søker informasjon om saker fra andre verdenskrig. Behandlingstiden varierer, men noen saker er allerede fullført.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>09deadb0-191b-412d-a17b-16bf80b06f96</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssvik-saker den siste uken. Flere privatpersoner har vist interesse for historiske dokumenter knyttet til landssvik, noe som viser en økende interesse for Norges historie under og etter andre verdenskrig. Disse sakene behandles med standard hastegrad.]]></description>
+</item>
+<item>
+  <title><![CDATA[Presseforespørsel om spionasje]]></title>
+  <guid>cc5f7510-d57c-43e3-bba4-afd2ca800f59</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en hasterangert forespørsel fra pressen om tilgang til materiale om en spionmistenkt fra 1965. Dette viser at media fortsatt er interessert i historiske saker som kan ha påvirket Norges sikkerhetspolitikk. Forespørselen behandles med høy prioritet.]]></description>
+</item>
+<item>
+  <title><![CDATA[Veiledning i kirkebøker etterspurt]]></title>
+  <guid>3808ed85-9706-48c5-b77b-60c507f2e8b5</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt en forespørsel fra en privatperson om veiledning i bruk av kirkebøker fra Østre Aker. Det er en pågående interesse for slektsforskning blant brukerne, og arkivet tilbyr hjelp til å navigere i historiske dokumenter.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>53d495d1-7416-4136-9358-b4f749cddf85</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Privatpersoner har vist økt interesse for militære rulleblad, med flere forespørsler i Riksarkivet. Dette kan tyde på økt slektsgranskning eller historisk interesse. Behandlingen av disse sakene har generelt lav hastegrad.]]></description>
+  <guid>586479ce-201b-4dbd-96aa-d675b6c6983f</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om militære rulleblad har kommet inn til Riksarkivet. Både privatpersoner og offentlige etater viser interesse for historiske militære dokumenter, som kan være viktig for slektsforskning eller juridiske formål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere forespørsler om dødsfall og skifte]]></title>
-  <guid>0ec1eb7a-07ca-4b12-bdc1-358e6bc6afc9</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser om dødsfall og skifte, både fra privatpersoner og offentlige etater. Sakene spenner over flere tiår, men ingen er ferdigbehandlet ennå.]]></description>
+  <title><![CDATA[Rask behandling av kopibestillinger]]></title>
+  <guid>09ce5f2e-e0dc-450f-9b13-461616ef4779</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fullført en kopibestilling av skattelister fra 1981-1982 for en privatperson. Dette viser arkivets evne til å behandle forespørsler raskt og effektivt, noe som er viktig for å opprettholde god brukerservice.]]></description>
 </item>
 <item>
-  <title><![CDATA[Haster med kopibestilling for pressen]]></title>
-  <guid>6ef093f6-f578-4d1c-a4ff-21656642c489</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[En pressekunde har levert en hastesak til Riksarkivet for en kopibestilling relatert til en spionmistenkt omtalt i et blad fra 1965. Dette understreker viktigheten av rask behandling av presserelaterte forespørsler.]]></description>
-</item>
-<item>
-  <title><![CDATA[Veiledning om kirkebøker etterspurt]]></title>
-  <guid>77f26f9d-30d8-4611-ba80-f8783bcbea43</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo opplever etterspørsel etter veiledning angående kirkebøker i Østre Aker. Privatpersoner søker denne informasjonen, noe som kan indikere økt interesse for slektsforskning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Offentlige etater søker historiske data]]></title>
-  <guid>d503bcc7-044e-465b-9113-b016fb2f1621</guid>
-  <pubDate>Thu, 29 May 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Flere offentlige etater har kontaktet Riksarkivet og Statsarkivet i Oslo for tilgang til historiske data og dokumenter, inkludert arkivsøk og eiendomsopplysninger, med noen saker merket som hastesaker.]]></description>
+  <title><![CDATA[Etterspørsel etter rettferdsvederlag]]></title>
+  <guid>abf9636d-c7dc-4423-bc2e-5d77f7a89061</guid>
+  <pubDate>Thu, 29 May 2025 11:00:49 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra en profesjonell aktør angående rettferdsvederlag. Dette indikerer en vedvarende interesse for å adressere historiske urettferdigheter, og arkivet spiller en viktig rolle i å gi tilgang til nødvendig dokumentasjon.]]></description>
 </item>
 
 
