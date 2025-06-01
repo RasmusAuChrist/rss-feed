@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 01 Jun 2025 07:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 11:00:50 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt etterspørsel etter landssvikarkiver]]></title>
-  <guid>e00301f9-e0ca-4e57-add6-d5a32e591d31</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i forespørsler om landssvikarkiver hos Riksarkivet den siste uken. Flere saker er opprettet, men venter fortsatt på behandling. Dette kan indikere en økende interesse fra privatpersoner i å undersøke historiske saker relatert til landssvik.]]></description>
+  <title><![CDATA[Økning i etterspørsel etter landssviksaker]]></title>
+  <guid>91ed13ca-ae06-4515-b526-2c9df9cc7935</guid>
+  <pubDate>Sun, 01 Jun 2025 11:00:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en bølge av forespørsler knyttet til landssviksaker fra andre verdenskrig. Flere privatpersoner har bedt om informasjon om ulike individer, noe som indikerer en økt interesse for denne delen av norsk historie. Sakene har en standard hastegrad og er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseforespørsel om spionmistenkt behandlet]]></title>
-  <guid>07b3586f-07f5-4b8b-9522-924b5758fb6e</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra pressen om innsyn i dokumenter relatert til en spionmistenkt omtalt i Bildebladet NÅ fra 1965 ble raskt behandlet og fullført. Saken hadde høy hastegrad, og viser Riksarkivets reaksjonsevne overfor pressen.]]></description>
+  <title><![CDATA[Rask behandling av dåps- og fødselsattester]]></title>
+  <guid>8b4e65d4-44f1-4751-a039-0fd6a2e5e7a5</guid>
+  <pubDate>Sun, 01 Jun 2025 11:00:50 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig behandlet flere saker knyttet til fødsel og dåp, inkludert en sak som ble ferdigstilt på under en dag. Dette viser effektivitet i håndteringen av slike forespørsler, til glede for privatpersoner som trenger dokumentasjon raskt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kirkebøker i Østre Aker ferdig behandlet]]></title>
-  <guid>2d6395d1-910d-4a1c-850d-6e373a229f9a</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[En forespørsel om veiledning i bruk av kirkebøker fra Østre Aker er nå ferdig behandlet av Statsarkivet i Oslo. Dette gir privatpersoner bedre tilgang til slektsforskning og lokalhistorie.]]></description>
+  <title><![CDATA[Høy aktivitet i dødsfall- og skiftesaker]]></title>
+  <guid>ddf9991c-9407-4d34-9dfb-364a676e6e84</guid>
+  <pubDate>Sun, 01 Jun 2025 11:00:50 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever en høy aktivitet av saker knyttet til dødsfall og skifte, med forespørsler fra både privatpersoner og offentlige etater. Dette inkluderer saker fra ulike tidsperioder, som fortsatt venter på ferdigstilling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Sak om krigsseiler fortsatt under behandling]]></title>
-  <guid>59ff71a1-f5a0-4f47-a77f-074a7c4517db</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[En privatperson har forespurt informasjon om en krigsseiler fra 2. verdenskrig. Saken er fortsatt under behandling hos Riksarkivet. Dette understreker fortsatt interesse for krigshistorie blant allmennheten.]]></description>
+  <title><![CDATA[Presse henvender seg om spionasjehistorie]]></title>
+  <guid>7ebe60d1-a815-4246-bb2a-691ce074c93c</guid>
+  <pubDate>Sun, 01 Jun 2025 11:00:50 GMT</pubDate>
+  <description><![CDATA[En pressehenvendelse til Riksarkivet om spionmistenkte Ingeborg Lygren har fått høy prioritet og er allerede ferdigstilt. Dette viser at arkivet raskt imøtekommer forespørsler fra medieaktører som trenger tilgang til historisk materiale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekt med Freia AS underveis]]></title>
-  <guid>75a9d076-ec7e-4838-b3e1-b306f1e86e56</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet jobber med en forespørsel om digitalisering av arkiver relatert til Freia AS. Saken er ikke fullført, men viser pågående innsats for å tilgjengeliggjøre historiske bedriftsarkiver digitalt.]]></description>
-</item>
-<item>
-  <title><![CDATA[Forespørsel om innsikt i NS-organisasjoner ferdigstilt]]></title>
-  <guid>043fae26-5d47-41ad-902f-9a9fe092feb5</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[En forskningsforespørsel om NS interesseorganisasjoner i etterkrigstiden er ferdig behandlet. Dette gir forskere tilgang til viktig materiale for å studere Norges historie og NS' rolle i etterkrigstiden.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>cb77c2e8-8816-4129-aab2-7e7262c2af84</guid>
-  <pubDate>Sun, 01 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Forskere undersøker NS-organisasjoner etter krigen]]></title>
+  <guid>69745e8d-9e5f-4985-8bc5-b4504b191457</guid>
+  <pubDate>Sun, 01 Jun 2025 11:00:50 GMT</pubDate>
+  <description><![CDATA[En forsker har fått innsyn i arkiver relatert til NS-organisasjoner i etterkrigstidens Norge. Forespørselen ble behandlet raskt og viser Riksarkivets støtte til akademiske studier som belyser nasjonens historie.]]></description>
 </item>
 
 
