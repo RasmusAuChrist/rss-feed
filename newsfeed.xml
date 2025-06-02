@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 02 Jun 2025 07:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 11:00:59 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssviksaker]]></title>
-  <guid>e7e48230-0fe9-4162-968d-7ef934e59511</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler knyttet til landssvik fra privatpersoner den siste uken. Totalt er det registrert over 20 saker, alle med standard hastegrad. Ingen av sakene er foreløpig ferdigbehandlet.]]></description>
+  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
+  <guid>6bf2740a-ee56-471e-8082-5fde219c9147</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar en jevn strøm av forespørsler fra privatpersoner om landssvik-saker fra 2. verdenskrig. Flere slike saker er under behandling, med varierende hastighetsgrader. Dette reflekterer en vedvarende interesse for historisk innsikt og personlig slektsforskning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Henvendelser om fartstid under krigen]]></title>
+  <guid>b0dfe3b3-4fbf-4f75-92df-b2825ec10762</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler til Riksarkivet om dokumentasjon av fartstid under krigen. Disse sakene viser en interesse for å forstå og dokumentere slektshistorie knyttet til krigsinnsats. Noen av forespørslene er allerede fullført.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>e7fcf34a-d1d6-4e80-b69f-927f732dfeed</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har de siste dagene søkt om innsyn i militære rulleblad ved Riksarkivet. Dette inkluderer forespørsler for forskjellige fødselsår, fra tidlig 1900-tall til sent 1900-tall, med varierende hastegrad.]]></description>
+  <guid>49e4bfa6-6c92-442a-b8ca-6672da4d92cb</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner og offentlige etater om tilgang til militære rulleblad. Dette inkluderer både eldre og nyere dokumenter, og reflekterer et behov for dokumentasjon på militærtjeneste og helseopplysninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fartstid under krigen populært tema]]></title>
-  <guid>841eba59-2df2-4cfd-95de-38e8a8a5e377</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere henvendelser fra privatpersoner om fartstid under krigen. Selv om enkelte saker har lavere hastegrad, viser dette en vedvarende interesse for krigshistorie blant brukerne.]]></description>
+  <title><![CDATA[Forskere søker innsikt om norske kvinner i militæret]]></title>
+  <guid>b059e224-f9a2-4f2f-9c2b-697ec054391b</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Riksarkivet behandler forespørsler fra forskere om innsikt i norske kvinners deltagelse i internasjonale militære operasjoner. Dette understreker en akademisk interesse for kvinners rolle i historiske militære sammenhenger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om tildeling av medaljer]]></title>
-  <guid>b6905c5d-8cec-4b6a-b51b-3aa0a1a5a481</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[Forespørsler om tildeling av medaljer og dekorasjoner har blitt sendt inn av privatpersoner til Riksarkivet. Disse sakene bærer standard hastegrad, og etterspørslene gjelder både Kongens fortjenstmedalje og andre dekorasjoner.]]></description>
+  <title><![CDATA[Digitaliseringsprosjekter under behandling]]></title>
+  <guid>9561dda4-4f25-4cf4-b9b9-5af43ecf78fe</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Riksarkivet håndterer flere forespørsler om digitalisering av historiske dokumenter, inkludert materialer fra Regjeringsadvokaten og Freia AS. Disse prosjektene vil gjøre arkivmateriale mer tilgjengelig for offentligheten i fremtiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om Partnair-ulykken]]></title>
-  <guid>37311aba-d59c-4ce2-9487-085ca6f0c638</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[En innsender har søkt om tilgang til rapporter etter Partnair-ulykken fra 1989-1990 ved Riksarkivet. Forespørselen, som har standard hastegrad, er fortsatt under behandling.]]></description>
+  <title><![CDATA[Henvendelser om eiendomsdokumentasjon]]></title>
+  <guid>4dad6590-3702-464c-b6f0-9d3ee26fce6d</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar forespørsler fra både privatpersoner og profesjonelle aktører om eiendomsdokumentasjon. Behovet for historiske tegninger og eiendomsopplysninger viser en økt interesse for eiendomsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av dåpsattest]]></title>
-  <guid>44d457b7-f977-4568-bd65-aaeb0e040a09</guid>
-  <pubDate>Mon, 02 Jun 2025 07:01:01 GMT</pubDate>
-  <description><![CDATA[En forespørsel om fødsels- og dåpsattest i Oslo ble prioritert grunnet høy hastegrad. Sakene ble behandlet innen få dager, noe som viser effektiviteten i behandlingen av hastesaker ved Statsarkivet i Oslo.]]></description>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>82bfd2d8-a9f6-4a9e-bd42-1bdd6a39f59e</guid>
+  <pubDate>Mon, 02 Jun 2025 11:00:59 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
