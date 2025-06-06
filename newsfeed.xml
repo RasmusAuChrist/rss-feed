@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 06 Jun 2025 07:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 11:01:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
-  <guid>58eeb93a-a9f6-4615-b47b-fa3934c1ce36</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler fra privatpersoner den siste uken om innsyn i landssvikdokumenter. Saksbehandlingen varierer, men flere saker er allerede fullført, som for Anna Solveig Wiggen og Karl Thorsø. Dette viser en vedvarende interesse for krigshistorien blant brukerne.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvik-saker]]></title>
+  <guid>4523e22c-7875-43bc-81f7-eb86d310743f</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Denne uken har Riksarkivet mottatt flere forespørsler om landssvik-saker fra privatpersoner. Forespørslene omfatter personer født i tidsrommet 1879 til 1924, med flere saker allerede behandlet og avsluttet. Dette indikerer en voksende interesse for historiske landssvik-saker blant brukerne.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i skeiv historie til sjøs]]></title>
-  <guid>4f6044d5-92b4-4ba3-ac2e-0aa473b20ea5</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[En forsker har bedt om innsyn i dokumenter knyttet til "Skeivhet til sjøs", noe som viser interesse for å utforske mangfold og inkludering i historiske maritime miljøer. Denne forespørselen er en av flere fra forskere som leter etter innsikt i sosiale og kulturelle aspekter ved historiske hendelser.]]></description>
+  <title><![CDATA[Tegninger og historiske dokumenter etterspurt]]></title>
+  <guid>31ccd37e-3ca9-4c3a-ae09-5516c6d53797</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser om tilgang til historiske tegninger og dokumenter, inkludert tegninger av Årnes Stasjon og NSB-relaterte stasjoner. Disse forespørslene kommer fra både privatpersoner og offentlige etater, og reflekterer en økende interesse for transportsystemets historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker slektshistorie]]></title>
-  <guid>90d97827-c7cf-4458-ac74-ba849dcc80bc</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har kontaktet både Riksarkivet og Statsarkivet i Oslo for å finne informasjon om slektshistorie. Forespørslene varierer fra navneendringer til vigselsattester. Dette fremhever arkivenes betydning som ressurser for slektsforskning og familiehistorie.]]></description>
+  <title><![CDATA[Mange forespørsler om militært rulleblad]]></title>
+  <guid>c2298444-ecc9-404d-b784-adfc7bc3ced4</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler om tilgang til militære rulleblad denne uken. Sakene spenner fra tidlig 1900-tall til nyere tid, og viser en vedvarende interesse for militærhistorie og personlig dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker rask tilgang til dokumenter]]></title>
-  <guid>3d0bab1a-d44d-4a6c-9ee8-d41fd000eed7</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra offentlige etater om rask tilgang til dokumenter, inkludert dødsfall/skifte. Disse sakene har høyere hastegrad, noe som indikerer behovet for effektiv saksbehandling i møte med offentlige krav og prosesser.]]></description>
+  <title><![CDATA[Rask behandling av statsborgerskapssøknader]]></title>
+  <guid>e092ed07-c4c6-4f4d-8434-2d296b5a08fe</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[En sak om statsborgerskap ble raskt behandlet og fullført innen én dag i Riksarkivet. Dette illustrerer effektiviteten i behandlingen av dokumenter med standard hastegrad for privatpersoner som søker bekreftelser på statsborgerskap.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i historiske militærdokumenter]]></title>
-  <guid>d3ef6600-8d29-4bcf-9e1b-8ab6ddcd88f6</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i forespørsler fra forskere om innsyn i militære dokumenter fra historiske operasjoner. Saksbehandlingen pågår, og dette viser en voksende interesse for militærhistorie og Norges internasjonale militære engasjement.]]></description>
+  <title><![CDATA[Forskere søker innsikt i historiske temaer]]></title>
+  <guid>c0902dba-e834-4d02-bf84-e819014eae4e</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Forskere har henvendt seg til Riksarkivet for kildeveiledning om emner som den nordiske velferdsmodellen og folketellinger fra 1920. Dette viser en fortsatt akademisk interesse for historisk forskning og tilgang til relevante arkiver.]]></description>
 </item>
 <item>
-  <title><![CDATA[Institusjonsopphold fra 1980-tallet undersøkes]]></title>
-  <guid>f92b1735-7a93-4740-bf14-2897f39a8129</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har bedt om innsyn i dokumenter om opphold ved Lahellemoen spesialskole på 1980-tallet. Saken er under behandling ved Statsarkivet i Oslo. Dette viser interesse for historiske institusjonsopphold som en del av samfunns- og sosialhistorisk forskning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>aade9811-f586-4e43-9128-349db727d392</guid>
-  <pubDate>Fri, 06 Jun 2025 07:01:43 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Henvendelser om fødsels- og vigselsattester]]></title>
+  <guid>01775d87-29f6-4701-95a0-f4fb0af57c66</guid>
+  <pubDate>Fri, 06 Jun 2025 11:01:21 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødsels- og vigselsattester fra privatpersoner. Sakene omfatter både innenlandske og utenlandske fødselsregister, noe som indikerer en økt etterspørsel etter slektsforskning og personlig dokumentasjon.]]></description>
 </item>
 
 
