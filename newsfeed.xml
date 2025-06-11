@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 10 Jun 2025 11:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 07:01:00 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy aktivitet i landssviksaker]]></title>
-  <guid>9f6629a0-9394-48b6-927e-6f65d7beddb2</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene har vært av standard hastegrad, og flere av dem er allerede behandlet. Dette viser en vedvarende interesse for historiske hendelser knyttet til andre verdenskrig.]]></description>
+  <title><![CDATA[Effektiv saksbehandling av landssvik-saker]]></title>
+  <guid>ebddc558-e1d1-4ae6-af9f-7a4b77f88612</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet flere landssvik-saker, inkludert en sak opprettet 10. juni for en person født i 1897, som ble fullført allerede 11. juni. Dette viser en effektiv saksbehandlingstid for denne typen saker.]]></description>
+</item>
+<item>
+  <title><![CDATA[Uavsluttede fødselsattest-forespørsler]]></title>
+  <guid>2e9f5f8d-0ff3-410f-b41f-f70fe849e48f</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødselsattester den siste uken. Ingen av forespørslene, inkludert en som ble opprettet 9. juni for en person født i 1964, er fullført ennå.]]></description>
+</item>
+<item>
+  <title><![CDATA[Historiske forespørsler hos Riksarkivet]]></title>
+  <guid>5163db7a-d479-4525-997f-98b2a359a4f6</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel om et brev fra 1782 angående bygging av en bro over Drammenselva, som ble fullført 10. juni. Dette illustrerer interessen for historiske dokumenter blant profesjonelle brukere.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>221125c1-a981-425c-b95c-f2664d3789b0</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Det har kommet inn flere forespørsler om militære rulleblad til Riksarkivet nylig. Behandling av disse sakene pågår, og de fleste har standard hastegrad. Dette indikerer en vedvarende interesse for militærhistorie blant privatpersoner.]]></description>
+  <guid>ad2d7134-000c-4b07-93b9-7bab1e8338a9</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om militære rulleblad er fortsatt ubehandlet hos Riksarkivet, inkludert en forespørsel fra 9. juni for en person født i 1937. Dette indikerer et behov for økt kapasitet i behandling av disse sakene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske eiendomsopplysninger etterspurt]]></title>
-  <guid>172a280b-9b45-4616-b332-88f93fc63d6f</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo og Riksarkivet har mottatt forespørsler om eiendomsopplysninger i Moss og Lillesand. Begge forespørslene har standard hastegrad og er under behandling. Dette viser en interesse for eiendomshistorikk blant privatpersoner.]]></description>
+  <title><![CDATA[Innovasjon Norge søker tilgang til historisk arkiv]]></title>
+  <guid>c2426abe-38d2-4ce1-a73c-9bf930ea4e67</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel 10. juni fra en offentlig etat om tilgang til et historisk arkiv relatert til Innovasjon Norge Telemark. Saken er ennå ikke fullført, noe som kan påvirke etatens arbeid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter fødsels- og vigselsattester]]></title>
-  <guid>fcc71664-5f22-4a81-aaa6-e76c360c59d4</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødsels- og vigselsattester. Disse sakene er av standard hastegrad og venter på behandling. Det er tydelig at privatpersoner søker dokumentasjon for familiære formål.]]></description>
-</item>
-<item>
-  <title><![CDATA[Riksarkivet bistår forskere]]></title>
-  <guid>dd0039d8-e947-46f4-8b33-47587ec894a7</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig behandlet forespørsler fra forskere som undersøker temaer som skeivhet til sjøs og den nordiske velferdsmodellen. Dette understreker arkivets rolle som en viktig ressurs for akademisk forskning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Historiske dokumenter og tegninger i fokus]]></title>
-  <guid>aad51a65-0611-4199-8457-d82a61bb45ec</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Forespørsler om historiske dokumenter, som et brev fra borgere i Drammen til kongen fra 1782, og tegninger av NSB-stasjoner, har blitt behandlet i Riksarkivet. Dette viser en vedvarende interesse for Norges historiske arkitektur og kommunikasjon.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>3b2a314e-ce24-4621-9ac7-aa863cb50cbd</guid>
-  <pubDate>Tue, 10 Jun 2025 11:00:48 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Økt interesse for krigshistorie]]></title>
+  <guid>e0d7c979-f5ae-4f61-8e0a-99c4e1ab75d4</guid>
+  <pubDate>Wed, 11 Jun 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler om fartstid under krigen, inkludert en sak for en person født i 1918, opprettet 9. juni. Dette reflekterer en vedvarende interesse for krigshistorie blant privatpersoner.]]></description>
 </item>
 
 
