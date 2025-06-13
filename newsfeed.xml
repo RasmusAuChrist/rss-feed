@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 13 Jun 2025 07:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 11:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
-  <guid>4e801523-be03-44e0-8e59-754eecbd5ca0</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om landssvik-saker fra andre verdenskrig. Dette inkluderer nylig fullførte saker som Peder T. Oma og Arne Daniel Thorshaug. Det er en merkbar økning i interesse for historiske rettssaker knyttet til krigen.]]></description>
+  <title><![CDATA[Rask behandling av vigselsattest]]></title>
+  <guid>00aa1ee5-3941-48e4-bf78-a7a58847065c</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[En innsendt forespørsel om vigselsattest i Oslo ble ferdigbehandlet på under 12 timer. Dette viser effektiv saksbehandling og god service for privatpersoner som trenger dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av dødsfall og skifte-saker]]></title>
-  <guid>de098eb7-fc14-43e2-9dc7-36695a1792d2</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet saker om dødsfall og skifte, som Arne Ruud fra Hurdal, hvor saken ble fullført på under en time. Offentlige etater nyter godt av den effektive saksbehandlingen for skifteoppgjør.]]></description>
+  <title><![CDATA[Forespørsel om landssvik-saker øker]]></title>
+  <guid>8337c010-be21-4ec9-a6b5-ab127031cb64</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok flere forespørsler fra privatpersoner om landssvik-saker fra andre verdenskrig. Noen av dem ble raskt ferdigbehandlet, mens andre fortsatt er under behandling. Dette øker interessen for historisk forskning og personlig slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Hasteforespørsel om vitnemål og fagbrev]]></title>
-  <guid>c7441a07-6cd2-4156-a54b-4832025bf67a</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[En sak om vitnemål og fagbrev har blitt merket som hastesak ved Statsarkivet i Oslo. Saken, som gjelder en privatperson, venter fortsatt på fullførelse. Dette gjenspeiler behovet for rask behandling av utdanningsdokumenter.]]></description>
+  <title><![CDATA[Haster med fagbrev og vitnemål]]></title>
+  <guid>6eb19107-524f-43d3-9b79-6e90f140182b</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vitnemål og fagbrev ble kategorisert som hastesak, men er enda ikke fullført. Dette understreker viktigheten av dokumentasjon for utdanning og jobbmuligheter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseforespørsel om straffesak fra 1986]]></title>
-  <guid>82ee0192-088d-4df7-8b5d-97be856bd7ae</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra pressen om en straffesak fra Lillestrøm i 1986 er under behandling hos Statsarkivet i Oslo. Saker av denne typen viser medienes interesse for historiske straffesaker og deres relevans i dagens samfunn.]]></description>
+  <title><![CDATA[Vannverkskart fra Stjørdal etterspurt]]></title>
+  <guid>62940f36-36be-464d-8583-d34e3e2090a5</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har etterspurt vannverkskart fra 1932 i Riksarkivet. Kartet er viktig for historiske formål og infrastrukturforvaltning, men saken er ikke ferdigbehandlet ennå.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningsinteresse for Spansk borgerkrig]]></title>
-  <guid>82d8e57d-896b-44e1-ae36-2506ef7a1c68</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra en forsker om kildeveiledning knyttet til forsikring av gods under den spanske borgerkrigen. Dette viser en vedvarende akademisk interesse for historiske forsikringsdata og deres betydning i krigstid.]]></description>
+  <title><![CDATA[Statsarkivet i Oslo håndterer flere saker om eiendom]]></title>
+  <guid>b869b223-3bcd-4577-aea5-9820bab42da1</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om eiendomsdokumentasjon. Forespørslene kommer fra både privatpersoner og profesjonelle aktører, og arbeidet med disse sakene pågår.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om militært rulleblad fullført]]></title>
-  <guid>b3697d8b-98e1-4287-944a-661ce4ad22c6</guid>
-  <pubDate>Fri, 13 Jun 2025 07:01:02 GMT</pubDate>
-  <description><![CDATA[En forespørsel om et militært rulleblad for en person født i 1979 er fullført ved Riksarkivet. Dette markerer viktigheten av tilgang til militære dokumenter for privatpersoner som søker innsikt i personlig eller familiær historie.]]></description>
+  <title><![CDATA[Pressen søker straffesaksinformasjon]]></title>
+  <guid>0feae01f-0c39-43a8-a75b-828cd0c766ad</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel fra en presseaktør om en straffesak fra 1986 i Lillestrøm er under behandling hos Statsarkivet i Oslo. Dette viser interessen for historiske rettsprosesser og journalistikkens rolle i å avdekke fakta.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>1f17f72c-19f0-4183-82ad-0f3bbe8ca464</guid>
+  <pubDate>Fri, 13 Jun 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
