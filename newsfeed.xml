@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 14 Jun 2025 07:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 11:02:17 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Vigselsattest ferdigbehandlet raskt]]></title>
-  <guid>dc159b3b-5750-4954-84de-5ca9988641f8</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vigselsattest ble behandlet i Oslo og fullført på under 12 timer. Dette viser en effektiv saksbehandlingstid for standard forespørsler fra privatpersoner.]]></description>
+  <title><![CDATA[Mange henvendelser om landssvik]]></title>
+  <guid>f5402ffb-161f-4334-8177-14d56f40abc4</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok flere henvendelser om landssviksaker denne uken. Sakene varierer i kompleksitet, men de fleste er fortsatt under behandling. Dette indikerer en økende interesse for historiske rettsprosesser fra krigstiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Haster med vitnemål og fagbrev]]></title>
-  <guid>6c777702-d00d-4b06-ba9e-937608b57f2d</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vitnemål og fagbrev er kategorisert som hastesak i Oslo. Behandlingen av slike dokumenter er viktig for privatpersoner som trenger dem for videre utdanning eller arbeid.]]></description>
+  <title><![CDATA[Høy aktivitet i Oslo og Riksarkivet]]></title>
+  <guid>84a3e02d-bac5-4c83-92a9-d4719375f063</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[Både Riksarkivet og Statsarkivet i Oslo har opplevd høy aktivitet denne uken med en rekke saker fra privatpersoner og offentlige etater. Dette inkluderer forespørsler om statsborgerskap, eiendomstegninger og historiske arkiv.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk på ubåtanlegg i Trondheim]]></title>
-  <guid>38f3a5cb-6e0b-463b-81f7-5a9bf264e2a6</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Det er en pågående forespørsel om arkivsøk på ubåtanlegget i Nyhavna, Trondheim fra en profesjonell aktør. Dette kan gi ny innsikt i krigshistorien.]]></description>
+  <title><![CDATA[Tidkrevende prosesser for historiske søk]]></title>
+  <guid>6e9426f7-d62b-422b-97d4-b0c283e644f4</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[Flere historiske søk, inkludert forespørsler om slektsforskning og krigshistorie, har ikke blitt fullført denne uken. Dette viser at slike søk kan være tidkrevende og krever grundig arkivsjekk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Landssviksaker dominerer arkivpågangen]]></title>
-  <guid>1fe7bb37-7e11-4e33-9d35-92bd8b8e4dc3</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om landssviksaker er innkommet til Riksarkivet. Disse sakene vekker interesse blant privatpersoner, kanskje som del av slektsforskning eller historiske studier.]]></description>
+  <title><![CDATA[Kopibestillinger raskt behandlet]]></title>
+  <guid>d545669b-772f-4861-aa4f-5e893303bf5b</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[En forespørsel om kopibestilling fra Riksarkivet angående Freia Riegel-sjokolade ble fullført i løpet av én dag. Dette demonstrerer effektiv behandling av enkelte forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlig etat søker vannverkskart fra 1932]]></title>
-  <guid>2b14b49c-c1f5-4969-9e73-d913430cad89</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har bedt om tilgang til vannverkskart fra Stjørdal kommune fra 1932. Dette kan være del av et større prosjekt som involverer historisk infrastruktur.]]></description>
+  <title><![CDATA[Pressen søker straffesaksinformasjon]]></title>
+  <guid>f6d92083-cca7-4cb3-b926-fb8c865b4846</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[En sak fra pressen angående en straffesak fra Lillestrøm i 1986 er fortsatt under behandling. Dette viser medienes interesse i å få tilgang til eldre straffesaksmateriale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk søk om Freia-sjokolade]]></title>
-  <guid>0000ed23-0158-424e-b78b-83d1cb28884a</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[En forespørsel om kopier relatert til Freia og Riegel-sjokolade ble raskt behandlet i Riksarkivet. Dette kan indikere interesse for næringslivshistorie eller samlinger.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>5745b4a4-112f-46da-90ae-7ed89bde915e</guid>
-  <pubDate>Sat, 14 Jun 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Fagbrev og vitnemål har høy prioritet]]></title>
+  <guid>3da33ae1-f084-4e21-9875-16efbba30ad4</guid>
+  <pubDate>Sat, 14 Jun 2025 11:02:17 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vitnemål/fagbrev fra en privatperson har blitt kategorisert som hastesak. Dette indikerer at slike dokumenter ofte etterspørres med kort tidsfrist, og behandles derfor med prioritet.]]></description>
 </item>
 
 
