@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 19 Jun 2025 07:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 11:01:25 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Stor etterspørsel etter landssvikdokumenter]]></title>
-  <guid>b04de604-9362-4a37-9a19-3302c3e917be</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar mange forespørsler om landssvik-dokumenter fra privatpersoner. Den siste uken har det kommet inn flere saker som ikke er fullført. Dette viser en vedvarende interesse for historiske hendelser fra andre verdenskrig.]]></description>
+  <title><![CDATA[Stor interesse for landssviksaker]]></title>
+  <guid>22d237f2-1c71-4cd9-ab09-63b00979ba63</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser angående landssviksaker den siste uken. Privatpersoner står for de fleste forespørslene, som omfatter saker fra både første og andre verdenskrig. Disse sakene har en standard hastegrad og er foreløpig ubehandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende interesse for farskapssaker]]></title>
-  <guid>997b6762-bb06-41a1-898c-0c1b43d1f1e9</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo behandler flere forespørsler fra offentlige etater om farskapssaker. En pågående sak fra juni 2025 viser at denne typen forespørsler fortsatt er relevant og etterspurt av myndighetene.]]></description>
+  <title><![CDATA[Forespørsel om fødselsattest]]></title>
+  <guid>274aca7d-37ec-49a3-90e1-9b21d488b558</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[En privatperson har bedt om fødselsattest for en person født i Fredrikstad i 1987. Forespørselen ble registrert i Statsarkivet i Oslo med kort hastegrad, men er ennå ikke fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Høy aktivitet innen eiendomsdokumentasjon]]></title>
-  <guid>4715aa3b-3f86-450b-b69f-498a8c087378</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo håndterer flere eiendomsrelaterte forespørsler, med både privatpersoner og profesjonelle aktører som brukere. De fleste sakene er fortsatt under behandling, noe som tyder på stor etterspørsel.]]></description>
+  <title><![CDATA[Offentlige etater søker historiske data]]></title>
+  <guid>fb22b877-f443-4587-a2e6-50ec89c7a586</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn forespørsler til Riksarkivet om tilgang til historiske data, inkludert en forespørsel om en reguleringsplan fra Notodden lufthavn fra 1980-tallet. Henvendelsene har standard hastegrad og venter på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av militære rulleblad]]></title>
-  <guid>593c2be0-52c3-4ee3-9a97-16dfb0dab809</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig fullført flere forespørsler om militære rulleblad, inkludert en sak fra 16. juni 2025. Dette viser effektiv behandling av militærhistoriske forespørsler.]]></description>
+  <title><![CDATA[Fullførte saker om dødsfall og skifte]]></title>
+  <guid>a101b6ce-5d09-4ec4-87f0-cdc51b3c1b34</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere saker om dødsfall og skifte. Disse inkluderer henvendelser fra offentlige etater angående dødsfall i Oslo og Ullensaker, begge med kort hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske arkivsøk i fokus]]></title>
-  <guid>3e3baa2d-c556-4e87-9826-fe15f03475fb</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler om arkivsøk knyttet til historiske temaer, som ubåtanlegg fra andre verdenskrig. Profesjonelle aktører er hyppige brukere, og dette tyder på en vedvarende interesse for historisk forskning.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
+  <guid>de5af1ba-5c84-4a4d-8a72-bb5689f00604</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad fra privatpersoner. Blant disse var en forespørsel om en person født i 1958, som nylig ble fullført. Søkene har som regel standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Statsborgerskap fortsatt aktuelt]]></title>
-  <guid>3340abd7-db51-4d34-b881-c853913bb869</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Riksarkivet får jevnlig forespørsler om statsborgerskap fra privatpersoner. Flere saker fra midten av juni viser at dette er et aktuelt tema for mange, selv om noen saker fortsatt er under behandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>91a2d9d7-fddf-4aed-a166-b774e6af8cfd</guid>
-  <pubDate>Thu, 19 Jun 2025 07:01:26 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Historisk interesse for 2. verdenskrig]]></title>
+  <guid>2432d5d2-20b5-46a8-b641-35872883ad35</guid>
+  <pubDate>Thu, 19 Jun 2025 11:01:25 GMT</pubDate>
+  <description><![CDATA[Det er en økt interesse for arkivmateriale fra 2. verdenskrig, inkludert saker om transport av norsk-tyske ektepar etter krigen. Forespørslene kommer fra privatpersoner og har standard til lav hastegrad, med varierende fullføringsstatus.]]></description>
 </item>
 
 
