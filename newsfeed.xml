@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 23 Jun 2025 07:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 11:00:58 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>93e3314e-313e-4d2d-8e0b-beda3d30ed9b</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om landssviksaker. Flere privatpersoner søker innsyn i slike arkiver, med flere saker opprettet den siste uken. Dette viser en vedvarende interesse for historiske hendelser knyttet til 2. verdenskrig.]]></description>
+  <title><![CDATA[Økende etterspørsel etter landssvikdokumenter]]></title>
+  <guid>67da1705-8f0c-4b6c-bf26-d7d53ca12aec</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om landssvikdokumenter. Flere saker ble behandlet den siste uken, med både privatpersoner og profesjonelle aktører som forespørere. Dette reflekterer en vedvarende interesse for historiske hendelser fra andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om militære rulleblad]]></title>
-  <guid>5ba90229-80c5-47a6-b16c-78f5eb4a3b9d</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig henvendt seg til Riksarkivet med forespørsler om militære rulleblad. Dette kan tyde på en økende interesse for slektsforskning og personlig historie knyttet til militærtjeneste.]]></description>
+  <title><![CDATA[Digitalisering av historiske arkiver pågår]]></title>
+  <guid>c2d89b09-a7d8-41ab-8aa8-880c35eec5ba</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Digitalisering av arkiver relatert til Norges Statsbaner er i gang ved Riksarkivet. Prosjektene inkluderer avdelinger som Baneavdelingen B og Hovedadministrasjonen. Målet er å gjøre historiske data mer tilgjengelige for både profesjonelle aktører og allmennheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter fødsels- og dåpsattester]]></title>
-  <guid>d1bee541-3c64-46fa-92b3-22126c5ba0e0</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødsels- og dåpsattester den siste uken. Privatpersoner søker å få tak i dokumentasjon for å avklare slektsforhold eller personlig historie.]]></description>
+  <title><![CDATA[Økt fokus på militære rulleblad]]></title>
+  <guid>a552967d-107f-414d-8209-af942288028d</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler om militære rulleblad til Riksarkivet den siste uken. Disse forespørslene, som involverer perioder fra krigen og nyere tid, indikerer en økende interesse i personlig militærhistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske eiendomstransaksjoner]]></title>
-  <guid>78ea6b03-2eb0-48be-a371-ab1108fa0fa2</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Det har vært flere forespørsler om eiendomsinformasjon vedrørende gamle eiendomstransaksjoner. Dette kan reflektere en voksende interesse for eiendomshistorikk blant privatpersoner og profesjonelle aktører.]]></description>
+  <title><![CDATA[Etterspørsel etter fødsels- og dåpsdokumenter i Oslo]]></title>
+  <guid>01850bcc-7ac3-4070-9b46-9599dffb3c75</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar flere forespørsler om fødsel- og dåpsdokumenter. Saker som involverer dokumenter fra både 1960 og 1990-tallet er i behandling, noe som viser en vedvarende interesse for slektsforskning og personlig historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater etterspør dødsfall og skifte]]></title>
-  <guid>dded0664-5bbe-42cd-b476-3b2e76d48329</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra offentlige etater vedrørende dødsfall og skifte. Det ser ut til at det er et kontinuerlig behov for denne typen informasjon i offentlig sektor.]]></description>
+  <title><![CDATA[Interesse for krigsrelaterte historiske dokumenter]]></title>
+  <guid>b7199ec8-1111-422f-af40-6f8387a54513</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Forespørsler om krigsrelaterte dokumenter, som politiske fanger og krigsfangearkiv, har blitt registrert ved Riksarkivet. Dette inkluderer forespørsler om dokumentasjon fra både første og andre verdenskrig, og reflekterer en vedvarende interesse for krigshistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk forskning og kildesøk]]></title>
-  <guid>69f11991-e542-41b6-9eab-a6f480b88775</guid>
-  <pubDate>Mon, 23 Jun 2025 07:00:44 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om kildesøk til historiske forskningsprosjekter. Dette inkluderer forespørsler om materiale fra 2. verdenskrig og biografisk informasjon, som viser en økende interesse for historieforskning.]]></description>
+  <title><![CDATA[Rask behandling av eiendomssaker i Oslo]]></title>
+  <guid>042a9e57-4e66-464a-9017-97b0db1ab731</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo prioriterer eiendomssaker med høy hastegrad. En forespørsel om avskrift av eiendomsdokumenter i Enebakk ble behandlet innen én dag, noe som viser en effektiv håndtering av tidssensitive saker fra profesjonelle aktører.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>e246d1af-2319-461d-b0e6-3a9b99e99f7f</guid>
+  <pubDate>Mon, 23 Jun 2025 11:00:58 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
