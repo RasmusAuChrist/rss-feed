@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 24 Jun 2025 07:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 11:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
-  <guid>3e05042b-f919-4012-9cae-79ed2b8256f6</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikarkiver den siste uken, med flere saker allerede fullført. Dette viser en stor interesse for historisk materiale relatert til andre verdenskrig. Behandlingen av disse sakene er prioritert med standard hastegrad.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>d3427e1d-00e5-4f32-a261-f75ba09ce6b4</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om landssviksaker den siste uken. Flere saker er allerede behandlet og avsluttet, mens andre fortsatt er under behandling. Dette viser en vedvarende interesse for historisk rettferdighet og gransking av krigstidens hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om slektshistorie øker]]></title>
-  <guid>674f15a7-592d-4a2f-b615-b5a59dfee85e</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo opplever en økning i forespørsler fra privatpersoner som søker etter slektshistorie. Disse inkluderer forespørsler om barn av historiske personer og familiehistorie knyttet til kunstnerlønn. De fleste av disse sakene har lav hastegrad.]]></description>
+  <title><![CDATA[Etterspørsel etter slektshistorie øker]]></title>
+  <guid>8c7d3ed8-cf6d-4ca3-9093-cf976be4ef13</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner knyttet til slektshistorie, inkludert forespørsler om dåpsattester, fødselsattester og krigsbarn. Dette reflekterer en økende interesse for personlig historie og slektsforskning i samfunnet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av arkiver etterspurt]]></title>
-  <guid>72c8f89f-9f7b-4dd8-a337-fa3c48a5ceca</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar forespørsler om digitalisering av flere arkivdeler, inkludert dokumenter fra Norges Statsbaner og Lovavdelingen. Dette er viktig for å sikre tilgjengelighet og bevaring av historiske dokumenter. Forespørslene kommer fra offentlige etater og profesjonelle aktører.]]></description>
+  <title><![CDATA[Digitalisering av historisk materiale]]></title>
+  <guid>9be58fd4-e903-4d2c-9fed-fb39d5260349</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med flere prosjekter for digitalisering av historisk materiale, inkludert arkiver fra Norges Statsbaner og Lovavdelingen. Dette arbeidet er viktig for å sikre tilgjengelighet og bevare viktige historiske dokumenter for fremtidige generasjoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for krigsrelaterte dokumenter]]></title>
-  <guid>2c2123b8-da14-4d38-8783-0d7f7af071c7</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått flere forespørsler om krigsrelaterte dokumenter, inkludert informasjon om krigsbarn, politiske fanger, og fartstid under krigen. Disse henvendelsene er fra privatpersoner med standard hastegrad, og viser en vedvarende interesse for krigshistorie.]]></description>
+  <title><![CDATA[Forskere og studenter søker tilgang til spesialarkiv]]></title>
+  <guid>49c25bd9-055b-4df1-a42e-1a0a1f003ac3</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt henvendelser fra forskere og studenter som ønsker tilgang til spesialarkiv, inkludert tyske kart knyttet til reindriften og høringsnotater om lovforslag. Dette understreker arkivets rolle som en viktig ressurs for akademiske studier.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fokus på eiendomshistorikk i Oslo og Moss]]></title>
-  <guid>5a86dca6-0d76-4647-909e-c9fba5344260</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo behandler forespørsler knyttet til eiendomshistorikk, spesielt gnr/bnr oppføringer i Oslo og Moss. Disse forespørslene kommer fra både privatpersoner og profesjonelle aktører, og behandles med standard hastegrad.]]></description>
+  <title><![CDATA[Etterspørsel etter dokumentasjon for medaljetildelinger]]></title>
+  <guid>9d9af90c-98e8-42e3-823a-c2d1a8689e43</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser har kommet inn til Riksarkivet fra privatpersoner angående tildeling av medaljer som Krigskorset og Medaljen for borgerdåd. Dette indikerer en vedvarende interesse for anerkjennelse av innsats og heltemot under og etter krigen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om historiske kart og dokumenter]]></title>
-  <guid>e51bde29-3a13-4fb2-93d9-f425d32c8fec</guid>
-  <pubDate>Tue, 24 Jun 2025 07:01:24 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer forespørsler om historiske kart, inkludert tyske kart relatert til reindrift, som er muggskadet. En forsker har bedt om kopier av disse kartene, noe som understreker viktigheten av bevaring og digitalisering av historiske dokumenter.]]></description>
+  <title><![CDATA[Historiske henvendelser om norsk skipshistorie]]></title>
+  <guid>84533288-e056-464b-a549-318c8527007f</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt forespørsler relatert til norsk maritim historie, inkludert forespørsler om mannskapslister og skipstegninger fra ulike år. Dette viser en interesse for å bevare og forstå Norges maritime arv og historie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>56a960ba-e76c-45cf-afbf-e6bc67cf840b</guid>
+  <pubDate>Tue, 24 Jun 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
