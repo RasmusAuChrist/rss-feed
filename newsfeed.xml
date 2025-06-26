@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 25 Jun 2025 11:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 07:01:29 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i etterspørsel etter landssviksaker]]></title>
-  <guid>90b06bf0-c93b-4066-a854-be87f6689988</guid>
-  <pubDate>Wed, 25 Jun 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en økning i forespørsler om landssviksaker fra privatpersoner. Flere saker, inkludert de fra 1940-tallet, har blitt åpnet for behandling, noe som tyder på en økt interesse for denne delen av historien.]]></description>
+  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
+  <guid>4b891133-ee10-451e-b654-a530ba439494</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikarkiver denne uken. Flere privatpersoner søker informasjon om familiemedlemmer som var involvert i slike saker under og etter andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dåps- og vigselsattester]]></title>
-  <guid>956b3009-9ddd-40d0-86a7-49de0c8f8d44</guid>
-  <pubDate>Wed, 25 Jun 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere forespørsler om dåps- og vigselsattester den siste uken. Dette indikerer en vedvarende interesse for å dokumentere slekts- og familiebakgrunn. Behandling av slike forespørsler pågår fremdeles.]]></description>
+  <title><![CDATA[Forsker etterspør norsk-nigeriansk tørrfiskhandel]]></title>
+  <guid>13ffc21c-daff-4872-9cfa-fc2dbba8e376</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[En forsker har sendt inn forespørsel til Riksarkivet om dokumentasjon relatert til norsk-nigeriansk tørrfiskhandel på 1930-tallet. Dette kan gi ny innsikt i historiske handelsforbindelser mellom Norge og Nigeria.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om militære rulleblad og helsemapper]]></title>
-  <guid>a798cd19-c62f-4d47-aa8d-4b78654c0b2d</guid>
-  <pubDate>Wed, 25 Jun 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad og helsemapper fra privatpersoner. Disse henvendelsene er avgjørende for å gi innsikt i personers militære historie og helseforhold.]]></description>
+  <title><![CDATA[Etterspørsel etter militære rulleblad hos Riksarkivet]]></title>
+  <guid>999032ca-f15d-4912-9a50-d8d31ec63fbb</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner som ønsker innsyn i militære rulleblad. Dette gjelder soldater fra ulike tidsperioder, noe som tyder på en vedvarende interesse for militærhistorisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende forespørsel om eiendomsinformasjon]]></title>
-  <guid>65ec9f3b-fcab-4293-93cc-d5e41d7e91d3</guid>
-  <pubDate>Wed, 25 Jun 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere forespørsler om eiendomsinformasjon fra profesjonelle aktører. Dette viser en økt interesse for eiendomsrelaterte data og deres historiske kontekster.]]></description>
+  <title><![CDATA[Utenlandsk adopsjon haster]]></title>
+  <guid>20f6d72a-acb2-402b-bcaf-bb93ca8df0b3</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har sendt inn en hastesak til Riksarkivet for informasjon om utenlandsk adopsjon. Dette kan være knyttet til pågående saker der rask tilgang til historiske dokumenter er avgjørende.]]></description>
 </item>
 <item>
-  <title><![CDATA[Akademisk interesse for historiske dokumenter]]></title>
-  <guid>4fdbe371-27ec-4964-89d6-2ab49595134e</guid>
-  <pubDate>Wed, 25 Jun 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått forespørsler fra forskere og studenter om tilgang til dokumenter som møtereferater fra Sannhets- og forsoningskommisjonen og arkiverte årsrapporter. Dette understreker den akademiske verdien av arkivmaterialet.]]></description>
+  <title><![CDATA[Digitaliseringsprosjekter på dagsorden]]></title>
+  <guid>56dc9f9f-fe29-4b33-b47a-86075a0c2f20</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har flere pågående digitaliseringsprosjekter, inkludert dokumentasjon fra Norges Statsbaner. Dette vil gjøre historiske arkiver mer tilgjengelige for offentligheten og forskere.]]></description>
+</item>
+<item>
+  <title><![CDATA[Fokus på norsk-amerikansk historie]]></title>
+  <guid>47d7c50a-42f2-4823-8925-d17f942b3a46</guid>
+  <pubDate>Thu, 26 Jun 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[En forespørsel om amerikansk kaperfart i Norge i 1813 har blitt sendt til Riksarkivet. Dette kan bidra til å belyse lite kjente aspekter av norsk-amerikanske relasjoner fra tidlig 1800-tall.]]></description>
 </item>
 
 
