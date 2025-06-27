@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 27 Jun 2025 07:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 11:01:06 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
-  <guid>0369519d-c0cd-4fff-bf08-4fe3860838c5</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikdokumenter den siste uken. Flere saker har blitt fullført raskt, inkludert henvendelser om personer født mellom 1877 og 1922. Dette viser en vedvarende interesse for historiske hendelser og deres påvirkning på enkeltpersoner og familier.]]></description>
+  <title><![CDATA[Etterspørsel etter informasjon om landssvik øker]]></title>
+  <guid>0ce01322-020a-46a0-a783-e5e790770bde</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar stadig flere forespørsler fra privatpersoner som søker innsikt i landssviksaker fra andre verdenskrig. Flere saker har blitt avsluttet den siste uken, inkludert henvendelser om personer født mellom 1872 og 1922. Dette indikerer en vedvarende interesse for krigshistorie i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>6ac48f39-dc2a-4536-9ea6-fefd9917fc26</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Det har vært flere forespørsler om militære rulleblad til privatpersoner i Riksarkivet den siste uken. Flere av disse er allerede fullført, som viser en effektiv behandlingstid for denne typen saker.]]></description>
+  <title><![CDATA[Økt interesse for slektsforskning]]></title>
+  <guid>68d30b2d-bc91-46c8-b7cf-e328804ceb45</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Det har vært en markant økning i forespørsler om slektsrelaterte dokumenter i det siste. Privatpersoner har spesifikt etterspurt informasjon om slektninger født på 1800- og 1900-tallet, noe som viser en økende interesse for å kartlegge familiens historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om vigsels- og fødselsattester]]></title>
-  <guid>a0457d08-3f76-4e84-b81c-0a24156d75ca</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om vigsels- og fødselsattester. Flere saker er under behandling, noe som indikerer en jevn etterspørsel etter personlige dokumenter for bruk i slektsforskning eller personlig dokumentasjon.]]></description>
+  <title><![CDATA[Lang behandlingstid for militære dokumenter]]></title>
+  <guid>6c8f3fdc-6494-426f-8552-fc11a19dfbce</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Forespørsler om militære rulleblad og helsemapper forblir uavsluttede etter flere dager med behandling. Både lav og standard hastegrad sees i slike saker, noe som kan tyde på behov for mer ressurser i behandling av disse forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Profesjonelle aktører søker eiendomsdokumentasjon]]></title>
-  <guid>f3417040-c988-49ff-8d8f-86ecd7223146</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler fra profesjonelle aktører om eiendomsdokumentasjon, inkludert saker fra Asker og Bærum. Dette viser behovet for arkivert eiendomsinformasjon i profesjonelle sammenhenger.]]></description>
+  <title><![CDATA[Manglende avslutning av eiendomssaker]]></title>
+  <guid>a6cb686a-f06e-449b-b150-50e5549d8798</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Flere eiendomssaker relatert til Oslo og omegn, behandlet av Statsarkivet i Oslo, har ikke blitt fullført innen kort tid. Dette kan indikere en flaskehals i saksbehandlingen av slike forespørsler fra profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningsinteresse for historiske arkiver]]></title>
-  <guid>af991e57-4927-42e4-853c-b2b08e69f02b</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter om historiske dokumenter, inkludert tørrfiskhandel på 1930-tallet og møtereferater fra Sannhets- og forsoningskommisjonen. Dette understreker arkivenes betydning for akademisk forskning.]]></description>
+  <title><![CDATA[Digitaliseringsforespørsler forblir ubehandlet]]></title>
+  <guid>5f74723b-4340-4ef7-9ebb-79b35c152cef</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om digitalisering av arkivmateriale, inkludert viktige dokumenter fra Norges Statsbaner, forblir uavsluttet. Dette kan påvirke tilgjengeligheten av historisk materiale for både offentlige og private brukere.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uferdige forespørsler om digitalisering]]></title>
-  <guid>a82a9899-eac4-434a-a5dc-5bae85a2736a</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om digitalisering av arkivmateriale, både fra private og profesjonelle aktører, forblir uferdige i Riksarkivet. Dette kan tyde på et økt behov for digital tilgang til historiske dokumenter og en utfordring i kapasitet eller prioritering.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>a321f0c2-fca9-4606-b77a-724f8f92aeda</guid>
-  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Rask behandling av skattesaker i Oslo]]></title>
+  <guid>ee298da7-c93b-4191-8c8c-b88f7db02d3e</guid>
+  <pubDate>Fri, 27 Jun 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har vist effektivitet i behandlingen av forespørsler om skattedokumenter fra 1980-tallet. Flere slike saker ble fullført innen en dag, noe som indikerer god kapasitet og raske svartider for denne typen dokumenter.]]></description>
 </item>
 
 
