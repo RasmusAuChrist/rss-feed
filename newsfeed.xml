@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 26 Jun 2025 11:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 07:02:01 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av landssviksaker]]></title>
-  <guid>7a9e5ad0-b907-46a1-8397-11cde6791899</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[I løpet av den siste uken har Riksarkivet behandlet flere forespørsler om landssviksaker fra privatpersoner. Sakene har gjennomgående blitt ferdigbehandlet innen 24 timer, noe som reflekterer en effektiv saksbehandlingsprosess i Riksarkivet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Økende interesse for slektsforskning]]></title>
-  <guid>05ed4763-9e73-44ae-89e1-1c55c935cd22</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har mottatt flere forespørsler relatert til slektsforskning. Både privatpersoner og forskere søker informasjon om slektshistorie, noe som tyder på en økende interesse for dette feltet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Forskerinteresse for tørrfiskhandel]]></title>
-  <guid>c8d032e1-c6d8-42ca-98d7-c7c3dc6e066b</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[En forsker har sendt inn en forespørsel til Riksarkivet om den norsk-nigerianske tørrfiskhandelen på 1930-tallet. Denne forespørselen er en del av et større prosjekt og er ennå ikke fullført.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
+  <guid>0369519d-c0cd-4fff-bf08-4fe3860838c5</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvikdokumenter den siste uken. Flere saker har blitt fullført raskt, inkludert henvendelser om personer født mellom 1877 og 1922. Dette viser en vedvarende interesse for historiske hendelser og deres påvirkning på enkeltpersoner og familier.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>3181990e-34d0-4653-8e78-9b11c114a279</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig søkt om innsyn i militære rulleblad ved Riksarkivet. Forespørslene er blitt behandlet innen en dag, noe som viser arkivets evne til rask håndtering av slike forespørsler.]]></description>
+  <guid>6ac48f39-dc2a-4536-9ea6-fefd9917fc26</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Det har vært flere forespørsler om militære rulleblad til privatpersoner i Riksarkivet den siste uken. Flere av disse er allerede fullført, som viser en effektiv behandlingstid for denne typen saker.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uferdige saker i Oslo-arkivet]]></title>
-  <guid>821f0464-b931-4acb-aaac-e4780afef1c0</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo håndterer flere forespørsler som fortsatt er uferdige. Dette inkluderer saker om fødsel/dåp og eiendom. Det arbeides på å fullføre disse forespørslene snarest mulig.]]></description>
+  <title><![CDATA[Henvendelser om vigsels- og fødselsattester]]></title>
+  <guid>a0457d08-3f76-4e84-b81c-0a24156d75ca</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om vigsels- og fødselsattester. Flere saker er under behandling, noe som indikerer en jevn etterspørsel etter personlige dokumenter for bruk i slektsforskning eller personlig dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekter på vent]]></title>
-  <guid>9f8f9554-d987-48db-8b6e-81bdf1239af2</guid>
-  <pubDate>Thu, 26 Jun 2025 11:01:18 GMT</pubDate>
-  <description><![CDATA[Flere digitaliseringsprosjekter i Riksarkivet er foreløpig ikke fullført. Prosjekter som involverer Norges Statsbaner og Lovavdelingen venter på videre behandling, noe som kan påvirke tilgjengeligheten av digitaliserte dokumenter.]]></description>
+  <title><![CDATA[Profesjonelle aktører søker eiendomsdokumentasjon]]></title>
+  <guid>f3417040-c988-49ff-8d8f-86ecd7223146</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler fra profesjonelle aktører om eiendomsdokumentasjon, inkludert saker fra Asker og Bærum. Dette viser behovet for arkivert eiendomsinformasjon i profesjonelle sammenhenger.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskningsinteresse for historiske arkiver]]></title>
+  <guid>af991e57-4927-42e4-853c-b2b08e69f02b</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter om historiske dokumenter, inkludert tørrfiskhandel på 1930-tallet og møtereferater fra Sannhets- og forsoningskommisjonen. Dette understreker arkivenes betydning for akademisk forskning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Uferdige forespørsler om digitalisering]]></title>
+  <guid>a82a9899-eac4-434a-a5dc-5bae85a2736a</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om digitalisering av arkivmateriale, både fra private og profesjonelle aktører, forblir uferdige i Riksarkivet. Dette kan tyde på et økt behov for digital tilgang til historiske dokumenter og en utfordring i kapasitet eller prioritering.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>a321f0c2-fca9-4606-b77a-724f8f92aeda</guid>
+  <pubDate>Fri, 27 Jun 2025 07:02:01 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
