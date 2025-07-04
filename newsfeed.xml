@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 04 Jul 2025 07:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 11:01:54 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende antall forespørsler om landssviksaker]]></title>
-  <guid>36800fd3-5a79-4f6d-945a-de3cf73c28fa</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om innsyn i landssviksaker den siste uken. Blant annet har flere saker blitt fullført, inkludert forespørsler om Hermann A. Helgesen, Alf Aanning, og Sigurd Adolf Holm. Dette viser en vedvarende interesse for historiske rettssaker i Norge.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>7af76f32-d8be-40b5-a057-fe6879a60f61</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler angående landssvik-saker den siste uken. Dette inkluderer saker fra tidlig 1900-tall og etterkrigstiden. Behandlingstiden varierer, men mange forespørsler er allerede ferdigbehandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske dokumenter]]></title>
-  <guid>3643aab0-dbc8-434b-98a2-082897a1aa63</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[En privatperson har nylig bestilt en kopi av et sigill på pergament fra 1401 hos Riksarkivet. Bestillingen, som fortsatt er under behandling, demonstrerer den vedvarende interessen for historiske dokumenter og behovet for tilgang til nasjonens arkiver.]]></description>
+  <title><![CDATA[Kopibestillinger i fokus]]></title>
+  <guid>805df74b-b1f4-421b-9e16-c2a2b2f3debd</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Det har vært en rekke kopibestillinger til Riksarkivet den siste uken, inkludert dokumenter som eldre luftspenntillatelser og sertifikater. En bestilling om D5-sertifikat ble ferdigstilt på under et døgn, mens andre saker fortsatt er i prosess.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter vitnemål og fagbrev]]></title>
-  <guid>12d79fbf-19a5-4475-88db-1b5c53424b3c</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottok nylig forespørsler om vitnemål fra privatpersoner som har behov for dokumentasjon fra tidligere utdanninger. Blant annet er det forespørsler for fagbrev fra 1986 og 1992-1993. Behovet for slike dokumenter er viktig for videre karriereveier.]]></description>
+  <title><![CDATA[Historiske forespørsler til Riksarkivet]]></title>
+  <guid>a40d1bcd-f820-4506-8546-f5ab2400972a</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Forespørsler om historiske dokumenter, som Alstahaugs historie fra 1839 og kaperbrev fra 1807, strømmer inn til Riksarkivet. Disse sakene har lav hast, og behandlingen av dem pågår fortsatt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskere søker innsyn i krigshistorie]]></title>
-  <guid>e1d61eaf-286d-4551-afb7-7b922d6243d5</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter som undersøker Norges krigshistorie. Dette inkluderer forespørsler om informasjon fra Den kalde krigen og forskningsprosjekter om Norges første barnekreftoverlevende.]]></description>
+  <title><![CDATA[Økning i forespørsler om vitnemål og fagbrev]]></title>
+  <guid>5a61bb6b-de35-402a-acb6-93db677c5a05</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler om vitnemål og fagbrev den siste uken, med flere saker fra 1980- og 1990-tallet. Flesteparten av disse sakene er nå behandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling fra offentlige etater]]></title>
-  <guid>89dbdda3-f29c-45c8-9313-a04487512b73</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt kopibestillinger fra offentlige etater, inkludert en forespørsel om eldre luftspenntillatelser fra Havnedirektoratet. Slike bestillinger understreker viktigheten av arkivene for offentlig saksbehandling og historisk dokumentasjon.]]></description>
+  <title><![CDATA[Interesse for korrespondanse fra oljesektoren]]></title>
+  <guid>1ac5df36-7700-4175-af33-916769818772</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har søkt om innsyn i korrespondanse mellom Olje- og energidepartementet og Statoil fra 1995. Saken er under behandling i Riksarkivet, og det er ikke oppgitt noen hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fokus på eiendomssaker i arkivene]]></title>
-  <guid>204cb937-17aa-4c44-ba10-38ddead68a7e</guid>
-  <pubDate>Fri, 04 Jul 2025 07:01:23 GMT</pubDate>
-  <description><![CDATA[Det har vært en rekke forespørsler om eiendomsrelaterte dokumenter i Riksarkivet og Statsarkivet i Oslo den siste uken, blant annet om Ole Bull museet og Horgenvillaen. Slike saker er viktige for juridiske avklaringer og historisk forskning.]]></description>
+  <title><![CDATA[Etterspørsel etter dødsfall- og dødsårsaksdokumentasjon]]></title>
+  <guid>7d45cea0-cf8e-4d8a-a7bf-d8470d80e41c</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere forespørsler om dokumentasjon for dødsfall og dødsårsaker, særlig fra 1950- og 1970-tallet. Disse sakene har lav prioritet og er foreløpig ikke fullført.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>cb8cabf6-3bc0-43f8-99a8-a9d051b72183</guid>
+  <pubDate>Fri, 04 Jul 2025 11:01:54 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
