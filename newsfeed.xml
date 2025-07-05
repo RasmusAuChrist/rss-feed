@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 05 Jul 2025 07:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 11:00:48 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,39 +12,45 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Økning i forespørsler om dødsfall og skifte]]></title>
-  <guid>d5c0fa2d-cf8f-4f22-9a04-2244589b75dc</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall og skifte, inkludert saker fra 1960- og 1970-tallet. Henvendelsene kommer fra både privatpersoner og offentlige etater, og behandles fortløpende med standard hastegrad.]]></description>
+  <guid>2a5f973f-8c39-4928-a6f1-f09b32731490</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Det har vært en økning i forespørsler relatert til dødsfall og skifte den siste uken. Flere saker er under behandling, blant annet for personer fra Fredrikstad, Oslo og Bærum. Forespørslene kommer fra en variert brukergruppe, inkludert privatpersoner, offentlige etater og profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Aktivitet rundt landssvik-saker]]></title>
-  <guid>df5852db-03e8-4056-8700-9145d43f45e3</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har den siste uken behandlet en rekke forespørsler knyttet til landssvik-saker fra 2. verdenskrig. Henvendelsene, som hovedsakelig kommer fra privatpersoner, har blitt behandlet med standard hastegrad.]]></description>
+  <title><![CDATA[Stor interesse for landssviksaker]]></title>
+  <guid>ee15b08b-7788-4a05-be68-b0833eebd561</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene omfatter personer født på 1800- og 1900-tallet, og både privatpersoner og pressen har vist interesse. Flere saker er allerede ferdigbehandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter kopibestillinger]]></title>
-  <guid>b4af9547-43ba-42a3-9ce9-d3d95d1d1a20</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i antall kopibestillinger i Riksarkivet, inkludert forespørsler om gamle dokumenter fra 1400-tallet. Disse forespørslene, ofte fra privatpersoner, blir håndtert med standard hastegrad.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske dokumenter]]></title>
+  <guid>e56f2f0e-2906-4167-8331-eec64d657de8</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Det har vært flere forespørsler om historiske dokumenter den siste uken, inkludert arkivsøk relatert til NIS-registeringsforskrift og historie om Den kalde krigen. Forsknings- og studentmiljøer er blant de som søker tilgang.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om NIS-registeringsforskrift]]></title>
-  <guid>7db92e5a-ddbe-4a18-927f-c3f368b2c57c</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[En forsker har kontaktet Riksarkivet for arkivsøk relatert til forarbeidene til NIS-registeringsforskriften. Forespørselen blir behandlet med standard hastegrad.]]></description>
+  <title><![CDATA[Kopibestillinger på gamle dokumenter]]></title>
+  <guid>5487a0ab-adcc-44c9-8293-1382d58e05de</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt forespørsler om kopibestilling av gamle dokumenter, inkludert en sigill på pergament fra 1401. Dette viser en vedvarende interesse for historiske dokumenter blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske eiendomsdokumenter]]></title>
-  <guid>f217db96-ab2c-4ae3-a2d2-2fb9c5e1a18c</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler om historiske eiendomsdokumenter fra både privatpersoner og profesjonelle aktører. Sakene behandles fortløpende med standard hastegrad.]]></description>
+  <title><![CDATA[Henvendelser om film og dokumentarprosjekter]]></title>
+  <guid>6e37442c-2ef3-4ce6-b892-a058e9297db7</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt forespørsler fra profesjonelle aktører som jobber med film og dokumentarprosjekter. Blant annet er det søkt om innsyn i intervjuer og bruk av bilder fra historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om historiske vitnemål og fagbrev]]></title>
-  <guid>2e9b889e-d450-4866-a867-a4c3b862aa6e</guid>
-  <pubDate>Sat, 05 Jul 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra privatpersoner om historiske vitnemål og fagbrev. Sakene, som varierer fra 1980- til 1990-tallet, behandles med standard hastegrad.]]></description>
+  <title><![CDATA[Behandlingstider for forespørsler varierer]]></title>
+  <guid>e1526409-b9be-4749-8ae9-794385967199</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Behandlingstidene for forespørsler varierer, med noen saker ferdigbehandlet samme dag, mens andre fortsatt er under behandling. Hastegraden ser ut til å påvirke behandlingstiden betydelig.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>4c835f4b-547c-4380-a18d-bfc592ae7f40</guid>
+  <pubDate>Sat, 05 Jul 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
