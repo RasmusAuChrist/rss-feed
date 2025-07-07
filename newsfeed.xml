@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 07 Jul 2025 07:00:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 11:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for vigselsattester]]></title>
-  <guid>46d2123d-a39c-4fec-9458-9bb1aed26eae</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[I løpet av den siste uken har det kommet flere forespørsler om vigselsattester til Statsarkivet i Oslo. Forespørslene kommer fra privatpersoner som søker dokumentasjon fra både nyere og eldre datoer.]]></description>
+  <title><![CDATA[Landssvik-saker dominerer innkomne saker]]></title>
+  <guid>ba2bfd22-301d-47b0-9d36-f7c9d1942f30</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser om landssvik-saker den siste uken. Dette inkluderer forespørsler om flere enkeltpersoner fra ulike tidsperioder. Behandlingen av sakene pågår, og de fleste har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om landssvik]]></title>
-  <guid>366a3fc2-803f-401f-b644-2f25d25cdbe5</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar et betydelig antall henvendelser om landssvik-saker. Privatpersoner utgjør hovedandelen av forespørslene, som spenner over ulike tidsperioder og geografiske områder.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske dokumenter øker]]></title>
+  <guid>3cd35413-cd83-4743-a343-e54bf89d0160</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Det er økende interesse for historiske dokumenter, spesielt fra andre verdenskrig og tidligere perioder. Flere henvendelser omhandler historieprosjekter og søk etter personlige historier fra krigs- og etterkrigstiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Stor pågang av forespørsler om dødsfall og skifte]]></title>
-  <guid>55e9185a-fa51-4435-8b64-ea4ca74087f3</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått mange forespørsler om dødsfall og skifte, med henvendelser fra både privatpersoner og offentlige etater. Behandlingstiden for disse forespørslene er fortsatt i prosess.]]></description>
+  <title><![CDATA[Privatpersoner søker militære rulleblad]]></title>
+  <guid>1cc36fd8-b58a-4012-8aec-cf5cf924c710</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har sendt flere forespørsler om militære rulleblad og tjenesteuttalelser. Disse sakene har fortsatt uavklart status, og behandlingen har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler engasjerer forskere]]></title>
-  <guid>012c2797-dca9-4c88-bbfc-6e4dc6feed85</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere henvendelser fra forskere og studenter som søker informasjon om historie og forarbeider til NIS-registeringsforskrift. Dette viser en økt akademisk interesse for historiske dokumenter.]]></description>
+  <title><![CDATA[Ny forskningsinteresse for norsk energipolitikk]]></title>
+  <guid>660ec7b9-5c32-465a-be11-74ac234b5035</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel om kildeveiledning for digitaliserte kilder om norsk energipolitikk fra 1965 til 2005. Forskningsprosjekter innen energipolitikk ser ut til å tiltrekke seg økt interesse.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad og vitnemål]]></title>
-  <guid>cfe809f0-325a-4921-8623-1f4000a11c6e</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[Forespørsler om militære rulleblad og vitnemål/fagbrev har kommet inn til både Riksarkivet og Statsarkivet i Oslo. Privatpersoner er den primære brukergruppen som søker denne typen dokumentasjon.]]></description>
+  <title><![CDATA[Eiendomsspørsmål og avskrifter i fokus]]></title>
+  <guid>bb2c4240-e75f-4702-bbe6-d27a80bf7be3</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Det har vært flere forespørsler om eiendom, inkludert avskrifter og historiske kart. Disse forespørslene kan indikere økt interesse for eiendomsrelatert forskning og historisk kartlegging.]]></description>
 </item>
 <item>
-  <title><![CDATA[Profesjonelle aktører søker faglig innsyn]]></title>
-  <guid>8a8a01cb-07ee-472f-93f4-f90793df8a85</guid>
-  <pubDate>Mon, 07 Jul 2025 07:00:34 GMT</pubDate>
-  <description><![CDATA[Profesjonelle aktører, inkludert presse og andre profesjonelle grupper, gjør forespørsler om faglig innsyn i historiske dokumenter hos Riksarkivet. Henvendelsene inkluderer saker relatert til dokumentarer og historiske hendelser.]]></description>
+  <title><![CDATA[Profesjonelle aktører etterspør arkivmateriale]]></title>
+  <guid>94ab56e3-a958-4651-8e2d-882e94f991ac</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler fra profesjonelle aktører omfatter innsyn i dokumentarintervjuer og korrespondanse mellom offentlige etater og selskaper. Dette indikerer en bredere bruk av arkivmateriale i profesjonelle prosjekter.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>1310d45a-c58e-4892-8db2-4cf48b84cd87</guid>
+  <pubDate>Mon, 07 Jul 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
