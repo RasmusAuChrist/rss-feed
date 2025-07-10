@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 10 Jul 2025 07:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 11:00:44 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i henvendelser om landssvik]]></title>
-  <guid>f549f13e-1839-4d87-b7dc-c0c42036fa6d</guid>
-  <pubDate>Thu, 10 Jul 2025 07:01:16 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om landssvik fra andre verdenskrig den siste uken. Dette inkluderer saker relatert til individer født mellom 1885 og 1918. Henvendelsene har standard hastegrad og er foreløpig ikke fullført.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>f944b461-3252-4180-9b55-7beefbdee1c5</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[Det er en merkbar økning i forespørsler om landssviksaker i Riksarkivet. Flere privatpersoner søker informasjon om landssvikanklager fra både før og etter andre verdenskrig. Dette kan tyde på økt interesse for denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker skifteinformasjon]]></title>
-  <guid>3b14d109-a116-435b-b9f9-a24215796255</guid>
-  <pubDate>Thu, 10 Jul 2025 07:01:16 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere forespørsler fra offentlige etater om dødsfall og skifte. Dette inkluderer saker fra Oslo og Skedsmo, med kort hastegrad. Saksbehandlingen er pågående og ikke fullført.]]></description>
+  <title><![CDATA[Rask behandling av dåps- og vigselsattester]]></title>
+  <guid>b3056779-fd25-47fe-8e9f-417ff47d84ae</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere saker angående dåps- og vigselsattester med standard hastegrad. Dette viser effektiv behandling og kan være en fordel for brukere som ønsker rask tilgang til slike dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter kildeveiledning]]></title>
-  <guid>1e7d5d9a-bdcf-4c23-81e0-845545cbe1fc</guid>
-  <pubDate>Thu, 10 Jul 2025 07:01:16 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar henvendelser fra profesjonelle aktører angående kildeveiledning. Dette omfatter blant annet veiledning om norsk energipolitikk, arkivmateriale relatert til Johan Jørgen Holst og tillatelse til bruk av foto.]]></description>
+  <title><![CDATA[Offentlige etater søker skifteopplysninger]]></title>
+  <guid>4bce7d27-06d8-4a0d-abcc-0efb606816a8</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[Flere offentlige etater har henvendt seg til Statsarkivet i Oslo for opplysninger om dødsfall og skifte. Sakene har høy prioritet, og det søkes særlig etter informasjon om arv og forvaltning av eiendommer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av dåpsattest-forespørsler]]></title>
-  <guid>2c554585-ba9c-4712-9331-319d50c837af</guid>
-  <pubDate>Thu, 10 Jul 2025 07:01:16 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere forespørsler om dåpsattester. Forespørslene, som har standard hastegrad, omfatter personer født i Oslo og Haslum, og ble behandlet innen en dag.]]></description>
+  <title><![CDATA[Kildeveiledning for profesjonelle aktører]]></title>
+  <guid>78819198-d653-4e10-a4db-7dce0bc76fc3</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler om kildeveiledning fra profesjonelle aktører. Saker omhandler alt fra filmologi til norske energipolitikk. Dette reflekterer et bredt spekter av forskningsinteresser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker militære rulleblad]]></title>
-  <guid>518f6ede-d41b-419f-86f2-6f22c86bb86e</guid>
-  <pubDate>Thu, 10 Jul 2025 07:01:16 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt forespørsler fra privatpersoner om militære rulleblad for avdøde personer. Sakene har standard hastegrad og er ikke fullført. Dette indikerer økt interesse for militærhistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Historiske arkivsøk i fokus]]></title>
+  <guid>1965488e-a53b-4dc7-9a29-1d9c9ab4db2a</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[Forespørsel om arkivsøk relatert til historiske hendelser, som krigens ordførere og beredskap ved Trandum leir, viser vedvarende interesse for å forstå Norges fortid. Riksarkivet spiller en viktig rolle i å støtte slik forskning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlig etat søker reguleringsplankart]]></title>
+  <guid>6db62a33-3afc-4b09-8b8c-ffe7c6d29d9d</guid>
+  <pubDate>Thu, 10 Jul 2025 11:00:44 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har bedt om reguleringsplankart fra Riksarkivet. Dette understreker arkivets betydning i planleggingsprosesser og offentlig forvaltning, der historisk dokumentasjon kan spille en kritisk rolle.]]></description>
 </item>
 
 
