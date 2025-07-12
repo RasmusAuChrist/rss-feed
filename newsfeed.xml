@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 12 Jul 2025 07:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 11:00:37 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssvik-saker i Riksarkivet]]></title>
-  <guid>b8996c07-99ce-4f39-9f4c-fa076a569514</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt en markant økning i forespørsler om landssvik-saker, med flere saker fra både første og andre verdenskrig. Dette reflekterer en vedvarende interesse hos privatpersoner for å utforske historiske hendelser og deres innvirkning på enkeltpersoner og familier.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>ca0c5337-8e50-4c6f-a69b-a0c9f4214965</guid>
+  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar en betydelig mengde forespørsler om landssviksaker fra privatpersoner. Flere slike saker ble opprettet den siste uken, noe som tyder på økende interesse eller behov for informasjon om historiske hendelser relatert til landssvik.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullført saksbehandling av dødsfall og skifte]]></title>
-  <guid>7ba3cecc-688b-4cef-8bda-17d98a6b0654</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Oslo Statsarkiv har effektivt behandlet flere saker om dødsfall og skifte denne uken. Blant sakene som er ferdigstilt, er saker relatert til personer født fra tidlig 1900-tall til midten av 1900-tallet, med en hastetid på bare få dager.]]></description>
+  <title><![CDATA[Etterspørsel etter kildeveiledning øker]]></title>
+  <guid>cab6b57d-f2e6-4128-94f0-5952ca18e57c</guid>
+  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
+  <description><![CDATA[Det er en merkbar økning i forespørsler om kildeveiledning relatert til temaer som norsk energipolitikk og krigsskader. Både forskere og profesjonelle aktører viser interesse for å få tilgang til spesialiserte arkiver, noe som understreker viktigheten av tilgjengeliggjøring av historiske data.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinteresse for norsk energipolitikk]]></title>
-  <guid>6366817a-bd56-4c70-820c-648ca6112e45</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer forespørsler fra forskere og studenter som søker digitaliserte kilder om norsk energipolitikk fra 1965 til 2005. Dette viser en økende akademisk interesse for Norges historiske og energipolitiske utvikling.]]></description>
+  <title><![CDATA[Offentlige etater søker arkivinformasjon]]></title>
+  <guid>454f81eb-3e1a-4f4a-b106-3b0750b0803c</guid>
+  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn flere forespørsler til Riksarkivet og Statsarkivet i Oslo, inkludert saker om barnebidrag i utlandet og skifter. Dette viser behovet for effektiv tilgang til historiske dokumenter for å støtte offentlig forvaltning og beslutningstaking.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav hastighet på lavhastighetsarkivsaker]]></title>
-  <guid>732d3f54-22e5-4ef4-93b0-3c75ca758977</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere lavhastighetssaker, inkludert forespørsler om digitale kart fra 1700-tallet, mikroskop på inventarlister og fartstid under krigen. Disse sakene viser varierte interesser fra privatpersoner og har ingen fastsatt fullføringsdato.]]></description>
+  <title><![CDATA[Lav hastegrad i flere forespørsler]]></title>
+  <guid>41624da6-2111-4fcc-a6d6-d25832317b28</guid>
+  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
+  <description><![CDATA[Flere av de innkomne forespørslene til Riksarkivet er merket med lav hastegrad, spesielt de som gjelder historiske undersøkelser og kildeveiledninger. Dette indikerer et langsiktig prosjektsamarbeid eller forskningsarbeid hvor umiddelbar tilgang ikke er kritisk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om høringsnotater og vaksineforsøk]]></title>
-  <guid>2c5d577b-fbbf-41cc-85bf-8eab0a065da4</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Privatpersoner har vist interesse for arkivsøk relatert til høringsnotater fra Justisdepartementet og meningokokkvaksineforsøket fra 1988-91. Dette indikerer en økende interesse for helse- og juridiske dokumenter fra nyere historie.]]></description>
-</item>
-<item>
-  <title><![CDATA[Etterspørsel etter dåps- og vigselsattester]]></title>
-  <guid>91350dd8-7d08-4b2f-bd88-3d5b5df695e6</guid>
-  <pubDate>Sat, 12 Jul 2025 07:00:41 GMT</pubDate>
-  <description><![CDATA[Oslo Statsarkiv har ferdigstilt flere forespørsler om dåps- og vigselsattester. Disse sakene, ofte med standard hastetid, viser en vedvarende etterspørsel blant privatpersoner for dokumentasjon knyttet til slektsforskning og personlig historikk.]]></description>
+  <title><![CDATA[Fullførte saker i Oslo Statsarkiv]]></title>
+  <guid>42ca852f-a1a3-451c-b44f-6a571b2b5282</guid>
+  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
+  <description><![CDATA[Oslo Statsarkiv har nylig fullført flere saker med kort hastegrad, inkludert forespørsler om dødsfall og skifter. Dette viser en effektiv behandling av saker som krever rask oppfølging, og bidrar til at offentlig etater kan fortsette sitt arbeid uten unødvendige forsinkelser.]]></description>
 </item>
 
 
