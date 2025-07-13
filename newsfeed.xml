@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 12 Jul 2025 11:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 07:00:53 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>ca0c5337-8e50-4c6f-a69b-a0c9f4214965</guid>
-  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en betydelig mengde forespørsler om landssviksaker fra privatpersoner. Flere slike saker ble opprettet den siste uken, noe som tyder på økende interesse eller behov for informasjon om historiske hendelser relatert til landssvik.]]></description>
+  <title><![CDATA[Økning i saker om landssvik fra privatpersoner]]></title>
+  <guid>7d80f69b-62a3-4b7e-b19f-53fefae96bd2</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Det er en merkbar økning i antall henvendelser om landssvik relatert til andre verdenskrig. Flere privatpersoner søker informasjon om sine forfedres historie, og flere saker har blitt opprettet i Riksarkivet den siste uken. Dette kan tyde på en økt interesse for familiehistorie og krigstidens hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter kildeveiledning øker]]></title>
-  <guid>cab6b57d-f2e6-4128-94f0-5952ca18e57c</guid>
-  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
-  <description><![CDATA[Det er en merkbar økning i forespørsler om kildeveiledning relatert til temaer som norsk energipolitikk og krigsskader. Både forskere og profesjonelle aktører viser interesse for å få tilgang til spesialiserte arkiver, noe som understreker viktigheten av tilgjengeliggjøring av historiske data.]]></description>
+  <title><![CDATA[Etterspørsel etter dåps- og vigselsattester]]></title>
+  <guid>a4f852f9-936a-4f67-8680-e1597c624362</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottok flere forespørsler om dåps- og vigselsattester den siste uken. Dokumentasjon av familiebegivenheter ser ut til å være en prioritet for mange, noe som kan være knyttet til juridiske behov eller slektsforskning. Flere av disse forespørslene er behandlet raskt med kort behandlingstid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivinformasjon]]></title>
-  <guid>454f81eb-3e1a-4f4a-b106-3b0750b0803c</guid>
-  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn flere forespørsler til Riksarkivet og Statsarkivet i Oslo, inkludert saker om barnebidrag i utlandet og skifter. Dette viser behovet for effektiv tilgang til historiske dokumenter for å støtte offentlig forvaltning og beslutningstaking.]]></description>
+  <title><![CDATA[Henvendelser om kildeveiledning i Riksarkivet]]></title>
+  <guid>2c4040d7-36f2-4116-85f7-a3f5673d59b4</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om kildeveiledning, særlig relatert til norsk energipolitikk og filmologi. Forskere og profesjonelle aktører viser interesse for digitaliserte kilder, noe som understreker viktigheten av tilgjengeliggjøring av arkivmateriale for akademiske formål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav hastegrad i flere forespørsler]]></title>
-  <guid>41624da6-2111-4fcc-a6d6-d25832317b28</guid>
-  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
-  <description><![CDATA[Flere av de innkomne forespørslene til Riksarkivet er merket med lav hastegrad, spesielt de som gjelder historiske undersøkelser og kildeveiledninger. Dette indikerer et langsiktig prosjektsamarbeid eller forskningsarbeid hvor umiddelbar tilgang ikke er kritisk.]]></description>
+  <title><![CDATA[Offentlige etater søker arkivstøtte]]></title>
+  <guid>27ec1a4f-cfcd-43d5-bf71-729f61411279</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn forespørsler til Riksarkivet og Statsarkivet i Oslo om hjelp med dokumenter som barnebidrag i utlandet og dødsboskifte. Dette viser at arkivene spiller en viktig rolle i å støtte offentlig forvaltning med historisk dokumentasjon og juridiske spørsmål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullførte saker i Oslo Statsarkiv]]></title>
-  <guid>42ca852f-a1a3-451c-b44f-6a571b2b5282</guid>
-  <pubDate>Sat, 12 Jul 2025 11:00:37 GMT</pubDate>
-  <description><![CDATA[Oslo Statsarkiv har nylig fullført flere saker med kort hastegrad, inkludert forespørsler om dødsfall og skifter. Dette viser en effektiv behandling av saker som krever rask oppfølging, og bidrar til at offentlig etater kan fortsette sitt arbeid uten unødvendige forsinkelser.]]></description>
+  <title><![CDATA[Lav hastighet på historiske kartforespørsler]]></title>
+  <guid>e147f06e-7bfa-46b5-87eb-b455ca1ce95e</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[En forespørsel om digitalt kart fra 1766 ligger fortsatt ubehandlet i Riksarkivet. Med lav hastegrad for slike forespørsler, kan det ta tid før disse henvendelsene blir prioritert. Dette kan indikere utfordringer med å håndtere lavprioriterte henvendelser i en travel arkivhverdag.]]></description>
+</item>
+<item>
+  <title><![CDATA[Fullførte saker om dødsfall og skifte]]></title>
+  <guid>37520f89-8862-48bf-95df-cc9e5cc62b89</guid>
+  <pubDate>Sun, 13 Jul 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Flere saker om dødsfall og skifte er nylig fullført i Statsarkivet i Oslo. Offentlige etater har raskt fått tilgang til nødvendig informasjon, noe som viser effektivitet i behandlingen av slike juridisk viktige dokumenter. Dette bidrar til å sikre en smidig prosess for alle involverte parter.]]></description>
 </item>
 
 
