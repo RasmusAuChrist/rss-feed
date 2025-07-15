@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 14 Jul 2025 11:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 07:01:17 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy pågang av landssvik-relaterte forespørsler]]></title>
-  <guid>a8095d77-8dcc-4038-8a80-7b1a575dbd73</guid>
-  <pubDate>Mon, 14 Jul 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok en stor mengde forespørsler om landssviksaker den siste uken. Flere privatpersoner søker informasjon om pårørende eller historiske figurer relatert til landssvikssaker fra krigstiden. Dette viser en vedvarende interesse for krigshistorie og personlige forbindelser til fortiden.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssviksaker]]></title>
+  <guid>2db73219-986d-4e1e-8ebf-49876e6c2e45</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har registrert en merkbar økning i henvendelser om landssviksaker. Totalt er det innkommet flere saker bare den siste uken, med brukere som søker informasjon om saker fra både første og andre verdenskrig. Behandlingen av disse sakene er fortsatt pågående.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullført sak om barnebidrag i utlandet]]></title>
-  <guid>b19f42b0-a614-4d00-90de-2dc99a3cec76</guid>
-  <pubDate>Mon, 14 Jul 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[En sak om fastsettelse av barnebidrag i utlandet fra 1993 er blitt ferdigbehandlet i Riksarkivet. Henvendelsen kom fra en offentlig etat og ble fullført på tre dager. Dette indikerer effektiv behandlingstid for saker som omhandler internasjonale familierettigheter.]]></description>
+  <title><![CDATA[Interesse for militære rulleblad]]></title>
+  <guid>b7df77e3-96a6-40d0-ae79-686847f27dc8</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Forespørsler om militære rulleblad utgjør en stor del av henvendelsene til Riksarkivet. Flere privatpersoner har nylig søkt om tilgang til personlige militære rulleblad, og flere av disse forespørslene er allerede behandlet og avsluttet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av forespørsler om dåpsattester]]></title>
-  <guid>936c5c13-c6d7-47f2-b5a3-cac33f3696c8</guid>
-  <pubDate>Mon, 14 Jul 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har ferdigstilt flere forespørsler om dåpsattester, inkludert saker fra Haslum og Oslo, i løpet av en dag. Dette er positivt for privatpersoner som trenger rask tilgang til slike dokumenter for personlig bruk eller slektsforskning.]]></description>
+  <title><![CDATA[Etterspørsel etter fødsels- og dåpsattester]]></title>
+  <guid>30197c01-e23b-42a7-b027-0c70d80f8f30</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om utstedelse av fødsels- og dåpsattester, med flere saker som fortsatt er under behandling. Det er spesielt privatpersoner som søker denne typen dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Avsluttet sak om militært rulleblad]]></title>
-  <guid>4980bfca-c4ee-4a57-b4c3-97e62d572da5</guid>
-  <pubDate>Mon, 14 Jul 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[En forespørsel om et militært rulleblad for en avdød person ble fullført i Riksarkivet. Dette er viktig for etterkommere som søker innsikt i forfedres militære tjeneste, spesielt fra krigsperioden.]]></description>
+  <title><![CDATA[Historisk interesse blant forskere]]></title>
+  <guid>d4571998-cdd9-4fc7-a552-dcb19bbed781</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Forskere og studenter viser stor interesse for kildeveiledning og arkivmateriale. Saker som digitaliserte kilder om norsk energipolitikk og arkivmateriale relatert til Johan Jørgen Holst er blant de som har blitt etterspurt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Avsluttet forespørsel om skattelister for Ski]]></title>
-  <guid>2fe370ef-ae94-4898-87f2-b75815bc842b</guid>
-  <pubDate>Mon, 14 Jul 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Skattelister fra 1988-1992 for Ski er nå tilgjengelige etter at en forespørsel fra en privatperson ble fullført av Statsarkivet i Oslo. Dette gir innsikt i personlige økonomiske forhold og kan være nyttig for slektsforskning eller historiske studier.]]></description>
+  <title><![CDATA[Rask behandling av adopsjonssaker]]></title>
+  <guid>d6ae56ae-bc26-4eae-b893-5c8e6a717a07</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har håndtert en adopsjonssak med standard hastegrad som ble fullført på kort tid. Dette viser effektiviteten av saksbehandlingen for sensitive og personlige forespørsler.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlige etater etterspør dødsfalls- og skiftesaker]]></title>
+  <guid>7e3ba421-16a3-4048-b93d-5b92a19a0388</guid>
+  <pubDate>Tue, 15 Jul 2025 07:01:17 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra offentlige etater angående dødsfalls- og skiftesaker. Hastegraden for disse sakene er ofte høy, og de fleste har blitt behandlet og fullført på kort tid.]]></description>
 </item>
 
 
