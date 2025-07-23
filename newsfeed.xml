@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 22 Jul 2025 11:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 07:00:27 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i henvendelser om pasientjournaler]]></title>
-  <guid>2a197b38-62a1-4714-8f75-4d491e79ecf1</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig mottatt flere forespørsler om innsyn i pasientjournaler, spesielt fra privatpersoner som søker informasjon om avdøde slektninger. Disse sakene har standard hastegrad og er ennå ikke ferdigbehandlet. Dette kan tyde på en økende interesse for medisinsk historie blant privatpersoner.]]></description>
+  <title><![CDATA[Økning i forespørsel om landssvik-saker]]></title>
+  <guid>fb95d798-44d9-4aa9-ad96-b737838f47e1</guid>
+  <pubDate>Wed, 23 Jul 2025 07:00:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever en betydelig økning i forespørsler om landssvik-saker fra privatpersoner. Flere saker om enkeltpersoner fra tidlig 1900-tall er under behandling, men ingen er fullført hittil. Dette tyder på en økt interesse for historiske rettssaker i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere saker om botid i Oslo]]></title>
-  <guid>8a1db6d4-a1aa-4ba7-a516-177c2832bb98</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[Det har vært en merkbar økning i forespørsler om dokumentasjon på botid i Oslo, med flere saker opprettet av privatpersoner den siste uken. Dette kan indikere et større behov for dokumentasjon i forbindelse med søknader om statsborgerskap eller andre juridiske prosesser.]]></description>
+  <title><![CDATA[Rask behandling av botidsforespørsler i SAO]]></title>
+  <guid>1bbb500d-0f05-463c-af3c-c77d4ceffd4b</guid>
+  <pubDate>Wed, 23 Jul 2025 07:00:27 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har effektivt behandlet forespørsler om botid for flere privatpersoner. To forespørsler om botid ble fullført i løpet av en dag. Dette viser god kapasitet og effektivitet ved behandling av slike forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter historiske landssviksaker]]></title>
-  <guid>484f936a-ce15-4cf6-9d3b-3e98f033b726</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever en strøm av forespørsler om landssviksaker fra andre verdenskrig. Mange privatpersoner søker mer innsikt i spesifikke tilfeller, noe som viser en vedvarende interesse for å forstå fortiden og dens konsekvenser for enkeltindivider.]]></description>
+  <title><![CDATA[Historiske etterforskninger på fremmarsj]]></title>
+  <guid>3134d3ef-d6a1-4623-b1b0-9fe7620871b8</guid>
+  <pubDate>Wed, 23 Jul 2025 07:00:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok nylig en forespørsel om en historisk sak fra 1838 mot kvekarer i Rogaland. Dette indikerer en økende interesse for lokalhistorie blant privatpersoner, og slike forespørsler kan bidra til ny innsikt i lite kjente historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker innsyn i dødsbo]]></title>
-  <guid>ac26b70e-e933-4f84-914b-64fc0bd81dca</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[Flere offentlige etater har sendt inn forespørsler om innsyn i saker relatert til dødsbo. Disse sakene prioriteres med kort eller standard hastegrad, og det er tydelig at slike forespørsler er nødvendige for å håndtere eiendomsoverdragelser og arvesaker.]]></description>
+  <title><![CDATA[Digitalisering av arkivmateriale]]></title>
+  <guid>cf9a81eb-41cf-44ca-a53f-efe9b4c7dc22</guid>
+  <pubDate>Wed, 23 Jul 2025 07:00:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har startet digitaliseringsprosessen av Flyktnings- og fangedirektoratets materiale. Dette arbeidet, initiert av en profesjonell aktør, vil øke tilgjengeligheten av viktig historisk informasjon for forskere og offentligheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker innsyn i militære rulleblad]]></title>
-  <guid>84a1c245-b3b2-4716-8af7-c0b29fb7b308</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[Det er kommet flere forespørsler fra privatpersoner om innsyn i militære rulleblad fra både første og andre verdenskrig. Disse forespørslene tyder på en interesse for å forstå familiens militære historie og involvering i historiske konflikter.]]></description>
-</item>
-<item>
-  <title><![CDATA[Forskerinteresse for historiske arkiver]]></title>
-  <guid>7cb3910b-630c-4eb2-90ff-a8dbb630868d</guid>
-  <pubDate>Tue, 22 Jul 2025 11:00:56 GMT</pubDate>
-  <description><![CDATA[En forsker har nylig fullført en søknad om innsyn i arkivmateriale relatert til Kjell Aukrust og Mannskapsavisen. Dette markerer en fortsettende interesse fra akademikere for å utforske og belyse historiske norske personligheter og deres virke.]]></description>
+  <title><![CDATA[Pasientjournaler under behandling i SAO]]></title>
+  <guid>57eada13-b1a2-4f98-935e-0653c09d8e9d</guid>
+  <pubDate>Wed, 23 Jul 2025 07:00:27 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt forespørsler om innsyn i pasientjournaler fra privatpersoner. Disse sakene er under behandling, noe som viser pågang for innsyn i helseopplysninger fra tidligere tiår. Dette er en del av en bredere trend med økt etterspørsel etter personlig og medisinsk informasjon.]]></description>
 </item>
 
 
