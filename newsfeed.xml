@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 24 Jul 2025 07:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 11:00:28 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
-  <guid>f5c79ba2-ffff-4a66-9551-e6ad7eee883e</guid>
-  <pubDate>Thu, 24 Jul 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Disse henvendelsene kommer fra privatpersoner og har standard hastegrad. Ingen av forespørslene er fullført ennå, noe som kan indikere en økende interesse for historisk forskning på dette feltet.]]></description>
+  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
+  <guid>bb709529-7fe2-435f-9495-0d73c1ea453f</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvik-saker de siste dagene, inkludert henvendelser om personer født mellom 1876 og 1922. Dette viser en vedvarende interesse for historiske hendelser og rettsoppgjør fra etterkrigstiden.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskerinteresse for historiske arkiver]]></title>
+  <guid>01001818-6a42-4860-a020-cb8674274caf</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har i løpet av uken mottatt flere forespørsler fra forskere og studenter, blant annet om Universitetsrådet og Høgskolerådet, samt om historiske kilder som brev fra senmiddelalderen. Dette understreker arkivets viktige rolle i akademisk forskning.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter fødsels- og dåpsattester]]></title>
-  <guid>88ff03e8-cbdd-4973-894b-3a3d0ef448e9</guid>
-  <pubDate>Thu, 24 Jul 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner angående fødsels- og dåpsattester. Flere av disse sakene er ennå ikke fullført, men interesse for slike dokumenter er merkbar, noe som kan tyde på et behov for dokumentasjon i forbindelse med slektsforskning eller personlig arkivering.]]></description>
+  <guid>fbf016a0-1dae-4fab-b8d6-3d6edaeb1933</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om fødsels- og dåpsattester for personer født mellom 1934 og 1962. Flere av disse sakene er fortsatt under behandling, noe som antyder en økt interesse for personlig dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om regjeringsdokumenter fra 1980]]></title>
-  <guid>d54e6d69-31ec-4956-a87d-89dac1aed8f1</guid>
-  <pubDate>Thu, 24 Jul 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[En forespørsel om innsyn i et regjeringsnotat fra 1980 har blitt mottatt av Riksarkivet. Dette dokumentet etterspørres av en privatperson og har standard hastegrad. Saken er foreløpig ikke fullført, men markerer en interesse for nyere historiske regjeringsdokumenter.]]></description>
+  <title><![CDATA[Rask levering av regjeringsnotat]]></title>
+  <guid>b6fc633b-f25a-4bc2-9941-f3db56c11dde</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[En forespørsel om et regjeringsnotat fra 1980 ble raskt behandlet og fullført av Riksarkivet innen en dag. Dette viser en effektiv håndtering av standard forespørsler og tilgjengeligheten til viktige historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske arkivsøk dominerer]]></title>
-  <guid>a6684a31-2625-4f7c-9778-e97ebd1600cd</guid>
-  <pubDate>Thu, 24 Jul 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet sett en rekke forespørsler om historiske arkivsøk. Etterspørselen strekker seg fra senmiddelalderbrev til kirkelige dokumenter fra 1349. Forespørslene kommer fra forskere og privatpersoner, noe som viser en bred interesse for historiske emner.]]></description>
+  <title><![CDATA[Behov for opplysninger om militærtjeneste]]></title>
+  <guid>e7a96bc2-b948-44c8-96fd-e902a8e8e5f3</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har henvendt seg til Riksarkivet med forespørsler om militære rulleblad. Dette er en indikasjon på en vedvarende interesse for opplysninger om militærtjeneste, både for personlig bruk og historisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk på institusjonsopphold]]></title>
-  <guid>6476c7c8-f36c-4c1f-b589-5072b96fdc44</guid>
-  <pubDate>Thu, 24 Jul 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottok en forespørsel om dokumentasjon knyttet til et opphold på Foldin verneskole i 1955-1956. Saken er fremdeles under behandling, men indikerer en økende interesse for historisk informasjon om institusjonsopphold og relaterte forhold.]]></description>
+  <title><![CDATA[Høringssvar til Justisdepartementet tilgjengelig]]></title>
+  <guid>3d5dc0d1-774b-44b5-b57c-774ef92295a1</guid>
+  <pubDate>Thu, 24 Jul 2025 11:00:28 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har fått tilgang til et høringssvar på NOU fra 1995 i Riksarkivet. Saken ble fullført i løpet av to dager, noe som illustrerer arkivets effektivitet i å levere viktige dokumenter til offentlige etater.]]></description>
 </item>
 
 
