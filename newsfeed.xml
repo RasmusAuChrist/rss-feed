@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 27 Jul 2025 07:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 11:00:29 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssvik-henvendelser]]></title>
-  <guid>2314b14d-2097-44f7-8cda-6a4d6b4af266</guid>
-  <pubDate>Sun, 27 Jul 2025 07:00:56 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt en betydelig økning i forespørsler knyttet til landssviksaker. Flere saker fra perioden rundt andre verdenskrig er under behandling, med forespørsler fra privatpersoner om blant annet Knut Aadal, Torbjørn Torstensen, og Augdun Nordseth.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>90a8aa81-183c-460f-bb16-a8888fed4fdc</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvik-saker denne uken. Mange privatpersoner søker informasjon om familiemedlemmer fra krigstiden. Behandling av slike saker kan ta tid, men interessen for historiske hendelser viser seg å være stabilt høy blant brukerne.]]></description>
 </item>
 <item>
   <title><![CDATA[Effektiv behandling av dåpsattester]]></title>
-  <guid>810f4fc2-7a67-4108-bbbb-c65b0c123bd1</guid>
-  <pubDate>Sun, 27 Jul 2025 07:00:56 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har vist effektiv saksbehandling denne uken, hvor flere forespørsler om dåpsattester, som for Emil Dahlgren Letzing og Geir Løvseth Haugen, ble fullført innen 24 timer. Dette sikrer rask tilgang til essensielle dokumenter for privatpersoner.]]></description>
+  <guid>3bd0aae1-d313-4022-9846-3d74d31f9a27</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet forespørsler om dåpsattester denne uken. En forespørsel om dåpsattest for en person født i 2011 ble fullført på under ett døgn. Dette illustrerer effektiviteten i behandling av slike forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk og kildeveiledning i fokus]]></title>
-  <guid>cf44bdc8-4d4a-4f80-8abd-74f8399ae52f</guid>
-  <pubDate>Sun, 27 Jul 2025 07:00:56 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer flere henvendelser fra forskere og studenter, inkludert arkivundersøkelser relatert til Universitetsrådet og Høgskolerådet, samt kildeveiledning for brev fra senmiddelalderen. Dette understreker arkivets viktige rolle i akademisk forskning.]]></description>
+  <title><![CDATA[Regjeringsnotat fra 1980 behandlet raskt]]></title>
+  <guid>8ce0a89c-b675-44bc-9709-d8f29e12f080</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[En privatperson fikk raskt innsyn i et regjeringsnotat fra 1980 etter å ha sendt forespørsel til Riksarkivet. Behandlingen ble fullført på én dag, noe som viser rask respons på forespørsler om nyere historiske dokumenter.]]></description>
+</item>
+<item>
+  <title><![CDATA[Arkivundersøkelser for forskere]]></title>
+  <guid>6c19273d-fefd-4d02-8e8a-c31b8ec4c3e2</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[En forsker har nylig fått gjennomført en arkivundersøkelse ved Riksarkivet om Universitetsrådet og Høgskolerådet. Saken ble behandlet samme dag, noe som viser Riksarkivets evne til å støtte akademisk forskning med hurtig dokumenttilgang.]]></description>
 </item>
 <item>
   <title><![CDATA[Digitaliseringsprosjekt fullført]]></title>
-  <guid>db30b3a6-fca3-4d27-8f3c-d9b00106cd30</guid>
-  <pubDate>Sun, 27 Jul 2025 07:00:56 GMT</pubDate>
-  <description><![CDATA[Et digitaliseringsprosjekt ved Riksarkivet, omhandlende Flyktnings- og fangedirektoratet, er nå fullført. Dette forbedrer tilgjengeligheten til historiske dokumenter og er en viktig ressurs for forskere og andre profesjonelle aktører.]]></description>
+  <guid>50656551-6081-4f00-803b-f9097f431921</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[Digitaliseringen av arkivet fra Flyktnings- og fangedirektoratet er nå fullført. Prosjektet, utført av Riksarkivet, letter tilgangen til viktig historisk materiale og viser fremdriften i digitaliseringsarbeidet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om dødsfall og skiftebehandling]]></title>
-  <guid>aad1bc26-f520-4238-8ff2-e76388008d1c</guid>
-  <pubDate>Sun, 27 Jul 2025 07:00:56 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall og skiftebehandling, blant annet for Eivind Magnus Engebretsen og Julius Anderssen. Behandlingstiden varierer, men enkelte saker blir raskt fullført, som den for Inger Synnøve Nilsson.]]></description>
+  <title><![CDATA[Dødsfall/skifte-sak i Bærum avsluttet]]></title>
+  <guid>7ce645d3-97a3-4646-8303-a75c130fdbe7</guid>
+  <pubDate>Sun, 27 Jul 2025 11:00:29 GMT</pubDate>
+  <description><![CDATA[En sak om dødsfall og skifte for en person fra Bærum ble nylig avsluttet av Statsarkivet i Oslo. Dette var en forespørsel fra en offentlig etat med høyere hastegrad, som ble behandlet innen kort tid, noe som viser effektiviteten i arkivets saksbehandling.]]></description>
 </item>
 
 
