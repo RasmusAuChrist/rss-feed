@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 05 Aug 2025 07:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 11:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Stor pågang av forespørsler om landssvikarkiv]]></title>
-  <guid>50217751-e706-4fad-81fe-88f4539730e7</guid>
-  <pubDate>Tue, 05 Aug 2025 07:00:55 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet opplevd en betydelig økning i forespørsler om tilgang til landssvikarkivet. Forespørslene har kommet fra både privatpersoner og pressen, med varierende hastegrad. Dette indikerer økt interesse for historisk forskning og personlig slektsforskning relatert til landssvikoppgjøret etter andre verdenskrig.]]></description>
+  <title><![CDATA[Stor etterspørsel etter landssvik-arkiver]]></title>
+  <guid>dd5bac8d-abf8-481e-b531-2fe2d7d8a7c6</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om tilgang til landssvik-arkiver den siste uken. Brukergruppen består hovedsakelig av privatpersoner med standard hastegrad. Ingen av forespørslene er fullført, noe som indikerer økende interesse for denne typen historisk materiale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>11cd6553-9a9a-48ae-b19f-a35748874e11</guid>
-  <pubDate>Tue, 05 Aug 2025 07:00:55 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om militære rulleblad den siste uken. Dette inkluderer forespørsler om både tjenestehistorikk og helsemapper. Behandlingstiden er foreløpig ukjent, men forespørslene prioriteres etter standard hastegrad.]]></description>
+  <title><![CDATA[Rask behandling av dåpsattester]]></title>
+  <guid>6451d999-56ee-4fc6-a371-cf3f80a61deb</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet flere forespørsler om dåpsattester. To saker ble fullført samme dag som de ble opprettet, mens andre tok opptil tre dager. Dette viser effektiviteten i behandlingen av slike forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om fødsels- og dåpsattester]]></title>
-  <guid>4de71276-0335-41f4-9b5b-df6b46f979f0</guid>
-  <pubDate>Tue, 05 Aug 2025 07:00:55 GMT</pubDate>
-  <description><![CDATA[Oslo statsarkiv har den siste uken mottatt flere forespørsler om fødsels- og dåpsattester fra privatpersoner. Flere av disse sakene er allerede behandlet og fullført, noe som viser effektiv saksbehandling ved arkivet.]]></description>
+  <title><![CDATA[Forespørsel om arkivsøk for ammunisjonsdumping]]></title>
+  <guid>71a9abbf-0821-4ef3-88b2-fc351c7db078</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Det er innsendt en forespørsel til Riksarkivet angående dumping av ammunisjon utenfor norskekysten. Forespørselen kommer fra en offentlig etat, og har standard hastegrad. Dette kan tyde på økt interesse for miljøhistoriske spørsmål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for slektsforskning]]></title>
-  <guid>41566265-b659-4134-88c1-022b56b140b2</guid>
-  <pubDate>Tue, 05 Aug 2025 07:00:55 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har sett en økning i forespørsler relatert til slektsforskning. Brukere etterspør informasjon fra gamle skattelister, vigselsattester og familierelaterte dokumenter. Mange av disse forespørslene har lav hastegrad, men gir viktig innsikt for brukerne.]]></description>
+  <title><![CDATA[Høy pågang av forespørsler om militære rulleblad]]></title>
+  <guid>4fc546c5-48d0-43d6-b7ea-0750e65ceb1d</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om tilgang til militære rulleblad. Hastegraden for disse forespørslene er stort sett standard, og ingen er fullført ennå. Dette kan indikere en økende interesse for militærhistorie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behov for dokumentasjon av dødsfall og dødsårsaker]]></title>
-  <guid>8f1e2921-c645-45ad-ac53-58359dd60544</guid>
-  <pubDate>Tue, 05 Aug 2025 07:00:55 GMT</pubDate>
-  <description><![CDATA[Det har vært flere forespørsler om dokumentasjon av dødsfall og dødsårsaker, spesielt fra privatpersoner som ønsker å få innsikt i slektninger som gikk bort i tidligere tiår. Riksarkivets behandling av disse forespørslene skjer med lav hastighet, men det er en viktig del av slektsforskningen for mange.]]></description>
+  <title><![CDATA[Rask behandling av forespørsel om opphold i institusjon]]></title>
+  <guid>75266203-1dfa-4e92-b1db-9dd200674cef</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel om opphold ved Holmlia barnehjem ble raskt behandlet av Statsarkivet i Oslo. Saken ble fullført innen fire dager, noe som viser effektivitet i behandlingen av slike henvendelser.]]></description>
+</item>
+<item>
+  <title><![CDATA[Økt etterspørsel etter slektsforskning]]></title>
+  <guid>080ccb56-07cf-4773-beca-03819c7d62ca</guid>
+  <pubDate>Tue, 05 Aug 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om slektsforskning. Disse sakene har lav hastegrad, og det er foreløpig ingen fullførte forespørsler. Dette kan indikere en vedvarende interesse for slektsforskning blant brukerne.]]></description>
 </item>
 
 
