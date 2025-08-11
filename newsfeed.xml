@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 10 Aug 2025 11:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 07:01:27 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,33 +12,39 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Økende interesse for landssviksaker]]></title>
-  <guid>d76bacc1-257e-4c4f-a089-ad2e5beab97e</guid>
-  <pubDate>Sun, 10 Aug 2025 11:00:52 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt flere henvendelser om landssviksaker. Henvendelsene kommer fra privatpersoner som ønsker innsyn i spesifikke saker. Dette indikerer en vedvarende interesse for krigshistorie og de juridiske oppgjørene etter andre verdenskrig.]]></description>
+  <guid>be7c08de-f8eb-4f2f-a4f4-ea7538f349cc</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en betydelig mengde forespørsler om innsyn i landssviksaker den siste uken. Forespørslene kommer fra privatpersoner og dekker personer født mellom 1871 og 1980. Dette viser en vedvarende interesse for historiske opplysninger fra andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekt for Energidepartementet fullført]]></title>
-  <guid>938250db-5709-44b2-8901-5e86aa66a4d3</guid>
-  <pubDate>Sun, 10 Aug 2025 11:00:52 GMT</pubDate>
-  <description><![CDATA[Et digitaliseringsprosjekt for OED II 1997-2023 er nå fullført i Riksarkivet. Prosjektet er klassifisert som hastesak og retter seg mot offentlige etater, noe som viser viktigheten av digital tilgang til historiske dokumenter for offentlig forvaltning.]]></description>
+  <title><![CDATA[Etterspørsel etter dødsfall- og skiftedokumenter]]></title>
+  <guid>1509c7c9-4e2e-48ff-be07-6e1738939cc2</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om dødsfall- og skifteopplysninger. Privatpersoner søker informasjon om slektninger, med saker som spenner fra 1915 til 1992. Behovet for slike dokumenter er fortsatt høyt blant brukere som forsker på slektshistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om dødsfall og skifte]]></title>
-  <guid>40402c52-d70d-450c-b607-b47826692386</guid>
-  <pubDate>Sun, 10 Aug 2025 11:00:52 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har denne uken mottatt flere forespørsler om dødsfall og skifte fra privatpersoner. Dette viser en økt interesse for slektsforskning og familiedokumentasjon, spesielt i saker som strekker seg flere tiår tilbake.]]></description>
+  <title><![CDATA[Historisk interesse fra offentlig sektor]]></title>
+  <guid>22d28d9c-a500-4e82-9f20-b8cbbbbe01a7</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[Det har vært flere henvendelser fra offentlige etater som søker innsyn i historiske dokumenter, inkludert Bergenstraktaten fra 1450 og dumping av ammunisjon utenfor norskekysten. Dette reflekterer en vedvarende interesse for historisk forskning fra offentlig sektor.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk arkivsøk på Bergenstraktaten]]></title>
-  <guid>a499df79-0378-4f6d-9b2a-0e6668f6e327</guid>
-  <pubDate>Sun, 10 Aug 2025 11:00:52 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk på Bergenstraktaten fra 1450 er innkommet til Riksarkivet. Saken, som er av standard hastegrad, reflekterer en vedvarende interesse for Norges historiske avtaler og deres innvirkning på landets utvikling.]]></description>
+  <title><![CDATA[Digitaliseringsprosjekt fullført]]></title>
+  <guid>d131369d-853f-42c9-8135-9ac068588495</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fullført digitaliseringen av dokumenter fra OED II 1997-2023 for Energidepartementet. Prosjektet, som hadde høy prioritet, ble raskt gjennomført og vil lette tilgangen til viktige energidokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseinteresse for straffesaker fra 1970-tallet]]></title>
-  <guid>9346c0ac-27f5-4b87-9a58-2f0f4925ba30</guid>
-  <pubDate>Sun, 10 Aug 2025 11:00:52 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra pressen om innsyn i en straffesak fra 1970-tallet har blitt registrert ved Statsarkivet i Oslo. Dette illustrerer medienes kontinuerlige interesse for historiske saker og deres samfunnsmessige betydning.]]></description>
+  <title><![CDATA[Presse søker innsyn i straffesaker]]></title>
+  <guid>55a07e5a-aef1-49b8-bd47-1a2b4b916ea6</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[En forespørsel om innsyn i en straffesak fra 1970-tallet viser pressens interesse i historiske rettsdokumenter. Statsarkivet i Oslo håndterer forespørselen, som kan bidra til større offentlig innsikt i historiske straffesaker.]]></description>
+</item>
+<item>
+  <title><![CDATA[Økende forespørsel om militære dokumenter]]></title>
+  <guid>0c8a400a-9dce-4869-872f-aa53f62bcd98</guid>
+  <pubDate>Mon, 11 Aug 2025 07:01:27 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militært rulleblad og tjenesteuttalelser, både for privatpersoner og deres slektninger. Dokumentene dekker perioder fra tidlig 1900-tall til 1970-tallet, og viser en økt interesse for militærhistorikk.]]></description>
 </item>
 
 
