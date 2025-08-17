@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 16 Aug 2025 11:01:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 07:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy interesse for landssvik-saker]]></title>
-  <guid>de624069-8e9f-4ea2-a356-5596f1e4ee40</guid>
-  <pubDate>Sat, 16 Aug 2025 11:01:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en betydelig mengde forespørsler om landssvik-saker. Flere slike saker er blitt behandlet den siste uken, med mange avsluttet innen kort tid. Brukergruppen består hovedsakelig av privatpersoner, men også noen forskere og presseorganisasjoner viser interesse for disse historiske dokumentene.]]></description>
+  <title><![CDATA[Økt etterspørsel etter militære rulleblader]]></title>
+  <guid>d5347e59-232c-4e18-b74d-789ef45ef98c</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Det er en merkbar økning i henvendelser om militære rulleblader i Riksarkivet. Flere privatpersoner har nylig søkt om tilgang til slike dokumenter fra ulike tidsepoker, noe som kan tyde på økt interesse for militærhistorie eller slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>1bc76122-f376-421b-b066-337eb4143e58</guid>
-  <pubDate>Sat, 16 Aug 2025 11:01:01 GMT</pubDate>
-  <description><![CDATA[Det er en økende etterspørsel etter militære rulleblad i Riksarkivet. Flere privatpersoner har sendt inn forespørsler om tilgang til egne eller slektningers militære rulleblad og helsemapper. Behandlingstiden varierer, og mange saker er fortsatt under behandling.]]></description>
+  <title><![CDATA[Landssviksaker i fokus]]></title>
+  <guid>54eea91f-d67f-4aef-88a9-2999c6714b87</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssviksaker fra privatpersoner. Flere av disse er allerede ferdigbehandlet, noe som viser en effektiv saksbehandling. Dette kan reflektere en vedvarende interesse for Norges krigshistorie og dens ettervirkninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler fra forskere]]></title>
-  <guid>22436858-9804-49c6-99ea-3e4d0448c2d2</guid>
-  <pubDate>Sat, 16 Aug 2025 11:01:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler fra forskere som søker innsikt i historiske arkiver. Eksempler inkluderer etterspørsel etter dokumenter om 2. verdenskrig og jordmorskoler fra tidlig 1900-tall. Dette viser at arkivene fortsatt er en verdifull ressurs for akademisk forskning.]]></description>
+  <title><![CDATA[Etterspørsel etter dåpsattester i Oslo]]></title>
+  <guid>c9e89839-b2d3-4cea-b99c-64ba8ef25b12</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner vedrørende dåpsattester. Dette indikerer en fortsatt interesse for slektsforskning og personlig dokumentasjon blant innbyggerne.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økte forespørsler om dåpsattester i Oslo]]></title>
-  <guid>1f76d2ad-5455-45c9-a0f9-7f06c0309aa5</guid>
-  <pubDate>Sat, 16 Aug 2025 11:01:01 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dåpsattester for personer født i Oslo. Dette inkluderer både nyere og eldre dåpsattester. Behandlingstiden er standard, men etterspørselen viser viktigheten av disse dokumentene for privatpersoner.]]></description>
+  <title><![CDATA[Forskerinnsyn i historiske dokumenter]]></title>
+  <guid>1463231f-29e3-411e-97e1-150e5fc9e2d8</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har sett en økning i forespørsler fra forskere og studenter som ønsker innsyn i historiske dokumenter. Spesielt er det interesse for temaer som krigshistorie og diplomatiske konferanser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseinteresse for historiske straffesaker]]></title>
-  <guid>059e2692-9db7-49f9-adf9-3476cfaa3887</guid>
-  <pubDate>Sat, 16 Aug 2025 11:01:01 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo opplever interesse fra presseorganisasjoner for innsyn i historiske straffesaker. Dette inkluderer saker fra både midten av 1900-tallet og nyere tid. Det viser pressens ønske om å belyse historiske hendelser gjennom tilgjengelige arkiver.]]></description>
+  <title><![CDATA[Arkivsøk etter eiendomsinformasjon]]></title>
+  <guid>815684d7-f760-45fa-97b7-5d0b41779fc2</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig bedt om innsyn i eiendomsrelaterte dokumenter, både i Oslo og Hammerfest. Dette kan tyde på en økende interesse for lokalhistorie eller behov for dokumentasjon i forbindelse med eiendomssaker.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlige etater søker historisk dokumentasjon]]></title>
+  <guid>aa7e8dbb-5f06-45e2-9f6b-58d10120338b</guid>
+  <pubDate>Sun, 17 Aug 2025 07:01:09 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn forespørsler til Riksarkivet for tilgang til historisk dokumentasjon, blant annet relatert til tamreindrift og rettsmedisinske arkiver. Dette understreker viktigheten av arkivene som kilde til offentlige beslutningsprosesser.]]></description>
 </item>
 
 
