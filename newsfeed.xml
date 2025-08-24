@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 24 Aug 2025 07:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 11:00:26 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssviksaker]]></title>
-  <guid>f2bf6033-5d5a-4b46-a5d3-830869426b51</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om landssviksaker den siste uken. Flere privatpersoner har bedt om innsyn i dokumenter knyttet til ulike personer, med saker som fortsatt er under behandling. Dette markerer en økende interesse for historiske rettssaker relatert til landssvik etter andre verdenskrig.]]></description>
+  <title><![CDATA[Økning i landssvikrelaterte forespørsler]]></title>
+  <guid>1fe3ca0d-8699-402b-80a2-4a6dba888528</guid>
+  <pubDate>Sun, 24 Aug 2025 11:00:26 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Privatpersoner har henvendt seg for informasjon om saker fra tidlig 1900-tall, noe som vitner om en vedvarende interesse for historiske rettsprosesser i Norge. Ingen av sakene er fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dødsfall- og skiftesaker]]></title>
-  <guid>0ea5dd16-d5cf-459b-b80c-742a06cac4bc</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler angående dødsfall- og skiftesaker, med noen saker allerede avsluttet. Søkere inkluderer både privatpersoner og profesjonelle aktører. Dette understreker arkivets viktige rolle i å gi innsikt i historiske familieforhold og arverett.]]></description>
+  <title><![CDATA[Etterspørsel etter dødsfall- og skiftesaker i Oslo]]></title>
+  <guid>3083d4de-f45d-4cc5-91c8-76c2c435f1d6</guid>
+  <pubDate>Sun, 24 Aug 2025 11:00:26 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig behandlet flere forespørsler om dødsfall og skifte, med saker som strekker seg fra 1960- til 1980-tallet. Dette inkluderer både henvendelser fra privatpersoner og profesjonelle aktører. Behandlingen av slike saker ser ut til å være en kontinuerlig oppgave for arkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn på krigspensjonsregisteret]]></title>
-  <guid>5a0076c1-5ae5-41e1-bf0b-0bdc239148f0</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt forespørsel fra en forsker om innsyn i krigspensjonsregisteret. Saken, som fortsatt er under behandling, viser til en akademisk interesse for å studere krigspensjoner og deres historiske betydning.]]></description>
+  <title><![CDATA[Riksarkivet bistår med digitaliseringsprosjekter]]></title>
+  <guid>c42e0f6f-2ef0-4b98-af22-08d5370ac244</guid>
+  <pubDate>Sun, 24 Aug 2025 11:00:26 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med digitalisering av arkivmateriale fra Statistisk sentralbyrå i samarbeid med andre profesjonelle aktører. Dette er en del av et pågående prosjekt for å gjøre historiske data mer tilgjengelig for forskere og offentligheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandlet forespørsel om kopibestilling til utstilling]]></title>
-  <guid>a9bdc7fa-eeab-40c9-b230-fb57cff0de6e</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet fullførte nylig en kopibestilling av lensregnskap fra 1650. Bestillingen var ment for en utstilling, og understreker arkivets betydning for å bevare og tilgjengeliggjøre historisk materiale for offentlige arrangementer.]]></description>
+  <title><![CDATA[Tilgang til historiske helsearkiver etterspurt]]></title>
+  <guid>5bd6ef31-46b1-4e96-982e-ee61d6af2d32</guid>
+  <pubDate>Sun, 24 Aug 2025 11:00:26 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel fra en offentlig etat om tilgang til et historisk arkiv fra Helse- og omsorgsdepartementet. Saken er fortsatt under behandling, og reflekterer behovet for innsyn i eldre helsearkiver for eventuell forskning eller administrativ bruk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt aktivitet rundt eiendomssaker]]></title>
-  <guid>b3ea560d-3fbd-4aea-81ad-65e992f9ba0e</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo opplever økt aktivitet rundt eiendomssaker. Forespørslene, som inkluderer både private og offentlige aktører, signaliserer et behov for tilgang til historiske eiendomsdokumenter for ulike juridiske og personlige formål.]]></description>
-</item>
-<item>
-  <title><![CDATA[Helse- og omsorgsdepartementet søker tilgang til eget arkiv]]></title>
-  <guid>a95dba70-122d-4cd8-8654-2e0650616d3f</guid>
-  <pubDate>Sun, 24 Aug 2025 07:00:30 GMT</pubDate>
-  <description><![CDATA[Helse- og omsorgsdepartementet har bedt om tilgang til historisk arkivmateriale i Riksarkivet. Saken er under behandling og viser til viktigheten av arkivene som ressurs for offentlig forvaltning i å forstå og analysere tidligere beslutninger og praksiser.]]></description>
+  <title><![CDATA[Økende interesse for arkivsøk i forbindelse med maritim historie]]></title>
+  <guid>5a696bd3-2e4f-4bba-b730-c35e112c3a87</guid>
+  <pubDate>Sun, 24 Aug 2025 11:00:26 GMT</pubDate>
+  <description><![CDATA[En forespørsel angående fartøy som Drivgar og Frøyholm viser en økende interesse for maritim historie. Riksarkivet håndterer slike forespørsler for å støtte forskning og bevaring av nasjonal maritim historie. Saken er foreløpig under behandling.]]></description>
 </item>
 
 
