@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 27 Aug 2025 07:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 11:01:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
-  <guid>81b61a65-afc5-4db7-a5f3-1339a839bb8d</guid>
-  <pubDate>Wed, 27 Aug 2025 07:01:45 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i landssvik-saker den siste uken. Mange av disse sakene er fortsatt under behandling, noe som viser en vedvarende interesse for temaet blant privatpersoner.]]></description>
+  <title><![CDATA[Rask behandling av landssviksaker]]></title>
+  <guid>cf8f7e28-5b80-42c0-9913-014addf9229d</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig fullført flere landssviksaker, inkludert forespørsler om Olaug Henden Nakken og Anton Mahlum. Saksbehandlingstiden er effektiv, med flere saker fullført innen en dag. Flere landssviksaker venter fremdeles på behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Effektiv behandling av skattelistehenvendelser]]></title>
-  <guid>816fba95-88f9-4712-b4b4-a997546cfe75</guid>
-  <pubDate>Wed, 27 Aug 2025 07:01:45 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om skattelister fra 1980- og 1990-tallet. De fleste av disse sakene har blitt håndtert raskt og er allerede fullført, noe som tyder på en effektiv saksbehandling.]]></description>
+  <title><![CDATA[Etterspørsel etter skattelister i Oslo]]></title>
+  <guid>e2327901-d5a5-43c5-963d-1577a2362078</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om tilgang til historiske skattelister, inkludert for personer fra 1980-tallet. De fleste forespørslene har blitt behandlet raskt, men noen er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Høy prioritet for historiske dokumenter]]></title>
-  <guid>7a9dc1f7-0ff8-4423-8a8d-87ec2b34a938</guid>
-  <pubDate>Wed, 27 Aug 2025 07:01:45 GMT</pubDate>
-  <description><![CDATA[En forespørsel om Høyfjellskommisjonens kjennelse fra 1947 ble behandlet med kritisk hastegrad og fullført raskt av Riksarkivet. Dette viser arkivets prioritering av viktige historiske dokumenter.]]></description>
+  <title><![CDATA[Interesse for historiske eiendomssaker]]></title>
+  <guid>096ad4cc-8f04-40b8-b85e-55227d3d45ce</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Det har vært flere henvendelser til Statsarkivet i Oslo om eiendomssaker, blant annet for Oslo og Bærum. Behandlingstiden varierer, men en del av sakene har blitt raskt fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivsøk]]></title>
-  <guid>60d5cfd2-d544-43c6-812d-77d56beb1140</guid>
-  <pubDate>Wed, 27 Aug 2025 07:01:45 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler fra offentlige etater, spesielt knyttet til innføring av bygningsloven i Ski herred. Disse sakene er av standard hastegrad og er fortsatt under behandling.]]></description>
+  <title><![CDATA[Behov for tilgang til historiske dokumenter]]></title>
+  <guid>8e279420-dce6-47f6-a731-832ca593b04f</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere forespørsler om tilgang til historiske dokumenter, inkludert NOU-bakgrunnsdokumenter og materiale fra krigspensjonsregisteret. Flere av disse sakene er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoners interesse for slektsforskning]]></title>
-  <guid>02a58764-e400-4770-8ceb-0377f3ee2d91</guid>
-  <pubDate>Wed, 27 Aug 2025 07:01:45 GMT</pubDate>
-  <description><![CDATA[En rekke forespørsler om slektsforskning, inkludert dødsårsaker og personmapper fra 2. verdenskrig, har blitt mottatt av Riksarkivet. Dette understreker en vedvarende interesse for slektshistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Forespørsler om vigsels- og dåpsattester]]></title>
+  <guid>1d10eee7-c582-4e2a-b069-d14deea20244</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om vigsels- og dåpsattester. De fleste forespørslene har blitt fullført raskt, men noen venter fortsatt på behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Digitaliseringsprosjekter i Riksarkivet]]></title>
+  <guid>b1beeed1-4459-4001-b036-eb4d85ab6ef6</guid>
+  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet arbeider med flere digitaliseringsprosjekter, inkludert dokumentasjon om NSB Gardermobanen og statistikk fra Statistisk sentralbyrå. Flere forespørsler fra profesjonelle aktører venter på fullføring.]]></description>
 </item>
 
 
