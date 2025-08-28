@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 27 Aug 2025 11:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 07:01:03 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av landssviksaker]]></title>
-  <guid>cf8f7e28-5b80-42c0-9913-014addf9229d</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig fullført flere landssviksaker, inkludert forespørsler om Olaug Henden Nakken og Anton Mahlum. Saksbehandlingstiden er effektiv, med flere saker fullført innen en dag. Flere landssviksaker venter fremdeles på behandling.]]></description>
+  <title><![CDATA[Stor pågang av landssvik-saker]]></title>
+  <guid>faa447e9-fe68-43d1-97d8-2b2668ec2d2c</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[Denne uken har Riksarkivet mottatt en betydelig mengde forespørsler om landssvik-saker, med en rekke henvendelser fra privatpersoner. Dette viser en fortsatt interesse for etterkrigstidens oppgjør. Flere av disse sakene er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter skattelister i Oslo]]></title>
-  <guid>e2327901-d5a5-43c5-963d-1577a2362078</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om tilgang til historiske skattelister, inkludert for personer fra 1980-tallet. De fleste forespørslene har blitt behandlet raskt, men noen er fortsatt under behandling.]]></description>
+  <title><![CDATA[Forskerinteresse for Edvard Munch]]></title>
+  <guid>6b47fb5d-44ef-47d1-9d90-ddd9bf74e455</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[En forsker har sendt inn forespørsel om arkivsøk relatert til Edvard Munch og Freia-frisen. Dette markerer fortsatt akademisk interesse for den kjente norske kunstnerens arbeid. Forespørselen er under behandling ved Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske eiendomssaker]]></title>
-  <guid>096ad4cc-8f04-40b8-b85e-55227d3d45ce</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Det har vært flere henvendelser til Statsarkivet i Oslo om eiendomssaker, blant annet for Oslo og Bærum. Behandlingstiden varierer, men en del av sakene har blitt raskt fullført.]]></description>
+  <title><![CDATA[Økt forespørsel om dødsfall og skifte]]></title>
+  <guid>36abef71-0604-4e7f-a718-3c300513a3bf</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[Det har vært en økning i forespørsler om dødsfall og skiftesaker, spesielt fra offentlig etater. Flere saker i Oslo og Bærum er registrert, med varierende hastegrad. Dette kan indikere et større behov for juridisk avklaring.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behov for tilgang til historiske dokumenter]]></title>
-  <guid>8e279420-dce6-47f6-a731-832ca593b04f</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler om tilgang til historiske dokumenter, inkludert NOU-bakgrunnsdokumenter og materiale fra krigspensjonsregisteret. Flere av disse sakene er fortsatt under behandling.]]></description>
+  <title><![CDATA[Lav interesse for militære rulleblad]]></title>
+  <guid>bc8dab48-87b5-4c22-9f61-84467dc7d668</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad med lav hastegrad. Dette indikerer en jevn interesse for militærhistoriske opplysninger, men uten akutte tidsfrister. Sakene er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om vigsels- og dåpsattester]]></title>
-  <guid>1d10eee7-c582-4e2a-b069-d14deea20244</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om vigsels- og dåpsattester. De fleste forespørslene har blitt fullført raskt, men noen venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Etterspørsel etter erstatning fra andre verdenskrig]]></title>
+  <guid>20056fbd-4eb8-4d27-ba42-e0a764d45854</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om erstatning etter andre verdenskrig. Sakene har lav hastegrad og viser en vedvarende interesse for økonomisk oppreisning til krigsofre.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekter i Riksarkivet]]></title>
-  <guid>b1beeed1-4459-4001-b036-eb4d85ab6ef6</guid>
-  <pubDate>Wed, 27 Aug 2025 11:01:20 GMT</pubDate>
-  <description><![CDATA[Riksarkivet arbeider med flere digitaliseringsprosjekter, inkludert dokumentasjon om NSB Gardermobanen og statistikk fra Statistisk sentralbyrå. Flere forespørsler fra profesjonelle aktører venter på fullføring.]]></description>
+  <title><![CDATA[Offentlig etat søker statsborgerskapsinformasjon]]></title>
+  <guid>1d767a88-6b74-47d6-b792-00a657299086</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har sendt inn en forespørsel om statsborgerskap for en person født i 1987. Dette viser at Riksarkivet fortsatt er en viktig kilde for offisielle dokumenter og informasjon om statsborgerskapshistorie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>eb0e61e5-97d4-43ea-a630-308b762ada7b</guid>
+  <pubDate>Thu, 28 Aug 2025 07:01:03 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
