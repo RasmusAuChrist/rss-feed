@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 31 Aug 2025 11:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 07:00:44 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>e51773e5-37ee-4242-939d-5a15ac5f34cd</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever for tiden en økning i forespørsler om landssviksaker fra privatpersoner. Flere henvendelser er under behandling, noe som reflekterer en vedvarende interesse for krigstidens historie og oppgjør i Norge.]]></description>
+  <title><![CDATA[Økning i landssviksaker]]></title>
+  <guid>cd29f6ac-f6e4-4199-8459-f56f87fa973b</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler vedrørende landssviksaker den siste uken. Mange av disse er fra privatpersoner som søker informasjon om familiemedlemmer. Dette viser en vedvarende interesse for etterkrigsoppgjøret i Norge. Hastegraden for de fleste sakene er standard, og få saker er fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Faglig innsyn i krigsarkiver]]></title>
-  <guid>2b505ddb-fdae-4cf9-9eae-f6f094111b54</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har bedt om digital tilgang til Organisation Todts arkiv i Riksarkivet. Dette understreker viktigheten av krigsrelaterte dokumenter for forskning og historisk innsikt.]]></description>
+  <title><![CDATA[Forespørsler om slektsforskning]]></title>
+  <guid>40a3c865-72af-43f4-a886-9a074bb652ae</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt en rekke forespørsler knyttet til slektsforskning, inkludert spørsmål om dødsårsaker og familiebakgrunn. Disse sakene har lav til standard hastegrad. Det ser ut til å være en økt interesse for personlig historie og arv blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av dåpsattest]]></title>
-  <guid>5cc9ce29-6a6a-41b4-af14-1593ec4dfc96</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo fullførte en forespørsel om en dåpsattest på under ett døgn. Dette viser effektiv saksbehandling og rask respons til privatpersoners forespørsler.]]></description>
+  <title><![CDATA[Faglig innsyn i historiske arkiver]]></title>
+  <guid>30fdc3ad-fd21-48e4-819f-5b8221407b6a</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt henvendelser om faglig innsyn fra både forskere og offentlige etater. Blant annet er det forespørsel om digital tilgang til Organisation Todts arkiv. Dette understreker viktigheten av arkivene som ressurs for akademisk og profesjonell forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om dødsfall og skifte]]></title>
-  <guid>5112ea8f-00cd-4f56-8fb5-b0c547c7f227</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottar flere henvendelser om dødsfall og skifte. Dette inkluderer forespørsler fra både privatpersoner og offentlige etater, noe som indikerer et bredt behov for slik informasjon.]]></description>
+  <title><![CDATA[Rask behandling av dåpsattester]]></title>
+  <guid>5aa8ce91-827b-46a4-a0a3-b858c1de88df</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet forespørsler om dåpsattester raskt. En sak om dåpsattest for en person fra Gressvik ble fullført innen en dag. Denne effektiviteten fremhever arkivets forpliktelse til rask saksbehandling for privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseforespørsel om adopsjoner fra Sør-Korea]]></title>
-  <guid>30f7ae1d-9032-4cce-a0d0-f7aa1aa5bc08</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått en forespørsel fra presse om innsyn i adopsjoner fra Sør-Korea. Dette kan tyde på en økt medieinteresse for adopsjonssaker og deres historiske kontekst i Norge.]]></description>
+  <title><![CDATA[Interesse for krigstidens historie]]></title>
+  <guid>ce23a5ab-c3ae-43e5-8cc1-3a692d4920fa</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Flere henvendelser til Riksarkivet dreier seg om krigstiden, inkludert fartstid under krigen og forespørsler om krigsfanger. Dette viser en vedvarende interesse for Norges krigshistorie, med forespørsler fra privatpersoner som ønsker å utforske familiens fortid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning på kvinnelig arbeidstjeneste]]></title>
-  <guid>53389b2e-2b25-4342-b941-ee968867013f</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[En forsker har fått innsyn i arkiver relatert til den kvinnelige arbeidstjenesten. Dette belyser en interesse for kvinnens rolle under krigen og kan bidra til økt forståelse av historiske kjønnsroller.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>51a91866-aecb-426f-a9ca-cd4442c7169a</guid>
-  <pubDate>Sun, 31 Aug 2025 11:00:43 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Historiske eiendomssaker i Oslo]]></title>
+  <guid>7c5582bb-e471-4c10-b1f8-a693fe8a09f7</guid>
+  <pubDate>Mon, 01 Sep 2025 07:00:44 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar forespørsler om historiske eiendomssaker, inkludert branntakster og gnr/bnr-oppslag. Dette indikerer en pågående interesse blant privatpersoner for historisk eiendomsinformasjon, noe som kan være relevant for juridiske og personlige formål.]]></description>
 </item>
 
 
