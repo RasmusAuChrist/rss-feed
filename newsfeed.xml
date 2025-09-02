@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 02 Sep 2025 07:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:01:00 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>06c0284a-b7f9-4b8d-8b0a-e16704c90ccb</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en betydelig mengde forespørsler om landssviksaker. Flere privatpersoner har nylig søkt informasjon om slike saker, med standard hastegrad. Dette indikerer en vedvarende interesse for historiske rettsoppgjør etter andre verdenskrig.]]></description>
+  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
+  <guid>af854653-55e0-47ec-8893-25139c38f490</guid>
+  <pubDate>Tue, 02 Sep 2025 11:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler om innsyn i landssvik-saker den siste uken. Søknader fra privatpersoner dominerer, og flere saker er allerede fullført. Dette indikerer en økende interesse for historiske hendelser fra andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om Hotel Union Øyes historie]]></title>
-  <guid>d1ed7f38-1cb4-4590-95e4-8b9d2c24347e</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[En privatperson har bedt om faglig innsyn i dokumentasjon knyttet til bygningen Hotel Union Øye. Søknaden er under behandling hos Riksarkivet med standard hastegrad. Dette kan bidra til å kaste lys over historiske aspekter ved hotellet.]]></description>
+  <title><![CDATA[Eiendomsforespørsler behandlet raskt]]></title>
+  <guid>e81b2011-7d61-480e-afd9-f5b21d805e87</guid>
+  <pubDate>Tue, 02 Sep 2025 11:01:00 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet en forespørsel om eiendom i Ullensvang, fullført på under ett døgn. Dette viser effektivitet i behandlingen av eiendomssaker, noe som er positivt for profesjonelle aktører som benytter seg av arkivtjenester.]]></description>
 </item>
 <item>
-  <title><![CDATA[Innsyn i fangehistorier fra Akershus]]></title>
-  <guid>15eb119f-159f-4485-b5df-41db74ea40b8</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[En privatperson har søkt om innsyn i arkiver relatert til en fange ved Akershus straffeanstalt. Saken behandles av Statsarkivet i Oslo, med standard prioritering. Dette viser en interesse for å forstå fengselshistorien i Oslo.]]></description>
+  <title><![CDATA[Faglig innsyn i historiske dokumenter]]></title>
+  <guid>a22dd272-e538-4ba3-be02-e67a915dd3d2</guid>
+  <pubDate>Tue, 02 Sep 2025 11:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om faglig innsyn i historiske dokumenter, inkludert en biografi om en kjent historisk figur og tilgang til Organisation Todts arkiv. Dette viser en vedvarende interesse fra privatpersoner og profesjonelle aktører i historieforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter gamle rundskriv]]></title>
-  <guid>2e1b1974-ea42-4a8e-8e1c-21a34f74a1ff</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[En forespørsel om innsyn i Samferdselsdepartementets rundskriv nr. S 26 Jur er mottatt av Riksarkivet. Privatpersoner søker ofte slik informasjon for å forstå tidligere reguleringer og deres innvirkning.]]></description>
+  <title><![CDATA[Forskerinnsyn i kvinnelig arbeidstjeneste]]></title>
+  <guid>ac679790-caa0-47ba-a478-e05e6abaa346</guid>
+  <pubDate>Tue, 02 Sep 2025 11:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fullført en forskningsforespørsel om den kvinnelige arbeidstjenesten. Innsatsen fra forskere og studenter er viktig for å belyse ukjente sider av norsk historie, og Riksarkivet tilrettelegger for akademisk arbeid med slike henvendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Navneendringssøknaden fra 1983 behandlet]]></title>
-  <guid>659b78c4-3e53-4242-9108-9a9f767ea5c0</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fullført behandlingen av en forespørsel om navneendring fra 1983. Saken ble løst på samme dag som den ble opprettet, og viser effektiviteten ved behandling av slike forespørsler.]]></description>
-</item>
-<item>
-  <title><![CDATA[Pågående digitaliseringsprosjekt i Riksarkivet]]></title>
-  <guid>8d7ddaa1-3da2-4a81-9e04-d5224774a257</guid>
-  <pubDate>Tue, 02 Sep 2025 07:01:27 GMT</pubDate>
-  <description><![CDATA[Riksarkivet arbeider med digitalisering av en egen samling over kongelige resolusjoner fra Industridepartementet. Dette prosjektet, rettet mot en offentlig etat, vil forbedre tilgjengeligheten av viktige historiske dokumenter.]]></description>
+  <title><![CDATA[Flere forespørsler om statsborgerskap]]></title>
+  <guid>c028b0d3-a3c8-41f4-9623-e0f7f3e9fae4</guid>
+  <pubDate>Tue, 02 Sep 2025 11:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om statsborgerskap fra både privatpersoner og offentlige etater. Behandlingen av disse sakene er i gang, og det fremgår at behovet for informasjon om statsborgerskap er høyt i arkivarens daglige arbeid.]]></description>
 </item>
 
 
