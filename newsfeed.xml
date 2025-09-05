@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 05 Sep 2025 07:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 11:01:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikdokumenter]]></title>
-  <guid>7ac6c52f-142d-491e-b042-1675bfe497fe</guid>
-  <pubDate>Fri, 05 Sep 2025 07:01:21 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om innsyn i landssvikdokumenter den siste uken, med flere saker registrert daglig. Dette tyder på en økende interesse for historiske hendelser fra andre verdenskrig blant privatpersoner.]]></description>
+  <title><![CDATA[Effektiv behandlingstid i Riksarkivet]]></title>
+  <guid>3a815ce0-9a50-4e87-ac68-6179e48ccb36</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet viser effektivitet i saksbehandlingen med flere saker ferdigstilt innen én dag. Rundskriv fra Kirke- og undervisningsdepartementet (1947) og Justisdepartementet (1933) ble begge behandlet på under 24 timer. Dette reflekterer en robust håndtering av forespørsler fra offentlige etater.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker historisk arkivtilgang]]></title>
-  <guid>08ea2b76-3c25-414c-80ac-bdd157a51d04</guid>
-  <pubDate>Fri, 05 Sep 2025 07:01:21 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler fra offentlige etater om tilgang til historiske arkiver har blitt registrert i Riksarkivet. Dette inkluderer dokumenter fra Helse- og omsorgsdepartementet samt ulike rundskriv fra ulike departementer, noe som understreker behovet for historisk innsikt i offentlig forvaltning.]]></description>
+  <title><![CDATA[Økende interesse for landssvikdokumenter]]></title>
+  <guid>4b85896a-e56a-4382-9ec0-95a7c1e30d4d</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar en rekke henvendelser om landssvikrelaterte dokumenter fra privatpersoner. Flere saker, som de om Harry Sverdrup Ivarson og Ingeborg Elise Haanshuus, er raskt behandlet. Arkivet fortsetter å være en viktig ressurs for forskning og personlig gransking av historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter slektshistoriske opplysninger]]></title>
-  <guid>0607d5ff-c2a6-4931-bf14-c073d2554ea8</guid>
-  <pubDate>Fri, 05 Sep 2025 07:01:21 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo merker en økning i henvendelser fra privatpersoner som søker etter slektshistoriske opplysninger. Dette inkluderer forespørsler om dødsårsaker, vigselsattester og militære rulleblad, og reflekterer en voksende interesse for personlig historie.]]></description>
+  <title><![CDATA[Henvendelser om historiske eiendommer]]></title>
+  <guid>109d57a2-53db-46d4-9428-7d5eb848acc6</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Forespørsler om eiendomshistorikk fortsetter å komme inn til Riksarkivet, med fokus på eiendommer i Tinn og Ullensvang. Disse sakene, som ofte involverer komplekse søk i eldre arkiver, viser en fortsatt interesse for lokalhistorie og eiendomsutvikling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om statsborgerskap hos Statsarkivet]]></title>
-  <guid>0703be0e-1a7f-4ce5-a87a-8a902c13140a</guid>
-  <pubDate>Fri, 05 Sep 2025 07:01:21 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler relatert til statsborgerskap fra privatpersoner. Sakene er av standard hastegrad og venter på fullføring, noe som indikerer et behov for å håndtere slike forespørsler effektivt.]]></description>
+  <title><![CDATA[Utfordringer med uavsluttede saker i Statsarkivet]]></title>
+  <guid>dca22de3-1c4e-4f9c-a07b-21a9408755b8</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Flere saker hos Statsarkivet i Oslo, som statsborgerskap i Fredrikstad og vitnemålssaker, gjenstår uavsluttede. Dette kan indikere behov for økt ressursallokering eller prioritering for å møte etterspørselen fra privatpersoner effektivt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Ønske om utvidet lesesalstilgang]]></title>
-  <guid>27e15729-3bd6-4f4e-8769-04d3b496cc63</guid>
-  <pubDate>Fri, 05 Sep 2025 07:01:21 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har bedt om utvidet tilgang til Riksarkivets lesesal knyttet til Nansenfondets dokumenter. Dette viser en økende interesse for dypdykk i spesifikke historiske arkiver, noe som kan kreve tilrettelegging fra arkivets side.]]></description>
+  <title><![CDATA[Tilgang til personhistoriske dokumenter]]></title>
+  <guid>e9d2062c-797f-4ae7-b505-6f71add7a00b</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Det er en økende interesse blant privatpersoner for tilgang til personhistoriske dokumenter, som slektshistorie og militære rulleblad. Saker som omhandler fartstid under krigen og slektstreff har høy prioritet, men mange forblir ubehandlet, noe som krever oppmerksomhet fra arkivets side.]]></description>
+</item>
+<item>
+  <title><![CDATA[Offentlige etater søker historisk innsikt]]></title>
+  <guid>2ca522d7-a341-436f-9dd6-3db68906a4a5</guid>
+  <pubDate>Fri, 05 Sep 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Offentlige etater henvender seg til Riksarkivet for tilgang til historiske arkiver, inkludert helse- og omsorgsdepartementets arkiver og digitalisering av kongelige resolusjoner. Dette understreker arkivets rolle som en viktig kilde til historisk dokumentasjon for myndigheter.]]></description>
 </item>
 
 
