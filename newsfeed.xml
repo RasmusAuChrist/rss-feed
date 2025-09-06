@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 06 Sep 2025 07:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 11:00:48 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvikarkiv]]></title>
-  <guid>8e31c63c-1af0-4123-90eb-4f684bdad54c</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok en rekke forespørsler om landssviksaker den siste uken. Flere privatpersoner har søkt innsyn i arkiver relatert til individer fra andre verdenskrig. Dette viser en økt interesse for krigshistorie og landssvikoppgjøret.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
+  <guid>c7e2425f-6d7d-4204-9ba5-3e8c702bb154</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har den siste uken mottatt en betydelig mengde forespørsler relatert til landssvik under andre verdenskrig. Mange privatpersoner søker informasjon om tidligere rettssaker for slektsforskning eller historiske formål. Dette viser en økende interesse for krigshistorie i befolkningen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mangfoldige forespørsler om slektshistorie]]></title>
-  <guid>6d080e3d-af3f-4518-881b-8ded20c6088f</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Både Riksarkivet og Statsarkivet i Oslo har fått flere forespørsler fra privatpersoner som ønsker informasjon om slektshistorie, spesielt relatert til fartstid under krigen og tidligere slektsmedlemmer. Dette indikerer en voksende interesse for genealogisk forskning.]]></description>
+  <title><![CDATA[Arkivsøk for offentlig forvaltning]]></title>
+  <guid>cd852fa8-5775-432d-81ae-4a1d5664fd3c</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har den siste uken søkt innsyn i historiske dokumenter som rundskriv og historiske arkiver. Dette inkluderer forespørsler fra Kirke- og undervisningsdepartementet og Helse- og omsorgsdepartementet, som viser at historiske dokumenter fortsatt er relevante for dagens forvaltningsarbeid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker historisk innsikt]]></title>
-  <guid>b5e45c8e-06e2-4572-9673-720e2a3b3620</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn forespørsler om tilgang til historiske dokumenter, inkludert rundskriv fra Kirke- og undervisningsdepartementet fra 1947. Dette understreker nødvendigheten av tilgang til historiske arkiver i offentlig saksbehandling.]]></description>
+  <title><![CDATA[Lang behandlingstid for søknader om slektsforskning]]></title>
+  <guid>d19a7a1a-76f3-4495-9768-d5bbc9fe6dba</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om slektsforskning, inkludert straffesaker og fartstid under krigen, har ikke blitt fullført. Dette tyder på at slike forespørsler kan ha lengre behandlingstid, noe som kan påvirke privatpersoners mulighet til å få tilgang til ønsket informasjon raskt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fullførte saker om militært rulleblad]]></title>
-  <guid>dc4252ae-1fb6-423e-961a-0e8ae1ea394a</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Flere saker relatert til militært rulleblad ble fullført denne uken. Privatpersoner har vist interesse for å få tilgang til informasjon om slektningers militærtjeneste, med særlig fokus på deltakelse i Tysklandsbrigaden.]]></description>
+  <title><![CDATA[Fullførte saker om vigselsattester]]></title>
+  <guid>4ee6c333-65bb-4549-beb1-86686f418d63</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført flere forespørsler om vigselsattester fra 1960- og 1970-tallet. Privatpersoner som søker bevis for slektskap eller dokumentasjon for genealogiske formål, drar nytte av rask behandlingstid på disse forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lang ventetid på slektsforskning]]></title>
-  <guid>7184d829-6cf9-4cf0-a84c-43f8a5ce5515</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om slektsforskning, spesielt relatert til eldre historiske perioder, forblir ufullførte og indikerer en mulig lang behandlingstid. Dette kan være et område som krever mer ressurser for å møte etterspørselen.]]></description>
+  <title><![CDATA[Forskere søker tilgang til Nansenfondet]]></title>
+  <guid>f0b5affc-276f-4209-9796-8595605833ff</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[En forespørsel om utvidet tilgang til lesesalen for å studere arkivmateriale fra Nansenfondet er mottatt. Dette indikerer en vedvarende interesse fra forskere og profesjonelle aktører for å utforske historisk materiale tilknyttet polarhelten Fridtjof Nansen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske bygg og monumenter i fokus]]></title>
-  <guid>fe5eae4d-0ba2-42f9-bb5d-6e7249f05cc9</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Det har vært interesse for faglig innsyn i historiske bygg, som Hotel Union Øye. Slike forespørsler peker mot en økende interesse for nasjonale kulturarv og historiske monumenter.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>8f483e9a-58fa-4bef-999d-a1aeaa5a88b8</guid>
-  <pubDate>Sat, 06 Sep 2025 07:01:11 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Historisk interesse for norsk sjøfart]]></title>
+  <guid>19aa80b0-738d-4e74-ba20-b12a4fadb029</guid>
+  <pubDate>Sat, 06 Sep 2025 11:00:48 GMT</pubDate>
+  <description><![CDATA[Flere saker om fartøy og mannskapslister, inkludert forespørsler om sjødampsprøyten "Bjørn" og M/S Govind Jayanti, viser en voksende interesse for norsk sjøfartshistorie. Disse forespørslene kommer fra både privatpersoner og profesjonelle aktører.]]></description>
 </item>
 
 
