@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 07 Sep 2025 07:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 11:01:11 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Stor pågang av landssviksaker]]></title>
-  <guid>567a82e8-0d32-49b0-9e38-77a8a673ab95</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har denne uken mottatt flere forespørsler angående landssviksaker. Sakene omfatter både enkeltpersoner og grupper involvert i hendelser fra andre verdenskrig. Behandling av disse sakene har en standard hastegrad, og mange er fortsatt under behandling.]]></description>
+  <title><![CDATA[Økt interesse for landssvikssaker]]></title>
+  <guid>8090d9b1-b293-488d-8a7d-359afb58249a</guid>
+  <pubDate>Sun, 07 Sep 2025 11:01:11 GMT</pubDate>
+  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har mottatt en rekke forespørsler om landssvikssaker den siste uken. Dette inkluderer flere saker med standard hastegrad fra privatpersoner som søker innsikt i historiske rettsoppgjør. Saker omfatter blant annet forespørsler om dokumenter knyttet til enkeltpersoner fra krigstiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>c2b3169e-6e3b-4c56-8575-8e826c884942</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Det er et økende antall forespørsler om militære rulleblad, både fra privatpersoner og forskere. Sakene som er behandlet så langt viser at det er interesse for både nyere historie og hendelser fra andre verdenskrig.]]></description>
+  <title><![CDATA[Effektiv saksbehandling i Riksarkivet]]></title>
+  <guid>2867ab00-82e0-4235-8174-cbeb7dae5e5b</guid>
+  <pubDate>Sun, 07 Sep 2025 11:01:11 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har effektivt fullført flere saker på kort tid. Blant de raskt behandlete sakene finner vi forespørsler om dokumenter fra Justisdepartementet (1933), Kirke- og undervisningsdepartementet (1947), og eiendomssaker relatert til Ullensvang. Saksbehandlingstiden har vært kort, noe som viser god effektivitet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk interesse for krigen]]></title>
-  <guid>eb7a58d6-82b7-46b1-9e2b-03be00af1ef6</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Mange henvendelser til Riksarkivet denne uken har dreid seg om fartstid under krigen og slektshistorie relatert til andre verdenskrig. Disse sakene har generelt lav hastighet, men viser en vedvarende interesse for krigshistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Forespørsel om historie og slektsforskning]]></title>
+  <guid>5f78c41a-afa2-4322-addc-b94eb6391f44</guid>
+  <pubDate>Sun, 07 Sep 2025 11:01:11 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om historiske dokumenter og slektsforskning, inkludert saker som gjelder Edward Munchs elever og slektsforskning på personer fra 1800-tallet. Mange av disse sakene er fortsatt under behandling, noe som reflekterer en vedvarende interesse for historisk slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivinnsyn]]></title>
-  <guid>46a8bd54-068e-45c4-9fdb-2796cacb0a40</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn flere forespørsler om innsyn i historiske dokumenter, inkludert rundskriv fra ulike departementer. Disse sakene behandles med standard hastegrad og viser et behov for historisk dokumentasjon i offentlig forvaltning.]]></description>
+  <title><![CDATA[Økt etterspørsel etter militære rulleblad]]></title>
+  <guid>5674fd76-9b93-41c5-9ea3-f98302d61f3e</guid>
+  <pubDate>Sun, 07 Sep 2025 11:01:11 GMT</pubDate>
+  <description><![CDATA[Det har vært en markant økning i forespørsler om militære rulleblad ved Riksarkivet, inkludert for personer som tjenestegjorde under Tysklandsbrigaden. Disse forespørslene kommer hovedsakelig fra privatpersoner og viser en interesse for militærhistorie og personlig bakgrunn.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om slektsforskning]]></title>
-  <guid>f495e7a1-7eff-4e4c-97a5-f4ab28b45baf</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra privatpersoner som ønsker hjelp med slektsforskning. Mange av disse sakene har lav hastighet, men de reflekterer en vedvarende interesse for å utforske familiens historie.]]></description>
-</item>
-<item>
-  <title><![CDATA[Behandling av vigselsattester fullført]]></title>
-  <guid>9100c8ef-9ee6-4335-977b-4018dbffc6b2</guid>
-  <pubDate>Sun, 07 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Flere forespørsler om vigselsattester er blitt behandlet og fullført denne uken. Sakene har variert i hastegrad, men de fleste er nå ferdigstilt, noe som viser effektiv saksbehandling i Statsarkivet i Oslo.]]></description>
+  <title><![CDATA[Offentlige etater etterspør historisk innsyn]]></title>
+  <guid>7ff5041b-d882-4e65-8477-5caddfabfe38</guid>
+  <pubDate>Sun, 07 Sep 2025 11:01:11 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt flere forespørsler om tilgang til historisk arkivmateriale. Blant annet har Helse- og omsorgsdepartementet bedt om tilgang til egne historiske arkiver, mens andre har etterspurt dokumenter relatert til samisk historie i Trollheimen. Dette viser behovet for å forstå og bruke historiske dokumenter i offentlig forvaltning.]]></description>
 </item>
 
 
