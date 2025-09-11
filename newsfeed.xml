@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 11 Sep 2025 07:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 11:01:17 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
-  <guid>a6f81a95-a100-4ce2-865d-36b4c160040f</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om innsyn i landssvikarkiver den siste uken. Dette tyder på en økende interesse for å forstå historiske hendelser knyttet til landssvikoppgjøret etter andre verdenskrig. Forespørslene behandles fortløpende, men ingen av sakene er foreløpig fullført.]]></description>
+  <title><![CDATA[Økt etterspørsel etter landssviksaker]]></title>
+  <guid>ca65f342-002a-4cc1-b2b4-2ab24d71c568</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i landssviksaker den siste uken. Dette inkluderer saker fra både andre verdenskrig og etterkrigstiden, med privatpersoner som hovedbrukergruppe. Behandlingen av disse sakene har variert, men flere har blitt avsluttet innen kort tid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter eiendomsinformasjon i Oslo]]></title>
-  <guid>4df8e944-e998-4f8f-9254-39b4f065c2b5</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har den siste uken mottatt flere forespørsler fra privatpersoner og offentlige etater om eiendomsinformasjon i Oslo. Flere av sakene har standard hastegrad, men en forespørsel fra en offentlig etat er markert som hastesak. Dette indikerer en økende interesse for eiendomsregistreringer i regionen.]]></description>
+  <title><![CDATA[Forespørsel om slektshistorie på 1800- og 1900-tallet]]></title>
+  <guid>f272e27f-bf4b-4399-b817-6fb3f4a7570d</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig sendt inn forespørsler om slektshistorie til Riksarkivet og Statsarkivet i Oslo. Sakene varierer fra skilsmisser på 1930-tallet til folketellinger etter 1920. Behandlingen av disse forespørslene pågår fortsatt, med lav hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk i historiske dokumenter populært]]></title>
-  <guid>e6695718-69f7-4758-9a89-c0d0bf9b1e72</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Både Riksarkivet og Statsarkivet i Oslo har opplevd en økning i arkivsøk-relaterte forespørsler. Disse inkluderer søk i dokumenter fra Forsvaret, gamle folketellinger og historiske aviser. Interesse for historiske dokumenter blant privatpersoner tyder på en voksende trend i slekts- og lokalhistorieforskning.]]></description>
+  <title><![CDATA[Offentlige etater søker arkivinformasjonsinnsyn]]></title>
+  <guid>933d0633-bfa2-4048-ba65-57e54b1d6b57</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har bedt om innsyn i historiske dokumenter fra ulike departementer i Riksarkivet. Dette inkluderer rundskriv fra Justisdepartementet fra 1933 og Kirke- og undervisningsdepartementet fra 1947, som nylig har blitt behandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lav interesse for kjøretøyhistorikk]]></title>
-  <guid>1df6a2af-fe97-43d2-9042-8d448600025c</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt få forespørsler om kjøretøyhistorikk den siste uken. Blant de få forespørslene som er mottatt, er de fleste fra privatpersoner med lav hastegrad. Dette kan tyde på at kjøretøyhistorikk ikke er en prioritert interesse for brukerne for øyeblikket.]]></description>
+  <title><![CDATA[Forespørsler om eiendomsopplysninger i Oslo]]></title>
+  <guid>75617cad-693c-4911-9b8f-676eb0f2f60f</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Det er mottatt flere forespørsler om eiendomsopplysninger i Oslo fra privatpersoner. Sakene inkluderer forespørsler om vedtekter for sameie og eiendomshistorikk. Behandlingen av disse sakene pågår, og de har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Høy etterspørsel etter kildeveiledning]]></title>
-  <guid>e314fc34-4784-4c07-9893-a103153c37cd</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Det har vært flere forespørsler om kildeveiledning hos Riksarkivet den siste uken, med fokus på både mannskapslister og historiske personer. Dette indikerer at brukere, inkludert forskere og studenter, er aktive i sine forskningsprosjekter og søker veiledning for å finne relevante kilder.]]></description>
+  <title><![CDATA[Arkivsøk etter krigshistorie og slektsforskning]]></title>
+  <guid>92d66fe3-d97e-4878-b03a-91029a289be4</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har sendt inn forespørsler om arkivsøk relatert til krigshistorie og slektsforskning, inkludert forespørsler om militære rulleblad og mannskapslister fra krigstiden. Behandlingen av disse forespørslene er fortløpende.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende etterspørsel etter innsyn i slektsdokumenter]]></title>
-  <guid>6023b4b5-93b0-4743-9669-816a96743e74</guid>
-  <pubDate>Thu, 11 Sep 2025 07:01:22 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo rapporterer om flere forespørsler fra privatpersoner om innsyn i slektsdokumenter, spesielt relatert til folketellinger og dødsfall. Lav hastegrad indikerer at dette ofte dreier seg om personlig slektsforskning heller enn akutte behov.]]></description>
+  <title><![CDATA[Nytt regelverk for Direktoratet for sivilt beredskap]]></title>
+  <guid>b795436a-84ca-4698-a638-85cc858710d3</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har bedt om innsyn i det nye regelverket for Direktoratet for sivilt beredskap. Saken, som har standard hastegrad, er under behandling i Riksarkivet og har ikke blitt avsluttet ennå.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>f13ce449-6bf7-4107-bceb-f38cc7590b77</guid>
+  <pubDate>Thu, 11 Sep 2025 11:01:17 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
