@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 13 Sep 2025 11:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 07:00:50 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
-  <guid>02bccd0e-04e1-4b3b-99ce-ef27134c3f71</guid>
-  <pubDate>Sat, 13 Sep 2025 11:00:42 GMT</pubDate>
-  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om innsyn i landssvikarkiver. Flere saker, inkludert forespørsler fra privatpersoner, har blitt behandlet den siste uken. Dette viser en vedvarende interesse for historisk dokumentasjon fra andre verdenskrig.]]></description>
+  <title><![CDATA[Økning i landssviksaker i Riksarkivet]]></title>
+  <guid>5aba749d-2d24-46d7-9f4a-81cc3a4fc54b</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Med standard hastegrad, viser dette en vedvarende interesse for historiske rettsoppgjør etter krigen. Blant annet har saker om personer født mellom 1882 og 1920 blitt behandlet og fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uavklarte eiendomssaker i Oslo]]></title>
-  <guid>df52c002-eeb0-4033-9e11-81b9b14cde7e</guid>
-  <pubDate>Sat, 13 Sep 2025 11:00:42 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har flere eiendomssaker på vent, inkludert forespørsler om vedtekter for sameie og gnr/bnr-kontroll. Mens noen er ferdigbehandlet, venter andre på avklaring. Dette kan påvirke tidsrammene for eiendomstransaksjoner i området.]]></description>
+  <title><![CDATA[Flere søk om historiske eiendomssaker]]></title>
+  <guid>75b23796-0f0b-4bb5-9d5c-36efc6f37124</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har hatt en økning i forespørsler om eiendomssaker, spesielt vedrørende gnr/bnr i Oslo og Fredrikstad. Enkelte forespørsler er allerede ferdigbehandlet, mens andre fortsatt er under behandling. Dette viser en vedvarende interesse fra både privatpersoner og profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker historiske kjøretøydata]]></title>
-  <guid>60350736-bb3c-468a-98b7-7941ec1daa76</guid>
-  <pubDate>Sat, 13 Sep 2025 11:00:42 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig sendt inn forespørsler om historiske kjøretøyregistre, inkludert konkrete bilnummer. Interesse for kjøretøyhistorikk fra 1960-tallet og Statens vegvesens AMV-database er merkbar, men mange saker venter fortsatt på behandling.]]></description>
+  <title><![CDATA[Adopsjonssak trekker ut i tid]]></title>
+  <guid>d08057c0-202b-46d9-9de4-6c52c507d1dd</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[En forespørsel om adopsjonssak fra 1915 har lav hastegrad og er fortsatt ubehandlet hos Statsarkivet i Oslo. Dette kan indikere en mer kompleks saksbehandling eller et behov for ytterligere dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinteresse for politisk historie]]></title>
-  <guid>77fbd0ae-513c-4649-8f0e-8400b9985a2e</guid>
-  <pubDate>Sat, 13 Sep 2025 11:00:42 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar økende forespørsler fra forskere som ønsker innsyn i politiske arkiver. Dette inkluderer studier av inntektspolitikk og TV3s historie fra 1987 til 1990. Flere saker er under behandling, noe som understreker arkivets betydning for akademisk forskning.]]></description>
+  <title><![CDATA[Interesse for Partnair-ulykken]]></title>
+  <guid>0d01d6b5-bdc5-4c28-a257-9715b1b02c8d</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[En forespørsel om straffesaken knyttet til Partnair-ulykken i 1989 er mottatt av Riksarkivet. Saken har standard hastegrad, men er ennå ikke fullført. Dette reflekterer en vedvarende interesse for historiske luftfartsulykker.]]></description>
 </item>
 <item>
-  <title><![CDATA[Manglende avklaringer om dødsfall og skifte]]></title>
-  <guid>036c760e-985d-4915-b0b2-cb5f1d314729</guid>
-  <pubDate>Sat, 13 Sep 2025 11:00:42 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har flere uavklarte forespørsler om dødsfall og skifte fra tidligere tiår. Disse sakene, som inkluderer forespørsler om dødsårsaker og testamenter, venter fortsatt på ferdigbehandling, noe som kan påvirke arveoppgjør for etterlatte.]]></description>
+  <title><![CDATA[Forskerinteresse for Høyre og inntektspolitikken]]></title>
+  <guid>b79c9343-2b80-4f94-a9fc-c5ca88622a67</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[En forsker har bedt om innsyn for en masteroppgave om Høyre og statlig inntektspolitikk. Saken er ennå ubehandlet, men viser akademisk interesse for politisk historie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forespørsel om slektshistorie under krigen]]></title>
+  <guid>82ab87c8-817e-47a4-9409-9b383c673404</guid>
+  <pubDate>Sun, 14 Sep 2025 07:00:50 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har søkt om innsyn i slektshistorie relatert til 2. verdenskrig, inkludert fangehistorier. Dette understreker den vedvarende interesse for å forstå slektens rolle og skjebne under krigen.]]></description>
 </item>
 
 
