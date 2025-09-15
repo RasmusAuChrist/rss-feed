@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 14 Sep 2025 11:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 07:00:56 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel etter landssvikarkiver øker]]></title>
-  <guid>6ee48bdb-f3c4-4cea-98af-e0c640ffde6e</guid>
-  <pubDate>Sun, 14 Sep 2025 11:00:38 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler fra privatpersoner om innsyn i landssvikarkiver. Flere saker, inkludert de om personer født tidlig på 1900-tallet, er blitt behandlet i løpet av den siste uken. Dette indikerer en økende interesse for historiske rettssaker knyttet til andre verdenskrig.]]></description>
+  <title><![CDATA[Økning i Landssvik-forespørsler]]></title>
+  <guid>044c97eb-5ece-427d-8cd8-28328d596853</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever en økning i forespørsler om landssviksaker fra privatpersoner. Flere saker fra 1895 til 1922 er under behandling, og hastigheten på fullføring varierer. Dette viser en økt interesse for krigshistorie blant allmennheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Uavsluttede saker i Oslo statsarkiv]]></title>
-  <guid>90701081-0596-4b35-a116-b3135711e6f3</guid>
-  <pubDate>Sun, 14 Sep 2025 11:00:38 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere saker som fortsatt venter på behandling. Dette inkluderer forespørsler om adopsjon, dødsfall og skifte, samt forespørsler om eiendomsdokumenter. Behandlingstiden varierer, og flere saker fra 2025 er ennå ikke fullført.]]></description>
+  <title><![CDATA[Historisk interesse for Kongsbergs sølvtyverier]]></title>
+  <guid>e1b7085d-8cad-4d60-bde9-3fb4146baf56</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[En privatperson har bedt om informasjon om sølvtyverier på Kongsberg fra 1700-tallet. Henvendelsen har lav prioritet, men understreker en vedvarende interesse for lokalhistorie og kriminalitet i tidligere århundrer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerforespørsler ved Riksarkivet]]></title>
-  <guid>a4529697-1736-4c75-8bb5-54d8bbd6b803</guid>
-  <pubDate>Sun, 14 Sep 2025 11:00:38 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har registrert en økning i forespørsler fra forskere og studenter, inkludert innsyn i historiske dokumenter og utvidet tilgang til lesesal. Flere av disse sakene er fortsatt under behandling, noe som viser et stabilt behov for akademisk innsyn i arkivmateriale.]]></description>
+  <title><![CDATA[Henvendelser om familierelaterte saker]]></title>
+  <guid>b2fc0b1a-3296-4aa1-86cc-780104cc901d</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[Både Riksarkivet og Statsarkivet i Oslo mottar regelmessig forespørsler om slektsforskning og familierelaterte emner, som adopsjon og skilsmisse, med varierende hastegrad. Dette indikerer en stabil interesse for genealogisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om damanlegg i Skien]]></title>
-  <guid>d753820b-0082-424a-92de-c31f36254eec</guid>
-  <pubDate>Sun, 14 Sep 2025 11:00:38 GMT</pubDate>
-  <description><![CDATA[En privatperson har kontaktet Riksarkivet for å søke informasjon om damanlegg i Klosterfossen og Damfossen i Skien. Saken, som ble opprettet nylig, er fortsatt under behandling. Dette viser interesse for lokalhistorisk forskning i arkivene.]]></description>
+  <title><![CDATA[Forskningsinteresse for historiske fangeleirer]]></title>
+  <guid>a93e12be-393f-4056-8d70-9cf14140dbfe</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[En annen profesjonell aktør har sendt inn en forespørsel til Riksarkivet angående Organisasjon Todt-fanger. Dette viser en vedvarende forskningsinteresse for krigsfangehistorie og andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske eiendomssaker behandlet i Oslo]]></title>
-  <guid>aa47d13c-4ded-42bf-8272-9a3f11173c7d</guid>
-  <pubDate>Sun, 14 Sep 2025 11:00:38 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig ferdigbehandlet flere eiendomssaker, inkludert forespørsler om gnr/bnr i Fredrikstad og Oslo. Disse sakene tilhører både privatpersoner og profesjonelle aktører, og viser et jevnt behov for historiske eiendomsdokumenter.]]></description>
+  <title><![CDATA[Eiendomssaker i Oslo]]></title>
+  <guid>3f6dce39-f8a0-4881-b4de-8011bd0321b2</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo håndterer flere eiendomssaker denne uken, inkludert forespørsler fra både privatpersoner og profesjonelle aktører. Dette understreker viktigheten av eiendomsdokumentasjon i rettslige og historiske sammenhenger.]]></description>
+</item>
+<item>
+  <title><![CDATA[Etterspørsel etter faglig innsyn]]></title>
+  <guid>5fbe82be-1fe5-4c67-acac-4a08244b059f</guid>
+  <pubDate>Mon, 15 Sep 2025 07:00:56 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt forespørsel fra en offentlig etat om faglig innsyn i nytt regelverk fra Direktoratet for sivilt beredskap. Dette markerer viktigheten av tilgang til oppdatert informasjon for offentlige instanser.]]></description>
 </item>
 
 
