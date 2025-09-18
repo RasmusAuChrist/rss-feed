@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 17 Sep 2025 11:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 07:01:10 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
-  <guid>e4058f04-10b5-43d1-9d6b-975dd5844997</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om landssvikarkiver den siste uken. Flesteparten av henvendelsene kommer fra privatpersoner. Flere av sakene har allerede blitt ferdigbehandlet, noe som indikerer effektiv saksbehandling.]]></description>
+  <title><![CDATA[Økende interesse for landssviksaker]]></title>
+  <guid>f11e7c9c-9359-4efb-b9c8-69591f6f169e</guid>
+  <pubDate>Thu, 18 Sep 2025 07:01:10 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar en betydelig økning i forespørsler om landssviksaker fra andre verdenskrig. Flere privatpersoner søker informasjon om slektningers involvering, med saker som strekker seg over ulike fødselsår og steder. Behandlingstiden varierer, men fokuset er på å gi innsikt i disse historiske hendelsene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker faglig innsyn]]></title>
-  <guid>2fd901a2-5b3a-4362-b0a0-6f3340a0de1b</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har den siste uken sendt flere forespørsler til Riksarkivet for faglig innsyn i historiske dokumenter. Temaene spenner fra fredningsvedtak fra 1973 til sivilt beredskap. Dette understreker behovet for historisk kontekst i offentlig forvaltning.]]></description>
+  <title><![CDATA[Forskere dykker ned i himmelbrevshistorie]]></title>
+  <guid>974916c7-39e9-4a29-a64f-29cff2869cf6</guid>
+  <pubDate>Thu, 18 Sep 2025 07:01:10 GMT</pubDate>
+  <description><![CDATA[En forsker har henvendt seg til Riksarkivet for å utforske historien bak himmelbrev. Denne type sak er av standard hastegrad, og reflekterer en interesse for å forstå kulturelle og historiske aspekter ved slike dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Militære rulleblad etterspurt av privatpersoner]]></title>
-  <guid>654cf394-05c1-4007-b680-dbadd5f85786</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Det har vært en økning i forespørsler om militære rulleblad fra privatpersoner i Riksarkivet. Flere av sakene har lav hastegrad, noe som antyder at forespørslene er av personlig interesse eller forskningsrelatert.]]></description>
+  <title><![CDATA[Pågang på forespørsler om dødsfall og skifte]]></title>
+  <guid>90e4cda3-bcaf-4a15-909c-1c9802212767</guid>
+  <pubDate>Thu, 18 Sep 2025 07:01:10 GMT</pubDate>
+  <description><![CDATA[Det er en jevn strøm av forespørsler om dødsfall og skifte, spesielt fra privatpersoner som søker informasjon om slektninger. Disse sakene har lav prioritet, men utgjør en viktig del av arkivets arbeid med å bistå i slektsforskning og juridiske avklaringer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling fra offentlig etat]]></title>
-  <guid>db61cab3-b851-43e2-94ee-3ee0bc09537e</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo mottok en forespørsel om en kopibestilling av en rettsbok fra Tune Sorenskriveri fra en offentlig etat. Behandlingen av saken pågår fortsatt, og det antas å være en del av en større undersøkelse eller sak.]]></description>
+  <title><![CDATA[Kopibestilling fra Tune Sorenskriveri fullført]]></title>
+  <guid>0ee46f8e-4c9e-4de3-986f-f0ea87cec318</guid>
+  <pubDate>Thu, 18 Sep 2025 07:01:10 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har effektivt behandlet en kopibestilling av rettsbok fra Tune Sorenskriveri. Forespørselen kom fra en offentlig etat og ble fullført innen en dag, noe som understreker arkivets evne til rask behandling av statlige henvendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske søk i slektsforskning]]></title>
-  <guid>be8fb7eb-f1ae-4e46-99c0-8ef275671650</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Slektsforskning fortsetter å være populært blant privatpersoner, med mange forespørsler om historiske dokumenter relatert til familiemedlemmer fra tidlig 1900-tall. Mange av disse sakene har lav hastegrad, noe som gir rom for grundig saksbehandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Henvendelser om historiske fartøy]]></title>
-  <guid>75d3a101-f6e6-4073-9f9e-21d4233885e3</guid>
-  <pubDate>Wed, 17 Sep 2025 11:01:45 GMT</pubDate>
-  <description><![CDATA[Det har vært flere forespørsler om historiske fartøy den siste uken, inkludert sjøforklaringer og mannskapslister fra ulike tidsepoker. Dette viser en vedvarende interesse for maritim historie blant privatpersoner.]]></description>
+  <title><![CDATA[Etterspørsel etter historisk kildeveiledning]]></title>
+  <guid>dea3b9d4-7074-405a-a227-e4889647b411</guid>
+  <pubDate>Thu, 18 Sep 2025 07:01:10 GMT</pubDate>
+  <description><![CDATA[Riksarkivet opplever en økt etterspørsel etter kildeveiledning, både for arkivet etter Selskapet for Norges Vel og private dagbøker. Disse forespørslene, som hovedsakelig kommer fra privatpersoner og forskere, viser en økende interesse for å forstå og tolke historiske dokumenter.]]></description>
 </item>
 
 
