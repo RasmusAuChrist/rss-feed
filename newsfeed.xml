@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 18 Sep 2025 11:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 07:01:01 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy aktivitet på landssviksaker]]></title>
-  <guid>ce2272d7-1bcd-4d42-bbef-2b2a4f7f6a16</guid>
-  <pubDate>Thu, 18 Sep 2025 11:02:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler angående landssvikssaker den siste uken. Flere saker om enkeltpersoners involvering under krigen har blitt behandlet, med både ferdigstilte og uavklarte forespørsler. Dette viser en fortsatt stor interesse for krigstidsdokumentasjon blant privatpersoner.]]></description>
+  <title><![CDATA[Etterspørsel etter landssvikdokumentasjon]]></title>
+  <guid>9485a51f-7c23-4ead-afb8-670377e5a0b9</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler fra privatpersoner om tilgang til landssvikdokumentasjon, inkludert saker fra første halvdel av 1900-tallet. Behandlingen av disse sakene pågår, med noen allerede fullført, mens andre fortsatt venter på oppfølging.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler under behandling]]></title>
-  <guid>a6fedb97-c5d4-4cbf-b7c7-0047ac31b367</guid>
-  <pubDate>Thu, 18 Sep 2025 11:02:01 GMT</pubDate>
-  <description><![CDATA[Forespørsler om historiske emner som "Himmelbrev" og "Sølvtyverier på Kongsberg" er fortsatt under behandling ved Riksarkivet. Dette indikerer en pågående interesse for å utforske mindre kjente historiske begivenheter og dokumenter.]]></description>
+  <title><![CDATA[Interesse for historiske kirkedetaljer]]></title>
+  <guid>6fc9bd84-fdef-447d-9720-5593cc7eaae7</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har sendt inn forespørsel om byggeår og vigsling av Nordby kirke i Ås, Akershus. Dette markerer økt interesse for historiske kirkedokumenter. Behandlingen av saken er pågående i Statsarkivet i Oslo.]]></description>
 </item>
 <item>
-  <title><![CDATA[Avsluttede saker om dødsfall og skifte]]></title>
-  <guid>476b2875-de48-4ded-beeb-1d7cfc189904</guid>
-  <pubDate>Thu, 18 Sep 2025 11:02:01 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fullført flere saker om dødsfall og skifte, inkludert forespørsler fra både privatpersoner og offentlige etater. Behandlingen av slike saker bidrar til å muliggjøre etterforskning av slektshistorie og juridiske forhold.]]></description>
+  <title><![CDATA[Etterspørsel etter dødsfalls- og skifteinformasjon]]></title>
+  <guid>9cd306c8-e3c7-4d19-9130-06af88f38962</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar flere forespørsler fra både privatpersoner og offentlige etater om dødsfalls- og skifteinformasjon. Dette inkluderer saker med høy prioritet, som arvesaker og skifteoppgjør.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningshenvendelser om nordisk samarbeid]]></title>
-  <guid>b03005ba-e94a-4ffa-99eb-eda9904e3904</guid>
-  <pubDate>Thu, 18 Sep 2025 11:02:01 GMT</pubDate>
-  <description><![CDATA[En forsker har mottatt dokumentasjon relatert til Genève- og folkemordkonvensjonen, som belyser nordisk samarbeid på slutten av 1940-tallet. Dette er et eksempel på hvordan Riksarkivet støtter akademisk forskning med tilgang til historiske kilder.]]></description>
+  <title><![CDATA[Forskerforespørsler om historiske temaer]]></title>
+  <guid>8adad561-3e42-4bd0-9c70-a15f1de89efb</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter om temaer som norske sjøfolk for amerikansk krigsrett og Nordisk samarbeid rundt Genève- og folkemordkonvensjonen. Disse henvendelsene reflekterer en økende akademisk interesse for spesifikke historiske temaer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for militærhistoriske dokumenter]]></title>
-  <guid>f4a8e0ff-3270-49b5-ab98-b4e494efc4e9</guid>
-  <pubDate>Thu, 18 Sep 2025 11:02:01 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om militære rulleblad og fartøysrelaterte dokumenter, som korvetten Tunsberg Castle og mannskapslister fra Thorsisle. Dette tyder på en økt interesse for å utforske militærhistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Etterspørsel etter skattelister øker]]></title>
+  <guid>1fbcef23-192e-4c14-b316-4007613ad180</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo håndterer flere forespørsler fra privatpersoner om skattelister fra tidligere år. Forespørslene dekker ulike tidsperioder og steder, som Oslo og Moss, noe som indikerer økt interesse for økonomisk historie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Arkivsøk etter militært rulleblad]]></title>
+  <guid>19956f96-6ba9-4b61-b55e-d2a992fc14f4</guid>
+  <pubDate>Fri, 19 Sep 2025 07:01:01 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har henvendt seg til Riksarkivet for søk etter militære rulleblad. Dette understreker en personlig interesse i å forstå familiens militære historie, med forespørsler som dekker ulike tidsperioder.]]></description>
 </item>
 
 
