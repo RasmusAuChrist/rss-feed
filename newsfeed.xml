@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 20 Sep 2025 11:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 07:00:46 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i forespørsler om landsvikarkiver]]></title>
-  <guid>ee88c0ba-db6e-414a-8fac-cce80d1248b6</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[Det har vært en merkbar økning i forespørsler om landsvikarkiver i Riksarkivet denne uken. Flere privatpersoner søker innsikt i saker som omhandler landssvik fra 2. verdenskrig. Dette viser en vedvarende interesse for historiske hendelser og deres påvirkning på enkeltpersoner og samfunn.]]></description>
+  <title><![CDATA[Mange henvendelser om landssvik]]></title>
+  <guid>74742927-41c0-41a2-8ff7-9c904f595127</guid>
+  <pubDate>Sun, 21 Sep 2025 07:00:46 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler om innsyn i landssvikssaker den siste uken. Disse sakene involverer personer fra ulike tidsperioder, noe som viser en vedvarende interesse for dette historiske temaet blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivsøk for lovarbeid]]></title>
-  <guid>5c922896-200a-42cc-8799-c352c92ba9e3</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra offentlige etater som søker dokumenter for lovarbeid, samt historiske arkivsøk som fastsetting av kommunegrenser. Dette understreker arkivets viktige rolle i å støtte offentlig forvaltning ved juridiske og administrative prosesser.]]></description>
+  <title><![CDATA[Etterspørsel etter skattelister]]></title>
+  <guid>32c56760-bc3f-4fdd-a5a7-b77dca585efd</guid>
+  <pubDate>Sun, 21 Sep 2025 07:00:46 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottok nylig flere forespørsler om innsyn i historiske skattelister fra privatpersoner. Dette understreker en økende interesse for personlig økonomihistorie og slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter slektsforskning]]></title>
-  <guid>25d994e1-ca12-4e06-b0c8-7d34279d6436</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[Arkivet har sett en økning i henvendelser fra privatpersoner angående slektsforskning. Mange ønsker informasjon om sine forfedre fra ulike perioder, inkludert deres deltakelse i historiske hendelser. Dette synliggjør en voksende interesse for familiehistorie og personlig identitet.]]></description>
+  <title><![CDATA[Offentlige etater søker arkivsøk]]></title>
+  <guid>5fd10739-36e9-4777-abed-95deb78ce91a</guid>
+  <pubDate>Sun, 21 Sep 2025 07:00:46 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått flere forespørsler fra offentlige etater angående arkivsøk. Blant sakene finner vi etterspørsel etter informasjon om vannverksgodkjenning og kommunegrenser, som indikerer et behov for historisk dokumentasjon i offentlig forvaltning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalarkivet mottar brukerstøttehenvendelser]]></title>
-  <guid>b4a66e3a-2735-46db-a633-d816188f4be8</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har kontaktet Riksarkivet med forespørsler om brukerstøtte til Digitalarkivet. Dette indikerer et behov for ytterligere veiledning og støtte i bruken av digitale verktøy for å navigere i arkivmateriale.]]></description>
+  <title><![CDATA[Forskning på nordmenn i Skottland]]></title>
+  <guid>0c54a303-836d-42db-906a-46798e1077d0</guid>
+  <pubDate>Sun, 21 Sep 2025 07:00:46 GMT</pubDate>
+  <description><![CDATA[En forsker har kontaktet Riksarkivet for informasjon til en masteroppgave om nordmenns rolle i Skottland under andre verdenskrig. Dette viser en vedvarende akademisk interesse i norske krigshistorier.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler om Nordmenn i Skottland under krigen]]></title>
-  <guid>0552de4e-c9a7-4a5d-bbe6-df21daa43021</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[En forsker har sendt inn en forespørsel om materiale til en masteroppgave om nordmenn i Skottland under 2. verdenskrig. Dette understreker akademisk interesse i å utforske mindre kjente aspekter av krigshistorien og deres kulturelle og historiske betydning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Henvendelser om fortids kriminalsaker]]></title>
-  <guid>1f319768-16af-4259-93ea-260a522bd8c9</guid>
-  <pubDate>Sat, 20 Sep 2025 11:00:53 GMT</pubDate>
-  <description><![CDATA[Oslo Statsarkiv har mottatt henvendelser fra privatpersoner som søker innsikt i tidligere kriminalsaker, inkludert drapssaker fra 1980-tallet. Dette reflekterer en vedvarende interesse for kriminalhistorie og dens kontekst i samfunnsutviklingen.]]></description>
+  <title><![CDATA[Aktive forespørsler om dødsfall og skifte]]></title>
+  <guid>f959c764-3489-468d-9e11-4716ef4c5c81</guid>
+  <pubDate>Sun, 21 Sep 2025 07:00:46 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo behandlet flere forespørsler om dødsfall og skifte fra både privatpersoner og offentlige etater. Disse forespørslene indikerer en vedvarende etterspørsel etter juridisk og genealogisk informasjon.]]></description>
 </item>
 
 
