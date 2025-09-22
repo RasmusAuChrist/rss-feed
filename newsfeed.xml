@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 22 Sep 2025 07:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 11:00:54 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssviksaker]]></title>
-  <guid>c9101a16-03ca-4811-b465-ffa4feac9fba</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde henvendelser som omhandler landssvik. Flere privatpersoner har søkt informasjon om saker fra både første og andre verdenskrig. Dette kan indikere økt interesse for å forstå familiens historie eller for akademisk forskning.]]></description>
+  <title><![CDATA[Landssviksaker i fokus]]></title>
+  <guid>1d43e033-18d8-442f-8a65-b2f2a740f18d</guid>
+  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar en rekke forespørsler om landssviksaker, som utgjør en stor del av ukens saksbehandling. Flere saker er fullført raskt, men enkelte gjenstår. Dette viser en fortsatt interesse for krigshistorie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Skattelister fra 1980-tallet etterspurt]]></title>
-  <guid>e9e50b5a-d323-4514-a4aa-21e1803f174e</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler om innsyn i skattelister fra 1980-tallet. Flere privatpersoner søker denne informasjonen, noe som kan tyde på et ønske om å avdekke økonomisk historie eller for bruk i slektsforskning.]]></description>
+  <title><![CDATA[Ettertraktet informasjon om skattelister]]></title>
+  <guid>5e6d23d0-b753-46f3-b58b-57282d69cfd3</guid>
+  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om innsyn i historiske skattelister. Flere av disse forespørslene ble fullført denne uken, noe som viser en vedvarende interesse for økonomisk historie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinteresse for norske sjøfolk i amerikansk krigsrett]]></title>
-  <guid>d15c6f73-da08-4524-8bf6-468aeb6f574f</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[En forsker har henvendt seg til Riksarkivet for informasjon om norske sjøfolk som sto for amerikansk krigsrett. Dette antyder en økende akademisk interesse for norske bidrag og skjebner under internasjonale konflikter.]]></description>
+  <title><![CDATA[Arkivsøk om Nobel fredspris]]></title>
+  <guid>c69ee1c8-0244-45cf-a241-7e5db44fb50e</guid>
+  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt inn forespørsel om dokumentasjon knyttet til presseopplegget for Nobel fredspris 1994. Saken er fortsatt under behandling, og føyer seg inn i rekken av henvendelser knyttet til nyere historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Nobel fredspris 1994-presseopplegg etterspurt]]></title>
-  <guid>bd80dcaf-b786-4079-91d5-e16f9fe866e4</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[En privatperson har søkt om arkivsøk relatert til dokumentasjon om presseopplegget for Nobel fredspris 1994. Dette kan være en del av forskning eller personlig interesse for historiske hendelser knyttet til fredsprisen.]]></description>
+  <title><![CDATA[Offentlig forvaltning søker historiske dokumenter]]></title>
+  <guid>67e9340f-5522-415d-ae5e-bf0bb2f9c693</guid>
+  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har vist økt interesse for historiske arkivsøk, inkludert dokumentasjon om vannverk og lovarbeid. Flere slike saker er under behandling, og understreker arkivets rolle i samfunnsforvaltningen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling av frontkjemperegisteret]]></title>
-  <guid>d24b0634-65cc-41b8-865a-87f7f724afcb</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en kopibestilling fra en privatperson for innsyn i frontkjemperegisteret. Dette kan være del av en større etterforskning eller interesse for familiemedlemmers involvering under krigen.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ny forespørsel om korvetten Tunsberg Castle]]></title>
-  <guid>2fc7bbed-f476-49bd-8a55-245804d7cb59</guid>
-  <pubDate>Mon, 22 Sep 2025 07:00:51 GMT</pubDate>
-  <description><![CDATA[En forespørsel om sjøforklaring angående senkingen av korvetten Tunsberg Castle i 1944 har blitt behandlet. Dette viser vedvarende interesse for krigshistorie og hendelser til sjøs under andre verdenskrig.]]></description>
+  <title><![CDATA[Forskning på norske sjøfolk og krigsrett]]></title>
+  <guid>eb41722b-c7bf-4d57-b6a9-81ff235ddc09</guid>
+  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
+  <description><![CDATA[En forsker har sendt en forespørsel om informasjon om norske sjøfolk for amerikansk krigsrett. Saken er under behandling, og bidrar til en bredere forståelse av norsk deltakelse i internasjonale konflikter.]]></description>
 </item>
 
 
