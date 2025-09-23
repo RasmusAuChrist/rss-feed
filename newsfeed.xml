@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 22 Sep 2025 11:00:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 07:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Landssviksaker i fokus]]></title>
-  <guid>1d43e033-18d8-442f-8a65-b2f2a740f18d</guid>
-  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en rekke forespørsler om landssviksaker, som utgjør en stor del av ukens saksbehandling. Flere saker er fullført raskt, men enkelte gjenstår. Dette viser en fortsatt interesse for krigshistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>7c70a25e-947d-4c6c-aa23-e3c988cde91b</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Dette inkluderer henvendelser om ulike enkeltpersoner fra 1900-tallet, hvor flere saker allerede er ferdigbehandlet. Privatpersoner utgjør hoveddelen av brukergruppen, og det er en standard hastegrad på disse forespørslene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Ettertraktet informasjon om skattelister]]></title>
-  <guid>5e6d23d0-b753-46f3-b58b-57282d69cfd3</guid>
-  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har behandlet flere forespørsler om innsyn i historiske skattelister. Flere av disse forespørslene ble fullført denne uken, noe som viser en vedvarende interesse for økonomisk historie blant privatpersoner.]]></description>
+  <title><![CDATA[Faglig innsyn om Trygve Lie]]></title>
+  <guid>cd674f32-3088-40de-94c4-61c09d3a0806</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[Det er kommet inn to henvendelser om faglig innsyn relatert til biografien om Trygve Lie. Disse sakene er under behandling i Riksarkivet og er fra profesjonelle aktører. Behandlingen av sakene er ikke fullført, og begge har standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om Nobel fredspris]]></title>
-  <guid>c69ee1c8-0244-45cf-a241-7e5db44fb50e</guid>
-  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[En privatperson har sendt inn forespørsel om dokumentasjon knyttet til presseopplegget for Nobel fredspris 1994. Saken er fortsatt under behandling, og føyer seg inn i rekken av henvendelser knyttet til nyere historiske hendelser.]]></description>
+  <title><![CDATA[Etterspørsel etter skattelister]]></title>
+  <guid>a91f70a2-0eaf-4b1b-9af7-5be23489bc29</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om innsyn i historiske skattelister. Privatpersoner har vist interesse for lister fra 1970- til 1990-tallet i Oslo og Asker. Flere av forespørslene er allerede behandlet, mens noen fortsatt er under arbeid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlig forvaltning søker historiske dokumenter]]></title>
-  <guid>67e9340f-5522-415d-ae5e-bf0bb2f9c693</guid>
-  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har vist økt interesse for historiske arkivsøk, inkludert dokumentasjon om vannverk og lovarbeid. Flere slike saker er under behandling, og understreker arkivets rolle i samfunnsforvaltningen.]]></description>
+  <title><![CDATA[Arkivsøk knyttet til historiske dokumenter]]></title>
+  <guid>f1ed4890-a7c3-4365-ad70-d8e2f64831a0</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[Forskere og studenter har sendt inn forespørsler om arkivsøk for historiske dokumenter som utkast til Avtaleloven fra 1914 og dokumentasjon om Nobel fredspris 1994. Disse forespørslene er fortsatt under behandling i Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning på norske sjøfolk og krigsrett]]></title>
-  <guid>eb41722b-c7bf-4d57-b6a9-81ff235ddc09</guid>
-  <pubDate>Mon, 22 Sep 2025 11:00:54 GMT</pubDate>
-  <description><![CDATA[En forsker har sendt en forespørsel om informasjon om norske sjøfolk for amerikansk krigsrett. Saken er under behandling, og bidrar til en bredere forståelse av norsk deltakelse i internasjonale konflikter.]]></description>
+  <title><![CDATA[Offentlige etater søker faglig innsyn]]></title>
+  <guid>e18cdab2-e35c-4c68-a0f3-d1740e859ac1</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt inn forespørsler om faglig innsyn i saker som fredning av rovdyr fra 1973 og manøvreringsreglement. Flere forespørsler er allerede ferdigbehandlet, mens andre er under arbeid. Dette viser et økt behov for historisk innsikt i offentlig forvaltning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forskere søker digital tilgang]]></title>
+  <guid>3001a52a-8f98-4768-8511-53c37a075d03</guid>
+  <pubDate>Tue, 23 Sep 2025 07:00:55 GMT</pubDate>
+  <description><![CDATA[En forsker har forespurt digitalisering av arkivmateriale, inkludert Todt-arkivet, for å lette forskningsarbeidet. Saken er ennå ikke avsluttet, og det viser en økende trend av forskere som ønsker digital tilgang til historiske kilder i Riksarkivet.]]></description>
 </item>
 
 
