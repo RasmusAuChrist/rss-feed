@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 24 Sep 2025 07:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 11:01:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt etterspørsel etter landssviksaker]]></title>
-  <guid>2e2eec20-e8b4-41cb-bf1e-ecb8499721e5</guid>
-  <pubDate>Wed, 24 Sep 2025 07:01:53 GMT</pubDate>
-  <description><![CDATA[Den siste uken har Riksarkivet mottatt en rekke forespørsler om landssviksaker. Disse inkluderer både privatpersoner og profesjonelle aktører som søker informasjon om ulike individer og hendelser fra Norges historie under andre verdenskrig. Dette markerer en vedvarende interesse for denne delen av historien.]]></description>
+  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
+  <guid>e6767a5c-222f-4c8e-9159-11b60189af8a</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i landssvikarkiver den siste uken. Saker relatert til ulike individer fra perioden etter andre verdenskrig dominerer forespørslene, som kommer både fra privatpersoner og profesjonelle aktører. Dette viser en vedvarende interesse for historisk rettsoppgjør.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskere utforsker Østre Aker kirkegård]]></title>
-  <guid>5056bb11-481f-4f43-9ed7-e766567ad1c8</guid>
-  <pubDate>Wed, 24 Sep 2025 07:01:53 GMT</pubDate>
-  <description><![CDATA[Forskningsmiljøet har vist interesse for Østre Aker kirkegård, med en ny henvendelse til Statsarkivet i Oslo. Dette arkivsøket kan gi innsikt i historiske gravminner og deres betydning, noe som er verdifullt for både akademiske og kulturelle studier.]]></description>
+  <title><![CDATA[Etterspørsel etter eiendomsinformasjon øker]]></title>
+  <guid>ef8e30eb-cb56-42e2-994a-56bbd1498ba3</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fått flere henvendelser om eiendomssaker, inkludert forespørsler fra privatpersoner og profesjonelle aktører. Sakene omhandler eiendomsinformasjon i både Oslo og omkringliggende områder som Sarpsborg og Asker. Etterspørselen viser betydningen av arkivene for eiendomsrelaterte spørsmål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker innsyn i "Våre Falne"]]></title>
-  <guid>e2468ccf-492c-4854-ba9d-d8fb3b12dd50</guid>
-  <pubDate>Wed, 24 Sep 2025 07:01:53 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en henvendelse fra pressen for faglig innsyn i "Våre Falne". Dette verket, som ærer norske falne under andre verdenskrig, kan tilby viktig kontekst og materiale for journalistisk arbeid og formidling av historiske temaer.]]></description>
+  <title><![CDATA[Forespørsel om dødsfall og skifte]]></title>
+  <guid>6a6aaec6-ca66-41c3-ba64-d6af4c431791</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall og skifte den siste uken. Henvendelsene inkluderer forespørsler fra både privatpersoner og offentlige etater, noe som understreker behovet for tilgang til historiske skiftedokumenter for juridiske og personlige formål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om damanlegg i Skien prioriteres]]></title>
-  <guid>a089b31e-015a-4aed-8aef-2fb8f6904db6</guid>
-  <pubDate>Wed, 24 Sep 2025 07:01:53 GMT</pubDate>
-  <description><![CDATA[En privatperson har bedt om oppfølging av et arkivsøk knyttet til damanlegg i Klosterfossen og Damfossen i Skien. Denne forespørselen har blitt prioritert med høy hastegrad, som reflekterer viktigheten av informasjonen for innsenderen.]]></description>
+  <title><![CDATA[Interesse for historiske dokumenter i forskningsøyemed]]></title>
+  <guid>f50e9641-cb6b-4199-90c5-bd27a540bac0</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Forskningsrelaterte forespørsler har vært fremtredende i Riksarkivet den siste uken. Forskere og studenter har vist interesse for arkivsøk relatert til spesialpedagogikk, polske flyktninger, og korrespondanse fra 1970-tallet. Dette tyder på en aktiv bruk av arkivene til akademiske prosjekter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekt om Torpedokommando]]></title>
-  <guid>c60a02f7-e5b8-4d2d-87c9-3ca487011b36</guid>
-  <pubDate>Wed, 24 Sep 2025 07:01:53 GMT</pubDate>
-  <description><![CDATA[Riksarkivet håndterer en forespørsel om digitalisering av materialet tilknyttet "Torpedokommando Bakarvaagen". Dette prosjektet vil bidra til å bevare og tilgjengeliggjøre historisk materiale for fremtidige generasjoner.]]></description>
+  <title><![CDATA[Presse søker innsikt i historiske arkiver]]></title>
+  <guid>f5012004-e3b9-4348-a25a-5501e15286e5</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra pressen om faglig innsyn i arkivene relatert til "Våre Falne". Dette indikerer en fortsatt interesse fra media for å utforske og rapportere om historiske hendelser og personer fra krigsårene, med fokus på å bringe historiske fakta frem i lyset.]]></description>
+</item>
+<item>
+  <title><![CDATA[Økt etterspørsel etter dokumentasjon om skattelister]]></title>
+  <guid>34cbe33c-7adf-4d3e-9975-82a179a63044</guid>
+  <pubDate>Wed, 24 Sep 2025 11:01:09 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har sett en økning i forespørsler om innsyn i skattelister fra 1970- til 1990-tallet. Forespørslene kommer primært fra privatpersoner og dekker flere geografiske områder, noe som viser at mange er interesserte i historiske økonomiske opplysninger.]]></description>
 </item>
 
 
