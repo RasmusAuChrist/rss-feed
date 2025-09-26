@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 25 Sep 2025 11:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 07:00:53 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssviksaker]]></title>
-  <guid>0035240b-99bc-42fa-8142-2c19379c30a3</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene dekker både individuelle forespørsler fra privatpersoner og profesjonelle aktører. Behandlingen av disse sakene har variert, men mange er allerede fullført. Dette viser en vedvarende interesse for å utforske denne delen av norsk historie.]]></description>
+  <title><![CDATA[Mange forespørsler om landssviksaker]]></title>
+  <guid>1b2e9291-5b18-4a67-9212-5f58395c6c47</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om landssviksaker den siste uken, inkludert saker fra 1880-årene til tidlig 1900-tallet. Behandlingen av forespørslene pågår fortsatt, og det er en generell økning i interesse for slike historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler om krigstidens fangenskap]]></title>
-  <guid>b921d755-dc51-4852-bd4a-124df2f250fb</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[Forespørselen om en fange fra 2. verdenskrig er en av de mange sakene Riksarkivet arbeider med. Dette gjelder blant annet forskningsprosjekter som søk om informasjon om krigsfanger, noe som illustrerer den vedvarende interessen for å forstå de menneskelige historiene fra krigstiden.]]></description>
+  <title><![CDATA[Krigsseilere mot Staten-sak avsluttet]]></title>
+  <guid>0367ed33-7508-49f5-af4e-968d11dcf37a</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har ferdigstilt behandlingen av en sak fra 1947-1954 som omhandler krigsseilere mot staten. Denne avslutningen markerer et viktig skritt i å gi innsikt i historiske sivile saker som har preget norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Sak om brennbare tekstiler under behandling]]></title>
-  <guid>9e161449-2232-44d6-8a10-96da68279997</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har sendt inn en forespørsel til Riksarkivet om forskriftene rundt forbud mot svært brennbare tekstiler fra 1984. Saken er fortsatt under behandling og understreker viktigheten av å forstå reguleringshistorikken innenfor brannforebygging.]]></description>
+  <title><![CDATA[Rask behandling av mannskapsliste]]></title>
+  <guid>cee044b9-5913-41e4-8405-dc91205a2ef0</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fullført en forespørsel om en mannskapsliste fra Bergersens rederi, "Havstraum", på kun to dager. Dette viser effektiviteten i behandlingen av slike forespørsler, til glede for privatpersoner som søker slektshistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Evakueringen fra Finnmark granskes]]></title>
-  <guid>05c570b1-c538-43a9-bb1d-0e9a1c405855</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler en forespørsel fra en privatperson om kontrollbøkene fra evakueringen av Finnmark. Saken, som har lav prioritet, viser en fortsatt interesse for å forstå de logistiske og administrative aspektene ved denne historiske hendelsen.]]></description>
+  <title><![CDATA[Digitalisering av Finansdepartementets arkiver]]></title>
+  <guid>cb32067a-e01b-4887-b292-7386f863341b</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med digitalisering av Finansdepartementets kommisjonsarkiver, en forespørsel som ble mottatt fra en forsker. Prosjektet er ennå ikke fullført, men når det er ferdigstilt, vil det gi bedre tilgang for akademiske formål.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av historisk materiale pågår]]></title>
-  <guid>88c42351-4f7a-4639-89e9-855681093bef</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[Riksarkivet arbeider med digitaliseringen av "Torpedokommando Bakarvaagen", noe som vil forbedre tilgangen til viktige historiske dokumenter. Dette prosjektet er en del av et større initiativ for å gjøre arkivmateriale mer tilgjengelig for offentligheten.]]></description>
-</item>
-<item>
-  <title><![CDATA[Historisk innsyn i Nobelprisens presseopplegg]]></title>
-  <guid>52c93d46-de23-4000-9171-86830b2c998b</guid>
-  <pubDate>Thu, 25 Sep 2025 11:01:40 GMT</pubDate>
-  <description><![CDATA[En forespørsel om dokumentasjon av presseopplegget for Nobel fredspris i 1994 er blitt behandlet av Riksarkivet. Saken understreker interessen for hvordan internasjonale begivenheter ble formidlet til offentligheten og gir innsikt i mediehåndteringen av prestisjefylte priser.]]></description>
+  <title><![CDATA[Høy etterspørsel etter arkivsøk]]></title>
+  <guid>ffb89a1a-79a9-49b2-b6ea-923d1b5f7f24</guid>
+  <pubDate>Fri, 26 Sep 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Arkivsøk er en hyppig forespørsel denne uken både i Riksarkivet og Statsarkivet i Oslo, med henvendelser om alt fra Partnair-ulykken i 1989 til telegrammer fra 1905. Dette viser en bred interesse for forskjellige historiske dokumenter.]]></description>
 </item>
 
 
