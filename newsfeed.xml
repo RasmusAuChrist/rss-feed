@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 27 Sep 2025 11:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 07:01:23 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende etterspørsel etter landssviksaker]]></title>
-  <guid>4d8909d3-f773-46ad-8396-ec49b9ee7468</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en betydelig mengde forespørsler om landssviksaker den siste uken. Flere privatpersoner har etterspurt informasjon om saker fra 1940-tallet, noe som viser vedvarende interesse for denne delen av norsk historie.]]></description>
+  <title><![CDATA[Økning i landssvik-relaterte forespørsler]]></title>
+  <guid>b1ec9685-a209-4917-911d-065a0af1679f</guid>
+  <pubDate>Sun, 28 Sep 2025 07:01:23 GMT</pubDate>
+  <description><![CDATA[Riksarkivet merker en økning i forespørsler knyttet til landssvik-saker fra privatpersoner. Det er opprettet flere saker med standard hastegrad den siste uken. Dette kan tyde på økt interesse for historisk forskning eller personlig tilknytning til temaet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om dødsfall og skiftebehandling]]></title>
-  <guid>3382174d-2cd8-43a3-a07f-221988297626</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo (SAO) har mottatt flere forespørsler fra offentlige etater om dødsfall og skiftebehandling. Disse sakene har fått høyere prioritet med tanke på rask behandling.]]></description>
+  <title><![CDATA[Rask behandling av arkivsøk om damanlegg]]></title>
+  <guid>7653ec57-eef6-42df-aeec-198f873ff0cd</guid>
+  <pubDate>Sun, 28 Sep 2025 07:01:23 GMT</pubDate>
+  <description><![CDATA[En privatperson fikk raskt svar på en forespørsel om damanlegg i Skien. Med kort hastegrad ble saken avsluttet i løpet av en dag, noe som viser effektiviteten i behandlingen av dokumentforespørsler i Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk interesse for krigsseilerne]]></title>
-  <guid>69510c03-f072-410d-86fe-135af8f964d7</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[En sak om sivile rettssaker mellom krigsseilere og staten fra 1947-1954 har blitt fullført. Dette indikerer fortsatt interesse for krigsseilernes skjebne etter krigen.]]></description>
+  <title><![CDATA[Interesse for nobelprisdokumentasjon]]></title>
+  <guid>718d5635-e47f-4e6b-988a-d042f6a42cc7</guid>
+  <pubDate>Sun, 28 Sep 2025 07:01:23 GMT</pubDate>
+  <description><![CDATA[En forespørsel om dokumentasjon rundt presseopplegg for Nobel fredspris 1994 ble nylig behandlet. Denne typen henvendelser fra privatpersoner viser en interesse for historisk innsikt i Nobelprisens håndtering.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitaliseringsprosjekter i Riksarkivet]]></title>
-  <guid>afd0be81-db13-4735-9a73-448d4a9e7b03</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[Forskere og studenter har vist stor interesse for digitalisering av historiske arkiver, spesielt relatert til finansdepartementets kommisjoner og Torpedokommando Bakarvaagen.]]></description>
+  <title><![CDATA[Digitalisering av finansdokumenter forsinket]]></title>
+  <guid>1fa5d652-dc0f-437f-8346-97b67cbe3cd9</guid>
+  <pubDate>Sun, 28 Sep 2025 07:01:23 GMT</pubDate>
+  <description><![CDATA[En sak om digitalisering av Finansdepartementets dokumenter i Riksarkivet er ennå ikke fullført. Dette kan indikere utfordringer med digitalisering av store arkiver, en viktig oppgave for å sikre tilgjengelighet av historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker historisk informasjon]]></title>
-  <guid>33bdd5ff-2dcd-40bc-8814-a77b3eb0e501</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har sendt inn flere forespørsler om historisk dokumentasjon, inkludert telegrammer fra 1905 og forskrifter om brennbare tekstiler fra 1984. Disse forespørslene har blitt behandlet med høy prioritet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Økt fokus på eiendomssaker i Oslo]]></title>
-  <guid>6f1360f1-f98e-4e4c-987c-179aa956d208</guid>
-  <pubDate>Sat, 27 Sep 2025 11:01:04 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fått flere henvendelser om eiendomssaker, inkludert forespørsler fra profesjonelle aktører og privatpersoner. Behandlingen av disse sakene har blitt prioritert for å møte etterspørselen.]]></description>
+  <title><![CDATA[Oppfølging av eiendomssaker i Asker]]></title>
+  <guid>60ff46a8-4586-4f19-85fc-ae5f3633fd58</guid>
+  <pubDate>Sun, 28 Sep 2025 07:01:23 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har fullført flere eiendomssaker, inkludert en oppfølging av en tidligere sak i Asker. Profesjonelle aktører viser interesse for historiske eiendomsdata, noe som understreker arkivenes viktige rolle i juridiske og økonomiske undersøkelser.]]></description>
 </item>
 
 
