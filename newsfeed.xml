@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 28 Sep 2025 11:00:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 07:01:00 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økning i landssviksaker hos Riksarkivet]]></title>
-  <guid>384b4531-3334-4c1f-a951-eb56456b3111</guid>
-  <pubDate>Sun, 28 Sep 2025 11:00:35 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar en økende mengde forespørsler om landssviksaker, med flere henvendelser fra privatpersoner og profesjonelle aktører. Behandlingen av disse sakene er pågående, og det forventes at etterspørselen vil fortsette. Dette understreker den vedvarende interessen for historiske hendelser fra krigsårene.]]></description>
+  <title><![CDATA[Flere henvendelser om landssvikoppgjør]]></title>
+  <guid>01506b31-6482-43d1-977d-20a9e9daf61a</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler fra privatpersoner om landssvikdommer. Blant disse er saker knyttet til personer født tidlig på 1900-tallet. Sakene har standard hastegrad og er foreløpig ikke ferdigbehandlet. Dette viser en vedvarende interesse for etterkrigstidens landssvikoppgjør.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter dødsfallsdokumentasjon]]></title>
-  <guid>76e6be82-8557-4b9d-995b-94b98b3b3ad9</guid>
-  <pubDate>Sun, 28 Sep 2025 11:00:35 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler fra offentlige etater om dødsfall og skifteopplysninger, inkludert saker om personer fra Oslo og Nesodden. Disse sakene har høy prioritet og håndteres for å bistå i forvaltningsmessige behov.]]></description>
+  <title><![CDATA[Presse viser interesse for landssviksaker]]></title>
+  <guid>3a9d3ffc-89d2-43b2-a616-7f7919f75c2e</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[En sak om landssvik relatert til en person født i 1921 er sendt til Riksarkivet, med pressen som brukergruppe. Dette indikerer at mediene fortsatt er opptatt av å belyse historiske rettsoppgjør, selv flere tiår etter krigens slutt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske dokumenter etterspurt av forskere]]></title>
-  <guid>5f2d179e-9ec8-40c4-b2f4-38bc559c4d52</guid>
-  <pubDate>Sun, 28 Sep 2025 11:00:35 GMT</pubDate>
-  <description><![CDATA[Forskere viser økende interesse for historiske dokumenter, med forespørsler om kilder som Todt-arkivet og evakueringen fra Finnmark. Riksarkivet arbeider med digitalisering og kildeveiledning for å støtte akademiske prosjekter og sikre tilgjengelighet til viktige historiske data.]]></description>
+  <title><![CDATA[Pågang om skattelister i Oslo]]></title>
+  <guid>d1b6480c-379e-4bd4-be8b-ab34a2b4cc44</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo mottar flere forespørsler om historiske skattelister fra privatpersoner. Blant de ubehandlede sakene er forespørsler for årene 1975 til 1991. Dette kan tyde på økt interesse for personlig økonomisk historie i Oslo-området.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige henvendelser om dødsårsaksregisteret]]></title>
-  <guid>7508cad6-ad41-45c1-a911-5c409c01187b</guid>
-  <pubDate>Sun, 28 Sep 2025 11:00:35 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler forespørsler fra en offentlig etat om høringsnotater og kongelige resolusjoner angående Dødsårsaksregisteret. Dette indikerer et fokus på helsehistorikk og administrative prosedyrer som krever grundig dokumentasjon.]]></description>
+  <title><![CDATA[Offentlig etat etterspør dødsårsaksregister]]></title>
+  <guid>ae918df8-20a6-45dd-be39-146b201825eb</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har bedt om høringsnotat og eventuell kongelig resolusjon om Dødsårsaksregisteret. Dette kan påvirke fremtidig bruk og regulering av helseopplysninger i Norge. Behandlingen er fortsatt pågående i Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om eldre eiendomssaker]]></title>
-  <guid>4dac6015-c2b5-4a82-8234-a21ccbe9a3a0</guid>
-  <pubDate>Sun, 28 Sep 2025 11:00:35 GMT</pubDate>
-  <description><![CDATA[Annen profesjonell aktør har forespurt opplysninger om eiendom i Asker og Oslo, med særlig fokus på historiske gårds- og bruksnummer. Disse sakene behandles med standard prioritet og bidrar til forståelse av eiendomsutvikling og arv.]]></description>
+  <title><![CDATA[Digitaliseringsprosjekt i Riksarkivet]]></title>
+  <guid>5670ea6a-6d1b-418b-8c45-f4f0f1a48ad2</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med digitalisering av Todt-arkivet, som er etterspurt av forskere og studenter. Prosjektet er viktig for å gjøre historiske dokumenter mer tilgjengelige for akademisk forskning og offentligheten.]]></description>
+</item>
+<item>
+  <title><![CDATA[Historisk arkivsøk om telegram fra 1905]]></title>
+  <guid>afab3a5c-3701-4c76-987a-041282e30c0a</guid>
+  <pubDate>Mon, 29 Sep 2025 07:01:00 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har ferdigbehandlet en forespørsel fra en offentlig etat angående et telegram fra Japan til Norge, datert november 1905. Saken, som hadde kort hastegrad, viser interesse for diplomatiske forbindelser i tidlig 1900-tall.]]></description>
 </item>
 
 
