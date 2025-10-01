@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 30 Sep 2025 11:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 07:01:19 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>d4c31db5-21b1-47e1-a624-d12c5f723882</guid>
-  <pubDate>Tue, 30 Sep 2025 11:00:58 GMT</pubDate>
-  <description><![CDATA[Det har vært en merkbar økning i forespørsler om landssviksaker den siste uken. Flere privatpersoner og profesjonelle aktører har bedt om informasjon, noe som tyder på en vedvarende interesse for denne delen av norsk historie. Flere saker er fortsatt under behandling.]]></description>
+  <title><![CDATA[Landssvik-saker dominerer i Riksarkivet]]></title>
+  <guid>564b6dd3-e24d-4b11-ad69-a9fcb3455383</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[En rekke landssvik-relaterte saker har blitt behandlet i Riksarkivet denne uken. Flere privatpersoner har søkt tilgang til dokumenter om personer involvert i slike saker fra krigsårene. Behandlingen av disse sakene fortsetter med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker historiske data]]></title>
-  <guid>fbec9806-19a5-4934-8853-abb633595327</guid>
-  <pubDate>Tue, 30 Sep 2025 11:00:58 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har forespurt tilgang til historiske arkiver, inkludert mudring av Myre havn og forskrifter om brennbare tekstiler. Disse forespørslene viser en aktiv bruk av historiske data i dagens samfunnsplanlegging og reguleringer.]]></description>
+  <title><![CDATA[Eiendomshenvendelser med høy prioritet]]></title>
+  <guid>d557f216-1aca-47e7-9558-380c3ad2ef46</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om eiendomsdokumenter, inkludert en hastesak fra Lørenskog. Denne typen saker krever ofte rask behandling, og innsendere oppfordres til å merke viktige saker med riktig hastegrad for effektiv håndtering.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter slektsforskning]]></title>
-  <guid>3a92487e-306b-48e8-b166-b60e05dd3f08</guid>
-  <pubDate>Tue, 30 Sep 2025 11:00:58 GMT</pubDate>
-  <description><![CDATA[Privatpersoner fortsetter å vise stor interesse for slektsforskning, med flere forespørsler om mannskapslister og slektsdokumenter. Etterspørselen understreker viktigheten av arkivene i å bevare personlig og nasjonal historie.]]></description>
+  <title><![CDATA[Kopibestillinger i Riksarkivet]]></title>
+  <guid>dd9f5964-4cb7-4c92-b52d-da5c428e1bb0</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere kopibestillinger, inkludert etterspørsel etter dokumenter fra Industridepartementet og Rentekammeret. Slike forespørsler blir vanligvis behandlet med standard hastegrad, og prosessen kan variere avhengig av dokumentenes alder og tilgjengelighet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk dominerer forespørslene]]></title>
-  <guid>b5ac3126-7387-469a-a1d1-89d2cbb70b62</guid>
-  <pubDate>Tue, 30 Sep 2025 11:00:58 GMT</pubDate>
-  <description><![CDATA[Arkivsøk utgjør en betydelig del av henvendelsene til Riksarkivet den siste uken. Både privatpersoner, forskere og offentlige etater har vist interesse for alt fra telegrammer fra 1905 til nyere anbudsgrunnlag. Dette viser arkivenes viktige rolle i både historisk forskning og moderne beslutningsprosesser.]]></description>
+  <title><![CDATA[Offentlige etater søker historisk innsikt]]></title>
+  <guid>424bc858-6319-4915-b5f3-1e8c01671a2e</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[Flere offentlige etater har denne uken sendt inn forespørsler til Riksarkivet for tilgang til historiske dokumenter. Blant sakene er søk etter tjenestereglement for Forsvaret og tilgang til Norges historiske arkiver. Behandlingstiden er standard, men kan variere basert på dokumentenes kompleksitet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Høy aktivitet i Oslo og Riksarkivet]]></title>
-  <guid>c3d52eed-7834-4bf9-a0d7-3018bb5310b5</guid>
-  <pubDate>Tue, 30 Sep 2025 11:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har mottatt en stor mengde saker fra både privatpersoner og profesjonelle aktører. Interessen spenner fra vigselsattester til sivile saker og landssviksaker, noe som fører til høy aktivitet og pågående saksbehandling.]]></description>
+  <title><![CDATA[Avsluttede skattesaker i Oslo]]></title>
+  <guid>e164915e-e3fd-448b-8acc-16510cc911ad</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har avsluttet flere forespørsler om innsyn i eldre skattelister. Sakene omfattet periodene 1985-1990 og 1994-2000, og ble behandlet raskt etter opprettelse. Innsendte forespørsler er nå ferdigbehandlet og tilgjengelig for innsenderne.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forsknings- og studentforespørsler i fokus]]></title>
+  <guid>da83c40a-d24e-4410-a56d-ed87c02acb59</guid>
+  <pubDate>Wed, 01 Oct 2025 07:01:19 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter, inkludert søk etter anbudsgrunnlag og digitaliseringsprosjekter. Disse sakene behandles med standard hastegrad, og viser en økende interesse for akademisk tilgang til arkivmateriale.]]></description>
 </item>
 
 
