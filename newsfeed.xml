@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 05 Oct 2025 07:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 11:00:55 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy etterspørsel etter landssviksaker]]></title>
-  <guid>cd61b019-a52f-4adf-bb7d-770c243b38ff</guid>
-  <pubDate>Sun, 05 Oct 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt et betydelig antall forespørsler fra privatpersoner om tilgang til landssviksaker. Flere saker er fortsatt under behandling, med innkomne forespørsler om personer født fra slutten av 1800-tallet til midten av 1900-tallet.]]></description>
+  <title><![CDATA[Økning i landssvik-saker]]></title>
+  <guid>212399f5-694a-47dd-be71-ebffee11257c</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvik-saker den siste uken. Disse sakene omfatter personer født mellom slutten av 1800-tallet og tidlig 1900-tall. Brukergruppen er hovedsakelig privatpersoner med standard hastegrad, noe som indikerer en vedvarende interesse for historiske rettsprosesser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestillinger håndteres raskt]]></title>
-  <guid>4c14abff-ed06-4936-9a4a-4d08b747c258</guid>
-  <pubDate>Sun, 05 Oct 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Flere kopibestillinger, inkludert forespørsler knyttet til skattelister og historiske dokumenter, har blitt ferdigbehandlet i løpet av kort tid ved Oslo Statsarkiv. Dette viser en effektiv håndtering av standardforespørsler.]]></description>
+  <title><![CDATA[Skattelister for Oslo-området]]></title>
+  <guid>464e17c1-f4ae-4bb4-be55-c50cc992c8de</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har håndtert flere forespørsler om innsyn i skattelister fra 1980-tallet. Disse forespørslene kommer primært fra privatpersoner med standard hastegrad, og dekker årene 1982-1983 samt 1987-1988. Dette viser en interesse for økonomisk historie i Oslo-området.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt interesse for dødsfall og skiftesaker]]></title>
-  <guid>c61cca3a-c65c-44a6-8323-56dfd969f164</guid>
-  <pubDate>Sun, 05 Oct 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Oslo Statsarkiv har mottatt flere henvendelser om dødsfall og skiftesaker fra både privatpersoner og profesjonelle aktører. Sakene spenner fra tidlig 1600-tall til slutten av 1900-tallet, noe som indikerer en bred interesse for slekts- og eiendomshistorie.]]></description>
+  <title><![CDATA[Diverse forespørsel om dødsfall og skifte]]></title>
+  <guid>adf9285b-8047-4f76-88a8-96c53cb8dcac</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Det har vært en rekke forespørsler om dødsfall og skifte, inkludert saker fra ulike tidsperioder som 1623 og 1980-tallet. Disse sakene behandles av både Riksarkivet og Statsarkivet i Oslo, med lav til standard hastegrad. Brukergruppen inkluderer både privatpersoner og profesjonelle aktører.]]></description>
+</item>
+<item>
+  <title><![CDATA[Etterspørsel etter militærhistorie øker]]></title>
+  <guid>6082ec92-3254-4690-926c-2eeff9fda862</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere forespørsler om militære rulleblad og tjenesteuttalelser. Forespørslene kommer fra privatpersoner, og omfatter personer som tjenestegjorde i første halvdel av 1900-tallet. Dette indikerer økt interesse for familiemedlemmers militærhistorie.]]></description>
 </item>
 <item>
   <title><![CDATA[Offentlige etater søker historisk innsyn]]></title>
-  <guid>1eb0a14c-b28d-469f-8786-c9c7503d92c5</guid>
-  <pubDate>Sun, 05 Oct 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler fra offentlige etater om innsyn i historiske arkiver, inkludert dokumenter fra Helse- og omsorgsdepartementet og Kystverket. Dette viser et behov for tilgang til historiske referanser i offentlig forvaltning.]]></description>
+  <guid>a33fe265-0d59-4276-9f7f-db9bb62309fb</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har sendt flere forespørsler om innsyn i historiske dokumenter, inkludert saker fra Helse- og omsorgsdepartementet og Kystverket. Disse forespørslene har standard hastegrad og viser behovet for å forstå historiske bakgrunner for dagens lovverk og reguleringer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseinteresse for maritime krigsloggbøker]]></title>
-  <guid>4859cb5c-0ad8-4685-979a-9c3cc0fb5cc3</guid>
-  <pubDate>Sun, 05 Oct 2025 07:01:08 GMT</pubDate>
-  <description><![CDATA[En presseaktør har sendt inn forespørsel om loggbøker fra andre verdenskrig relatert til fartøyene MS Tudør, MS Troja og MS Tijuca. Dette kan tyde på kommende publiseringer eller dokumentarer om krigshistorie.]]></description>
+  <title><![CDATA[Fokus på flyktninghistorie til Sverige]]></title>
+  <guid>ef8c2526-b435-438e-ae46-5129130392ca</guid>
+  <pubDate>Sun, 05 Oct 2025 11:00:55 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om innsyn i Kjesäterkartoteket, som dokumenterer flyktninger til Sverige under andre verdenskrig. Forespørselen, som er kategorisert som lav hastighet, indikerer en vedvarende interesse for denne delen av norsk krigshistorie.]]></description>
 </item>
 
 
