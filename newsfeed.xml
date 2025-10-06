@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 06 Oct 2025 07:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 11:01:06 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>a9062ef6-cca0-4b64-b01a-e5066f8362bf</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[En rekke nye henvendelser om landssviksaker har kommet inn til Riksarkivet den siste uken. Flere privatpersoner søker informasjon om saker fra krigens dager. Etterspørselen viser en økende interesse for å forstå historiske hendelser og personers roller under andre verdenskrig.]]></description>
+  <title><![CDATA[Interesse for landssviksaker øker]]></title>
+  <guid>2033ef82-3735-4205-b72e-2db5afd4c026</guid>
+  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har den siste uken mottatt flere forespørsler om landssviksaker fra privatpersoner. Flere saker er allerede behandlet, mens enkelte fortsatt er under behandling. Dette viser en vedvarende interesse for historiske hendelser fra andre verdenskrig blant publikum.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske infrastrukturplaner etterspurt]]></title>
-  <guid>702d7ac7-4a0e-4987-ba73-1a1be0a78e90</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[En ny forespørsel om tyske planer for motorveier i Norge under andre verdenskrig er mottatt av Riksarkivet. Dette understreker en vedvarende interesse for hvordan krigen påvirket norsk infrastruktur og planlegging.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske dokumenter]]></title>
+  <guid>0f90b480-d82b-43c9-8f60-9f3662b99faa</guid>
+  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Historiske henvendelser, som tvangsevakueringen fra Finnmark og tyske motorveiplaner under andre verdenskrig, er blant sakene Riksarkivet nå behandler. Forespørslene viser en økende interesse for å forstå nasjonens fortid og dens innvirkning på dagens samfunn.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestillinger av historiske dokumenter]]></title>
-  <guid>89dc9ac4-319c-4cd8-8abf-29a78b724e1e</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fullført kopi-bestillinger relatert til skiftedokumenter fra 1980-tallet og vigselsattester fra 2000. Dette viser en stabil etterspørsel etter dokumentasjon for personlig og juridisk bruk.]]></description>
+  <title><![CDATA[Forespørsler om slektsforskning i fokus]]></title>
+  <guid>a2a69882-6c18-4484-899d-9b7c2e7e655c</guid>
+  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Privatpersoner søker informasjon om slektshistorie, inkludert forespørsler knyttet til enkeltpersoner fra tidlig 1900-tall til 2. verdenskrig. Riksarkivet og Statsarkivet i Oslo mottar jevnlig slike forespørsler, som viser en vedvarende interesse for å kartlegge familiehistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for militære rulleblad]]></title>
-  <guid>4dc27574-adde-4864-9203-af9714553cca</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok nylig forespørsler om tilgang til militære rulleblad og tjenesteuttalelser. Dette indikerer et ønske fra privatpersoner om å forstå familiens militære historie og deres forfedres deltakelse i nasjonalt forsvar.]]></description>
+  <title><![CDATA[Forskerinnsyn på vent]]></title>
+  <guid>3e33906a-7cc6-4ed7-b4f6-385dcadeaefa</guid>
+  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Flere forskerinstitusjoner venter på svar fra Riksarkivet og Statsarkivet i Oslo. Blant annet er det henvendelser om "Nathalies reise" og en masteroppgave om Nasjonal Samling. Disse sakene er under behandling og vil bidra til videre akademisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning på Nasjonal Samling]]></title>
-  <guid>eb59a178-7df2-4af6-994a-97ac2bbc2ae8</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[En forsker har fått innsyn i arkiver relatert til Nasjonal Samlings hovedkontor for en masteroppgave. Riksarkivets ressurser fortsetter å støtte akademisk forskning på norsk historie og politisk utvikling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Offentlig etat etterspør tilgang til historiske arkiver]]></title>
-  <guid>fd2c8d26-e9e5-4346-b539-4d128ed74d27</guid>
-  <pubDate>Mon, 06 Oct 2025 07:01:30 GMT</pubDate>
-  <description><![CDATA[Flere henvendelser fra offentlige etater om tilgang til egne historiske arkiver er mottatt. Dette inkluderer forespørsler om innsyn i tidligere saker og dokumenter, noe som hjelper med administrativ kontinuitet og historisk kartlegging.]]></description>
+  <title><![CDATA[Statsborgerskap og navneendringer behandles]]></title>
+  <guid>f87cedca-d26c-44f3-8327-b87af0981682</guid>
+  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
+  <description><![CDATA[Forespørsler om statsborgerskap og navneendringer mottas fra privatpersoner. Disse sakene behandles raskt, som viser effektiviteten i systemet. Blant sakene er forespørsler om statsborgerskap fra både 1950-tallet og nyere tid.]]></description>
 </item>
 
 
