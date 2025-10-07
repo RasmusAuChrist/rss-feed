@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 06 Oct 2025 11:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 07:01:29 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Interesse for landssviksaker øker]]></title>
-  <guid>2033ef82-3735-4205-b72e-2db5afd4c026</guid>
-  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har den siste uken mottatt flere forespørsler om landssviksaker fra privatpersoner. Flere saker er allerede behandlet, mens enkelte fortsatt er under behandling. Dette viser en vedvarende interesse for historiske hendelser fra andre verdenskrig blant publikum.]]></description>
+  <title><![CDATA[Høy aktivitet i landssviksaker]]></title>
+  <guid>f9d2eebe-ce5f-4fd2-8a21-e6801b9d9ac2</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Den siste uken har Riksarkivet behandlet en rekke forespørsler relatert til landssviksaker. Mange privatpersoner søker informasjon om historiske landssviksaker, og flere av disse sakene har blitt raskt fullført, med behandlingstid på bare noen få dager. Dette viser en økt interesse for å utforske historiske hendelser og personers roller under andre verdenskrig.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter historiske dokumenter]]></title>
-  <guid>0f90b480-d82b-43c9-8f60-9f3662b99faa</guid>
-  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
-  <description><![CDATA[Historiske henvendelser, som tvangsevakueringen fra Finnmark og tyske motorveiplaner under andre verdenskrig, er blant sakene Riksarkivet nå behandler. Forespørslene viser en økende interesse for å forstå nasjonens fortid og dens innvirkning på dagens samfunn.]]></description>
+  <title><![CDATA[Forskerinnsyn på agendaen i Oslo]]></title>
+  <guid>f9a66f8a-b236-4c2d-91a4-856f32b9a5e6</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig mottatt flere forespørsler om forskerinnsyn, blant annet for en masteroppgave og en sak om en historisk reise. Slike forespørsler indikerer en fortsatt interesse fra forskere og studenter for å få tilgang til arkivmateriale som kan belyse og utdype akademiske prosjekter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsler om slektsforskning i fokus]]></title>
-  <guid>a2a69882-6c18-4484-899d-9b7c2e7e655c</guid>
-  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
-  <description><![CDATA[Privatpersoner søker informasjon om slektshistorie, inkludert forespørsler knyttet til enkeltpersoner fra tidlig 1900-tall til 2. verdenskrig. Riksarkivet og Statsarkivet i Oslo mottar jevnlig slike forespørsler, som viser en vedvarende interesse for å kartlegge familiehistorie.]]></description>
+  <title><![CDATA[Militære rulleblad og slektsforskning]]></title>
+  <guid>e9ffd60b-9932-4a06-9735-112772ca7d5f</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler angående militære rulleblad og slektshistorie. Privatpersoner søker opplysninger om forfedres militære tjenester og deres roller under andre verdenskrig. Disse sakene har lav hastegrad, men viser en vedvarende interesse for personlig slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn på vent]]></title>
-  <guid>3e33906a-7cc6-4ed7-b4f6-385dcadeaefa</guid>
-  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
-  <description><![CDATA[Flere forskerinstitusjoner venter på svar fra Riksarkivet og Statsarkivet i Oslo. Blant annet er det henvendelser om "Nathalies reise" og en masteroppgave om Nasjonal Samling. Disse sakene er under behandling og vil bidra til videre akademisk forskning.]]></description>
+  <title><![CDATA[Interesse for historiske kjøretøyrestriksjoner]]></title>
+  <guid>246ac7d4-e707-496b-9704-12e4a0364785</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[En sak om oppheving av restriksjoner på privatbiler fra 1960 er under behandling i Riksarkivet. Dette temaet har vekket interesse blant privatpersoner som ønsker å forstå historiske endringer i transportpolitikk. Behandlingen av slike saker gir innsikt i samfunnsutviklingen i etterkrigstiden.]]></description>
 </item>
 <item>
-  <title><![CDATA[Statsborgerskap og navneendringer behandles]]></title>
-  <guid>f87cedca-d26c-44f3-8327-b87af0981682</guid>
-  <pubDate>Mon, 06 Oct 2025 11:01:06 GMT</pubDate>
-  <description><![CDATA[Forespørsler om statsborgerskap og navneendringer mottas fra privatpersoner. Disse sakene behandles raskt, som viser effektiviteten i systemet. Blant sakene er forespørsler om statsborgerskap fra både 1950-tallet og nyere tid.]]></description>
+  <title><![CDATA[Statsarkivet i Oslo behandler eiendomssaker]]></title>
+  <guid>7653f866-bae5-4124-8851-1d50822a4cab</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Flere eiendomssaker er under behandling hos Statsarkivet i Oslo. Privatpersoner har vist interesse for informasjon om eiendommer i Bærum og andre områder. Sakene varierer i hastegrad, men illustrerer et pågående behov for dokumentasjon og klarhet i eiendomsforhold.]]></description>
+</item>
+<item>
+  <title><![CDATA[Historisk innsikt i norske farvann]]></title>
+  <guid>9bee9e5b-4d4f-4344-b0d7-cf309a253ade</guid>
+  <pubDate>Tue, 07 Oct 2025 07:01:29 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet en forespørsel fra pressen om loggbøker fra skip under andre verdenskrig. Med økt fokus på maritim historie, gir slike dokumenter verdifull innsikt i norske farvanns betydning under krigen. Dette er en del av en bredere interesse for krigshistorie og skipsfart.]]></description>
 </item>
 
 
