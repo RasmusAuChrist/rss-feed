@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 08 Oct 2025 07:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 11:01:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for historiske kopibestillinger]]></title>
-  <guid>16c84673-33fe-41fa-8660-d75451b68710</guid>
-  <pubDate>Wed, 08 Oct 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om kopibestillinger den siste uken, inkludert kart fra 1674 og diplomer fra 1279-1302. Etterspørselen etter historiske dokumenter viser en vedvarende interesse for å dykke dypere inn i vår fortid.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske kart og diplomer]]></title>
+  <guid>367bb542-c5ae-4a85-98bc-f8686b1f84c9</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[En privatperson har bestilt kopier av et kart over Ballangshalvøya fra 1674 og diplomer fra perioden 1279-1302. Kartbestillingen er ennå ikke fullført, mens diplomene ble raskt behandlet og fullført dagen etter forespørselen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Fangeerstatningssak ferdigbehandlet]]></title>
-  <guid>bb780f32-d264-4820-b594-106de71ad0a0</guid>
-  <pubDate>Wed, 08 Oct 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[En forespørsel om innsyn i en fangeerstatningssak fra Riksarkivet ble nylig ferdigstilt. Saken hadde standard hastegrad og viser hvordan Riksarkivet håndterer komplekse saker for privatpersoner effektivt.]]></description>
+  <title><![CDATA[Økende interesse for landssvik-saker]]></title>
+  <guid>6b90ac48-2fb2-4e73-bbda-a73467aed37d</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har den siste uken mottatt flere forespørsler om innsyn i landssvik-saker fra andre verdenskrig. Flere av sakene har blitt behandlet raskt, mens noen fortsatt er under behandling. Dette viser en vedvarende interesse for denne delen av norsk historie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker arkivsøkstjenester]]></title>
-  <guid>73922ce3-b541-4f3f-a124-5f62bfd20861</guid>
-  <pubDate>Wed, 08 Oct 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har denne uken søkt om arkivsøk i saker som Kgl. res. om orlogsflagget og Justisdepartementets lovavdeling. Dette understreker arkivenes rolle i å støtte offentlig forvaltning.]]></description>
+  <title><![CDATA[Innsyn i fangeerstatningssaker fullført raskt]]></title>
+  <guid>0b85d05b-15c8-401b-93b9-c67a55e6cb79</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[En forespørsel om innsyn i en fangeerstatningssak ble behandlet og fullført samme dag den ble opprettet. Dette viser effektiv saksbehandlingstid for slike forespørsler i Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Aktivitet rundt landssvikssaker]]></title>
-  <guid>85612334-d9b9-4d11-a434-cb90a2bbf93a</guid>
-  <pubDate>Wed, 08 Oct 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Det har vært betydelig aktivitet rundt landssvikssaker i Riksarkivet. Flere saker har blitt ferdigbehandlet, noe som reflekterer en fortsatt interesse i å belyse deler av Norges historie fra andre verdenskrig.]]></description>
+  <title><![CDATA[Offentlige etater søker historiske opplysninger]]></title>
+  <guid>67d6736b-7de4-4ee3-a4ec-0a29ec300143</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har vist interesse for historiske dokumenter, som avtaler om gravsteder og beredskapslovgivning. Flere av disse forespørslene er allerede ferdigbehandlet, noe som viser god progresjon i saksbehandlingen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Vellykket omvisning for Statens vegvesen]]></title>
-  <guid>f8cc99e5-1523-483c-aa29-0523746ee7c6</guid>
-  <pubDate>Wed, 08 Oct 2025 07:01:05 GMT</pubDate>
-  <description><![CDATA[Riksarkivet arrangerte en vellykket omvisning for Statens vegvesen sitt landsdekkende dokumentsenter. Omvisningen bidrar til å styrke samarbeidet mellom arkivet og offentlige etater.]]></description>
+  <title><![CDATA[Forespørsel om medaljetildeling fra 1943 behandlet]]></title>
+  <guid>f94aac92-2761-4dca-9443-33d47bf76979</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[En forespørsel om tildeling av Håkon Vlls årsmedalje fra 1943 ble behandlet samme dag den ble mottatt. Dette viser Riksarkivets evne til å håndtere henvendelser om historiske dekorasjoner effektivt.]]></description>
+</item>
+<item>
+  <title><![CDATA[Historiske straffesaker under behandling]]></title>
+  <guid>722532df-c4dd-4d96-b5c1-1c6dce86a3c6</guid>
+  <pubDate>Wed, 08 Oct 2025 11:01:02 GMT</pubDate>
+  <description><![CDATA[Oslo statsarkiv mottok nylig forespørsler om innsyn i flere historiske straffesaker, inkludert drapssaker fra 1936 og 1945. Behandling av disse sakene pågår fortsatt, og viser en vedvarende interesse for kriminalhistorie.]]></description>
 </item>
 
 
