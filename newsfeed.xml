@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 10 Oct 2025 07:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 11:01:03 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for eiendomshistorikk i Bærum]]></title>
-  <guid>9699c574-94a8-41f7-8b71-f113f257fb9d</guid>
-  <pubDate>Fri, 10 Oct 2025 07:00:57 GMT</pubDate>
-  <description><![CDATA[To saker om eiendomshistorikk i Bærum ble nylig behandlet i Statsarkivet i Oslo. Begge sakene hadde standard hastegrad og ble fullført samme dag. Dette viser en økende interesse fra profesjonelle aktører for historisk eiendomsinformasjon i området.]]></description>
+  <title><![CDATA[Økende interesse for historiske sjøfartøy]]></title>
+  <guid>535a120d-6654-481e-86a4-e5afe4059da0</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok nylig flere forespørsler om mannskapslister og sjøforklaringer for historiske fartøy. Privatpersoner viser særlig interesse for MS Svenør (1919) og MS Tancred (1955). Dette kan tyde på en økning i maritim historieinteresse blant brukerne.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militærhistorie]]></title>
-  <guid>fba30dc3-bd93-4cd8-93e2-7f9013deae4d</guid>
-  <pubDate>Fri, 10 Oct 2025 07:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok nylig flere forespørsler om militære rulleblad fra privatpersoner. Sakene er av standard hastegrad, men ingen er fullført. Dette indikerer en vedvarende interesse for militærhistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Hurtig saksbehandling av eiendomssaker i Bærum]]></title>
+  <guid>76a0088a-fc57-43ac-8563-9d1c29f771e5</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har nylig fullført to eiendomssaker i Bærum med imponerende hurtighet. Sakene ble ferdigstilt samme dag som de ble opprettet, noe som viser effektiv saksbehandling for profesjonelle aktører.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske krigssaker skaper engasjement]]></title>
-  <guid>6516cfc7-4bf3-4f09-8ce3-b7901497ea23</guid>
-  <pubDate>Fri, 10 Oct 2025 07:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har hatt mange forespørsler om landssvik og krigsrelaterte saker den siste uken. Flere av sakene er allerede fullført, noe som viser effektivitet i behandlingstid og stor interesse for denne delen av norsk historie.]]></description>
+  <title><![CDATA[Etterspørsel etter kildeveiledning i arkivene]]></title>
+  <guid>76c185a9-c92d-4983-b7ad-e2ec1feb9aa6</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere henvendelser om kildeveiledning, blant annet om Kong Chr.IVs arkiver og Statholderarkivet. Forespørslene kommer fra forskere og studenter, som søker dypere innsikt i historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Tildeling av medaljer i fokus]]></title>
-  <guid>0cb7d718-e7b8-450d-b421-6644cd3d2188</guid>
-  <pubDate>Fri, 10 Oct 2025 07:00:57 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har behandlet saker om tildeling av medaljer fra krigstiden. Sakene, som ble ferdigbehandlet innen kort tid, viser en interesse for å anerkjenne historiske militærprestasjoner. Etterspørselen kommer hovedsakelig fra privatpersoner.]]></description>
+  <title><![CDATA[Økt interesse for landssvikarkiver]]></title>
+  <guid>fa2418b8-3a2c-4e28-906b-545b1fd5455d</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Det har vært en merkbar etterspørsel etter innsyn i landssvikarkiver ved Riksarkivet. Flere saker om landssvik fra ulike tidsperioder har blitt behandlet, som viser en vedvarende interesse for temaet blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskning på norsk utenrikspolitikk]]></title>
-  <guid>3e1c5149-8ceb-46be-960c-1b4b573deffe</guid>
-  <pubDate>Fri, 10 Oct 2025 07:00:57 GMT</pubDate>
-  <description><![CDATA[En forsker har fått innsyn i norsk Baltikumspolitikk fra 1989 til 2002. Denne forespørselen ble behandlet raskt av Riksarkivet. Dette indikerer en pågående akademisk interesse for Norges rolle i internasjonale forhold.]]></description>
+  <title><![CDATA[Fullførte arkivsøk for offentlige etater]]></title>
+  <guid>befb3094-7dec-4295-8f4d-2d1327322dc4</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig fullført flere viktige arkivsøk for offentlige etater, inkludert saker om gravstedet til Amalie Skram og Kgl res. om orlogsflagget. Disse tjenestene viser arkivets støtte til offentlig forvaltning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Sak om norsk Baltikumspolitikk avsluttet]]></title>
+  <guid>c44a895f-129a-4ed4-beef-015048003c87</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[En forsker har fått innsyn i dokumenter om norsk Baltikumspolitikk fra 1989 til 2002. Saken, som ble behandlet av Riksarkivet, er nå fullført, og gir forskeren tilgang til viktig materiale for videre studier.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>30395cd2-8740-461e-8aa4-535bfd770ee3</guid>
+  <pubDate>Fri, 10 Oct 2025 11:01:03 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
