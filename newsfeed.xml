@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 11 Oct 2025 07:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 11:00:40 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende etterspørsel etter kildeveiledning]]></title>
-  <guid>e2d8ac97-f754-4c6d-8486-38ca4d30db99</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om kildeveiledning fra forskere og studenter, inkludert en sak om Kong Chr.IVs arkiver, med fokus på handelsnettverk og sjøfugl. Henvendelsen har høy hast og er en av flere som viser den økende interessen for historiske kilder.]]></description>
+  <title><![CDATA[Høy aktivitet i behandling av eiendomssaker]]></title>
+  <guid>203f6a84-33c4-49d5-99a2-38d34b779779</guid>
+  <pubDate>Sat, 11 Oct 2025 11:00:40 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere eiendomssaker nylig, inkludert gnr/bnr 81/13 og 81/11 i Bærum, som begge ble ferdigstilt samme dag. Dette viser en effektiv saksbehandling for profesjonelle aktører i eiendomssektoren.]]></description>
 </item>
 <item>
-  <title><![CDATA[Effektiv behandling av eiendomssaker i Oslo]]></title>
-  <guid>429dd005-58d3-47c9-a37b-2c09a17a716c</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har nylig fullført to eiendomssaker i Bærum med standard hastegrad på samme dag. Begge sakene ble behandlet raskt, noe som viser en effektiv håndtering av eiendomshenvendelser i arkivet.]]></description>
+  <title><![CDATA[Økende etterspørsel etter historiske kilder]]></title>
+  <guid>ac14dc2e-43f6-486e-9c89-2142a5a6d01e</guid>
+  <pubDate>Sat, 11 Oct 2025 11:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra forskere og studenter, blant annet om kildeveiledning til Kong Chr.IVs arkiver og norsk Baltikumspolitikk. Det er stor interesse for historisk forskning, noe som understreker arkivets betydning som ressurs for akademiske studier.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker historisk innsikt]]></title>
-  <guid>47e1d517-5f1b-4d89-a7e0-4690b37e048b</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[En rekke privatpersoner har sendt inn forespørsler om historiske hendelser, inkludert mannskapslister for MS Svenør fra 1919, og dokumentasjon på senkingen av Blücher ved Oscarsborg. Dette illustrerer en økende interesse for maritim historie blant publikum.]]></description>
+  <title><![CDATA[Privatpersoner søker militærhistorisk informasjon]]></title>
+  <guid>eb5b710f-678f-40e2-a670-fe2c58e39140</guid>
+  <pubDate>Sat, 11 Oct 2025 11:00:40 GMT</pubDate>
+  <description><![CDATA[Flere privatpersoner har nylig henvendt seg til Riksarkivet for militærhistoriske opplysninger, inkludert forespørsler om mannskapslister for MS Svenør og MS Para, samt militære rulleblad. Dette viser økt interesse for personlig og slektshistorisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i norsk Baltikumspolitikk]]></title>
-  <guid>3e04fc65-9630-443f-9531-3cdc036ddb78</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[En forsker har fått innsyn i dokumentasjon om norsk Baltikumspolitikk fra 1989 til 2002 hos Riksarkivet. Forespørselen ble behandlet med standard hastighet og viser viktigheten av tilgjengelighet til nyere historiske dokumenter for akademisk forskning.]]></description>
+  <title><![CDATA[Offentlige etater utnytter arkivressurser]]></title>
+  <guid>7626fc3b-c2b0-4c23-97da-2f8df3a71a9f</guid>
+  <pubDate>Sat, 11 Oct 2025 11:00:40 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har nylig fullført flere arkivsøk, inkludert saker om gravstedet til Amalie Skram og Kgl. res. om orlogsflagget. Dette reflekterer en aktiv bruk av arkivtjenester for å støtte offentlig forvaltning og forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater benytter arkivet flittig]]></title>
-  <guid>dbc289aa-d80c-4621-a617-95a4e13af3b1</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[Offentlige etater har gjort flere arkivsøk i Riksarkivet, inkludert søk etter en offentlig utredning om beredskapslovgivning fra 1963. Dette understreker Riksarkivets rolle som en ressurs for offentlig forvaltning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Lav hastighet på behandling av slektssaker]]></title>
-  <guid>d352d03d-f02d-4873-9105-667250b8ba9e</guid>
-  <pubDate>Sat, 11 Oct 2025 07:01:09 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har sendt forespørsler om slektshistorie, inkludert fangehistorier fra 2. verdenskrig. Disse sakene blir ofte behandlet med lav prioritet, noe som viser behovet for tålmodighet ved forespørsler om slekt og personhistorikk.]]></description>
+  <title><![CDATA[Landssviksaker fortsatt av interesse]]></title>
+  <guid>e8d30331-4b6b-49f1-aa90-8f4c50d5006b</guid>
+  <pubDate>Sat, 11 Oct 2025 11:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet en rekke landssviksaker fra andre verdenskrig, med flere saker fullført på kort tid. Dette understreker en vedvarende interesse for denne delen av norsk historie, både fra privatpersoner og forskere.]]></description>
 </item>
 
 
