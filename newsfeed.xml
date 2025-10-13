@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 12 Oct 2025 11:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 07:00:53 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høy aktivitet i Riksarkivet og Statsarkivet i Oslo]]></title>
-  <guid>67045a3e-b3f3-4ad9-9bb1-719b00cb5f9a</guid>
-  <pubDate>Sun, 12 Oct 2025 11:00:30 GMT</pubDate>
-  <description><![CDATA[Den siste uken har både Riksarkivet og Statsarkivet i Oslo mottatt en rekke saker fra ulike brukergrupper, inkludert forskere, profesjonelle aktører og privatpersoner. Flere saker omhandler historiske dokumenter, kildeveiledning og eiendom. Behandlingstider varierer avhengig av sakens hastegrad og kompleksitet.]]></description>
+  <title><![CDATA[Økt interesse for krigshistorie og slektsforskning]]></title>
+  <guid>7dd49dfb-75e5-458b-ad0c-d9fd3bd16cf0</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en rekke forespørsler fra privatpersoner om krigshistorie og slektsforskning. Blant annet er det innkommet henvendelser om krigsfanger fra 2. verdenskrig og militære rulleblad. Dette viser en vedvarende interesse for personlig historie og nasjonal fortid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kildeveiledning etterspurt av forskere]]></title>
-  <guid>9c3d2a62-341c-44f7-8fab-865a29f76721</guid>
-  <pubDate>Sun, 12 Oct 2025 11:00:30 GMT</pubDate>
-  <description><![CDATA[Et økende antall forskere henvender seg til Riksarkivet for kildeveiledning. En sak om Kong Chr. IVs arkiver angående handelsnettverk og sjøfugl har fått høy prioritet. Behovet for tilgang til historiske kilder understreker viktigheten av arkivtjenester for akademisk forskning.]]></description>
+  <title><![CDATA[Rask håndtering av eiendomssaker]]></title>
+  <guid>d465722f-ba34-44ab-82a9-e46cc984e00f</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har raskt behandlet eiendomssaker i Bærum med fullføring samme dag som opprettelse. Dette viser effektivitet i håndteringen av forespørsler fra profesjonelle aktører, noe som kan bidra til å lette eiendomstransaksjoner og juridiske prosesser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Privatpersoner søker innsikt i slektshistorie]]></title>
-  <guid>f58d6585-5990-42ae-84aa-e9cecc2a4f88</guid>
-  <pubDate>Sun, 12 Oct 2025 11:00:30 GMT</pubDate>
-  <description><![CDATA[Mange privatpersoner har den siste uken søkt om innsyn i slektshistoriske opplysninger. Saker som omhandler militære rulleblad, mannskapslister og familierelasjoner fra krigstiden dominerer. Dette understreker den vedvarende interessen for personlig og nasjonal historie.]]></description>
+  <title><![CDATA[Forskerinnsyn i nasjonalpolitikk]]></title>
+  <guid>028c8786-55a3-4b01-b67b-2e99e8e8ae1d</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Forskere har vist interesse for norsk Baltikumspolitikk fra 1989 til 2002. Riksarkivet har behandlet forespørselen raskt, noe som understreker viktigheten av tilgjengelighet til historiske dokumenter for akademisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Profesjonelle aktører etterspør eiendomsinformasjon]]></title>
-  <guid>2372a261-2056-4ae9-82e3-c1ab457577ed</guid>
-  <pubDate>Sun, 12 Oct 2025 11:00:30 GMT</pubDate>
-  <description><![CDATA[Profesjonelle aktører har i økende grad sendt inn forespørsler om avskrifter av eiendomsinformasjon. Spesifikke saker fra Asker og Bærum har blitt behandlet. Dette viser betydningen av Riksarkivets tjenester for aktører i eiendomsmarkedet.]]></description>
+  <title><![CDATA[Avsluttet sak om fangeerstatning]]></title>
+  <guid>a0d9176b-39e3-4d7d-aeae-148585755f15</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[En privatpersons forespørsel om innsyn i en fangeerstatningssak ble raskt behandlet og fullført av Riksarkivet. Dette indikerer en effektiv håndtering av sensitive saker som kan ha stor personlig betydning for de involverte.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater benytter Riksarkivet]]></title>
-  <guid>e4d64158-0859-41fa-84ba-e472e8affdc2</guid>
-  <pubDate>Sun, 12 Oct 2025 11:00:30 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler fra offentlige etater, inkludert saker om beredskapslovgivning og avtaler om gravsteder. Dette indikerer hvordan arkivene fungerer som en viktig ressurs for offentlig forvaltning og beslutningstaking.]]></description>
+  <title><![CDATA[Historisk interesse for sjøfart]]></title>
+  <guid>134242e6-5774-45bf-b617-2e8ac2827a7d</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[Privatpersoner har vist interesse for historiske mannskapslister fra fartøy som MS Svenør og MS Para. Riksarkivet jobber med å behandle disse forespørslene, noe som tyder på en fortsatt fascinasjon for Norges maritime historie.]]></description>
+</item>
+<item>
+  <title><![CDATA[Hasteoppdrag i forskning på Kong Chr.IVs arkiver]]></title>
+  <guid>b6ffda90-6c48-43b1-a552-74258734170a</guid>
+  <pubDate>Mon, 13 Oct 2025 07:00:53 GMT</pubDate>
+  <description><![CDATA[En forsker har bedt om kildeveiledning angående Kong Chr.IVs arkiver, med fokus på handelsnettverk og sjøfugl. Riksarkivet anser dette som en hastesak, noe som kan indikere en tidsfrist for forskningsprosjektet.]]></description>
 </item>
 
 
