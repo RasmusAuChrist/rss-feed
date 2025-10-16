@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 16 Oct 2025 07:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 11:00:36 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Hasteforespørsel om jordbrukstelling i Klepp]]></title>
-  <guid>cb2a5d73-8e19-44c1-bfc6-68419c3bf8ed</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en hastesak om jordbrukstelling i Klepp kommune fra 1939. En profesjonell aktør søker informasjon raskt, og Riksarkivet arbeider med å imøtekomme forespørselen.]]></description>
+  <title><![CDATA[Avsluttet sak om landssvik]]></title>
+  <guid>c3bab528-4490-45f8-8683-ff143a0abcc0</guid>
+  <pubDate>Thu, 16 Oct 2025 11:00:36 GMT</pubDate>
+  <description><![CDATA[En nylig avsluttet sak i Riksarkivet omhandler en forespørsel fra en privatperson angående en landssviksak fra 1914. Behandlingen ble fullført på under ett døgn, noe som viser effektiviteten i saksbehandlingen av slike forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om militære rulleblad]]></title>
-  <guid>3536468a-f238-4ef1-94f1-3126214c890e</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig forespurt om militære rulleblad i Riksarkivet. Disse sakene har varierende hastegrad, men viser en økt interesse for militærhistorie blant brukerne.]]></description>
+  <title><![CDATA[Etterspørsel etter historiske dokumenter]]></title>
+  <guid>92b4e5c2-497f-4267-bd8b-4850e3f2e785</guid>
+  <pubDate>Thu, 16 Oct 2025 11:00:36 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra en profesjonell aktør om tilgang til et rundskriv fra folketrygdloven utgitt av Rikstrygdeverket i 1967. Saken er under behandling, og viser interesse for historiske dokumenter i juridisk forskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk arkivsøk om folketrygdloven]]></title>
-  <guid>399a2511-b564-4f80-af89-34008a2055fd</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har bedt om innsyn i rundskriv til folketrygdloven fra 1967. Riksarkivet jobber med å behandle forespørselen og gir nødvendig informasjon til brukeren.]]></description>
+  <title><![CDATA[Kongelig resolusjon under behandling]]></title>
+  <guid>521dd528-6377-4356-b84e-798715858c70</guid>
+  <pubDate>Thu, 16 Oct 2025 11:00:36 GMT</pubDate>
+  <description><![CDATA[En annen profesjonell aktør har bedt om tilgang til dokumentasjon knyttet til en kongelig resolusjon fra 1962 om konsesjon til Røldal-Suldal Kraft AS. Saken er foreløpig ikke fullført, men viser interesse for energihistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseinteresse for historiske dødsfall]]></title>
-  <guid>e7364b5a-8e8f-4dd6-b193-56453ff26efe</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt forespørsler fra pressen om dødsfall og skifte for personer som Gustav Ludvig Braathen og Anne Sofia Feinsilber. Disse sakene er under behandling med standard hastighet.]]></description>
+  <title><![CDATA[Fullføring av skilsmissearkiv]]></title>
+  <guid>b85ce9d7-b1de-46b6-bf34-ba930570f3f4</guid>
+  <pubDate>Thu, 16 Oct 2025 11:00:36 GMT</pubDate>
+  <description><![CDATA[En privatperson har fått tilgang til arkiver om en skilsmisse fra perioden 1925-1940. Saken ble behandlet og fullført innen tre dager, som understreker Riksarkivets effektive håndtering av historiske personopplysninger.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskere søker innsyn i krigsrelaterte emner]]></title>
-  <guid>3b05c559-3905-4bfb-9da7-d8c54380ea2b</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[Forskere har nylig søkt innsyn i krigspensjonssøknader for commando-soldater og om danske arbeidere i Norge under krigen. Disse forespørslene er allerede behandlet og fullført av Riksarkivet.]]></description>
-</item>
-<item>
-  <title><![CDATA[Slektshistorie og krigsfanger populært tema]]></title>
-  <guid>0b40bdbf-51ac-4b54-a72e-16b28cf8db91</guid>
-  <pubDate>Thu, 16 Oct 2025 07:01:13 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått flere henvendelser fra privatpersoner som ønsker informasjon om slektshistorie relatert til krigsfanger og andre verdenskrig. Dette viser en vedvarende interesse for personlig historie.]]></description>
+  <title><![CDATA[Forespørsel om militært rulleblad]]></title>
+  <guid>de0ff989-8084-48e0-a510-79ceecf4aca3</guid>
+  <pubDate>Thu, 16 Oct 2025 11:00:36 GMT</pubDate>
+  <description><![CDATA[Flere forespørsler om militære rulleblad er kommet inn til Riksarkivet fra privatpersoner. Disse sakene har variert i hastegrad, og noen er fortsatt under behandling. Dette viser en vedvarende interesse for militærhistorie blant publikum.]]></description>
 </item>
 
 
