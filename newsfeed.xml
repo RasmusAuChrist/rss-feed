@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 19 Oct 2025 07:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 11:00:23 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel etter landssviksaker øker]]></title>
-  <guid>17a152da-f928-4bd7-af60-b70b5d535bcd</guid>
-  <pubDate>Sun, 19 Oct 2025 07:00:31 GMT</pubDate>
-  <description><![CDATA[Det har vært en markant økning i forespørsler om landssviksaker i Riksarkivet denne uken. Flere henvendelser fra privatpersoner gjelder undersøkelse av landssviksaker fra både første og andre verdenskrig, med flere saker fortsatt under behandling.]]></description>
+  <title><![CDATA[Økt interesse for landssviksaker]]></title>
+  <guid>7758022a-2f3b-41c1-8e07-0a9ee89ae8b0</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere forespørsler fra privatpersoner om innsyn i landssviksaker denne uken, inkludert saker relatert til personer født på 1800- og 1900-tallet. Dette indikerer en vedvarende interesse for å forstå fortiden og dens konsekvenser i dag.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske vigselsattester]]></title>
-  <guid>955b9371-a15a-4b4a-887d-abeb975974a9</guid>
-  <pubDate>Sun, 19 Oct 2025 07:00:31 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt en forespørsel om vigselsattest fra 1972, som ble raskt behandlet og fullført. Dette viser en økende interesse fra privatpersoner for tilgang til historiske dokumenter for slektsforskning og personlig bruk.]]></description>
+  <title><![CDATA[Etterspørsel etter slektsforskning]]></title>
+  <guid>824f7e54-b2f2-4ff4-abdf-074d53485a92</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har registrert flere lav-haste forespørsler fra privatpersoner angående slektsforskning, inkludert søk etter familiemedlemmer fra tidlig 1900-tallet. Dette understreker en økende trend i slektsforskning blant allmennheten.]]></description>
 </item>
 <item>
-  <title><![CDATA[Offentlige etater søker faglig innsyn]]></title>
-  <guid>5cc88024-bc1b-417a-9d27-bd0511a50236</guid>
-  <pubDate>Sun, 19 Oct 2025 07:00:31 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere henvendelser fra offentlige etater som søker faglig innsyn i historiske dokumenter. Dette inkluderer saker relatert til samkjøringen av kraftverk i Norge, som fortsatt er under behandling.]]></description>
+  <title><![CDATA[Offentlig etat søker faglig innsyn]]></title>
+  <guid>a8765d8c-6e72-4b21-89ad-882cbfaa69b9</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[Riksarkivet behandler flere forespørsler fra offentlige etater om faglig innsyn, inkludert samkjøring av kraftverk i Norge. Dette viser en kontinuerlig interesse fra det offentlige i historisk og teknisk dokumentasjon.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestillinger av historiske lover]]></title>
-  <guid>a9ad4d77-db6b-4612-8fcf-5a132922e6db</guid>
-  <pubDate>Sun, 19 Oct 2025 07:00:31 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt kopibestillinger for historiske lover som Felleslappeloven fra 1883. Privatpersoner viser fortsatt stor interesse for å få tilgang til dokumentasjon av eldre lovverk, med flere slike forespørsler i løpet av uken.]]></description>
+  <title><![CDATA[Historisk kopibestilling fullført]]></title>
+  <guid>bb8ca64a-08c3-4998-9e31-2dbbde9d5cbc</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[En forespørsel om kopibestilling av "Felleslappeloven" fra 1883 og "Tilleggslappeloven" fra 1897 ble nylig mottatt av Riksarkivet. Dette understreker viktigheten av historiske lovdokumenter for forskere og privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presseinteresse for historiske skiftesaker]]></title>
-  <guid>93a8affe-a953-4071-a749-e954ed2c1010</guid>
-  <pubDate>Sun, 19 Oct 2025 07:00:31 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har sett en økning i henvendelser fra pressen angående historiske dødsfall og skiftesaker, inkludert saker fra så langt tilbake som 1951. Dette reflekterer en voksende medieinteresse for grundig historisk dekning.]]></description>
+  <title><![CDATA[Rask behandling av vigselsattest]]></title>
+  <guid>dd806e88-4845-4e89-adbc-15595a159ffc</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[En forespørsel om en vigselsattest fra 1972 i Oslo ble raskt behandlet og fullført innen en dag. Dette illustrerer effektiviteten i Statsarkivets behandling av forespørsler fra privatpersoner.]]></description>
+</item>
+<item>
+  <title><![CDATA[Presse undersøker dødsfall og skifte]]></title>
+  <guid>bc2725ff-6ead-454b-b674-c189a0a502ef</guid>
+  <pubDate>Sun, 19 Oct 2025 11:00:23 GMT</pubDate>
+  <description><![CDATA[Presseaktører har vist interesse for dødsfall og skiftesaker, som saken om en person avdød i 1976 i Oslo. Dette viser pressens fokus på å avdekke historiske detaljer som kan være av offentlig interesse.]]></description>
 </item>
 
 
