@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 27 Oct 2025 08:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 12:00:42 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,46 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for eiendomssaker i Østfold]]></title>
-  <guid>e0580f53-01e6-4d90-a086-2e4cfb9d167d</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner om eiendomssaker i Østfold denne uka. Sakene omhandler ukjente gårds- og bruksnumre, og har standard hastegrad. Ingen av sakene er ferdigbehandlet.]]></description>
+  <title><![CDATA[Økning i eiendomssaker i Østfold]]></title>
+  <guid>3f4593ec-a81c-4c60-aefd-c3cb5292f2ad</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere saker fra privatpersoner som søker informasjon om ukjente eiendommer i Østfold. Sakene har standard hastegrad, men flere av dem venter fortsatt på behandling. Dette viser en økende interesse for eiendomsundersøkelser i området.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økt etterspørsel etter digitalisering av historiske dokumenter]]></title>
-  <guid>a8fab933-bad6-4923-bf17-d378fa364481</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt henvendelser fra offentlige etater om digitalisering av ekspropriasjonstillatelser og vedtekter fra Statoil AS fra 1974. Begge sakene har standard hastegrad og er under behandling.]]></description>
+  <title><![CDATA[Digitalisering av vedtekter for Statoil]]></title>
+  <guid>c616235e-3680-44db-b0a2-05d392f05ec7</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[Riksarkivet arbeider med digitalisering av vedtektene for Statoil fra 1974. En offentlig etat har bedt om tilgang, noe som understreker viktigheten av digital tilgang til historiske dokumenter. Behandlingen av saken pågår fortsatt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i norske krigshistorier]]></title>
-  <guid>784cee63-54ab-4023-9961-f21b923225a4</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fått inn flere forespørsler fra forskere om innsyn i historiske dokumenter. Dette inkluderer emner som forsyningssikkerhet i mellomkrigstiden og Holocaust i Norge. Disse sakene er i hovedsak under behandling.]]></description>
+  <title><![CDATA[Forskere undersøker forsyningssikkerhet i mellomkrigstiden]]></title>
+  <guid>070c0f82-89d0-44cd-a6af-68366ca19ab2</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[En forsker har bedt om innsyn i arkiver relatert til forsyningssikkerhet i Norge mellom 1926-1929. Dette indikerer pågående forskning på landets økonomiske tilstand i mellomkrigstiden. Saken er fortsatt under behandling i Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Økende interesse for landssvikarkiver]]></title>
-  <guid>b6e3973f-8d5c-4b61-8785-312a0e9f3415</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet rapporterer om flere nye henvendelser angående landssviksaker. Privatpersoner søker innsyn i arkiver om enkeltpersoner fra både Oslo og Trondheim. Alle sakene er under behandling med standard hastegrad.]]></description>
+  <title><![CDATA[Landssvik-saker vekker fortsatt interesse]]></title>
+  <guid>7dafadfc-5016-4a1b-85ef-1d8b6cc564b1</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[Flere saker om landssvik fra andre verdenskrig har blitt behandlet i Riksarkivet, inkludert nylig avsluttede saker. Privatpersoners interesse for historiske saker om landssvik viser vedvarende engasjement for etterkrigsoppgjøret i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter veiledning i arkivsøk]]></title>
-  <guid>c2da6fc6-f1ef-4763-a166-3ae8f02d648d</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[En privatperson har kontaktet Statsarkivet i Oslo for veiledning i arkivsøk relatert til saknetsaker. Henvendelsen er under behandling med standard hastegrad. Det viser en økt interesse for arkivsøk blant privatpersoner.]]></description>
+  <title><![CDATA[Riksarkivet digitaliserer ekspropriasjonstillatelser]]></title>
+  <guid>73c31dbf-c927-42d6-be1d-9af45b183418</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[Riksarkivet jobber med digitalisering av ekspropriasjonstillatelser fra Naas Kalksteinsbrudd. Dette er en del av en større innsats for å gjøre historiske dokumenter mer tilgjengelige for offentlige etater og forskere. Saken er fortsatt i behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forespørsler om Freia AS og Munch]]></title>
-  <guid>35a8bdf3-8aed-4f5b-8940-4d46ec3cb6b1</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok en forespørsel om utlån til Munchmuseet, samt interesse for historien til Freia AS. Begge sakene gjelder innsyn i kulturhistoriske dokumenter og er under behandling med standard hastegrad.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>7bb252a3-8913-4bab-a7e8-6ec08feb87ec</guid>
-  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Slektsforskning populært blant privatpersoner]]></title>
+  <guid>5645f04e-20bb-4f6d-8809-1d962109963d</guid>
+  <pubDate>Mon, 27 Oct 2025 12:00:42 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo og Riksarkivet mottar mange forespørsler om slektsforskning. Saker om militære rulleblad og meddomsrettsopptegnelser er blant de mest etterspurte emnene, noe som viser en stor interesse for personlig historie og slektsgransking. Behandlingen av disse sakene varierer i fremdrift.]]></description>
 </item>
 
 
