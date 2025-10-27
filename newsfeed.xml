@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 26 Oct 2025 12:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 08:00:58 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssvik-saker]]></title>
-  <guid>d78944e3-fb5c-46c5-b65b-e6f0a57287da</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssvik-saker fra andre verdenskrig. Flere privatpersoner søker informasjon om familiemedlemmer som var involvert. Behandlingen av slike saker har standard prioritet, men enkelte henvendelser er fortsatt ufullførte.]]></description>
+  <title><![CDATA[Økt interesse for eiendomssaker i Østfold]]></title>
+  <guid>e0580f53-01e6-4d90-a086-2e4cfb9d167d</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere henvendelser fra privatpersoner om eiendomssaker i Østfold denne uka. Sakene omhandler ukjente gårds- og bruksnumre, og har standard hastegrad. Ingen av sakene er ferdigbehandlet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Hurtig saksbehandling av historiske forespørsler]]></title>
-  <guid>b9fd7042-a2ca-4afc-bb08-c831be63f6eb</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har raskt behandlet en forespørsel om kildeveiledning for et skriv fra 1944. Saken ble fullført på under to timer, noe som viser effektiv behandling av henvendelser med lav hastegrad.]]></description>
+  <title><![CDATA[Økt etterspørsel etter digitalisering av historiske dokumenter]]></title>
+  <guid>a8fab933-bad6-4923-bf17-d378fa364481</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt henvendelser fra offentlige etater om digitalisering av ekspropriasjonstillatelser og vedtekter fra Statoil AS fra 1974. Begge sakene har standard hastegrad og er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter militære rulleblad]]></title>
-  <guid>8750a999-b0eb-4d85-8c52-05de45cc8a77</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har nylig henvendt seg til Riksarkivet for tilgang til militære rulleblad fra andre verdenskrig. Henvendelsene omfatter både slektshistorie og individuell tjenestehistorikk, og behandlingen varierer i hastighet.]]></description>
+  <title><![CDATA[Forskerinnsyn i norske krigshistorier]]></title>
+  <guid>784cee63-54ab-4023-9961-f21b923225a4</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fått inn flere forespørsler fra forskere om innsyn i historiske dokumenter. Dette inkluderer emner som forsyningssikkerhet i mellomkrigstiden og Holocaust i Norge. Disse sakene er i hovedsak under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk interesse for Freia og Munch]]></title>
-  <guid>121e0284-faf8-45a0-9864-22d3fff48d80</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har bedt om utlån av dokumenter relatert til Freia AS og Edvard Munch. Riksarkivet håndterer forespørselen, men saken er fortsatt under behandling. Dette viser en vedvarende interesse for norsk industrihistorie og kunst.]]></description>
+  <title><![CDATA[Økende interesse for landssvikarkiver]]></title>
+  <guid>b6e3973f-8d5c-4b61-8785-312a0e9f3415</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet rapporterer om flere nye henvendelser angående landssviksaker. Privatpersoner søker innsyn i arkiver om enkeltpersoner fra både Oslo og Trondheim. Alle sakene er under behandling med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker informasjon om dødsfall]]></title>
-  <guid>76ebee07-c452-4b8a-a53d-9d7ccce35c9a</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[En presseorganisasjon har henvendt seg til Statsarkivet i Oslo for opplysninger om et dødsfall fra 1960. Saken er merket med standard hastighet, men er fortsatt ufullført. Dette markerer en interesse for historiske nyhetssaker.]]></description>
+  <title><![CDATA[Etterspørsel etter veiledning i arkivsøk]]></title>
+  <guid>c2da6fc6-f1ef-4763-a166-3ae8f02d648d</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[En privatperson har kontaktet Statsarkivet i Oslo for veiledning i arkivsøk relatert til saknetsaker. Henvendelsen er under behandling med standard hastegrad. Det viser en økt interesse for arkivsøk blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk forskning på Holocaust i Norge]]></title>
-  <guid>eef67737-6f30-4b2c-8bd1-1d5ea2174bea</guid>
-  <pubDate>Sun, 26 Oct 2025 12:00:22 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har raskt behandlet en forskerhenvendelse om Holocaust i Norge. Saken ble fullført på samme dag, noe som understreker arkivets evne til å støtte akademisk forskning med presise og raske svar.]]></description>
+  <title><![CDATA[Historiske forespørsler om Freia AS og Munch]]></title>
+  <guid>35a8bdf3-8aed-4f5b-8940-4d46ec3cb6b1</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel om utlån til Munchmuseet, samt interesse for historien til Freia AS. Begge sakene gjelder innsyn i kulturhistoriske dokumenter og er under behandling med standard hastegrad.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>7bb252a3-8913-4bab-a7e8-6ec08feb87ec</guid>
+  <pubDate>Mon, 27 Oct 2025 08:00:58 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
