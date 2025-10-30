@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 30 Oct 2025 08:00:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:00:32 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Mange landssviksaker i Riksarkivet]]></title>
-  <guid>fddb517e-81a8-403c-9e9b-636032bc6bca</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om landssviksaker den siste uken. Sakene omfatter blant annet forespørsler om landssviksdommer fra 2. verdenskrig og oppfølging av tidligere saker. Disse sakene har standard hastegrad og er relevante for både privatpersoner og forskere.]]></description>
+  <title><![CDATA[Kort behandlingstid for statsborgerskapssak]]></title>
+  <guid>1a8ed37f-2c6d-4e07-b177-731e23a9ddf9</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[En privatperson fikk sin forespørsel om statsborgerskap behandlet og fullført på under ett døgn i Riksarkivet. Dette markerer en rask saksbehandlingstid for en standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historiske forskningsprosjekter på fremmarsj]]></title>
-  <guid>ee655a40-0ddf-4e1e-af0a-eea9800ce427</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[Forskere har denne uken sendt inn flere forespørsler om innsyn i historiske dokumenter. Blant temaene er forsyningssikkerhet i mellomkrigstiden og ungar i misjonsbladet Maaltrosten. Disse prosjektene har standard hastegrad og viser en økt interesse for historisk forskning i arkivene.]]></description>
+  <title><![CDATA[Krigsseilerhistorie under behandling]]></title>
+  <guid>5e1a6b9e-33ab-40f9-afa6-39f9fef6f9b4</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel fra en privatperson om krigsseilere. Saken er ennå ikke fullført, men viser interesse for historieformidling og tilgang til krigsrelaterte dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter eiendomsinformasjon øker]]></title>
-  <guid>2033b0d0-305e-4150-9168-9290f9d40fe0</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om eiendomsdokumentasjon, inkludert avskrifter og informasjon om gnr/bnr i ulike kommuner. Sakene varierer i hastegrad, og både privatpersoner og profesjonelle aktører viser interesse for historiske eiendomsdata.]]></description>
+  <title><![CDATA[Lesesaltilgang effektivt håndtert]]></title>
+  <guid>6ca4de84-576f-40ef-8bd1-e628f2271dd7</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[En forespørsel om utvidet tilgang til lesesal i Riksarkivet ble raskt behandlet på under ett døgn. Den korte hastegrad understreker effektiviteten i håndtering av slike forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Krigsseilerhistorie engasjerer]]></title>
-  <guid>41d16f93-9539-4628-a0d3-ec0cf0c2b2fb</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[En privatperson har etterspurt informasjon om krigsseilere, noe som viser en vedvarende interesse for krigshistorie. Riksarkivet håndterer forespørselen med standard hastegrad. Dette understreker viktigheten av å bevare og tilgjengeliggjøre krigshistoriske arkiver.]]></description>
+  <title><![CDATA[Digitalisering av ekspropriasjonstillatelse fullført]]></title>
+  <guid>ef0b2c06-6b9a-49cd-be14-9745f413584e</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[Prosjektet om digitalisering av ekspropriasjonstillatelse for Naas Kalksteinsbrudd er nå fullført. Dette bidrar til økt tilgjengelighet av historiske dokumenter for offentlige etater.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av arkiver pågår]]></title>
-  <guid>b53322d4-7ff7-4aef-9edc-ea28a24aac6c</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fullført digitaliseringen av flere viktige dokumenter, inkludert vedtektene for Statoil AS fra 1974 og ekspropriasjonstillatelser fra Naas Kalksteinsbrudd. Dette arbeidet er viktig for å sikre tilgjengelighet og bevaring av historiske dokumenter for offentligheten.]]></description>
+  <title><![CDATA[Forskerinnsyn i mellomkrigstiden]]></title>
+  <guid>f525d997-c297-46e2-b9c3-22c5ccf4c6d1</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[En forespørsel om forskerinnsyn relatert til forsyningssikkerhet i mellomkrigstiden ble nylig fullført. Dette gir forskere økt tilgang til viktige historiske data fra 1926-1929.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lesesaltilgang for forskere]]></title>
-  <guid>37894380-24a4-4267-8f83-6af51e506c09</guid>
-  <pubDate>Thu, 30 Oct 2025 08:00:46 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har innvilget utvidet tilgang til lesesalen for flere forskere. Dette tiltaket er et svar på økende etterspørsel etter å studere originale dokumenter på stedet. Rask behandling av disse forespørslene viser Riksarkivets engasjement for å støtte akademisk forskning.]]></description>
+  <title><![CDATA[Avsluttet prosjekt om forskerinnsyn]]></title>
+  <guid>694e1aee-e758-493d-962b-3ef2456a8ed9</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[Et forskningsprosjekt med innsyn i historiske dokumenter er nå avsluttet. Riksarkivet fortsetter å støtte akademisk forskning ved å tilby tilgang til viktige arkivmaterialer.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>73c2e60d-702e-4421-91b3-fda11c418c6d</guid>
+  <pubDate>Thu, 30 Oct 2025 12:00:32 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
