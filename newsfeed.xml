@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 03 Nov 2025 08:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 12:00:22 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,46 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økt interesse for landssviksaker]]></title>
-  <guid>8b243c46-dbfb-45c4-894d-78ba7cec9a79</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler om innsyn i landssviksaker den siste uken. Etterspørselen fra privatpersoner tyder på en økende interesse for denne delen av norsk historie. Behandling pågår for flere av forespørslene, som omfatter ulike individer involvert under krigen.]]></description>
+  <title><![CDATA[Rask behandling av landssviksaker]]></title>
+  <guid>ce952ca9-5bff-4b87-a5e6-561ed415932c</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig avsluttet flere saker angående landssvik, inkludert forespørsler om informasjon om personer involvert under andre verdenskrig. Sakene, som har standard hastegrad, ble behandlet og fullført innen kort tid, noe som viser effektivitet i saksbehandlingen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter slektshistorikk i Oslo]]></title>
-  <guid>f918ad16-c099-403b-b65e-b8d20644aa15</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo rapporterer om flere henvendelser fra privatpersoner som søker informasjon om vigsler og slektshistorikk i Oslo fra slutten av 1900-tallet. Dette understreker en vedvarende interesse for slektsforskning blant innbyggerne.]]></description>
+  <title><![CDATA[Økt etterspørsel etter forskerinnsyn]]></title>
+  <guid>9eec40d3-2d53-41a1-b8f8-ebf2368b3760</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Forespørsler om forskerinnsyn i Riksarkivet viser en økning, med nylige saker om både oljeletingspolitikk og historiske fremstillinger i misjonsbladet Maaltrosten. Dette indikerer en økt interesse blant forskere for tilgang til historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Oljeletingspolitikk vekker forskerinteresse]]></title>
-  <guid>a3029408-e49f-45ad-9eaf-47d55dbea14d</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Forskere har sendt inn forespørsler om innsyn i dokumenter relatert til norsk og brasiliansk oljeletingspolitikk og petroleumsprofitt. Riksarkivet behandler forespørslene, som kan gi ny innsikt i internasjonale energipolitikk.]]></description>
+  <title><![CDATA[Digitalisering av viktige dokumenter]]></title>
+  <guid>2be853e3-6fbf-4c2e-b81b-b542d1905b9e</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Behovet for digitalisering øker, som illustrert ved forespørselen om digitalisering av Hydros stiftelsesprotokoll fra 1905. Riksarkivet arbeider med å gjøre slike dokumenter lettere tilgjengelige for brukere.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av Hydros stiftelsesprotokoll]]></title>
-  <guid>c60a700c-1855-4e55-93a7-d3cafa51b2a1</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet arbeider med digitalisering av Hydros stiftelsesprotokoll fra 1905. Prosjektet har fått høy prioritet og forventes å gi lettere tilgang til viktige historiske dokumenter for profesjonelle aktører og forskere.]]></description>
+  <title><![CDATA[Historiske kopibestillinger under behandling]]></title>
+  <guid>8520ec8b-6f4b-4b84-9b1e-ac15481e157a</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar flere kopibestillinger på historiske dokumenter, inkludert en kongelig resolusjon fra 1843 og justisdepartementets lovavdelings dokumenter. Disse bestillingene viser en interesse for å bevare og studere historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i historiske fremstillinger]]></title>
-  <guid>1a4a94c2-a498-4c46-a2df-f648a5773b87</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Forskere har fått innvilget innsyn i historiske fremstillinger av barn i misjonsbladet Maaltrosten (1903-1942). Dokumentene kan kaste lys over misjonens rolle og påvirkning i perioden, og forskningen vil bidra til økt forståelse av historiske narrativer.]]></description>
+  <title><![CDATA[Økt fokus på slekt og vigselsforskning]]></title>
+  <guid>38d6b577-3ab0-4ab0-95c7-8334fdd42af5</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo opplever økt interesse for slektsforskning, med flere forespørsler om vigselsdokumenter fra 1979 til 1994. Dette reflekterer en trend der privatpersoner ønsker å spore familiebakgrunner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandling av forespørsler om justisdepartementets dokumenter]]></title>
-  <guid>65ba657d-e420-4b57-b96d-4dbfa30047fe</guid>
-  <pubDate>Mon, 03 Nov 2025 08:00:25 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar jevnlig forespørsler fra offentlige etater om tilgang til historiske dokumenter fra Justis- og beredskapsdepartementet. Disse dokumentene er ofte relevante for aktuelle saker og politikkutforming. Behandling pågår for flere slike forespørsler.]]></description>
+  <title><![CDATA[Offentlige etater søker historisk informasjon]]></title>
+  <guid>04b3a41b-2141-4c9a-bf35-e97ed4a25f1c</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Offentlige etater har vist interesse for historisk informasjon, som eksemplifisert av forespørselen om tysk flystyrt i Rondane i 1944. Slike forespørsler indikerer et behov for historisk innsikt i offentlige prosjekter og beslutninger.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>67a79e15-f997-43fd-b6d3-8d789d3b9565</guid>
+  <pubDate>Mon, 03 Nov 2025 12:00:22 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
