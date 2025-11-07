@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 06 Nov 2025 12:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:00:40 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av landssviksaker]]></title>
-  <guid>6f7ebb85-7583-49bf-9584-42ffcc050e2b</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[Flere saker om landssvik, inkludert henvendelser om personer født tidlig på 1900-tallet, har blitt behandlet raskt i Riksarkivet. Dette viser effektiviteten i behandling av historiske saker med standard hastegrad.]]></description>
+  <title><![CDATA[Rask behandling av dødsfallsaker]]></title>
+  <guid>1171851c-a0b9-49f6-a4c3-6b1fa0c293d9</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har behandlet flere dødsfalls- og skiftesaker denne uken. Mens noen, som saken om Leif Olaf Kristiansen, ble behandlet på to dager, er andre fortsatt under behandling. Hastigheten varierer avhengig av sakens kompleksitet og hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Eiendomssaker venter på behandling]]></title>
-  <guid>c2c8e35c-1eb6-4c13-b777-1ba52845f9a9</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[Sakene om eiendom i Bergen og Oslo med standard hastegrad er fortsatt under behandling. Innsenderne, som hovedsakelig er privatpersoner, venter på å få tilgang til informasjon om gnr/bnr.]]></description>
+  <title><![CDATA[Forskning på POLITEX-prosjektet]]></title>
+  <guid>46587e80-1e6c-4b9f-a3a2-ec140444f1e9</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok nylig en forespørsel om forskerinnsyn i POLITEX-prosjektet. Saken er under behandling, og viser Riksarkivets rolle som en viktig kilde for forskningsmateriale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i POLITEX-prosjektet]]></title>
-  <guid>2f92e724-2150-4103-98d0-f7c8e711cdf5</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottar flere forespørsler fra forskere om innsyn i POLITEX-prosjektet. Noen av disse forespørslene er fortsatt under behandling, mens en forespørsel ble fullført raskt.]]></description>
+  <title><![CDATA[Arkivsøk på historiske dokumenter]]></title>
+  <guid>96555436-9114-406e-8b2a-b36ddbe7c45e</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fullført flere arkivsøk denne uken, inkludert søk etter Strinda kommunevåpenets originaltegning. Dette viser arkivets funksjon som en ressurs for historiske dokumenter og grafisk materiale.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter informasjon om dødsfall i Oslo]]></title>
-  <guid>c4652a31-1fe5-4a07-a7e1-b8f95286c9d3</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[Flere henvendelser om dødsfall og skifter i Oslo fra både privatpersoner og offentlige etater er under behandling i Statsarkivet i Oslo. Behandlingstiden varierer avhengig av hastegrad.]]></description>
+  <title><![CDATA[Behandling av landssvik-saker]]></title>
+  <guid>104be853-392e-4561-9b09-2ba97174d4fe</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har behandlet flere landssviksaker denne uken. Sakene har blitt håndtert innenfor standard behandlingstid, noe som understreker arkivets effektivitet i behandling av historiske rettsdokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Digitalisering av historiske dokumenter på vent]]></title>
-  <guid>ffb46f22-6881-4f0f-94bf-7beb85349d89</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel om digitalisering av Hydros stiftelsesprotokoll fra 1905. Prosjektet har høy prioritet, men er fortsatt under behandling for å sikre tilgjengelighet for profesjonelle aktører.]]></description>
+  <title><![CDATA[Interesse for kongebrev og eiendom]]></title>
+  <guid>5a806486-bde9-44c0-ac9f-da3bbfefe14a</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet behandlet en forespørsel om kongebrev knyttet til eiendom i Bergen. Saken ble raskt fullført og viser den vedvarende interessen for historiske eiendomssaker i Norge.]]></description>
 </item>
 <item>
-  <title><![CDATA[Freia-reklame arkivsøk fullført]]></title>
-  <guid>4494a1e8-456d-430b-8242-05cde57091fc</guid>
-  <pubDate>Thu, 06 Nov 2025 12:00:48 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk etter Freias julereklame i Riksarkivet er nylig fullført. Saken, som hadde lav hastegrad, ble raskt behandlet, og innsenderen har fått tilgang til materialet.]]></description>
+  <title><![CDATA[Historiske utdanningsdokumenter etterspurt]]></title>
+  <guid>0d875bf8-821c-4f29-80ea-50230284cfe1</guid>
+  <pubDate>Fri, 07 Nov 2025 08:00:40 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel om kildeveiledning for læreplaner fra 1980-tallet. Saken ble fullført raskt, og viser arkivets rolle i å støtte profesjonelle aktører med historiske utdanningsdokumenter.]]></description>
 </item>
 
 
