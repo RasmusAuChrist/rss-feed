@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 08 Nov 2025 08:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 12:00:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Kjapp behandling av dødsfall og skifte]]></title>
-  <guid>e0877e49-7540-4ca4-8ba5-60d06c39e777</guid>
-  <pubDate>Sat, 08 Nov 2025 08:00:18 GMT</pubDate>
-  <description><![CDATA[En sak om dødsfall og skifte for Leif Olaf Kristiansen fra 1977 i Ski ble raskt behandlet av Statsarkivet i Oslo. Saken ble fullført på under tre dager, noe som viser effektiv håndtering av offentlige forespørsler med kort hastegrad.]]></description>
+  <title><![CDATA[Rask behandling av eiendomssaker]]></title>
+  <guid>7cc14599-56f4-4955-9875-87a470107ac0</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har raskt ferdigbehandlet eiendomssaker denne uken. En sak om eiendom i Bergen ble fullført på under to dager, mens en eiendomssak i Oslo ble fullført på litt over to dager. Dette viser effektivitet i håndteringen av eiendomshenvendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Eksamensoppgave med bildebruk]]></title>
-  <guid>1d5b6556-c46a-427e-8a10-db07853194ce</guid>
-  <pubDate>Sat, 08 Nov 2025 08:00:18 GMT</pubDate>
-  <description><![CDATA[En forespørsel om tillatelse til bruk av bilder fra Kjesäterkatroteket i en eksamensoppgave er under behandling i Riksarkivet. Saken har standard hastegrad, og innsenderen ønsker å bruke arkivmateriale i akademisk arbeid.]]></description>
+  <title><![CDATA[Høy interesse for landssvikarkiver]]></title>
+  <guid>604ac806-8cf2-4938-9a3b-2b927033bffc</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[Det har vært flere forespørsler om landssvikarkiver den siste uken. Flere saker har blitt behandlet raskt i Riksarkivet, noe som indikerer en stor interesse for historisk forskning og oppklaring av personlige historier fra krigsårene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i POLITEX-prosjekt]]></title>
-  <guid>7f5bc08f-496c-4485-9ebb-060a19698270</guid>
-  <pubDate>Sat, 08 Nov 2025 08:00:18 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel om forskerinnsyn fra en forsker som arbeider med POLITEX-prosjektet. Saken er fortsatt under behandling og har standard hastegrad, noe som indikerer arkivets støtte til akademisk forskning.]]></description>
+  <title><![CDATA[Henvendelser om slekt og arv dominerer]]></title>
+  <guid>7808558e-714e-46b6-b61d-3e218cbf978c</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[Saksbehandlingen i Oslo har mottatt flere forespørsler om slekt og arv. Forespørsler om dødsfall og skifte er spesielt fremtredende, med flere saker som venter på fullføring, noe som reflekterer en vedvarende interesse for slektshistorikk.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter middelalderbrev]]></title>
-  <guid>b0f02dc3-c29c-45d5-967a-978d57936523</guid>
-  <pubDate>Sat, 08 Nov 2025 08:00:18 GMT</pubDate>
-  <description><![CDATA[En forespørsel om tilgang til strengebrev fra 1400-tallet er mottatt av Riksarkivet. Saken er foreløpig ikke fullført, og viser interesse for middelalderhistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Forskningsprosjektet POLITEX pågår]]></title>
+  <guid>7f6d5dd0-524c-4095-9ff9-458a454299d3</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[Forskerinnsyn relatert til prosjektet POLITEX fortsetter å være en prioritet i Riksarkivet. Flere oppfølgingshenvendelser har blitt registrert, noe som viser at prosjektet er i en aktiv fase med pågående datainnsamling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for slektsforskning]]></title>
-  <guid>b93d8e5b-61f1-422e-b23a-806856f1bce2</guid>
-  <pubDate>Sat, 08 Nov 2025 08:00:18 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo håndterer flere henvendelser relatert til slektsforskning, inkludert forespørsler om dåp, vigsel og forbryteralbum. Dette viser en vedvarende interesse for slektshistorie blant privatpersoner.]]></description>
+  <title><![CDATA[Arkivsøk i historiske dokumenter]]></title>
+  <guid>23d9896f-2583-4395-9e52-b48eb79ff3c6</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[En privatperson har bedt om innsyn i middelalderbrev fra 1400-tallet. Dette viser en økende interesse for å utforske historiske dokumenter, noe som gir innsikt i fortidens samfunnsstrukturer og hendelser.]]></description>
+</item>
+<item>
+  <title><![CDATA[Eksamenstemaer krever arkivtilgang]]></title>
+  <guid>a9523771-a7f8-4ae8-9881-4ac488adaba0</guid>
+  <pubDate>Sat, 08 Nov 2025 12:00:21 GMT</pubDate>
+  <description><![CDATA[En forespørsel om tillatelse til bruk av bilder fra Kjesäterkatroteket til en eksamensoppgave har blitt registrert i Riksarkivet. Dette illustrerer hvordan arkivmateriale brukes i utdanningssammenheng for å støtte akademiske arbeid og forskning.]]></description>
 </item>
 
 
