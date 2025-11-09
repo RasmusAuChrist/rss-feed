@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 09 Nov 2025 08:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 12:00:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel etter slektsinformasjon øker]]></title>
-  <guid>568540c3-3a80-47d4-a309-272a599d81b6</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[Flere privatpersoner har den siste uken sendt inn forespørsler om slektsrelaterte dokumenter, inkludert fødsel, dåp og vigsel. Dette viser en økt interesse for slektsforskning blant brukerne av Riksarkivet og Statsarkivet i Oslo.]]></description>
+  <title><![CDATA[Arkivsøknad om eiendom fullført]]></title>
+  <guid>61a4739e-cb99-4287-b76d-22d4caa43db2</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[En eiendomssak i Bergen er nylig avsluttet ved Riksarkivet. Søknaden omhandler kongebrev for gnr/bnr 271/1. Behandlingstid var kort, med ferdigstillelse dagen etter opprettelse.]]></description>
 </item>
 <item>
-  <title><![CDATA[Rask behandling av eiendomssaker]]></title>
-  <guid>239829dd-6d92-4ae9-a21f-98b3f08e1884</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[En eiendomssak fra Bergen ble ferdigbehandlet på under 48 timer. Riksarkivet viser effektivitet i håndteringen av eiendomssaker, noe som gir rask respons til brukerne og opprettholder en høy standard for offentlig tjenesteyting.]]></description>
+  <title><![CDATA[Dødsfallssak for offentlig etat raskt avsluttet]]></title>
+  <guid>8ec66f5b-f7fc-4785-9f19-1376e93bd8b8</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[En henvendelse fra en offentlig etat angående dødsfall og skifte for Leif Olaf Kristiansen fra Ski ble raskt behandlet av Statsarkivet i Oslo. Saken ble ferdigstilt innen to dager etter opprettelse.]]></description>
 </item>
 <item>
-  <title><![CDATA[Mange forespørsler om landssvikarkiver]]></title>
-  <guid>3d59c26a-16ce-41cb-8314-151e7831e4a9</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[Riksarkivet mottok flere forespørsler om landssviksaker denne uken. Dette markerer en vedvarende interesse for historiske rettsdokumenter fra andre verdenskrig, med flere saker fullført på få dager.]]></description>
+  <title><![CDATA[Middealderbrev fortsatt under behandling]]></title>
+  <guid>090c797a-33b9-472a-b85d-c7f529e81d92</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[En privatperson har søkt om innsyn i strengebrev fra 1400-tallet ved Riksarkivet. Saken er fortsatt under behandling, og det er ikke angitt noen ferdigstillelsesdato ennå.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskerinnsyn i POLITEX-prosjektet]]></title>
-  <guid>2e5c8c68-59b8-47af-971f-9892db8833c7</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[En forsker har søkt om innsyn i POLITEX-prosjektet. Dette viser at Riksarkivet fortsetter å støtte akademisk forskning ved å gi tilgang til relevante arkiver og dokumenter.]]></description>
+  <title><![CDATA[Forskerprosjekt POLITEX pågår]]></title>
+  <guid>aceae4ec-a9b1-4d9e-aec1-89ce9fadcccd</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[Forskerinnsynsprosjektet POLITEX, ledet av en forsker, har pågått siden begynnelsen av november. En del av forespørslene er allerede fullført, mens andre fortsatt er under behandling ved Riksarkivet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter kildeveiledning øker]]></title>
-  <guid>b33ab4a0-4ec6-4c92-97f5-39e0ccb2b6ae</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har forespurt kildeveiledning for læreplaner fra 1980-tallet. Dette indikerer en økning i behovet for pedagogisk materiale fra tidligere tiår, som kan brukes i dagens utdanningssystem.]]></description>
+  <title><![CDATA[Landssviksaker effektivt behandlet]]></title>
+  <guid>c8db248e-3b65-41ff-bec3-dc03d888db90</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[Flere landssviksaker har nylig blitt behandlet ved Riksarkivet, inkludert saker vedrørende Ivar Høvik og Torvald Olsen. Disse sakene viser effektiv saksbehandling med rask ferdigstillelse.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk på historiske reklamer]]></title>
-  <guid>d753ab18-22e2-47e3-bb9e-e2e2b0e157b3</guid>
-  <pubDate>Sun, 09 Nov 2025 08:00:28 GMT</pubDate>
-  <description><![CDATA[En arkivsøk-forespørsel etter Freia julereklame ble nylig behandlet. Dette viser at historiske reklamer fortsatt vekker nysgjerrighet og interesse, både i forskningsøyemed og for allmennheten.]]></description>
+  <title><![CDATA[Interesse for historiske skoleplaner]]></title>
+  <guid>51bfa61f-6d7b-4502-9b46-7c8753abfc02</guid>
+  <pubDate>Sun, 09 Nov 2025 12:00:20 GMT</pubDate>
+  <description><![CDATA[En forespørsel om kildeveiledning for læreplaner fra 1980-tallet har blitt behandlet ved Riksarkivet. Behandlingen ble fullført på to dager etter opprettelse, noe som viser rask respons på faglige forespørsler.]]></description>
 </item>
 
 
