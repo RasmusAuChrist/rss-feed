@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 11 Nov 2025 08:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:00:30 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av statsborgerskapssak]]></title>
-  <guid>0d878400-1b3a-401b-8e76-04f194f23fa2</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[En sak om statsborgerskap for en privatperson ble raskt behandlet i Riksarkivet. Saken ble opprettet 10. november og fullført allerede dagen etter, 11. november. Dette viser effektiv saksbehandling for standard hastegrad.]]></description>
+  <title><![CDATA[Økning i forespørsler om landssvikarkiver]]></title>
+  <guid>d6055e1d-7b2b-4a6f-86a8-d1114a02a56d</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[Den siste uken har Riksarkivet mottatt flere forespørsler om innsyn i landssvikarkiver. To saker ble fullført raskt, mens en tredje fortsatt er under behandling. Dette viser en vedvarende interesse for nasjonal historie og enkeltpersoners rolle under krigen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Krigsbarn-sak fortsatt under behandling]]></title>
-  <guid>47679148-9775-4eee-8dac-a95b40a8163b</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[En sak angående krigsbarn fra 1943 er fortsatt under behandling i Riksarkivet. Den ble opprettet 10. november og har standard hastegrad. Dette er en av flere uavsluttede saker fra nylig.]]></description>
+  <title><![CDATA[Forskerinnsyn i POLITEX-prosjektet pågår]]></title>
+  <guid>3c995368-2476-47ae-a4c0-5ab506d86568</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[Forespørsler om forskerinnsyn i POLITEX-prosjektet har vært hyppige denne uken. Selv om en forespørsel er fullført, er to fortsatt under behandling. Dette indikerer en aktiv forskningsinteresse i prosjektet, som krever grundig oppfølging fra arkivene.]]></description>
 </item>
 <item>
-  <title><![CDATA[Faglig innsyn i Helmut Kohl-studie pågår]]></title>
-  <guid>89ee2ea6-1b24-4562-8476-3f079d573feb</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[Et innsynsprosjekt om Kansler Helmut Kohl fra 1982-1998 er under behandling i Riksarkivet. Saken, som har standard hastegrad, er rettet mot en profesjonell aktør og ble opprettet 7. november.]]></description>
+  <title><![CDATA[Flere henvendelser om dødsfall og skifte]]></title>
+  <guid>2bd2bca7-9647-4e1b-843e-f2a452971254</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har mottatt flere forespørsler om dødsfall og skifte den siste uken. Noen saker er allerede fullført, mens andre fortsatt pågår. Dette viser at slektsforskning og familierettigheter står høyt på agendaen for privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lang saksbehandlingstid for historiske forespørsler]]></title>
-  <guid>488422ca-a302-4b77-ab61-e6e12bdf4f02</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[Flere historiske forespørsler, som en erklæring om landskyld og tiende fra 1591, er fortsatt ubehandlet i Riksarkivet. Saker med lav hastegrad kan ha lengre behandlingstid.]]></description>
+  <title><![CDATA[Historieinteresse for Hans Andersen Bernhoft]]></title>
+  <guid>19d7fef8-c132-44da-bbb8-b1891356de63</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt inn en sak om Hans Andersen Bernhofts erklæring over landskyld og tiende fra 1591. Saken er foreløpig ikke fullført, men den viser en interesse for norsk historie og økonomiske forhold i tidlig moderne tid.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forskningsprosjekt POLITEX med pågående oppfølging]]></title>
-  <guid>7613c92c-c387-438b-a3bf-4b8e2b0ae0ff</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[Forskerinnsynsprosjektet POLITEX er fortsatt under oppfølging i Riksarkivet. Saken, som ble opprettet 7. november, er en av flere åpne saker for forskere.]]></description>
+  <title><![CDATA[Riksarkivet mottar henvendelser om Høegh Gallant-ulykken]]></title>
+  <guid>d5ca4f88-d056-41cd-af33-dc2c9c5fa08e</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[En forespørsel om arkivsøk relatert til Høegh Gallant-ulykken fra 1968 er under behandling i Riksarkivet. Dette understreker vedvarende interesse for maritime hendelser og deres påvirkning på ettertidens samfunn.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspørsel etter tillatelse til bildebruk fullført]]></title>
-  <guid>d8430e80-bcf2-4f4d-a18e-459bc2b99d13</guid>
-  <pubDate>Tue, 11 Nov 2025 08:00:27 GMT</pubDate>
-  <description><![CDATA[En forespørsel om tillatelse til bruk av bilder til en eksamensoppgave ble behandlet raskt i Riksarkivet. Saken, opprettet 6. november, ble fullført 10. november. Standard hastegrad sikret effektiv behandling.]]></description>
+  <title><![CDATA[Tillatelse til bruk av bilder i eksamensoppgave]]></title>
+  <guid>003d1c8b-2701-42b4-92e9-d4a8cabf8178</guid>
+  <pubDate>Tue, 11 Nov 2025 12:00:30 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet og fullført en forespørsel om tillatelse til å bruke bilder fra Kjesäterkatroteket i en eksamensoppgave. Dette fremhever arkivets rolle i å støtte utdanningsrelaterte aktiviteter.]]></description>
 </item>
 
 
