@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 14 Nov 2025 08:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 12:00:28 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Høytidelig forespørsel om tilgang til historisk justisarkiv]]></title>
-  <guid>b068cf7f-7ef7-4bfa-a12f-80f5cee8ce23</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har anmodet om tilgang til Justisdepartementets historiske arkiv fra 1977. Saken, som er under behandling i Riksarkivet, har fått standard prioritet. Dette markerer en interesse for å granske historiske juridiske dokumenter.]]></description>
+  <title><![CDATA[Hasteforespørsel om eiendom i Oslo]]></title>
+  <guid>ea7ffef1-3e1e-4609-b0c6-f68f6023c50b</guid>
+  <pubDate>Fri, 14 Nov 2025 12:00:28 GMT</pubDate>
+  <description><![CDATA[Tre nye saker om avskrift av eiendom i Oslo med høy hastegrad har blitt mottatt av Statsarkivet. Sakene gjelder samme eiendom og er sendt inn av en profesjonell aktør. Behandlingen av disse haster, og det arbeides med å håndtere forespørslene raskt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Middelalderdokumenter i fokus]]></title>
-  <guid>08936b12-862f-4a26-9906-e041610ff167</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[En privatperson har bedt om innsyn i middelalderdokumenter fra Tveiten i Austre Moland. Riksarkivet behandler forespørselen, som har lav hastegrad. Dette illustrerer en vedvarende interesse for middelalderens historie blant privatpersoner.]]></description>
+  <title><![CDATA[Historisk arkivsøk om middelalderdokumenter]]></title>
+  <guid>a162a624-a725-4a6a-86d8-8f9980cd0567</guid>
+  <pubDate>Fri, 14 Nov 2025 12:00:28 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt inn en forespørsel til Riksarkivet for å søke etter middelalderdokumenter relatert til Tveiten, Austre Moland. Saken har lav hastegrad og er foreløpig ikke fullført. Dette viser interesse for lokalhistorie fra middelalderen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Eiendomssak med høy prioritet i Oslo]]></title>
-  <guid>27173611-65f4-419d-adb2-100665fcae6b</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[En profesjonell aktør har sendt inn tre forespørsler om avskrift av eiendomsdokumenter i Oslo, gnr/bnr 38/2. Med høy hastegrad, prioriterer Statsarkivet i Oslo behandlingen av disse sakene.]]></description>
+  <title><![CDATA[Arkivsøk om Høegh Gallant-ulykken]]></title>
+  <guid>6b405938-27b5-4034-9338-c4d05385e472</guid>
+  <pubDate>Fri, 14 Nov 2025 12:00:28 GMT</pubDate>
+  <description><![CDATA[En forespørsel om arkivsøk relatert til ulykken med Høegh Gallant i 1968 har blitt mottatt. Saken har standard hastegrad og er ennå ikke fullført. Dette understreker den vedvarende interessen for sjøfartshistorie og maritime ulykker.]]></description>
 </item>
 <item>
-  <title><![CDATA[Interesse for historiske fartøy]]></title>
-  <guid>72b2ec35-e568-406b-9879-72c236290fd5</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[Forespørsel om informasjon om fartøyet DS Solviken fra 1942 er sendt inn av en privatperson til Riksarkivet. Saken har lav prioritet, men reflekterer en interesse for norsk maritim historie.]]></description>
+  <title><![CDATA[Historisk innsyn i landskyld og tiende fra 1591]]></title>
+  <guid>eff7dbe6-2baf-4245-bb04-7d3de8cac12f</guid>
+  <pubDate>Fri, 14 Nov 2025 12:00:28 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig fullført en sak om en erklæring over landskyld og tiende fra 1591, knyttet til Hans Andersen Bernhoft. Saken ble behandlet for en privatperson og illustrerer den vedvarende interessen for økonomiske forhold i historiske dokumenter.]]></description>
 </item>
 <item>
-  <title><![CDATA[Henvendelser om slekt og skifte]]></title>
-  <guid>45f53f07-0165-4188-b954-a7ddc1c83314</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har mottatt forespørsler fra privatpersoner vedrørende dødsfall og skifte i Oslo, samt skilsmissehistorikk. Disse sakene har standard til lav prioritet og viser en vedvarende interesse for slektsforskning.]]></description>
-</item>
-<item>
-  <title><![CDATA[Forskerinnsyn i POLITEX-prosjektet]]></title>
-  <guid>715f31d6-a88d-416f-b7c5-6d28b735c3ef</guid>
-  <pubDate>Fri, 14 Nov 2025 08:00:40 GMT</pubDate>
-  <description><![CDATA[En forsker har bedt om innsyn i prosjektet POLITEX, som følges opp av Riksarkivet. Saken har standard prioritet, og understreker betydningen av arkivet som ressurs for akademiske studier.]]></description>
+  <title><![CDATA[Forskningsprosjekt POLITEX under behandling]]></title>
+  <guid>2f7848f2-37b0-41d5-a7f2-748376eb6e36</guid>
+  <pubDate>Fri, 14 Nov 2025 12:00:28 GMT</pubDate>
+  <description><![CDATA[En forsker har søkt om innsyn for prosjektet POLITEX, og saken er under behandling i Riksarkivet. Med standard hastegrad jobbes det med å gi innsyn i relevante arkiver for å støtte forskningsarbeidet. Dette understreker arkivets rolle i akademisk forskning.]]></description>
 </item>
 
 
