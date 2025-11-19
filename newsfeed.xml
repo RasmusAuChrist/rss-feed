@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 18 Nov 2025 12:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 08:00:24 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Fullført sak om historisk arkivtilgang]]></title>
-  <guid>a6d2b2ff-5f48-4b0e-8223-15983f21f6df</guid>
-  <pubDate>Tue, 18 Nov 2025 12:00:18 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har fått tilgang til sitt historiske arkiv i Justisdepartementets lovavdeling fra 1977. Henvendelsen ble behandlet med standard hastegrad og fullført på fem dager. Dette viser effektiv saksbehandling i Riksarkivet.]]></description>
+  <title><![CDATA[Historisk arkivtilgang for Justisdepartementet]]></title>
+  <guid>1f3a4e3f-5718-46dd-854a-eb45ed2b9a9a</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har fått tilgang til sitt eget historiske arkiv fra 1977 i Riksarkivet. Saksbehandlingen ble fullført på fem dager, noe som viser effektiv håndtering av slike forespørsler. Dette kan være en verdifull ressurs for fremtidige juridiske og historiske undersøkelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Haster med eiendomsavskrift i Oslo]]></title>
-  <guid>0b6aa95a-7354-4bc9-8cce-b9326101d390</guid>
-  <pubDate>Tue, 18 Nov 2025 12:00:18 GMT</pubDate>
-  <description><![CDATA[En annen profesjonell aktør har fått en hasterangivelse på sin forespørsel om avskrift av eiendom (gnr/bnr 38/2) i Oslo. Saken ble behandlet og fullført innen fem dager i Statsarkivet i Oslo.]]></description>
+  <title><![CDATA[Høyt prioritert eiendomssak fullført]]></title>
+  <guid>40a6f658-927b-4704-b701-fcf26a8990ec</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[En eiendomssak i Oslo med høy hastegrad ble nylig fullført av Statsarkivet. Saken gjaldt avskrift av eiendomsinformasjon for en profesjonell aktør og ble behandlet innen fem dager. Dette understreker arkivets evne til å håndtere presserende saker effektivt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Lang ventetid for militært rulleblad]]></title>
-  <guid>25c686b5-aaf1-4cce-b858-f7d0bfc0fdaf</guid>
-  <pubDate>Tue, 18 Nov 2025 12:00:18 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra en privatperson om et militært rulleblad fra 1909 har lav hastegrad og er fortsatt under behandling i Riksarkivet. Dette kan tyde på at historiske dokumenter med lav prioritet krever lengre behandlingstid.]]></description>
+  <title><![CDATA[Etterspørsel etter middelalderdokumenter]]></title>
+  <guid>51526044-410f-4d83-acdc-fcc70e95cc30</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt en forespørsel om arkivsøk etter middelalderdokumenter relatert til Tveiten i Austre Moland. Saken behandles i Riksarkivet, men er ennå ikke fullført. Dette indikerer en fortsatt interesse for historiske dokumenter blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Skilsmissesak fra tidlig 1900-tall fullført]]></title>
-  <guid>f7097078-3f40-4a04-8a6a-1263b76785b1</guid>
-  <pubDate>Tue, 18 Nov 2025 12:00:18 GMT</pubDate>
-  <description><![CDATA[En forespørsel om en skilsmisse mellom to personer fra 1925-1945 er fullført i Riksarkivet. Saken hadde lav hastegrad, men ble likevel behandlet effektivt på tre dager, noe som kan interessere slektsforskere.]]></description>
+  <title><![CDATA[Forsinket behandling av militært rulleblad]]></title>
+  <guid>bbefd3de-7447-4a3d-bf03-876e1f6c26ab</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[En sak angående et militært rulleblad fra 1909 er under behandling i Riksarkivet. Saken har lav hastegrad og er fortsatt ikke fullført. Dette kan være av interesse for forskere som undersøker militærhistorie eller slektsforskning.]]></description>
 </item>
 <item>
-  <title><![CDATA[Flere saker om kjøretøy og fartøy fortsatt uavklart]]></title>
-  <guid>0653e21a-c5f5-42fd-b875-d87521dc06e1</guid>
-  <pubDate>Tue, 18 Nov 2025 12:00:18 GMT</pubDate>
-  <description><![CDATA[Forespørslene om kjøretøyet A-3605 og fartøyet DS Solviken fra 1942, begge med lav hastegrad, er fortsatt ikke fullført. Disse sakene viser at forespørsel om transporthistorikk kan ta tid å behandle.]]></description>
+  <title><![CDATA[Saken om fartøyet DS Solviken under behandling]]></title>
+  <guid>d3bc7c07-bd57-4fd6-8556-c7b25b216324</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[En forespørsel fra en privatperson om informasjon om fartøyet DS Solviken fra 1942 er under behandling i Riksarkivet. Med lav hastegrad er saken ikke fullført, men representerer en interesse for maritim historie fra andre verdenskrig.]]></description>
+</item>
+<item>
+  <title><![CDATA[Uavklarte forespørsler i Statsarkivet]]></title>
+  <guid>c4dd9af0-de62-4c94-827d-bfd116579235</guid>
+  <pubDate>Wed, 19 Nov 2025 08:00:24 GMT</pubDate>
+  <description><![CDATA[I Statsarkivet er det flere saker med lav hastegrad som fortsatt er uavklarte, inkludert forespørsler om kjøretøyregistreringer og dødsfall/skifter. Dette kan tyde på behov for økt kapasitet eller prioritering av saker med høyere hastegrad.]]></description>
 </item>
 
 
