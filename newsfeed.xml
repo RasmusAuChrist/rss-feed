@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 20 Nov 2025 08:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 12:00:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,10 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel etter militært rulleblad]]></title>
-  <guid>0760c372-bb08-4c41-b068-3dac3f652582</guid>
-  <pubDate>Thu, 20 Nov 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra en privatperson om militært rulleblad for en person født i 1909. Med lav hastegrad er saken under behandling, men ikke fullført. Dette kan indikere en interesse for familiehistorie eller forskning på militærhistorie.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>468fc72b-e0e9-4230-afe2-4a19f2120951</guid>
-  <pubDate>Thu, 20 Nov 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Forespørsel om militært rulleblad]]></title>
+  <guid>9b3fc8b6-3a80-4ba7-bcf7-5f368919e6da</guid>
+  <pubDate>Thu, 20 Nov 2025 12:00:04 GMT</pubDate>
+  <description><![CDATA[En forespørsel om militært rulleblad for en person født i 1909 er mottatt av Riksarkivet. Saken er under behandling med lav hastegrad og er foreløpig ikke fullført.]]></description>
 </item>
 
 
