@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Fri, 21 Nov 2025 12:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 08:00:25 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,10 +11,22 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Forespørsel om militært rulleblad under behandling]]></title>
-  <guid>4e0149c7-93d9-43de-89a2-9cbe099d444e</guid>
-  <pubDate>Fri, 21 Nov 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[En forespørsel om tilgang til et militært rulleblad fra 1909 har blitt mottatt av Riksarkivet. Saken, som er prioritert med lav hastegrad, er rettet mot privatpersoner og er ennå ikke fullført. Riksarkivet jobber med å håndtere slike forespørsler effektivt.]]></description>
+  <title><![CDATA[Landssviksak under behandling]]></title>
+  <guid>13517596-c8ea-4405-9da0-6e459665bfc8</guid>
+  <pubDate>Sat, 22 Nov 2025 08:00:25 GMT</pubDate>
+  <description><![CDATA[En innsender har etterspurt informasjon om en landssviksak relatert til en person født i 1873. Saken er under behandling i Riksarkivet med standard hastegrad. Fullføring av saksbehandlingen er fortsatt utestående.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forspørsel om vigsel i Telemark]]></title>
+  <guid>d8991ab3-c35b-412a-94f1-2cd54c5fcbac</guid>
+  <pubDate>Sat, 22 Nov 2025 08:00:25 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vigsel i Telemark mellom 1930 og 1950 er mottatt av Riksarkivet. Etterspørselen gjelder en person født i 1920. Saken har lav hastegrad og er fortsatt til behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forespørsel om militært rulleblad]]></title>
+  <guid>3fbb9530-6082-4f75-b8b9-b7da50605276</guid>
+  <pubDate>Sat, 22 Nov 2025 08:00:25 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om tilgang til et militært rulleblad for en person født i 1909. Saken har lav hastegrad og er fremdeles under behandling.]]></description>
 </item>
 
 
