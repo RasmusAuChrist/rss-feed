@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sun, 23 Nov 2025 08:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 12:00:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,22 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssvikarkiver]]></title>
-  <guid>48165747-05e2-407a-8b08-7c2e573a3405</guid>
-  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en ny forespørsel om tilgang til landssvikarkiver, denne gangen relatert til en person født i 1873. Saken er av normal hastegrad og illustrerer den vedvarende interessen for historiske rettsdokumenter blant privatpersoner. Saken er fortsatt under behandling.]]></description>
+  <title><![CDATA[Økning i forespørsler om historiske dokumenter]]></title>
+  <guid>1ba089a2-d790-4d76-9047-991b24bc88cd</guid>
+  <pubDate>Sun, 23 Nov 2025 12:00:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om historiske dokumenter den siste uken. Sakene omfatter landssvik, vigsler og militære rulleblad, alle med lav til standard hastegrad. Dette tyder på økt interesse for personlig og slektshistorisk forskning.]]></description>
+</item>
+<item>
+  <title><![CDATA[Lav hastighet på sakshåndtering i Riksarkivet]]></title>
+  <guid>f547d17c-20dc-4f5f-b40e-6a270bf4319e</guid>
+  <pubDate>Sun, 23 Nov 2025 12:00:09 GMT</pubDate>
+  <description><![CDATA[Flere saker i Riksarkivet, inkludert forespørsler om landssvik, vigsler og militære rulleblad, er fortsatt ubehandlet. Dette til tross for at forespørslene ble opprettet tidligere i uken. Hastegradene varierer fra lav til standard, noe som kan forklare den forsinkede saksbehandlingen.]]></description>
+</item>
+<item>
+  <title><![CDATA[Økt interesse for landssvikssaker]]></title>
+  <guid>364d5403-23c1-4c64-a90b-7cd941a39aee</guid>
+  <pubDate>Sun, 23 Nov 2025 12:00:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel om landssvik fra en privatperson i Riksarkivet viser at interessen for Norges krigshistorie fortsatt er sterk. Saken omhandler en person født i 1873, og det er ventet at saksbehandlingen vil ta noe tid på grunn av sakens kompleksitet.]]></description>
 </item>
 <item>
   <title><![CDATA[Etterspørsel etter vigselsinformasjon fra Telemark]]></title>
-  <guid>8aef15b8-b3df-4250-a140-2e5059b4de69</guid>
-  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vigselsinformasjon fra Telemark for perioden 1930-1950 er nylig registrert i Riksarkivet. Saken, som er av lav hastegrad, viser at privatpersoner fortsatt søker etter slektsinformasjon for å komplettere familiehistorier. Behandlingen pågår fortsatt.]]></description>
+  <guid>a0af9c61-09b9-426a-b41b-55d632028e27</guid>
+  <pubDate>Sun, 23 Nov 2025 12:00:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vigselsinformasjon fra Telemark i perioden 1930-1950 har blitt registrert i Riksarkivet. Henvendelsen fra en privatperson har lav hastegrad, og saksbehandlingen er ennå ikke fullført. Dette er en del av en økende trend i søk etter slektshistorie.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om militært rulleblad fra 1909]]></title>
-  <guid>dc38ad81-f7e9-4df6-a16a-7366e2eb31c6</guid>
-  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
-  <description><![CDATA[En privatperson har sendt en forespørsel til Riksarkivet om et militært rulleblad for en person født i 1909. Saken er klassifisert med lav hastegrad og er ennå ikke fullført. Dette understreker den vedvarende interessen for militærhistoriske dokumenter.]]></description>
+  <title><![CDATA[Militære rulleblad etterspurt i Riksarkivet]]></title>
+  <guid>e9936ab1-f1fe-4852-92ac-27dfaad45096</guid>
+  <pubDate>Sun, 23 Nov 2025 12:00:09 GMT</pubDate>
+  <description><![CDATA[En forespørsel om militært rulleblad for en person født i 1909 har blitt mottatt av Riksarkivet. Saken, som har lav hastegrad, er fortsatt ubehandlet. Dette indikerer en vedvarende interesse for militærhistorie blant privatpersoner.]]></description>
 </item>
 
 
