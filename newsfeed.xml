@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 22 Nov 2025 12:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 08:00:20 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,22 +11,22 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel om landssvik-sak fra Riksarkivet]]></title>
-  <guid>a1ce84b3-79a6-4da8-a45c-7b65c4cd5dc6</guid>
-  <pubDate>Sat, 22 Nov 2025 12:00:06 GMT</pubDate>
-  <description><![CDATA[En innsender har etterspurt informasjon om en landssvik-sak knyttet til en person født i 1873. Saken er under behandling i Riksarkivet og har standard hastegrad.]]></description>
+  <title><![CDATA[Økende interesse for landssvikarkiver]]></title>
+  <guid>48165747-05e2-407a-8b08-7c2e573a3405</guid>
+  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en ny forespørsel om tilgang til landssvikarkiver, denne gangen relatert til en person født i 1873. Saken er av normal hastegrad og illustrerer den vedvarende interessen for historiske rettsdokumenter blant privatpersoner. Saken er fortsatt under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om vigselsopplysninger fra Telemark]]></title>
-  <guid>6c342a34-c81d-47e8-9862-5a2983f056e1</guid>
-  <pubDate>Sat, 22 Nov 2025 12:00:06 GMT</pubDate>
-  <description><![CDATA[En privatperson har bedt om vigselsopplysninger for en person født i 1920. Perioden det gjelder er fra 1930 til 1950. Saken behandles med lav prioritet i Riksarkivet.]]></description>
+  <title><![CDATA[Etterspørsel etter vigselsinformasjon fra Telemark]]></title>
+  <guid>8aef15b8-b3df-4250-a140-2e5059b4de69</guid>
+  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vigselsinformasjon fra Telemark for perioden 1930-1950 er nylig registrert i Riksarkivet. Saken, som er av lav hastegrad, viser at privatpersoner fortsatt søker etter slektsinformasjon for å komplettere familiehistorier. Behandlingen pågår fortsatt.]]></description>
 </item>
 <item>
-  <title><![CDATA[Behandling av militært rulleblad]]></title>
-  <guid>51c87aaa-3d22-4436-8853-d29ae21ba729</guid>
-  <pubDate>Sat, 22 Nov 2025 12:00:06 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler en forespørsel fra en privatperson om et militært rulleblad for en person født i 1909. Saken er registrert med lav hastegrense og er fortsatt under behandling.]]></description>
+  <title><![CDATA[Forespørsel om militært rulleblad fra 1909]]></title>
+  <guid>dc38ad81-f7e9-4df6-a16a-7366e2eb31c6</guid>
+  <pubDate>Sun, 23 Nov 2025 08:00:20 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt en forespørsel til Riksarkivet om et militært rulleblad for en person født i 1909. Saken er klassifisert med lav hastegrad og er ennå ikke fullført. Dette understreker den vedvarende interessen for militærhistoriske dokumenter.]]></description>
 </item>
 
 
