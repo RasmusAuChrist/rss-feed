@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 24 Nov 2025 12:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 08:00:08 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,22 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Etterspørsel etter landssvikdokumenter]]></title>
-  <guid>1eabd212-3505-4f45-936c-59f329061302</guid>
-  <pubDate>Mon, 24 Nov 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[En innsender har bedt om informasjon knyttet til en landssviksak fra 1873, som nå behandles i Riksarkivet. Saken har standard prioritet og er ennå ikke fullført.]]></description>
+  <title><![CDATA[Rask behandlingstid for landssviksak]]></title>
+  <guid>d8fbe781-7761-4308-9067-ead22412af5c</guid>
+  <pubDate>Tue, 25 Nov 2025 08:00:08 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig ferdigstilt behandlingen av en sak angående landssvik relatert til en person født i 1873. Behandlingen ble gjennomført på seks dager, noe som viser effektivitet i håndteringen av standard hastegradssaker for privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Forespørsel om vigselsattest fra Telemark]]></title>
-  <guid>7622b930-65c1-479e-a3d0-583bceac5a9e</guid>
-  <pubDate>Mon, 24 Nov 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vigselsattest for perioden 1930-1950 fra Telemark er mottatt av Riksarkivet. Henvendelsen har lav prioritet og er under behandling.]]></description>
-</item>
-<item>
-  <title><![CDATA[Militært rulleblad etterspurt]]></title>
-  <guid>0c3d2acc-4d0a-4935-937f-1953e54f409b</guid>
-  <pubDate>Mon, 24 Nov 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[Riksarkivet behandler en forespørsel om et militært rulleblad for en person født i 1909. Saken har lav hastegrad og er ikke fullført ennå.]]></description>
+  <title><![CDATA[Vigselssak fra Telemark fortsatt under behandling]]></title>
+  <guid>63429c3f-3065-4bb3-8cd6-bbeda451bacb</guid>
+  <pubDate>Tue, 25 Nov 2025 08:00:08 GMT</pubDate>
+  <description><![CDATA[En forespørsel vedrørende vigsel for en person født i 1920, med fokus på perioden 1930-1950 i Telemark, er fortsatt under behandling hos Riksarkivet. Siden saken har lav hastegrad, er det foreløpig ikke fastsatt en fullføringsdato. Privatpersoner kan forvente noe lengre saksbehandlingstid for slike forespørsler.]]></description>
 </item>
 
 
