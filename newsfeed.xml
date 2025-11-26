@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 25 Nov 2025 12:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 08:00:21 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Landssviksak behandlet på seks dager]]></title>
-  <guid>9f6707d2-04f4-4acd-824f-6c9828c30fcc</guid>
-  <pubDate>Tue, 25 Nov 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[En forespørsel angående landssviksak knyttet til en person født i 1873 ble fullført i Riksarkivet på seks dager. Dette viser en effektiv saksbehandling for forespørsler fra privatpersoner.]]></description>
+  <title><![CDATA[Behandling av landssvik-sak fullført]]></title>
+  <guid>262ceda4-19d0-4172-b0ac-baf9fd0bd84c</guid>
+  <pubDate>Wed, 26 Nov 2025 08:00:21 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har fullført behandlingen av en sak om landssvik relatert til en person født i 1873. Behandlingstiden var en knapp uke, noe som viser effektiv håndtering av forespørselen.]]></description>
 </item>
 <item>
-  <title><![CDATA[Pågående vigselsforespørsel]]></title>
-  <guid>4234d0f0-cbc9-4a62-9c4c-e932515ea9f0</guid>
-  <pubDate>Tue, 25 Nov 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vigselsdokumentasjon fra Telemark, datert mellom 1930 og 1950, er under behandling i Riksarkivet. Saken har lav hastegrad og er ennå ikke fullført.]]></description>
+  <title><![CDATA[Pågående vigsel-forespørsel for perioden 1930-1950]]></title>
+  <guid>8047f4e9-8744-48b2-ab13-9cd62c42e304</guid>
+  <pubDate>Wed, 26 Nov 2025 08:00:21 GMT</pubDate>
+  <description><![CDATA[En forespørsel om vigselsdokumentasjon fra Telemark, for en periode mellom 1930 og 1950, er under behandling i Riksarkivet. Saken har lav hastegrad, og det er foreløpig ingen fullføringsdato.]]></description>
 </item>
 
 
