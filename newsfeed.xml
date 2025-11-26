@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 26 Nov 2025 08:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 12:00:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Behandling av landssvik-sak fullført]]></title>
-  <guid>262ceda4-19d0-4172-b0ac-baf9fd0bd84c</guid>
-  <pubDate>Wed, 26 Nov 2025 08:00:21 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fullført behandlingen av en sak om landssvik relatert til en person født i 1873. Behandlingstiden var en knapp uke, noe som viser effektiv håndtering av forespørselen.]]></description>
+  <title><![CDATA[Landssviksak behandlet på en uke]]></title>
+  <guid>35642a96-4fa2-425d-bdbb-d9d949928f76</guid>
+  <pubDate>Wed, 26 Nov 2025 12:00:07 GMT</pubDate>
+  <description><![CDATA[En forespørsel om innsyn i landssviksaken til en person født i 1873 ble nylig behandlet av Riksarkivet. Behandlingen tok omtrent en uke, fra 19. november til 25. november. Dette viser Riksarkivets evne til å håndtere forespørsler innen rimelig tid, selv med standard hastighet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Pågående vigsel-forespørsel for perioden 1930-1950]]></title>
-  <guid>8047f4e9-8744-48b2-ab13-9cd62c42e304</guid>
-  <pubDate>Wed, 26 Nov 2025 08:00:21 GMT</pubDate>
-  <description><![CDATA[En forespørsel om vigselsdokumentasjon fra Telemark, for en periode mellom 1930 og 1950, er under behandling i Riksarkivet. Saken har lav hastegrad, og det er foreløpig ingen fullføringsdato.]]></description>
+  <title><![CDATA[Forsinkelse i vigselssak fra Telemark]]></title>
+  <guid>a8259a7b-0b23-446d-8eed-0bd9c71968ce</guid>
+  <pubDate>Wed, 26 Nov 2025 12:00:07 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel om vigselsdokumenter for en person født i 1920 fra Telemark. Saken har lav hastegrad og er fortsatt under behandling etter å ha blitt opprettet 19. november. Dette illustrerer mulige forsinkelser i lavprioriterte forespørsler.]]></description>
 </item>
 
 
