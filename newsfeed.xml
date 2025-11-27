@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 27 Nov 2025 08:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 12:00:06 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,15 +11,15 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Presseforespørsel om reguleringsplan på Kråkerøy]]></title>
-  <guid>b59ad61b-a8d8-4665-877a-e1b7b647f3f1</guid>
-  <pubDate>Thu, 27 Nov 2025 08:00:04 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra pressen angående reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy. Behandlingen er pågående, og det er ikke satt noen fullføringsdato ennå. Henvendelsen har standard hastegrad.]]></description>
+  <title><![CDATA[Presse søker reguleringsplan for Kråkerøy]]></title>
+  <guid>8422ec50-928b-484b-9723-2ff40c69e14c</guid>
+  <pubDate>Thu, 27 Nov 2025 12:00:06 GMT</pubDate>
+  <description><![CDATA[En forespørsel fra presse er mottatt i Riksarkivet angående reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy. Saken er under behandling, men ikke fullført ennå. Dette er en sak av standard hastegrad.]]></description>
 </item>
 <item>
   <title><![CDATA[Ukjent tittel]]></title>
-  <guid>686fac5f-ebb7-464b-8e00-19886b0375b6</guid>
-  <pubDate>Thu, 27 Nov 2025 08:00:04 GMT</pubDate>
+  <guid>41e9b803-5388-491a-b445-e7f8d163eeb6</guid>
+  <pubDate>Thu, 27 Nov 2025 12:00:06 GMT</pubDate>
   <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
