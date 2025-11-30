@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 29 Nov 2025 12:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 08:00:07 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Hastesaker om eiendomsavskrifter i Oslo]]></title>
-  <guid>2161d053-25fb-4766-add0-767135f5ce07</guid>
-  <pubDate>Sat, 29 Nov 2025 12:00:07 GMT</pubDate>
-  <description><![CDATA[To saker om avskrifter av eiendommer i Oslo er nylig mottatt av Statsarkivet i Oslo. Begge sakene gjelder eiendommer med gnr/bnr 231/46 og 231/48, og er merket som hastesaker av profesjonelle aktører. Saksbehandlingen er pågående.]]></description>
+  <title><![CDATA[Økende etterspørsel etter eiendomsavskrifter i Oslo]]></title>
+  <guid>170d8087-9cd6-4645-94b2-366e8e84d8f4</guid>
+  <pubDate>Sun, 30 Nov 2025 08:00:07 GMT</pubDate>
+  <description><![CDATA[To nye saker om avskrifter for eiendommer i Oslo med gnr/bnr 231/46 og 231/48 er opprettet og har høy hastegrad. Begge sakene er innsendt av profesjonelle aktører og venter fortsatt på behandling. Dette indikerer en økt etterspørsel etter eiendomsinformasjon i Oslo-området.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk for presse om reguleringsplan på Kråkerøy]]></title>
-  <guid>86801a58-dd8c-4b33-b4a6-b0f77a89c8b7</guid>
-  <pubDate>Sat, 29 Nov 2025 12:00:07 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk for reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy er mottatt av Statsarkivet i Oslo. Henvendelsen kommer fra pressen og har standard hastegrad. Saksbehandlingen pågår.]]></description>
+  <title><![CDATA[Presse etterspør reguleringsplan for Kråkerøy]]></title>
+  <guid>26539032-1e44-4dcf-a6d2-6265e73faaba</guid>
+  <pubDate>Sun, 30 Nov 2025 08:00:07 GMT</pubDate>
+  <description><![CDATA[En sak om arkivsøk for reguleringsplan 250 ved Midtre Langøya og Enhuskilen på Kråkerøy er mottatt fra pressen. Saken har standard hastegrad og er under behandling. Dette viser pressens interesse for reguleringsplaner og utviklingen i dette området.]]></description>
 </item>
 
 
