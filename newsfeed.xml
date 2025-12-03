@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 02 Dec 2025 12:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:00:13 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,22 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Presse etterspør reguleringsplan for Kråkerøy]]></title>
-  <guid>35eb3807-ac6f-4592-9ab5-22cef2ec75c0</guid>
-  <pubDate>Tue, 02 Dec 2025 12:00:07 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk for reguleringsplan 250, som omfatter Midtre Langøya og Enhuskilen på Kråkerøy, har blitt mottatt av Statsarkivet i Oslo. Saken er initiert av presse og behandles med standard hastegrad.]]></description>
+  <title><![CDATA[Rask behandling av eiendomssak i Eidskog]]></title>
+  <guid>a850cf5f-9a95-46cf-a38c-4e030af4fb86</guid>
+  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
+  <description><![CDATA[En privatperson har fått rask behandling av en eiendomssak knyttet til gnr/bnr 62/10 i Eidskog. Henvendelsen ble opprettet og fullført samme dag, noe som viser effektiv saksbehandling ved Statsarkivet i Oslo.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspør kildeveiledning om rekvirerte hus under krigen]]></title>
-  <guid>b2907a39-4723-45bb-a971-a8f819111659</guid>
-  <pubDate>Tue, 02 Dec 2025 12:00:07 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt en forespørsel om kildeveiledning fra en privatperson angående rekvirerte hus under 2. verdenskrig. Behandlingen er i gang med standard prioritet.]]></description>
+  <title><![CDATA[Presse søker reguleringsplan for Kråkerøy]]></title>
+  <guid>77e8457e-bff6-4a74-921a-f556c3b7596b</guid>
+  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
+  <description><![CDATA[En henvendelse fra pressen om arkivsøk etter reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy er under behandling. Saken er standard i hastegrad og venter på fullføring.]]></description>
+</item>
+<item>
+  <title><![CDATA[Kildeveiledning om rekvirerte hus under krigen]]></title>
+  <guid>8fada8b5-0ff3-4fe9-b37d-f5eb3fe37aff</guid>
+  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
+  <description><![CDATA[En privatperson har etterspurt kildeveiledning om rekvirerte hus under 2. verdenskrig fra Riksarkivet. Henvendelsen er markert som standard hastighet og er fortsatt under behandling.]]></description>
 </item>
 
 
