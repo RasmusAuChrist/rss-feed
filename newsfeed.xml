@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 03 Dec 2025 08:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 12:00:08 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,21 +12,21 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Rask behandling av eiendomssak i Eidskog]]></title>
-  <guid>a850cf5f-9a95-46cf-a38c-4e030af4fb86</guid>
-  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
-  <description><![CDATA[En privatperson har fått rask behandling av en eiendomssak knyttet til gnr/bnr 62/10 i Eidskog. Henvendelsen ble opprettet og fullført samme dag, noe som viser effektiv saksbehandling ved Statsarkivet i Oslo.]]></description>
+  <guid>28ea330e-6812-46bf-ba7a-c8f418c82e12</guid>
+  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En eiendomssak i Eidskog, med avskrift av gnr/bnr 62/10, ble behandlet i Oslo av Statsarkivet og fullført samme dag. Saken, som var merket som haster, ble opprettet og løst på under fire timer.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker reguleringsplan for Kråkerøy]]></title>
-  <guid>77e8457e-bff6-4a74-921a-f556c3b7596b</guid>
-  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
-  <description><![CDATA[En henvendelse fra pressen om arkivsøk etter reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy er under behandling. Saken er standard i hastegrad og venter på fullføring.]]></description>
+  <title><![CDATA[Presse søker reguleringsplan i Kråkerøy]]></title>
+  <guid>43abb776-024b-4b5c-88e8-c83bc8b4d202</guid>
+  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En forespørsel fra pressen om innsyn i reguleringsplan 250 for Midtre Langøya og Enhuskilen i Kråkerøy er mottatt av Statsarkivet i Oslo. Saken er under behandling, men er foreløpig ikke fullført.]]></description>
 </item>
 <item>
   <title><![CDATA[Kildeveiledning om rekvirerte hus under krigen]]></title>
-  <guid>8fada8b5-0ff3-4fe9-b37d-f5eb3fe37aff</guid>
-  <pubDate>Wed, 03 Dec 2025 08:00:13 GMT</pubDate>
-  <description><![CDATA[En privatperson har etterspurt kildeveiledning om rekvirerte hus under 2. verdenskrig fra Riksarkivet. Henvendelsen er markert som standard hastighet og er fortsatt under behandling.]]></description>
+  <guid>9a6ebdc8-a57a-49f3-b6dd-6a2fceb3bb07</guid>
+  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En privatperson har henvendt seg til Riksarkivet for kildeveiledning om rekvirerte hus under 2. verdenskrig. Forespørselen er klassifisert med standard hastighet og er fortsatt under behandling.]]></description>
 </item>
 
 
