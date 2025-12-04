@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 03 Dec 2025 12:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 08:00:14 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -12,21 +12,15 @@
     <!-- Dynamically Generated RSS Items -->
     ""<item>
   <title><![CDATA[Rask behandling av eiendomssak i Eidskog]]></title>
-  <guid>28ea330e-6812-46bf-ba7a-c8f418c82e12</guid>
-  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
-  <description><![CDATA[En eiendomssak i Eidskog, med avskrift av gnr/bnr 62/10, ble behandlet i Oslo av Statsarkivet og fullført samme dag. Saken, som var merket som haster, ble opprettet og løst på under fire timer.]]></description>
+  <guid>530ead48-ad64-4c0f-b22b-8b66126cf40d</guid>
+  <pubDate>Thu, 04 Dec 2025 08:00:14 GMT</pubDate>
+  <description><![CDATA[En privatperson fikk hurtig ekspedert sin forespørsel om avskrift av eiendomsdokumenter for gnr/bnr 62/10 i Eidskog. Saksbehandlingen ble fullført samme dag som den ble opprettet, og viser en effektiv håndtering av hastesaker i Statsarkivet i Oslo.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker reguleringsplan i Kråkerøy]]></title>
-  <guid>43abb776-024b-4b5c-88e8-c83bc8b4d202</guid>
-  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra pressen om innsyn i reguleringsplan 250 for Midtre Langøya og Enhuskilen i Kråkerøy er mottatt av Statsarkivet i Oslo. Saken er under behandling, men er foreløpig ikke fullført.]]></description>
-</item>
-<item>
-  <title><![CDATA[Kildeveiledning om rekvirerte hus under krigen]]></title>
-  <guid>9a6ebdc8-a57a-49f3-b6dd-6a2fceb3bb07</guid>
-  <pubDate>Wed, 03 Dec 2025 12:00:08 GMT</pubDate>
-  <description><![CDATA[En privatperson har henvendt seg til Riksarkivet for kildeveiledning om rekvirerte hus under 2. verdenskrig. Forespørselen er klassifisert med standard hastighet og er fortsatt under behandling.]]></description>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>01797904-9ff4-416c-a926-8b86c7d4a79a</guid>
+  <pubDate>Thu, 04 Dec 2025 08:00:14 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
