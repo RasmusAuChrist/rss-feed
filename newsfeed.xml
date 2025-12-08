@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 08 Dec 2025 08:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 12:00:06 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,10 +11,10 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av eiendomssak i Eidskog]]></title>
-  <guid>ea459231-2b2a-4c69-974d-65bbfb86edc5</guid>
-  <pubDate>Mon, 08 Dec 2025 08:00:08 GMT</pubDate>
-  <description><![CDATA[En eiendomssak fra Eidskog ble behandlet og fullført samme dag hos Statsarkivet i Oslo. Saksbehandlingen tok kun fire timer fra innsendelse til ferdigstilling, noe som viser effektivitet i håndteringen av hastesaker for privatpersoner.]]></description>
+  <title><![CDATA[Avsluttet eiendomssak fra Eidskog]]></title>
+  <guid>19392def-15a3-41a3-8ee9-c3e47226c6c7</guid>
+  <pubDate>Mon, 08 Dec 2025 12:00:06 GMT</pubDate>
+  <description><![CDATA[En sak angående en eiendom i Eidskog ble raskt behandlet av Statsarkivet i Oslo. En privatperson ønsket en avskrift av dokumenter knyttet til eiendommen, og saken ble løst samme dag som den ble opprettet. Dette viser effektiv saksbehandling i arkivet.]]></description>
 </item>
 
 
