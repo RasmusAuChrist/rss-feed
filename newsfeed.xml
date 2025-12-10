@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Tue, 09 Dec 2025 12:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 08:00:11 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,10 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Hasteanmodninger om eiendomsavskrifter]]></title>
-  <guid>40d6adef-2e9c-4972-bba8-1dcc6d338fe7</guid>
-  <pubDate>Tue, 09 Dec 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[Riksarkivet og Statsarkivet i Oslo har mottatt to hasteanmodninger om avskrifter for eiendommer i Sarpsborg og Eidskog. Mens forespørselen fra en privatperson ble raskt fullført på samme dag, venter en offentlig etat fortsatt på sin avskrift. Effektiv håndtering av slike henvendelser er essensielt for å imøtekomme brukernes behov.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>f74de731-ff97-49d1-ab2e-f1cb578f2f91</guid>
-  <pubDate>Tue, 09 Dec 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Rask behandling av eiendomssak i Sarpsborg]]></title>
+  <guid>423e5b65-552f-4a86-8d8a-e887bc79bd44</guid>
+  <pubDate>Wed, 10 Dec 2025 08:00:11 GMT</pubDate>
+  <description><![CDATA[En offentlig etat har sendt inn en hasteforespørsel om avskrift for eiendom gnr/bnr 2083/2 i Sarpsborg. Saksbehandlingen pågår i Statsarkivet i Oslo, og det jobbes med å fullføre forespørselen snarest mulig for å imøtekomme den høye hastegraden.]]></description>
 </item>
 
 
