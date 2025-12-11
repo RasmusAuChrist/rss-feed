@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 10 Dec 2025 08:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:01:02 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,10 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av eiendomssak i Sarpsborg]]></title>
-  <guid>423e5b65-552f-4a86-8d8a-e887bc79bd44</guid>
-  <pubDate>Wed, 10 Dec 2025 08:00:11 GMT</pubDate>
-  <description><![CDATA[En offentlig etat har sendt inn en hasteforespørsel om avskrift for eiendom gnr/bnr 2083/2 i Sarpsborg. Saksbehandlingen pågår i Statsarkivet i Oslo, og det jobbes med å fullføre forespørselen snarest mulig for å imøtekomme den høye hastegraden.]]></description>
+  <title><![CDATA[Slektsetterforskning på Helmut Freitag]]></title>
+  <guid>d675b63d-0082-4d4c-87dc-86b0149ab34a</guid>
+  <pubDate>Thu, 11 Dec 2025 12:01:02 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt inn en forespørsel til Riksarkivet for slektsetterforskning på Helmut Freitag. Saken har lav hastegrad og er foreløpig ikke fullført.]]></description>
+</item>
+<item>
+  <title><![CDATA[Presse søker reguleringsplan for Midtre Langøya]]></title>
+  <guid>1276103b-4f07-4c39-943d-a23495a971ed</guid>
+  <pubDate>Thu, 11 Dec 2025 12:01:02 GMT</pubDate>
+  <description><![CDATA[Pressen har sendt inn en forespørsel til Statsarkivet i Oslo om innsyn i reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy. Saken behandles med standard hastegrad og er fortsatt under behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Forespørsel om landssvikdokumenter]]></title>
+  <guid>ea9dd8c2-a036-4da4-b4a9-de253a901eaa</guid>
+  <pubDate>Thu, 11 Dec 2025 12:01:02 GMT</pubDate>
+  <description><![CDATA[En privatperson har bedt Riksarkivet om informasjon vedrørende landssvik for to personer født i 1882 og 1921. Saken har standard hastegrad og er under behandling.]]></description>
+</item>
+<item>
+  <title><![CDATA[Veiledning om Herman Major Schirmers tegninger]]></title>
+  <guid>fe6f7a61-83f7-48d0-93f2-64f4bbe406f9</guid>
+  <pubDate>Thu, 11 Dec 2025 12:01:02 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel fra en privatperson om kildeveiledning for tegninger av arkitekt Herman Major Schirmer. Behandlingen har standard hastegrad og venter på fullføring.]]></description>
+</item>
+<item>
+  <title><![CDATA[Bestilling av kopi av historiske brev]]></title>
+  <guid>d4b7b4ee-a75f-424e-b1a0-0c2337e2e01b</guid>
+  <pubDate>Thu, 11 Dec 2025 12:01:02 GMT</pubDate>
+  <description><![CDATA[En privatperson har bedt om kopier av brev fra Konrad Maurer, datert mellom 1890 og 1900, fra Riksarkivet. Saken har lav hastegrad og er i prosess.]]></description>
 </item>
 
 
