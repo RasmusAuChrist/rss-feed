@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 13 Dec 2025 08:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 12:00:08 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,40 +11,40 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Søker historisk informasjon om Newcomb Mott]]></title>
-  <guid>f361d1d4-7dd5-4088-af26-9eae8f619262</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[En innsender har kontaktet Riksarkivet for å få hjelp med informasjon om Newcomb Mott. Saken har standard hastegrad og er ennå ikke fullført. Dette viser en vedvarende interesse for personlig historieforskning blant privatpersoner.]]></description>
+  <title><![CDATA[Historisk forskning i Riksarkivet]]></title>
+  <guid>6e7f840f-2ba4-491e-9b2c-40361c101bd7</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En innsender har henvendt seg til Riksarkivet for å utforske historien til Newcomb Mott. Saken er under behandling med standard hastegrad, og innsenderen venter på svar.]]></description>
 </item>
 <item>
-  <title><![CDATA[Slektsetterforskning pågår i Riksarkivet]]></title>
-  <guid>b247357e-39a5-4d2f-8a28-7bfb9130c1f5</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[En privatperson har initiert en sak ved Riksarkivet for å undersøke slektsforholdene rundt Helmut Freitag. Med lav hastegrad forventes denne saken å ta noe tid før den er fullført.]]></description>
+  <title><![CDATA[Slektforskningsforespørsel om Helmut Freitag]]></title>
+  <guid>4c06ad9f-7767-4e9d-821d-309e5b039568</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En privatperson har kontaktet Riksarkivet for informasjon om slekten til Helmut Freitag. Saken har lav prioritet og er ennå ikke fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse søker reguleringsplaner]]></title>
-  <guid>40a1c6cd-8865-4fa8-acc2-b37990ae7d78</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[En pressekontakt har bedt om tilgang til reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy. Saken er under behandling med standard hastegrad ved Statsarkivet i Oslo.]]></description>
+  <title><![CDATA[Presseundersøkelse av reguleringsplaner på Kråkerøy]]></title>
+  <guid>2c2f971c-efa1-42b7-bd09-9403587fcf19</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[Pressen har bedt Statsarkivet i Oslo om tilgang til reguleringsplan 250 for Midtre Langøya og Enhuskilen. Saken behandles med standard hastighet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Etterspør landssviksdokumentasjon]]></title>
-  <guid>3d1e73cb-513b-4173-af03-8c52a8b69989</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[En privatperson har sendt inn en forespørsel til Riksarkivet om informasjon relatert til landssvikssakene tilknyttet to personer født i 1882 og 1921. Saken er under behandling med standard hastegrad.]]></description>
+  <title><![CDATA[Landssvikrelaterte forespørsler i Riksarkivet]]></title>
+  <guid>02319e03-d96b-4504-937b-fbf514bc9bdb</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottok en forespørsel om landssvikdokumenter knyttet til to historiske personer. Saken har standard prioritet og er under behandling.]]></description>
 </item>
 <item>
-  <title><![CDATA[Ferdigstilt veiledning om arkitekttegninger]]></title>
-  <guid>0addd4ce-a36e-4ef9-ae0e-2c3aa8bdff08</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fullført en kildeveiledning om tegninger av arkitekt Herman Major Schirmer. En privatperson hadde etterspurt veiledningen, som ble ferdigstilt på to dager.]]></description>
+  <title><![CDATA[Kildeveiledning om arkitekttegninger fullført]]></title>
+  <guid>ef331206-6e9b-4cfb-a529-d4a3eb90e735</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En forespørsel om kildeveiledning relatert til arkitekt Herman Major Schirmer er nå fullført i Riksarkivet. Saken ble håndtert med standard hastighet.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling av historiske brev]]></title>
-  <guid>53171d00-0d0b-4cf3-bcec-02dedc99b12b</guid>
-  <pubDate>Sat, 13 Dec 2025 08:00:16 GMT</pubDate>
-  <description><![CDATA[En privatperson har bestilt kopier av brev fra Konrad Maurer til Absalon Taranger, datert mellom 1890-1900, fra Riksarkivet. Saken har lav hastegrad og er fortsatt under behandling.]]></description>
+  <title><![CDATA[Kopibestilling på historiske brev i påvente]]></title>
+  <guid>8ed98108-880a-4eae-bb34-8927a561e476</guid>
+  <pubDate>Sat, 13 Dec 2025 12:00:08 GMT</pubDate>
+  <description><![CDATA[En privatperson har bestilt kopier av brev fra Absalon Taranger til Konrad Maurer, datert 1890-1900. Saken er merket med lav hastighet og er ennå ikke ferdigbehandlet.]]></description>
 </item>
 
 
