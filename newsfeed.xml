@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 15 Dec 2025 12:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 08:00:16 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,34 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Forespørsel om historisk arkivsøk]]></title>
-  <guid>5ba926f6-9b6e-4f01-aac6-76a294b747ff</guid>
-  <pubDate>Mon, 15 Dec 2025 12:00:14 GMT</pubDate>
-  <description><![CDATA[En privatperson har nylig sendt inn en forespørsel til Riksarkivet for å undersøke historisk materiale relatert til Newcomb Mott. Saksbehandlingen er i gang, men ikke fullført. Hastegraden er standard, og det er ventet at behandlingen vil ta noe tid.]]></description>
+  <title><![CDATA[Økning i landssviksaker ved Riksarkivet]]></title>
+  <guid>89963ef6-6c12-4658-aba9-bff5d56fcf25</guid>
+  <pubDate>Tue, 16 Dec 2025 08:00:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet mottar stadig flere forespørsler om landssviksaker. Blant de siste henvendelsene finner vi forespørsler om Alfred Marius Lyngstad, Arne Magnus Grøndahl, og Ole Henderson Blom. Alle sakene har standard hastegrad og er per nå ikke fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Presse forespør arkivsøk]]></title>
-  <guid>75d9c708-8b42-49b2-a558-77085c2a99c4</guid>
-  <pubDate>Mon, 15 Dec 2025 12:00:14 GMT</pubDate>
-  <description><![CDATA[En forespørsel om reguleringsplan 250 for Midtre Langøya og Enhuskilen på Kråkerøy er mottatt fra pressen. Saken behandles av Statsarkivet i Oslo med standard prioritet. Utfallet vil kunne gi viktige opplysninger for mediedekning av området.]]></description>
+  <title><![CDATA[Pressehenvendelse om reguleringsplan fullført]]></title>
+  <guid>4836588a-769d-4e57-b018-d3764777c0aa</guid>
+  <pubDate>Tue, 16 Dec 2025 08:00:16 GMT</pubDate>
+  <description><![CDATA[Statsarkivet i Oslo har ferdigbehandlet en forespørsel fra pressen angående reguleringsplan 250 for Midtre Langøya og Enhuskilen, Kråkerøy. Henvendelsen ble opprettet 10. desember og fullført 15. desember med standard hastegrad.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kildeveiledning om arkitekttegninger fullført]]></title>
-  <guid>f7be8c63-2a1d-4334-88f3-2c9511c46abe</guid>
-  <pubDate>Mon, 15 Dec 2025 12:00:14 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har fullført en forespørsel om kildeveiledning angående tegninger av arkitekt Herman Major Schirmer. En privatperson bestilte veiledningen, som nå er tilfredsstillende behandlet på kort tid.]]></description>
+  <title><![CDATA[Arkitekttegninger etterspurt ved Riksarkivet]]></title>
+  <guid>848398ff-5a9c-493a-9b4d-edc20821e999</guid>
+  <pubDate>Tue, 16 Dec 2025 08:00:16 GMT</pubDate>
+  <description><![CDATA[En privatperson har fått veiledning om tegninger av arkitekt Herman Major Schirmer. Forespørselen ble opprettet 10. desember og fullført 12. desember. Dette viser interesse for arkitekthistorie blant privatpersoner.]]></description>
 </item>
 <item>
-  <title><![CDATA[Arkivsøk om landssvik pågår]]></title>
-  <guid>26a461e1-eafc-4f1b-85f1-0462b6e7642c</guid>
-  <pubDate>Mon, 15 Dec 2025 12:00:14 GMT</pubDate>
-  <description><![CDATA[En forespørsel om arkivsøk knyttet til landssviksaker rundt to personer født i 1882 og 1921 er under behandling i Riksarkivet. Saken har standard prioritet og er ikke fullført.]]></description>
+  <title><![CDATA[Historisk etterforskning om Newcomb Mott]]></title>
+  <guid>5a45de00-4a6d-4bed-a7c8-d167e3bbe2ce</guid>
+  <pubDate>Tue, 16 Dec 2025 08:00:16 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt inn en forespørsel til Riksarkivet om historisk informasjon om Newcomb Mott. Henvendelsen er merket med standard hastegrad og er foreløpig ikke fullført.]]></description>
 </item>
 <item>
-  <title><![CDATA[Kopibestilling av historiske brev]]></title>
-  <guid>435f21d2-984d-4b1f-b19a-f35c60d38fbd</guid>
-  <pubDate>Mon, 15 Dec 2025 12:00:14 GMT</pubDate>
-  <description><![CDATA[En privatperson har bedt om kopier av brev fra Konrad Maurer i perioden 1890-1900, oppbevart i Riksarkivet. Forespørselen har lav hastegrad og avventer videre behandling.]]></description>
+  <title><![CDATA[Slektforskningsforespørsel om Helmut Freitag]]></title>
+  <guid>24d49fc6-b343-48bf-b1c4-f99154811935</guid>
+  <pubDate>Tue, 16 Dec 2025 08:00:16 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har mottatt en forespørsel fra en privatperson om slektsforskning relatert til Helmut Freitag. Forespørselen har lav hastegrad og er fortsatt under behandling. Dette indikerer vedvarende interesse for slektsforskning.]]></description>
 </item>
 
 
