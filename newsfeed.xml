@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 17 Dec 2025 12:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 08:00:08 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,34 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Økende interesse for landssvikarkiver]]></title>
-  <guid>be09998b-27b8-48bc-b5f5-e9b3bb4ee80b</guid>
-  <pubDate>Wed, 17 Dec 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har mottatt flere forespørsler fra privatpersoner om landssviksaker den siste uken. Dette inkluderer saker om personer født mellom 1880- og 1910-tallet. Alle sakene har standard hastegrad, og ingen er foreløpig fullført.]]></description>
+  <title><![CDATA[Effektiv behandling av landssviksaker]]></title>
+  <guid>9a125240-ebe6-4c69-a0ee-52c633e57c8f</guid>
+  <pubDate>Thu, 18 Dec 2025 08:00:08 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet to forespørsler om landssviksaker, begge med standard hastegrad. Sakene ble fullført innen fem dager, noe som viser effektiv saksbehandling for privatpersoner som søker informasjon om historiske hendelser.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk sak om Newcomb Mott fullført]]></title>
-  <guid>72b6342b-774b-4f38-8879-9029f2230ad6</guid>
-  <pubDate>Wed, 17 Dec 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[En forespørsel om historisk informasjon relatert til Newcomb Mott er fullført av Riksarkivet. Saken ble opprettet 11. desember og fullført 16. desember, noe som gir en behandlingstid på fem dager.]]></description>
-</item>
-<item>
-  <title><![CDATA[Arkivsøk om reguleringsplan på Kråkerøy]]></title>
-  <guid>8447a228-1fc2-4242-b44c-84b70a916361</guid>
-  <pubDate>Wed, 17 Dec 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[Statsarkivet i Oslo har fullført en sak om reguleringsplan for Midtre Langøya og Enhuskilen på Kråkerøy. Saken, som ble initiert av pressen, ble opprettet 10. desember og fullført 15. desember.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ferdigstilt kildeveiledning om Herman Major Schirmer]]></title>
-  <guid>e221e7f8-c6a4-4c33-9fdb-9aeee0851962</guid>
-  <pubDate>Wed, 17 Dec 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har ferdigstilt en kildeveiledning om tegninger av arkitekt Herman Major Schirmer for en privatperson. Behandlingstiden var to dager, fra 10. til 12. desember.]]></description>
-</item>
-<item>
-  <title><![CDATA[Lav prioritet for slektsforskning]]></title>
-  <guid>f6cba43f-6889-4343-95f7-915a26bb00e4</guid>
-  <pubDate>Wed, 17 Dec 2025 12:00:12 GMT</pubDate>
-  <description><![CDATA[En forespørsel om slektsforskning knyttet til Helmut Freitag er registrert med lav hastegrad. Saken er fortsatt under behandling siden opprettelsen 10. desember.]]></description>
+  <title><![CDATA[Historisk forespørsel behandlet raskt]]></title>
+  <guid>30172c4a-4eac-4777-87bf-251042121831</guid>
+  <pubDate>Thu, 18 Dec 2025 08:00:08 GMT</pubDate>
+  <description><![CDATA[En henvendelse om historien til Newcomb Mott ble behandlet i Riksarkivet på under fem dager. Dette viser at Riksarkivet opprettholder rask saksbehandlingstid, selv for standard hastesaker fra privatpersoner som er interessert i historiske data.]]></description>
 </item>
 
 
