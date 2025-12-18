@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Thu, 18 Dec 2025 08:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 12:00:31 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Effektiv behandling av landssviksaker]]></title>
-  <guid>9a125240-ebe6-4c69-a0ee-52c633e57c8f</guid>
-  <pubDate>Thu, 18 Dec 2025 08:00:08 GMT</pubDate>
-  <description><![CDATA[Riksarkivet har nylig behandlet to forespørsler om landssviksaker, begge med standard hastegrad. Sakene ble fullført innen fem dager, noe som viser effektiv saksbehandling for privatpersoner som søker informasjon om historiske hendelser.]]></description>
+  <title><![CDATA[Effektiv saksbehandling i landssviksaker]]></title>
+  <guid>9924f92b-d0b5-49c3-b267-e82ca92731ed</guid>
+  <pubDate>Thu, 18 Dec 2025 12:00:31 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig ferdigbehandlet to landssviksaker for privatpersoner. Sakene, opprettet i desember, ble fullført innen 5 dager. Dette viser effektivitet i saksbehandlingstiden for sensitive historiske forespørsler.]]></description>
 </item>
 <item>
-  <title><![CDATA[Historisk forespørsel behandlet raskt]]></title>
-  <guid>30172c4a-4eac-4777-87bf-251042121831</guid>
-  <pubDate>Thu, 18 Dec 2025 08:00:08 GMT</pubDate>
-  <description><![CDATA[En henvendelse om historien til Newcomb Mott ble behandlet i Riksarkivet på under fem dager. Dette viser at Riksarkivet opprettholder rask saksbehandlingstid, selv for standard hastesaker fra privatpersoner som er interessert i historiske data.]]></description>
+  <title><![CDATA[Historisk forespørsel om Newcomb Mott behandlet raskt]]></title>
+  <guid>26f081b7-a390-40f2-876f-2c3307a98436</guid>
+  <pubDate>Thu, 18 Dec 2025 12:00:31 GMT</pubDate>
+  <description><![CDATA[En forespørsel om historien til Newcomb Mott, innsendt av en privatperson, har blitt behandlet av Riksarkivet på under en uke. Dette understreker en jevn saksbehandlingstid for historiske forespørsler.]]></description>
 </item>
 
 
