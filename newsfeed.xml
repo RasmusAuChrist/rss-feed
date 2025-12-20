@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Sat, 20 Dec 2025 08:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 12:00:04 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,10 +11,16 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandling av landssviksak]]></title>
-  <guid>c7b866d5-b9eb-47b0-93bb-8bc92b20c2ae</guid>
-  <pubDate>Sat, 20 Dec 2025 08:00:04 GMT</pubDate>
-  <description><![CDATA[En forespørsel om innsyn i en landssviksak ble behandlet effektivt av Riksarkivet. Saksbehandlingen for en privatperson ble fullført på to dager, noe som viser effektivitet i behandlingen av historiske dokumenter.]]></description>
+  <title><![CDATA[Landssvik-sak behandlet raskt]]></title>
+  <guid>e48028da-9f6b-48a7-8e49-e0863678d159</guid>
+  <pubDate>Sat, 20 Dec 2025 12:00:04 GMT</pubDate>
+  <description><![CDATA[En sak om landssvik relatert til en historisk person ble behandlet i Riksarkivet. Behandlingstiden var kort, fra opprettelse til fullføring tok det kun to dager. Saken viser effektivitet i håndteringen av forespørsler fra privatpersoner.]]></description>
+</item>
+<item>
+  <title><![CDATA[Ukjent tittel]]></title>
+  <guid>6c108b1f-4ee0-4921-8528-35c0fab9bc30</guid>
+  <pubDate>Sat, 20 Dec 2025 12:00:04 GMT</pubDate>
+  <description><![CDATA[Ukjent nyhet]]></description>
 </item>
 
 
