@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Mon, 22 Dec 2025 12:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:00:05 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,10 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Rask behandlingsprosess av landssviksak]]></title>
-  <guid>a1231a37-5483-494f-bbf4-cc807d82594d</guid>
-  <pubDate>Mon, 22 Dec 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[En henvendelse fra en privatperson om en landssviksak ble behandlet på kun to dager i Riksarkivet. Dette viser effektivitet i saksbehandlingen for standard prioriterte saker.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>a2b42df9-7ec1-4423-9915-f0548d6c118a</guid>
-  <pubDate>Mon, 22 Dec 2025 12:00:05 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Forespørsel om St. Olavsmedaljen fra 1942 og 1943]]></title>
+  <guid>1270bbd1-ed84-409d-b3af-63cff7e3e6d9</guid>
+  <pubDate>Tue, 23 Dec 2025 08:00:05 GMT</pubDate>
+  <description><![CDATA[En privatperson har sendt en forespørsel til Riksarkivet angående tildeling av St. Olavsmedaljen fra årene 1942 og 1943. Saken har standard hastegrad og er fortsatt under behandling. Dette indikerer en interesse for historiske medaljetildelinger under krigen.]]></description>
 </item>
 
 
