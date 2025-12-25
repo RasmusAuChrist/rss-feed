@@ -3,7 +3,7 @@
     <title>Riksarkivet Saksbehandling</title>
     <link>https://rasmusauchrist.github.io/rss-feed/newsfeed.xml</link>
     <description>AI-genererte oppsummeringer av saksbehandling</description>
-    <lastBuildDate>Wed, 24 Dec 2025 12:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 08:00:09 GMT</lastBuildDate>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <generator>GitHub Pages RSS Generator</generator>
     <copyright>© Riksarkivet</copyright>
@@ -11,16 +11,10 @@
 
     <!-- Dynamically Generated RSS Items -->
     ""<item>
-  <title><![CDATA[Forespørsel om St. Olavsmedaljen i 1942-1943 behandlet]]></title>
-  <guid>9806414a-39a5-4d81-8df6-8950dc8df38b</guid>
-  <pubDate>Wed, 24 Dec 2025 12:00:06 GMT</pubDate>
-  <description><![CDATA[En forespørsel fra en privatperson om tildeling av St. Olavsmedaljen for årene 1942 og 1943 har blitt behandlet av Riksarkivet. Saksbehandlingen tok fem dager fra opprettelse til fullføring. Dette viser Riksarkivets evne til å håndtere historiske forespørsler effektivt.]]></description>
-</item>
-<item>
-  <title><![CDATA[Ukjent tittel]]></title>
-  <guid>7d94f2e7-68a7-488f-bb0a-5e963b09270e</guid>
-  <pubDate>Wed, 24 Dec 2025 12:00:06 GMT</pubDate>
-  <description><![CDATA[Ukjent nyhet]]></description>
+  <title><![CDATA[Etterspørsel om St. Olavsmedaljen besvart]]></title>
+  <guid>085fcab4-6cbb-4103-808d-3cedadade563</guid>
+  <pubDate>Thu, 25 Dec 2025 08:00:09 GMT</pubDate>
+  <description><![CDATA[Riksarkivet har nylig behandlet en forespørsel fra en privatperson angående tildeling av St. Olavsmedaljen for årene 1942 og 1943. Forespørselen ble opprettet 18. desember og fullført 23. desember. Behandlingen ble gjennomført innenfor standard tidsramme.]]></description>
 </item>
 
 
